@@ -211,7 +211,7 @@ function renderDashboard(data) {
     var generalAiTrue = generalPosts.filter(function(p) { return p.is_ai_trend; }).length;
     var generalAiFalse = generalPosts.length - generalAiTrue;
 
-    html += '<div class="section"><div class="section-header">&#128196; 분석 결과</div><div style="padding-top:16px">' +
+    html += '<div class="section"><div class="section-header">&#127760; 국내외 AI 동향</div><div style="padding-top:16px">' +
         '<div class="tab-filter">' +
         '<button class="tab-btn active" onclick="filterPosts(\'all\', this)">전체 (' + generalPosts.length + ')</button>' +
         '<button class="tab-btn" onclick="filterPosts(\'ai\', this)">AI 관련 (' + generalAiTrue + ')</button>' +
@@ -230,14 +230,14 @@ function renderDashboard(data) {
     });
     html += '<tr class="total-row"><td>합계</td><td>' + srcTotal + '건</td></tr></tbody></table></div></div>';
 
-    // Themes
-    if (data.top_themes && data.top_themes.length > 0) {
-        html += '<div class="section"><div class="section-header">&#128204; 주요 테마</div><div class="section-body"><div class="theme-tags">';
-        data.top_themes.forEach(function(t) {
-            html += '<span class="theme-tag">' + escapeHtml(t[0]) + '<span class="count">' + t[1] + '</span></span>';
-        });
-        html += '</div></div></div>';
-    }
+    // Themes (현재 숨김)
+    // if (data.top_themes && data.top_themes.length > 0) {
+    //     html += '<div class="section"><div class="section-header">&#128204; 주요 테마</div><div class="section-body"><div class="theme-tags">';
+    //     data.top_themes.forEach(function(t) {
+    //         html += '<span class="theme-tag">' + escapeHtml(t[0]) + '<span class="count">' + t[1] + '</span></span>';
+    //     });
+    //     html += '</div></div></div>';
+    // }
 
     dashboard.innerHTML = html;
 }
