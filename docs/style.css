@@ -373,7 +373,6 @@ body {
     color: var(--gov-muted);
     margin-top: 10px;
     border-left: 3px solid var(--gov-border);
-    white-space: pre-wrap;
     word-break: break-word;
 }
 

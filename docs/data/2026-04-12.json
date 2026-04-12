@@ -4,11 +4,11 @@
   "ai_true": 11,
   "ai_false": 7,
   "source_counts": {
-    "AndrewYNg": 5,
+    "ylecun": 1,
     "sama": 5,
-    "demishassabis": 2,
     "karpathy": 5,
-    "ylecun": 1
+    "AndrewYNg": 5,
+    "demishassabis": 2
   },
   "avg_confidence": 0.59,
   "top_themes": [
@@ -35,47 +35,34 @@
   ],
   "posts": [
     {
-      "post_id": "2042289428702642588",
+      "post_id": "2042984428503232534",
       "platform": "twitter",
-      "account_handle": "AndrewYNg",
-      "content": "New course: Efficient Inference with SGLang: Text and Image Generation, built in partnership with LMSys @lmsysorg and RadixArk @radixark, and taught by Richard Chen @richardczl, a Member of Technical Staff at RadixArk.\n\nRunning LLMs in production is expensive, and much of that https://t.co/baiT6LKDYY",
-      "content_ko": "SGLang 기반의 텍스트 및 이미지 생성을 위한 '효율적 추론' 과정 강의를 개설했다. LMSys와 RadixArk와의 협업으로 개발되었으며, LLM의 프로덕션 환경에서의 비용 문제에 대해 언급했다.",
-      "url": "https://x.com/AndrewYNg/status/2042289428702642588",
-      "is_ai_trend": true,
-      "ai_confidence": 0.95,
-      "ai_title": "앤드류 응(Andrew Ng): SGLang 기반의 효율적 추론 과정 강의 개설",
-      "ai_bullets": [
-        "SGLang 기반의 텍스트 및 이미지 생성을 위한 효율적 추론 과정 강의 개설",
-        "LMSys와 RadixArk와의 협업으로 개발된 코스",
-        "LLM(대규모 언어 모델)의 프로덕션 환경에서의 비용 문제에 대한 언급"
-      ],
-      "ai_summary": "앤드류 응은 LMSys와 RadixArk와 협업해 SGLang 기반의 효율적 추론 과정 강의를 개설하며, LLM의 프로덕션 환경에서의 비용 문제를 언급했다.",
-      "ai_themes": [
-        "기술발전",
-        "오픈소스"
-      ],
-      "published_at": "2026-04-09 17:11"
+      "account_handle": "ylecun",
+      "content": "Tired of winning https://t.co/icBZx6kTN6",
+      "content_ko": "Tired of winning https://t.co/icBZx6kTN6",
+      "url": "https://x.com/ylecun/status/2042984428503232534",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-04-11 15:13"
     },
     {
-      "post_id": "2034314027678192114",
+      "post_id": "2042738954550603884",
       "platform": "twitter",
-      "account_handle": "AndrewYNg",
-      "content": "New course: Agent Memory: Building Memory-Aware Agents, built in partnership with @Oracle and taught by  @richmondalake and Nacho Martínez.\n\nMany agents work well within a single session but their memory resets once the session ends. Consider a research agent working on dozens of https://t.co/dV7azZvNQn",
-      "content_ko": "새로운 과정 '에이전트 메모리: 메모리 인식 에이전트 구축'이 오라클과 협력해 개발되었으며, 린치 리치먼트와 나초 마르티네즈가 강의한다. 많은 에이전트는 단일 세션에서 잘 작동하지만 세션이 종료되면 메모리가 리셋된다.",
-      "url": "https://x.com/AndrewYNg/status/2034314027678192114",
-      "is_ai_trend": true,
-      "ai_confidence": 0.95,
-      "ai_title": "앤드류 응(Andrew Ng)과 오라클(Oracle) 공동 개발, 에이전트 메모리 교육 과정 발표",
-      "ai_bullets": [
-        "에이전트 메모리에 대한 새로운 교육 과정이 오라클과 공동 개발되었다",
-        "현재 세션에서만 작동하는 에이전트의 메모리 리셋 문제를 해결하기 위한 교육"
-      ],
-      "ai_summary": "앤드류 응은 오라클과 협력해 에이전트 메모리에 대한 새로운 교육 과정을 발표하며, 세션 종료 시 메모리 리셋 문제를 해결하는 방법을 다룬다.",
-      "ai_themes": [
-        "연구/논문",
-        "기술발전"
-      ],
-      "published_at": "2026-03-18 17:00"
+      "account_handle": "sama",
+      "content": "I wrote this early this morning and I wasn't sure if I would actually publish it, but here it is:\n\nhttps://t.co/7Dw9UFpeep",
+      "content_ko": "I wrote this early this morning and I wasn't sure if I would actually publish it, but here it is: https://t.co/7Dw9UFpeep",
+      "url": "https://x.com/sama/status/2042738954550603884",
+      "is_ai_trend": false,
+      "ai_confidence": 0.3,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-04-10 22:58"
     },
     {
       "post_id": "2042342572958630332",
@@ -97,132 +84,6 @@
         "투자/시장"
       ],
       "published_at": "2026-04-09 20:43"
-    },
-    {
-      "post_id": "2041658719839383945",
-      "platform": "twitter",
-      "account_handle": "sama",
-      "content": "To celebrate 3 million weekly codex users, we are resetting usage limits.\n\nWe will do this every million users up to 10 million.\n\nHappy building!",
-      "content_ko": "300만 명의 주간 Codex 사용자를 기념하여 사용량 제한을 재설정합니다. 1000만 명까지 사용자 수가 증가할 때마다 사용량 제한을 반복적으로 조정할 계획입니다. 건설에 즐거움을!",
-      "url": "https://x.com/sama/status/2041658719839383945",
-      "is_ai_trend": true,
-      "ai_confidence": 0.9,
-      "ai_title": "OpenAI: Codex 사용량 제한 조정, 1000만 사용자 달성 시 반복",
-      "ai_bullets": [
-        "Codex의 주간 사용자 수가 300만 명에 달해 사용량 제한을 재설정한다.",
-        "1000만 명까지 사용자 수가 증가할 때마다 사용량 제한을 반복적으로 조정할 계획이다."
-      ],
-      "ai_summary": "OpenAI는 Codex의 주간 사용자 수가 300만 명에 달해 사용량 제한을 재설정하고, 1000만 명까지 증가할 때마다 반복적으로 조정할 계획이라고 발표했다.",
-      "ai_themes": [
-        "산업동향",
-        "기술발전"
-      ],
-      "published_at": "2026-04-07 23:25"
-    },
-    {
-      "post_id": "2033577583200354812",
-      "platform": "twitter",
-      "account_handle": "AndrewYNg",
-      "content": "Should there be a Stack Overflow for AI coding agents to share learnings with each other?\n\nLast week I announced Context Hub (chub), an open CLI tool that gives coding agents up-to-date API documentation. Since then, our GitHub repo has gained over 6K stars, and we've scaled from",
-      "content_ko": "AI 코딩 에이전트 간 학습을 공유할 수 있는 스택 오버플로우 유사 플랫폼이 필요하다는 제안이 있었다. 지난주 발표한 컨텍스트 허브(Context Hub) CLI 도구는 GitHub에서 6,000개 이상의 스타를 받았으며, 규모 확장이 이루어졌다.",
-      "url": "https://x.com/AndrewYNg/status/2033577583200354812",
-      "is_ai_trend": true,
-      "ai_confidence": 0.9,
-      "ai_title": "앤드류 응(Andrew Ng): AI 코딩 에이전트를 위한 커뮤니티 플랫폼 제안",
-      "ai_bullets": [
-        "AI 코딩 에이전트 간 학습 공유를 위한 스택 오버플로우 유사 플랫폼 제안",
-        "컨텍스트 허브(Context Hub) 도구가 GitHub에서 6,000개 이상의 스타를 받았다"
-      ],
-      "ai_summary": "앤드류 응은 AI 코딩 에이전트를 위한 커뮤니티 플랫폼을 제안하며, 컨텍스트 허브 도구의 성공을 언급했다.",
-      "ai_themes": [
-        "오픈소스",
-        "기술발전"
-      ],
-      "published_at": "2026-03-16 16:14"
-    },
-    {
-      "post_id": "2031051809499054099",
-      "platform": "twitter",
-      "account_handle": "AndrewYNg",
-      "content": "I'm excited to announce Context Hub, an open tool that gives your coding agent the up-to-date API documentation it needs. Install it and prompt your agent to use it to fetch curated docs via a simple CLI. (See image.)\n\nWhy this matters: Coding agents often use outdated APIs and https://t.co/EXAVvU74SG",
-      "content_ko": "저는 코드 에이전트가 필요한 최신 API 문서를 제공하는 오픈소스 도구인 Context Hub를 발표하게 되어 매우 흥분합니다. 설치하고 에이전트에게 CLI를 통해 문서를 호출하도록 요청해 보세요(이미지 참조). 이 도구가 중요한 이유는 코드 에이전트가 종종 오래된 API를 사용하기 때문입니다.",
-      "url": "https://x.com/AndrewYNg/status/2031051809499054099",
-      "is_ai_trend": true,
-      "ai_confidence": 0.9,
-      "ai_title": "Andrew Ng(앤드류 응): 코드 에이전트를 위한 API 문서 도구 'Context Hub' 발표",
-      "ai_bullets": [
-        "Context Hub는 코드 에이전트가 최신 API 문서를 사용할 수 있도록 하는 오픈소스 도구로, CLI를 통해 문서를 간단히 호출할 수 있다.",
-        "현재 API 문서가 오래된 경우가 많아, 이 도구는 개발 효율성 향상에 기여할 것으로 기대된다."
-      ],
-      "ai_summary": "앤드류 응은 코드 에이전트를 위한 최신 API 문서 제공 도구 'Context Hub'를 발표하며, 이 도구가 개발자 생산성 향상에 기여할 것이라고 설명했다.",
-      "ai_themes": [
-        "오픈소스",
-        "기술발전"
-      ],
-      "published_at": "2026-03-09 16:57"
-    },
-    {
-      "post_id": "2041928454887686305",
-      "platform": "twitter",
-      "account_handle": "demishassabis",
-      "content": "Great to chat with fellow Londoner @HarryStebbings about the path to AGI and how we’re using AI today to accelerate science &amp; medicine. Appreciated our discussion on the incredible talent &amp; potential for deep tech here in the UK. Thanks for the kind words and for having me on! https://t.co/DuF9cK0tlX",
-      "content_ko": "런던 출신의 @HarryStebbings와 AGI 달성 경로 및 AI의 과학·의학 활용에 대해 이야기했다. 영국의 딥테크 분야 인재와 잠재력에 대해 언급하며, 친절한 말과 인터뷰 참여에 감사했다.",
-      "url": "https://x.com/demishassabis/status/2041928454887686305",
-      "is_ai_trend": true,
-      "ai_confidence": 0.8,
-      "ai_title": "데미스 하사비스(DeepMind): AGI 달성과 AI의 과학·의학 활용 논의",
-      "ai_bullets": [
-        "AGI(인공일반지능) 달성 경로와 AI의 과학·의학 활용에 대해 논의",
-        "영국의 딥테크 분야 인재와 잠재력에 대해 언급"
-      ],
-      "ai_summary": "데미스 하사비스는 AGI 달성과 AI의 과학·의학 활용에 대해 논의하며, 영국의 딥테크 분야 인재와 잠재력을 강조했다.",
-      "ai_themes": [
-        "기술발전",
-        "연구/논문"
-      ],
-      "published_at": "2026-04-08 17:17"
-    },
-    {
-      "post_id": "2039051446084153834",
-      "platform": "twitter",
-      "account_handle": "AndrewYNg",
-      "content": "The anti-AI coalition continues to maneuver to find arguments to slow down AI progress. If someone has a sincere concern about a specific effect of AI, for instance that it may lead to human extinction, I respect their intellectual honesty, even if I deeply disagree with their https://t.co/rlsOiUPbf2",
-      "content_ko": "AI 진보에 반대하는 세력이 계속해서 논의를 통해 AI 발전을 늦추려는 움직임을 보이고 있다. 만약 누군가 AI가 인류 멸망으로 이어질 수 있다는 구체적인 우려를 제기한다면, 그들의 지적 정직성은 인정하지만 깊이 동의하지 않는다.",
-      "url": "https://x.com/AndrewYNg/status/2039051446084153834",
-      "is_ai_trend": true,
-      "ai_confidence": 0.8,
-      "ai_title": "앤드류 응(Andrew Ng): AI 진보에 대한 반대 세력의 논의",
-      "ai_bullets": [
-        "AI 진보에 반대하는 세력이 구체적인 우려를 제기하고 있다",
-        "AI가 인류 멸망으로 이어질 수 있다는 우려에 대해 지적 정직성을 인정한다"
-      ],
-      "ai_summary": "앤드류 응은 AI 진보에 반대하는 세력의 논의를 언급하며, AI가 인류 멸망을 초래할 수 있다는 우려에 대해 지적 정직성을 인정했다.",
-      "ai_themes": [
-        "윤리/안전",
-        "정책/규제"
-      ],
-      "published_at": "2026-03-31 18:45"
-    },
-    {
-      "post_id": "2041681474580021536",
-      "platform": "twitter",
-      "account_handle": "demishassabis",
-      "content": "Thanks for the great conversation @cleoabram (and some competitive Jenga)! Really enjoyed talking about all the amazing ways AI is helping to advance science &amp; the incredible future it will enable! https://t.co/LQiYEeDhiH",
-      "content_ko": "@cleoabram과의 대화에서 AI가 과학 발전에 기여하는 방식과 미래 가능성을 논의했다. 경쟁적인 Jenga 게임을 통해 대화 분위기를 즐겼다.",
-      "url": "https://x.com/demishassabis/status/2041681474580021536",
-      "is_ai_trend": true,
-      "ai_confidence": 0.75,
-      "ai_title": "데미스 하사비스(DeepMind): AI가 과학 발전에 기여하는 방식 논의",
-      "ai_bullets": [
-        "AI가 과학 발전에 기여하는 방식과 미래 가능성을 논의",
-        "경쟁적인 Jenga 게임을 통해 대화 분위기 조성"
-      ],
-      "ai_summary": "데미스 하사비스는 AI가 과학 발전에 기여하는 방식과 미래 가능성을 논의하며, 경쟁적인 Jenga 게임을 통해 대화를 즐겼다.",
-      "ai_themes": [
-        "기술발전",
-        "연구/논문"
-      ],
-      "published_at": "2026-04-08 00:56"
     },
     {
       "post_id": "2042341482531864741",
@@ -267,19 +128,104 @@
       "published_at": "2026-04-09 20:10"
     },
     {
-      "post_id": "2042738954550603884",
+      "post_id": "2042289428702642588",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "content": "New course: Efficient Inference with SGLang: Text and Image Generation, built in partnership with LMSys @lmsysorg and RadixArk @radixark, and taught by Richard Chen @richardczl, a Member of Technical Staff at RadixArk.\n\nRunning LLMs in production is expensive, and much of that https://t.co/baiT6LKDYY",
+      "content_ko": "SGLang 기반의 텍스트 및 이미지 생성을 위한 '효율적 추론' 과정 강의를 개설했다. LMSys와 RadixArk와의 협업으로 개발되었으며, LLM의 프로덕션 환경에서의 비용 문제에 대해 언급했다.",
+      "url": "https://x.com/AndrewYNg/status/2042289428702642588",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "앤드류 응(Andrew Ng): SGLang 기반의 효율적 추론 과정 강의 개설",
+      "ai_bullets": [
+        "SGLang 기반의 텍스트 및 이미지 생성을 위한 효율적 추론 과정 강의 개설",
+        "LMSys와 RadixArk와의 협업으로 개발된 코스",
+        "LLM(대규모 언어 모델)의 프로덕션 환경에서의 비용 문제에 대한 언급"
+      ],
+      "ai_summary": "앤드류 응은 LMSys와 RadixArk와 협업해 SGLang 기반의 효율적 추론 과정 강의를 개설하며, LLM의 프로덕션 환경에서의 비용 문제를 언급했다.",
+      "ai_themes": [
+        "기술발전",
+        "오픈소스"
+      ],
+      "published_at": "2026-04-09 17:11"
+    },
+    {
+      "post_id": "2041928454887686305",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "content": "Great to chat with fellow Londoner @HarryStebbings about the path to AGI and how we’re using AI today to accelerate science &amp; medicine. Appreciated our discussion on the incredible talent &amp; potential for deep tech here in the UK. Thanks for the kind words and for having me on! https://t.co/DuF9cK0tlX",
+      "content_ko": "런던 출신의 @HarryStebbings와 AGI 달성 경로 및 AI의 과학·의학 활용에 대해 이야기했다. 영국의 딥테크 분야 인재와 잠재력에 대해 언급하며, 친절한 말과 인터뷰 참여에 감사했다.",
+      "url": "https://x.com/demishassabis/status/2041928454887686305",
+      "is_ai_trend": true,
+      "ai_confidence": 0.8,
+      "ai_title": "데미스 하사비스(DeepMind): AGI 달성과 AI의 과학·의학 활용 논의",
+      "ai_bullets": [
+        "AGI(인공일반지능) 달성 경로와 AI의 과학·의학 활용에 대해 논의",
+        "영국의 딥테크 분야 인재와 잠재력에 대해 언급"
+      ],
+      "ai_summary": "데미스 하사비스는 AGI 달성과 AI의 과학·의학 활용에 대해 논의하며, 영국의 딥테크 분야 인재와 잠재력을 강조했다.",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문"
+      ],
+      "published_at": "2026-04-08 17:17"
+    },
+    {
+      "post_id": "2041681474580021536",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "content": "Thanks for the great conversation @cleoabram (and some competitive Jenga)! Really enjoyed talking about all the amazing ways AI is helping to advance science &amp; the incredible future it will enable! https://t.co/LQiYEeDhiH",
+      "content_ko": "@cleoabram과의 대화에서 AI가 과학 발전에 기여하는 방식과 미래 가능성을 논의했다. 경쟁적인 Jenga 게임을 통해 대화 분위기를 즐겼다.",
+      "url": "https://x.com/demishassabis/status/2041681474580021536",
+      "is_ai_trend": true,
+      "ai_confidence": 0.75,
+      "ai_title": "데미스 하사비스(DeepMind): AI가 과학 발전에 기여하는 방식 논의",
+      "ai_bullets": [
+        "AI가 과학 발전에 기여하는 방식과 미래 가능성을 논의",
+        "경쟁적인 Jenga 게임을 통해 대화 분위기 조성"
+      ],
+      "ai_summary": "데미스 하사비스는 AI가 과학 발전에 기여하는 방식과 미래 가능성을 논의하며, 경쟁적인 Jenga 게임을 통해 대화를 즐겼다.",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문"
+      ],
+      "published_at": "2026-04-08 00:56"
+    },
+    {
+      "post_id": "2041658719839383945",
       "platform": "twitter",
       "account_handle": "sama",
-      "content": "I wrote this early this morning and I wasn't sure if I would actually publish it, but here it is:\n\nhttps://t.co/7Dw9UFpeep",
-      "content_ko": "I wrote this early this morning and I wasn't sure if I would actually publish it, but here it is: https://t.co/7Dw9UFpeep",
-      "url": "https://x.com/sama/status/2042738954550603884",
+      "content": "To celebrate 3 million weekly codex users, we are resetting usage limits.\n\nWe will do this every million users up to 10 million.\n\nHappy building!",
+      "content_ko": "300만 명의 주간 Codex 사용자를 기념하여 사용량 제한을 재설정합니다. 1000만 명까지 사용자 수가 증가할 때마다 사용량 제한을 반복적으로 조정할 계획입니다. 건설에 즐거움을!",
+      "url": "https://x.com/sama/status/2041658719839383945",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "OpenAI: Codex 사용량 제한 조정, 1000만 사용자 달성 시 반복",
+      "ai_bullets": [
+        "Codex의 주간 사용자 수가 300만 명에 달해 사용량 제한을 재설정한다.",
+        "1000만 명까지 사용자 수가 증가할 때마다 사용량 제한을 반복적으로 조정할 계획이다."
+      ],
+      "ai_summary": "OpenAI는 Codex의 주간 사용자 수가 300만 명에 달해 사용량 제한을 재설정하고, 1000만 명까지 증가할 때마다 반복적으로 조정할 계획이라고 발표했다.",
+      "ai_themes": [
+        "산업동향",
+        "기술발전"
+      ],
+      "published_at": "2026-04-07 23:25"
+    },
+    {
+      "post_id": "2040806346556428585",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "content": "Surprised with how good the comments on github gists are. A lot more helpful, insightful, constructive, a lot less AI... Is it the user community? The markdown format? The (lack of) incentives?\n\nSuddenly feeling like I should gist more.\n@github consider competing with X (?)",
+      "content_ko": "깃허브 gist의 댓글이 예상보다 더 도움이 되고 깊이 있는 것에 놀랐다. 더 도움이 되고, 통찰력 있고, 건설적이며, AI 관련 내용이 적다. 사용자 커뮤니티인가? 마크다운 형식인가? (보상이 부족한) 인센티브 때문인가? 갑자기 더 많은 gist를 올려야 할지도 모른다. 깃허브가 X와 경쟁해야 할까?",
+      "url": "https://x.com/karpathy/status/2040806346556428585",
       "is_ai_trend": false,
-      "ai_confidence": 0.3,
+      "ai_confidence": 0.2,
       "ai_title": "",
       "ai_bullets": [],
       "ai_summary": "",
       "ai_themes": [],
-      "published_at": "2026-04-10 22:58"
+      "published_at": "2026-04-05 14:58"
     },
     {
       "post_id": "2040572272944324650",
@@ -295,6 +241,59 @@
       "ai_summary": "",
       "ai_themes": [],
       "published_at": "2026-04-04 23:28"
+    },
+    {
+      "post_id": "2040549459193704852",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "content": "Something I've been thinking about - I am bullish on people (empowered by AI) increasing the visibility, legibility and accountability of their governments.\n\nHistorically, it is the governments that act to make society legible (e.g. \"Seeing like a state\" is the common reference), https://t.co/CjRTGU3uPF",
+      "content_ko": "최근 고민해온 일에 대해 언급하고 싶다. AI를 통해 사람들의 정부에 대한 가시성, 가독성, 책임감을 높이는 데 대해 낙관적이다. 역사적으로는 정부가 사회의 가독성을 높이는 역할을 해왔으며, 'Seeing like a state'가 일반적인 참조이다. https://t.co/CjRTGU3uPF",
+      "url": "https://x.com/karpathy/status/2040549459193704852",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-04-04 21:57"
+    },
+    {
+      "post_id": "2039773740586918137",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "content": "TBPN is my favorite tech show.\n\nWe want them to keep that going and for them to do what they do so well.\n\nI don't expect them to go any easier on us, am sure I'll do my part to help enable that with occasional stupid decisions.",
+      "content_ko": "TBPN은 제가 가장 좋아하는 기술 쇼입니다. 그들이 계속해서 그 일을 할 수 있도록 하고, 그들이 잘하는 일을 할 수 있도록 하기를 원합니다. 그들이 우리에게 더 쉽게 해줄 것이라고 기대하지 않습니다. 아마도 제가 가끔 바보 같은 결정을 내리면서도 그들을 도와줄 수 있을 것이라고 생각합니다.",
+      "url": "https://x.com/sama/status/2039773740586918137",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-04-02 18:35"
+    },
+    {
+      "post_id": "2039051446084153834",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "content": "The anti-AI coalition continues to maneuver to find arguments to slow down AI progress. If someone has a sincere concern about a specific effect of AI, for instance that it may lead to human extinction, I respect their intellectual honesty, even if I deeply disagree with their https://t.co/rlsOiUPbf2",
+      "content_ko": "AI 진보에 반대하는 세력이 계속해서 논의를 통해 AI 발전을 늦추려는 움직임을 보이고 있다. 만약 누군가 AI가 인류 멸망으로 이어질 수 있다는 구체적인 우려를 제기한다면, 그들의 지적 정직성은 인정하지만 깊이 동의하지 않는다.",
+      "url": "https://x.com/AndrewYNg/status/2039051446084153834",
+      "is_ai_trend": true,
+      "ai_confidence": 0.8,
+      "ai_title": "앤드류 응(Andrew Ng): AI 진보에 대한 반대 세력의 논의",
+      "ai_bullets": [
+        "AI 진보에 반대하는 세력이 구체적인 우려를 제기하고 있다",
+        "AI가 인류 멸망으로 이어질 수 있다는 우려에 대해 지적 정직성을 인정한다"
+      ],
+      "ai_summary": "앤드류 응은 AI 진보에 반대하는 세력의 논의를 언급하며, AI가 인류 멸망을 초래할 수 있다는 우려에 대해 지적 정직성을 인정했다.",
+      "ai_themes": [
+        "윤리/안전",
+        "정책/규제"
+      ],
+      "published_at": "2026-03-31 18:45"
     },
     {
       "post_id": "2038640963036626971",
@@ -314,66 +313,67 @@
       "published_at": "2026-03-30 15:34"
     },
     {
-      "post_id": "2040806346556428585",
+      "post_id": "2034314027678192114",
       "platform": "twitter",
-      "account_handle": "karpathy",
-      "content": "Surprised with how good the comments on github gists are. A lot more helpful, insightful, constructive, a lot less AI... Is it the user community? The markdown format? The (lack of) incentives?\n\nSuddenly feeling like I should gist more.\n@github consider competing with X (?)",
-      "content_ko": "깃허브 gist의 댓글이 예상보다 더 도움이 되고 깊이 있는 것에 놀랐다. 더 도움이 되고, 통찰력 있고, 건설적이며, AI 관련 내용이 적다. 사용자 커뮤니티인가? 마크다운 형식인가? (보상이 부족한) 인센티브 때문인가? 갑자기 더 많은 gist를 올려야 할지도 모른다. 깃허브가 X와 경쟁해야 할까?",
-      "url": "https://x.com/karpathy/status/2040806346556428585",
-      "is_ai_trend": false,
-      "ai_confidence": 0.2,
-      "ai_title": "",
-      "ai_bullets": [],
-      "ai_summary": "",
-      "ai_themes": [],
-      "published_at": "2026-04-05 14:58"
-    },
-    {
-      "post_id": "2040549459193704852",
-      "platform": "twitter",
-      "account_handle": "karpathy",
-      "content": "Something I've been thinking about - I am bullish on people (empowered by AI) increasing the visibility, legibility and accountability of their governments.\n\nHistorically, it is the governments that act to make society legible (e.g. \"Seeing like a state\" is the common reference), https://t.co/CjRTGU3uPF",
-      "content_ko": "최근 고민해온 일에 대해 언급하고 싶다. AI를 통해 사람들의 정부에 대한 가시성, 가독성, 책임감을 높이는 데 대해 낙관적이다. 역사적으로는 정부가 사회의 가독성을 높이는 역할을 해왔으며, 'Seeing like a state'가 일반적인 참조이다. https://t.co/CjRTGU3uPF",
-      "url": "https://x.com/karpathy/status/2040549459193704852",
-      "is_ai_trend": false,
-      "ai_confidence": 0.2,
-      "ai_title": "",
-      "ai_bullets": [],
-      "ai_summary": "",
-      "ai_themes": [],
-      "published_at": "2026-04-04 21:57"
-    },
-    {
-      "post_id": "2042984428503232534",
-      "platform": "twitter",
-      "account_handle": "ylecun",
-      "content": "Tired of winning https://t.co/icBZx6kTN6",
-      "content_ko": "Tired of winning https://t.co/icBZx6kTN6",
-      "url": "https://x.com/ylecun/status/2042984428503232534",
-      "is_ai_trend": false,
-      "ai_confidence": 0.1,
-      "ai_title": "",
-      "ai_bullets": [],
-      "ai_summary": "",
-      "ai_themes": [],
-      "published_at": "2026-04-11 15:13"
-    },
-    {
-      "post_id": "2039773740586918137",
-      "platform": "twitter",
-      "account_handle": "sama",
-      "content": "TBPN is my favorite tech show.\n\nWe want them to keep that going and for them to do what they do so well.\n\nI don't expect them to go any easier on us, am sure I'll do my part to help enable that with occasional stupid decisions.",
-      "content_ko": "TBPN은 제가 가장 좋아하는 기술 쇼입니다. 그들이 계속해서 그 일을 할 수 있도록 하고, 그들이 잘하는 일을 할 수 있도록 하기를 원합니다. 그들이 우리에게 더 쉽게 해줄 것이라고 기대하지 않습니다. 아마도 제가 가끔 바보 같은 결정을 내리면서도 그들을 도와줄 수 있을 것이라고 생각합니다.",
-      "url": "https://x.com/sama/status/2039773740586918137",
-      "is_ai_trend": false,
-      "ai_confidence": 0.1,
-      "ai_title": "",
-      "ai_bullets": [],
-      "ai_summary": "",
-      "ai_themes": [
-        "기타"
+      "account_handle": "AndrewYNg",
+      "content": "New course: Agent Memory: Building Memory-Aware Agents, built in partnership with @Oracle and taught by  @richmondalake and Nacho Martínez.\n\nMany agents work well within a single session but their memory resets once the session ends. Consider a research agent working on dozens of https://t.co/dV7azZvNQn",
+      "content_ko": "새로운 과정 '에이전트 메모리: 메모리 인식 에이전트 구축'이 오라클과 협력해 개발되었으며, 린치 리치먼트와 나초 마르티네즈가 강의한다. 많은 에이전트는 단일 세션에서 잘 작동하지만 세션이 종료되면 메모리가 리셋된다.",
+      "url": "https://x.com/AndrewYNg/status/2034314027678192114",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "앤드류 응(Andrew Ng)과 오라클(Oracle) 공동 개발, 에이전트 메모리 교육 과정 발표",
+      "ai_bullets": [
+        "에이전트 메모리에 대한 새로운 교육 과정이 오라클과 공동 개발되었다",
+        "현재 세션에서만 작동하는 에이전트의 메모리 리셋 문제를 해결하기 위한 교육"
       ],
-      "published_at": "2026-04-02 18:35"
+      "ai_summary": "앤드류 응은 오라클과 협력해 에이전트 메모리에 대한 새로운 교육 과정을 발표하며, 세션 종료 시 메모리 리셋 문제를 해결하는 방법을 다룬다.",
+      "ai_themes": [
+        "연구/논문",
+        "기술발전"
+      ],
+      "published_at": "2026-03-18 17:00"
+    },
+    {
+      "post_id": "2033577583200354812",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "content": "Should there be a Stack Overflow for AI coding agents to share learnings with each other?\n\nLast week I announced Context Hub (chub), an open CLI tool that gives coding agents up-to-date API documentation. Since then, our GitHub repo has gained over 6K stars, and we've scaled from",
+      "content_ko": "AI 코딩 에이전트 간 학습을 공유할 수 있는 스택 오버플로우 유사 플랫폼이 필요하다는 제안이 있었다. 지난주 발표한 컨텍스트 허브(Context Hub) CLI 도구는 GitHub에서 6,000개 이상의 스타를 받았으며, 규모 확장이 이루어졌다.",
+      "url": "https://x.com/AndrewYNg/status/2033577583200354812",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "앤드류 응(Andrew Ng): AI 코딩 에이전트를 위한 커뮤니티 플랫폼 제안",
+      "ai_bullets": [
+        "AI 코딩 에이전트 간 학습 공유를 위한 스택 오버플로우 유사 플랫폼 제안",
+        "컨텍스트 허브(Context Hub) 도구가 GitHub에서 6,000개 이상의 스타를 받았다"
+      ],
+      "ai_summary": "앤드류 응은 AI 코딩 에이전트를 위한 커뮤니티 플랫폼을 제안하며, 컨텍스트 허브 도구의 성공을 언급했다.",
+      "ai_themes": [
+        "오픈소스",
+        "기술발전"
+      ],
+      "published_at": "2026-03-16 16:14"
+    },
+    {
+      "post_id": "2031051809499054099",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "content": "I'm excited to announce Context Hub, an open tool that gives your coding agent the up-to-date API documentation it needs. Install it and prompt your agent to use it to fetch curated docs via a simple CLI. (See image.)\n\nWhy this matters: Coding agents often use outdated APIs and https://t.co/EXAVvU74SG",
+      "content_ko": "저는 코드 에이전트가 필요한 최신 API 문서를 제공하는 오픈소스 도구인 Context Hub를 발표하게 되어 매우 흥분합니다. 설치하고 에이전트에게 CLI를 통해 문서를 호출하도록 요청해 보세요(이미지 참조). 이 도구가 중요한 이유는 코드 에이전트가 종종 오래된 API를 사용하기 때문입니다.",
+      "url": "https://x.com/AndrewYNg/status/2031051809499054099",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "Andrew Ng(앤드류 응): 코드 에이전트를 위한 API 문서 도구 'Context Hub' 발표",
+      "ai_bullets": [
+        "Context Hub는 코드 에이전트가 최신 API 문서를 사용할 수 있도록 하는 오픈소스 도구로, CLI를 통해 문서를 간단히 호출할 수 있다.",
+        "현재 API 문서가 오래된 경우가 많아, 이 도구는 개발 효율성 향상에 기여할 것으로 기대된다."
+      ],
+      "ai_summary": "앤드류 응은 코드 에이전트를 위한 최신 API 문서 제공 도구 'Context Hub'를 발표하며, 이 도구가 개발자 생산성 향상에 기여할 것이라고 설명했다.",
+      "ai_themes": [
+        "오픈소스",
+        "기술발전"
+      ],
+      "published_at": "2026-03-09 16:57"
     }
   ]
 }
