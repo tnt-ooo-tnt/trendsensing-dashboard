@@ -191,16 +191,24 @@ function renderDashboard(data) {
     });
 
     // Priority account sections
-    PRIORITY_ACCOUNTS.forEach(function(acct) {
+    PRIORITY_ACCOUNTS.forEach(function(acct, idx) {
         var posts = priorityPostMap[acct.handle] || [];
+        var pAiTrue = posts.filter(function(p) { return p.is_ai_trend; }).length;
+        var pAiFalse = posts.length - pAiTrue;
+        var listId = 'priority-list-' + idx;
+
         html += '<div class="section priority-section"><div class="section-header priority-header">' +
             acct.icon + ' ' + escapeHtml(acct.label) +
             '<span class="priority-count">' + posts.length + '건</span>' +
             '</div>';
         if (posts.length > 0) {
-            html += '<div class="section-body">';
+            html += '<div style="padding-top:16px"><div class="tab-filter">' +
+                '<button class="tab-btn active" onclick="filterPosts(\'all\', this, \'' + listId + '\')">전체 (' + posts.length + ')</button>' +
+                '<button class="tab-btn" onclick="filterPosts(\'ai\', this, \'' + listId + '\')">AI 관련 (' + pAiTrue + ')</button>' +
+                '<button class="tab-btn" onclick="filterPosts(\'not-ai\', this, \'' + listId + '\')">비관련 (' + pAiFalse + ')</button>' +
+                '</div><div class="section-body" id="' + listId + '">';
             posts.forEach(function(p) { html += renderPostCard(p); });
-            html += '</div>';
+            html += '</div></div>';
         } else {
             html += '<div class="section-body"><div class="no-data" style="padding:32px">해당 기간에 수집된 게시물이 없습니다.</div></div>';
         }
@@ -213,9 +221,9 @@ function renderDashboard(data) {
 
     html += '<div class="section"><div class="section-header">&#127760; 국내외 AI 동향</div><div style="padding-top:16px">' +
         '<div class="tab-filter">' +
-        '<button class="tab-btn active" onclick="filterPosts(\'all\', this)">전체 (' + generalPosts.length + ')</button>' +
-        '<button class="tab-btn" onclick="filterPosts(\'ai\', this)">AI 관련 (' + generalAiTrue + ')</button>' +
-        '<button class="tab-btn" onclick="filterPosts(\'not-ai\', this)">비관련 (' + generalAiFalse + ')</button>' +
+        '<button class="tab-btn active" onclick="filterPosts(\'all\', this, \'post-list\')">전체 (' + generalPosts.length + ')</button>' +
+        '<button class="tab-btn" onclick="filterPosts(\'ai\', this, \'post-list\')">AI 관련 (' + generalAiTrue + ')</button>' +
+        '<button class="tab-btn" onclick="filterPosts(\'not-ai\', this, \'post-list\')">비관련 (' + generalAiFalse + ')</button>' +
         '</div><div class="section-body" id="post-list">';
     generalPosts.forEach(function(p) { html += renderPostCard(p); });
     html += '</div></div></div>';
@@ -288,10 +296,10 @@ function renderPostCard(p) {
         '</div></div><div class="post-card-body">' + bodyHtml + '</div></div>';
 }
 
-function filterPosts(type, btn) {
-    document.querySelectorAll('.tab-btn').forEach(function(b) { b.classList.remove('active'); });
+function filterPosts(type, btn, listId) {
+    btn.parentElement.querySelectorAll('.tab-btn').forEach(function(b) { b.classList.remove('active'); });
     btn.classList.add('active');
-    document.querySelectorAll('#post-list .post-card').forEach(function(card) {
+    document.querySelectorAll('#' + listId + ' .post-card').forEach(function(card) {
         var isAi = card.dataset.ai === 'true';
         if (type === 'all') card.style.display = '';
         else if (type === 'ai') card.style.display = isAi ? '' : 'none';
