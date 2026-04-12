@@ -6,14 +6,14 @@
   "source_counts": {
     "AndrewYNg": 1
   },
-  "avg_confidence": 0.95,
+  "avg_confidence": 0.9,
   "top_themes": [
     [
       "기술발전",
       1
     ],
     [
-      "오픈소스",
+      "연구/논문",
       1
     ]
   ],
@@ -24,20 +24,20 @@
       "account_handle": "AndrewYNg",
       "display_name": "앤드류 응",
       "content": "New course: Agent Memory: Building Memory-Aware Agents, built in partnership with @Oracle and taught by  @richmondalake and Nacho Martínez.\n\nMany agents work well within a single session but their memory resets once the session ends. Consider a research agent working on dozens of papers across multiple days: without memory, it has no way to store and retrieve what it learned across sessions. This short course teaches you to build a memory system that enables agents to persist memory and thereby learn across sessions.\n\nYou'll design a Memory Manager that handles different memory types, implement semantic tool retrieval that scales without bloating the context, and build write-back pipelines that let your agent autonomously update and refine what it knows over time.\n\nSkills you'll gain:\n- Build persistent memory stores for different agent memory types\n- Implement a Memory Manager that orchestrates how your agent reads, writes, and retrieves memory\n- Treat tools as procedural memory and retrieve only relevant ones at inference time using semantic search\n\nJoin and learn to build agents that remember and improve over time!\n\nhttps://t.co/nxNSEHGmr9",
-      "content_ko": "새로운 강의: Agent Memory: Building Memory-Aware Agents, Oracle과 협력하여 Richmond Alake와 Nacho Martínez가 강의합니다. 많은 에이전트는 단일 세션 내에서는 잘 작동하지만 세션이 종료되면 메모리가 초기화됩니다. 수십 개의 논문을 여러 날에 걸쳐 연구하는 에이전트의 경우, 메모리가 없으면 세션 간 학습한 내용을 저장하고 검색할 수 없습니다. 이 짧은 강의에서는 세션 간 학습을 가능하게 하는 메모리 시스템을 구축하는 방법을 가르칩니다. Memory Manager를 설계하여 다양한 메모리 유형을 처리하고, 맥락 확장 없이도 스케일링 가능한 semantic tool retrieval을 구현하며, 에이전트가 시간이 지남에 따라 스스로 지식을 업데이트하고 정제할 수 있는 write-back 파이프라인을 구축합니다. 습득할 기술: 다양한 에이전트 메모리 유형에 대한 지속 가능한 메모리 저장소 구축, 에이전트가 메모리 읽기, 쓰기, 검색을 조율하는 Memory Manager 구현, 절차적 메모리로 도구를 처리하고 추론 시점에서 관련 도구만 semantic search로 검색하는 방법. 참여하여 시간이 지남에 따라 기억하고 개선하는 에이전트를 구축하는 방법을 배우세요! https://t.co/nxNSEHGmr9",
+      "content_ko": "새로운 강의: 메모리 기반 에이전트: 메모리 인식 에이전트 구축, Oracle과 협업하여 Richmond Alake와 Nacho Martínez에 의해 강의됩니다. 많은 에이전트는 단일 세션 내에서 잘 작동하지만 세션이 종료되면 메모리가 초기화됩니다. 여러 날에 걸쳐 수십 개의 논문을 처리하는 연구 에이전트를 고려해 보세요: 메모리가 없으면 세션 간에 배운 내용을 저장하고 검색할 방법이 없습니다. 이 짧은 강의는 에이전트가 메모리를 지속적으로 유지하고 세션 간에 학습할 수 있도록 하는 메모리 시스템을 구축하는 방법을 가르칩니다. 메모리 관리자(다양한 메모리 유형을 처리)를 설계하고, 컨텍스트가 팽창하지 않도록 하는 의미적 도구 검색을 구현하고, 에이전트가 시간이 지남에 따라 자율적으로 업데이트하고 정제할 수 있도록 하는 write-back 파이프라인을 구축할 것입니다. 습득할 기술: - 다양한 에이전트 메모리 유형에 대한 지속 가능한 메모리 저장소 구축 - 메모리 관리자 구현: 에이전트가 메모리를 읽고, 쓰고, 검색하는 방식을 조율 - 도구를 절차적 메모리로 처리하고, 의미적 검색을 통해 추론 시점에 필요한 도구만 검색",
       "url": "https://x.com/AndrewYNg/status/2034314027678192114",
       "is_ai_trend": true,
-      "ai_confidence": 0.95,
-      "ai_title": "Andrew Ng(앤드류 응)와 Oracle: 에이전트 메모리 시스템 개발 과정 공개",
+      "ai_confidence": 0.9,
+      "ai_title": "메모리 기반 에이전트 개발 교육 과정 발표",
       "ai_bullets": [
-        "에이전트가 세션 간 지속적인 학습을 위해 메모리 시스템 구축 방법을 교육하는 과정 발표",
-        "Semantic tool retrieval 기술을 활용한 맥락 확장 없이도 스케일링 가능한 도구 검색 시스템 구현",
-        "메모리 관리자 설계 및 지속적인 지식 업데이트를 위한 write-back 파이프라인 구축"
+        "세션 간 메모리 지속을 위한 메모리 관리 시스템 구축 방법 교육",
+        "다양한 메모리 유형을 처리하는 메모리 관리자 구현",
+        "세마포트릭 검색을 통한 도구 추출 기술 포함"
       ],
-      "ai_summary": "앤드류 응(Andrew Ng)과 Oracle이 협력한 '에이전트 메모리' 교육 과정에서 LLM이 세션 간 지식을 저장·재사용하는 메모리 시스템 구축 방법을 공유했다.",
+      "ai_summary": "Andrew Ng는 Oracle과 협업한 '메모리 기반 에이전트' 교육 과정을 발표하며, 에이전트가 세션 간 지속적인 학습을 가능하게 하는 메모리 시스템 구축 방법을 설명했다.",
       "ai_themes": [
         "기술발전",
-        "오픈소스"
+        "연구/논문"
       ],
       "published_at": "2026-03-19 02:00"
     }
