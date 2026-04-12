@@ -1,24 +1,20 @@
 {
   "date": "2026-04-05",
   "total": 3,
-  "ai_true": 1,
-  "ai_false": 2,
+  "ai_true": 2,
+  "ai_false": 1,
   "source_counts": {
     "karpathy": 3
   },
-  "avg_confidence": 0.43,
+  "avg_confidence": 0.65,
   "top_themes": [
     [
       "기술발전",
-      1
+      2
     ],
     [
-      "산업동향",
-      1
-    ],
-    [
-      "오픈소스",
-      1
+      "윤리/안전",
+      2
     ]
   ],
   "posts": [
@@ -28,16 +24,14 @@
       "account_handle": "karpathy",
       "display_name": "안드레이 카파시",
       "content": "Surprised with how good the comments on github gists are. A lot more helpful, insightful, constructive, a lot less AI... Is it the user community? The markdown format? The (lack of) incentives?\n\nSuddenly feeling like I should gist more.\n@github consider competing with X (?)",
-      "content_ko": "구글 티스의 댓글이 얼마나 좋은지 놀랐습니다. 더 유용하고 통찰력 있으며, AI... 사용자 커뮤니티? 마크다운 형식? (보상 부족)? 갑자기 gist를 더 많이 작성해야 할지 생각합니다. @github는 X와 경쟁해야 할까요? [링크 내용]",
+      "content_ko": "내용: GitHub gist의 댓글이 예상보다 훌륭하다는 놀라움. 더 유용하고 통찰력 있는 피드백을 제공하며, AI 관련 내용은 적다. 사용자 커뮤니티? 마크다운 형식? 인센티브 부족? 갑작스럽게 GitHub과 X 경쟁을 고려하고 싶다는 감정 표현.",
       "url": "https://x.com/karpathy/status/2040806346556428585",
       "is_ai_trend": false,
-      "ai_confidence": 0.2,
+      "ai_confidence": 0.1,
       "ai_title": "",
       "ai_bullets": [],
       "ai_summary": "",
-      "ai_themes": [
-        "오픈소스"
-      ],
+      "ai_themes": [],
       "published_at": "2026-04-05 23:58"
     },
     {
@@ -46,21 +40,20 @@
       "account_handle": "karpathy",
       "display_name": "안드레이 카파시",
       "content": "Farzapedia, personal wikipedia of Farza, good example following my Wiki LLM tweet.\n\nI really like this approach to personalization in a number of ways, compared to \"status quo\" of an AI that allegedly gets better the more you use it or something:\n\n1. Explicit. The memory artifact is explicit and navigable (the wiki), you can see exactly what the AI does and does not know and you can inspect and manage this artifact, even if you don't do the direct text writing (the LLM does). The knowledge of you is not implicit and unknown, it's explicit and viewable.\n2. Yours. Your data is yours, on your local computer, it's not in some particular AI provider's system without the ability to extract it. You're in control of your information. \n3. File over app. The memory here is a simple collection of files in universal formats (images, markdown). This means the data is interoperable: you can use a very large collection of tools/CLIs or whatever you want over this information because it's just files. The agents can apply the entire Unix toolkit over them. They can natively read and understand them. Any kind of data can be imported into files as input, and any kind of interface can be used to view them as the output. E.g. you can use Obsidian to view them or vibe code something of your own. Search \"File over app\" for an article on this philosophy.\n4. BYOAI. You can use whatever AI you want to \"plug into\" this information - Claude, Codex, OpenCode, whatever. You can even think about taking an open source AI and finetuning it on your wiki - in principle, this AI could \"know\" you in its weights, not just attend over your data.\n\nSo this approach to personalization puts *you* in full control. The data is yours. In Universal formats. Explicit and inspectable. Use whatever AI you want over it, keep the AI companies on their toes! :)\n\nCertainly this is not the simplest way to get an AI to know you - it does require you to manage file directories and so on, but agents also make it quite simple and they can help you a lot. I imagine a number of products might come out to make this all easier, but imo \"agent proficiency\" is a CORE SKILL of the 21st century. These are extremely powerful tools - they speak English and they do all the computer stuff for you. Try this opportunity to play with one.",
-      "content_ko": "Farzapedia, 개인 wikipedia of Farza, good example following my Wiki LLM tweet. I really like this approach to personalization in a number of ways, compared to \"status quo\" of an AI that allegedly gets better the more you use it or something: 1. Explicit. The memory artifact is explicit and navigable (the wiki), you can see exactly what the AI does and does not know and you can inspect and manage this artifact, even if you don't do the direct text writing (the LLM does). The knowledge of you is not implicit and unknown, it's explicit and viewable. 2. Yours. Your data is yours, on your local computer, it's not in some particular AI provider's system without the ability to extract it. You're in control of your information. 3. File over app. The memory here is a simple collection of files in universal formats (images, markdown). This means the data is interoperable: you can use a very large collection of tools/CLIs or whatever you want over this information because it's just files. The agents can apply the entire Unix toolkit over them. They can natively read and understand them. Any kind of data can be imported into files as input, and any kind of interface can be used to view them as the output. E.g. you can use Obsidian to view them or vibe code something of your own. Search \"File over app\" for an article on this philosophy. 4. BYOAI. You can use whatever AI you want to \"plug into\" this information - Claude, Codex, OpenCode, whatever. You can even think about taking an open source AI and finetuning it on your wiki - in principle, this AI could \"know\" you in its weights, not just attend over your data. So this approach to personalization puts *you* in full control. The data is yours. In Universal formats. Explicit and inspectable. Use whatever AI you want over it, keep the AI companies on their toes! :)",
+      "content_ko": "내용: 파르자 페디아는 파르자의 개인 위키로, 제게서 Wiki LLM 트윗을 따르는 좋은 예시입니다. 개인화된 데이터 관리 방안은 다음과 같은 방식으로 기존 AI의 한계를 극복합니다: 1. 명시적 저장: 위키 형식으로 데이터가 명시적이고 탐색 가능하며, AI가 알지 못하는 부분을 직접 확인할 수 있습니다. 2. 데이터 소유권: 사용자 데이터는 로컬 컴퓨터에 저장되어 AI 제공업체의 시스템에 의존하지 않습니다. 3. 파일 기반 관리: 이미지, 마크다운 등 보편적 형식의 파일로 데이터를 저장함으로써 다양한 도구와 CLI를 활용할 수 있습니다. 4. BYOAI: 사용자는 Claude, Codex 등 원하는 AI 모델을 데이터에 연결할 수 있으며, 오픈소스 AI를 위키에 학습시켜 AI가 사용자 정보를 직접 학습할 수 있습니다. 이 방식은 사용자가 데이터를 완전히 통제하며, AI 회사의 경쟁력을 유지할 수 있는 방안입니다. 이는 복잡한 파일 관리가 필요하지만, 에이전트 도구가 이를 단순화해 줍니다. 21세기 핵심 역량인 에이전트 능력을 활용해 다양한 제품이 등장할 것으로 기대됩니다.",
       "url": "https://x.com/karpathy/status/2040572272944324650",
       "is_ai_trend": true,
-      "ai_confidence": 0.95,
-      "ai_title": "karpathy: 개인화 방식 혁신, AI 기반 파일 기반 메모리 시스템 제안",
+      "ai_confidence": 0.9,
+      "ai_title": "개인화된 AI 데이터 관리 방안 제시",
       "ai_bullets": [
-        "개인 맞춤형 정보 관리 방식 'Farzapedia'를 소개하며, 기존 AI의 개인화 방식과 차별화된 접근법 제시",
-        "데이터 소유권 보장 및 파일 기반 인터페이스를 통한 AI 모델과의 상호작용 가능성을 강조",
-        "다양한 AI 모델( Claude, Codex 등)과의 통합 가능성 및 오픈소스 AI 훈련 기회 제시"
+        "파르자 페디아를 통한 개인화된 데이터 관리 방안 제시",
+        "AI가 사용자 데이터를 명시적으로 저장하고 관리할 수 있는 방안 강조",
+        "파일 기반 데이터 관리가 AI 모델과의 호환성 및 유연성을 제공"
       ],
-      "ai_summary": "AI 기반 개인화 시스템의 새로운 접근 방식을 제안하며, 데이터 통제권과 파일 기반 인터페이스의 중요성을 강조",
+      "ai_summary": "개인화된 AI 데이터 관리 방안을 제시하며, 사용자 데이터의 명시적 저장과 AI 모델의 유연한 통합을 강조",
       "ai_themes": [
         "기술발전",
-        "산업동향",
-        "오픈소스"
+        "윤리/안전"
       ],
       "published_at": "2026-04-05 08:28"
     },
@@ -70,14 +63,21 @@
       "account_handle": "karpathy",
       "display_name": "안드레이 카파시",
       "content": "Something I've been thinking about - I am bullish on people (empowered by AI) increasing the visibility, legibility and accountability of their governments.\n\nHistorically, it is the governments that act to make society legible (e.g. \"Seeing like a state\" is the common reference), but with AI, society can dramatically improve its ability to do this in reverse. Government accountability has not been constrained by access (the various branches of government publish an enormous amount of data), it has been constrained by intelligence - the ability to process a lot of raw data, combine it with domain expertise and derive insights. As an example, the 4000-page omnibus bill is \"transparent\" in principle and in a legal sense, but certainly not in a practical sense for most people. There's a lot more like it: laws, spending bills, federal budgets, freedom of information act responses, lobbying disclosures... Only a few highly trained professionals (investigative journalists) could historically process this information. This bottleneck might dissolve - not only are the professionals further empowered, but a lot more people can participate.\n\nSome examples to be precise: Detailed accounting of spending and budgets, diff tracking of legislation, individual voting trends w.r.t. stated positions or speeches, lobbying and influence (e.g. graph of lobbyist -> firm -> client -> legislator -> committee -> vote -> regulation), procurement and contracting, regulatory capture warning lights, judicial and legal patterns, campaign finance... Local governments might be even more interesting because the governed population is smaller so there is less national coverage: city council meetings, decisions around zoning, policing, schools, utilities...\n\nCertainly, the same tools can easily cut the other way and it's worth being very mindful of that, but I lean optimistic overall that added participation, transparency and accountability will improve democratic, free societies.\n\n(the quoted tweet is half-ish related, but inspired me to post some recent thoughts)",
-      "content_ko": "Something I've been thinking about - I am bullish on people (empowered by AI) increasing the visibility, legibility and accountability of their governments. Historically, it is the governments that act to make society legible (e.g. \"Seeing like a state\" is the common reference), but with AI, society can dramatically improve its ability to do this in reverse. Government accountability has not been constrained by access (the various branches of government publish an enormous amount of data), it has been constrained by intelligence - the ability to process a lot of raw data, combine it with domain expertise and derive insights. As an example, the 4000-page omnibus bill is \"transparent\" in principle and in a legal sense, but certainly not in a practical sense for most people. There's a lot more like it: laws, spending bills, federal budgets, freedom of information act responses, lobbying disclosures... Only a few highly trained professionals (investigative journalists) could historically process this information. This bottleneck might dissolve - not only are the professionals further empowered, but a lot more people can participate. Some examples to be precise: Detailed accounting of spending and budgets, diff tracking of legislation, individual voting trends w.r.t. stated positions or speeches, lobbying and influence (e.g. graph of lobbyist -> firm -> client -> legislator -> committee -> vote -> regulation), procurement and contracting, regulatory capture warning lights, judicial and legal patterns, campaign finance... Local governments might be even more interesting because the governed population is smaller so there is less national coverage: city council meetings, decisions around zoning, policing, schools, utilities... Certainly, the same tools can easily cut the other way and it's worth being very mindful of that, but I lean optimistic overall that added participation, transparency and accountability will improve democratic, free societies. (the quoted tweet is half-ish related, but inspired me to post some recent thoughts)",
+      "content_ko": "AI를 통해 개인들이 정부의 투명성, 가시성, 책임성을 높일 수 있는 가능성을 탐구하고 있습니다. 역사적으로 정부가 사회를 이해하는 역할을 했으나, AI는 사회가 정부를 더 잘 이해할 수 있도록 역할을 전환할 수 있다고 제안합니다. 법률, 예산, 정보공개청구 응답 등 대규모 데이터를 처리해 통찰력을 제공하는 AI의 역할을 강조하며, 전문가 의존도를 줄이고 보다 많은 시민이 참여할 수 있는 시스템을 제안합니다. 또한, 지자체 데이터 분석을 통한 시민 참여 유도 및 정책 투명성 강화를 제안하고 있습니다.",
       "url": "https://x.com/karpathy/status/2040549459193704852",
-      "is_ai_trend": false,
-      "ai_confidence": 0.15,
-      "ai_title": "",
-      "ai_bullets": [],
-      "ai_summary": "",
-      "ai_themes": [],
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "AI 기술로 정부 투명성·책임감 향상 가능성 제시",
+      "ai_bullets": [
+        "AI를 활용해 법률·예산 등 정부 데이터를 실시간 분석해 시민 참여 확대 제안",
+        "법률 검토 시 AI가 대규모 데이터 처리 및 통찰력 제공으로 전문가 의존도 감소 가능성",
+        "지자체 데이터 분석을 통한 시민 참여 유도 및 정책 투명성 강화 제안"
+      ],
+      "ai_summary": "AI 기술이 정부 데이터 분석 및 시민 참여 확대를 통해 투명성과 책임감을 높이는 잠재력을 제시",
+      "ai_themes": [
+        "기술발전",
+        "윤리/안전"
+      ],
       "published_at": "2026-04-05 06:57"
     }
   ]

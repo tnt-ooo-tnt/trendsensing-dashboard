@@ -6,7 +6,7 @@
   "source_counts": {
     "AndrewYNg": 1
   },
-  "avg_confidence": 0.95,
+  "avg_confidence": 1.0,
   "top_themes": [
     [
       "기술발전",
@@ -24,17 +24,17 @@
       "account_handle": "AndrewYNg",
       "display_name": "앤드류 응",
       "content": "Should there be a Stack Overflow for AI coding agents to share learnings with each other?\n\nLast week I announced Context Hub (chub), an open CLI tool that gives coding agents up-to-date API documentation. Since then, our GitHub repo has gained over 6K stars, and we've scaled from under 100 to over 1000 API documents, thanks to community contributions and a new agentic document writer. Thank you to everyone supporting Context Hub!\n\nOpenClaw and Moltbook showed that agents can use social media built for them to share information. In our new chub release, agents can share feedback on documentation — what worked, what didn't, what's missing. This feedback helps refine the docs for everyone, with safeguards for privacy and security.\n\nWe're still early in building this out. You can find details and configuration options in the GitHub repo. Install chub as follows, and prompt your coding agent to use it:\n\nnpm install -g @aisuite/chub\n\nGitHub: https://t.co/OCkyxXQMCq",
-      "content_ko": "AI 코드 에이전트용 스택 오버플로우 플랫폼이 필요한지 물어보며 Context Hub 도구를 발표했습니다. Context Hub는 코드 에이전트가 최신 API 문서를 사용할 수 있도록 하는 오픈 CLI 도구입니다. GitHub 저장소는 6,000개 이상의 스타를 기록하며 커뮤니티 기여가 확대되고 있습니다. OpenClaw과 Moltbook은 에이전트가 자신을 위한 소셜 미디어를 사용해 정보를 공유할 수 있음을 보여주었습니다. 새 Context Hub 버전에서는 에이전트가 문서 피드백을 통해 문서 정확도를 개선할 수 있도록 설계되었습니다. 피드백은 모든 사용자에게 도움이 되며 프라이버시 및 보안을 보호합니다. GitHub 저장소에서 세부 정보와 구성 옵션을 확인할 수 있으며, npm install -g @aisuite/chub 명령어로 설치할 수 있습니다. GitHub: https://t.co/OCkyxXQMCq",
+      "content_ko": "AI 코드 에이전트용 Stack Overflow 플랫폼 필요성을 제기했습니다. 지난 주에 발표한 Context Hub(chub)는 코드 에이전트가 최신 API 문서를 사용할 수 있는 오픈 CLI 도구입니다. GitHub 저장소는 6,000개 이상의 스타를 기록하며, 커뮤니티 기여로 1,000개 이상의 API 문서를 확보했습니다. OpenClaw과 Moltbook이 보여준 바와 같이 에이전트는 특화된 소셜 미디어를 통해 정보를 공유할 수 있습니다. 새 chub 버전에서는 에이전트가 문서 피드백을 통해 사용 가능한 내용, 부족한 부분 등을 공유할 수 있게 되었습니다. 이 피드백은 문서를 모두 위한 정제된 자료로 발전시키며, 프라이버시와 보안을 보장합니다. 아직 초기 단계이지만 GitHub 저장소에서 세부 사항과 구성 옵션을 확인할 수 있습니다. 설치 방법은 npm install -g @aisuite/chub이며, 코드 에이전트에게 사용을 요청할 수 있습니다. GitHub: https://t.co/OCkyxXQMCq",
       "url": "https://x.com/AndrewYNg/status/2033577583200354812",
       "is_ai_trend": true,
-      "ai_confidence": 0.95,
-      "ai_title": "Andrew Ng(앤드류 응): AI 코드 에이전트용 커뮤니티 플랫폼 필요성 제안",
+      "ai_confidence": 1.0,
+      "ai_title": "AI 코드 에이전트용 컨텍스트 허브 도구 공개",
       "ai_bullets": [
-        "Context Hub 도구를 통해 코드 에이전트가 최신 API 문서를 공유하는 기능 제공",
-        "GitHub 저장소에서 6,000개 이상의 스타를 기록하며 커뮤니티 기여 확대",
-        "에이전트가 문서 피드백을 통해 문서 정확도를 개선하는 시스템 구축"
+        "코드 에이전트가 API 문서를 실시간으로 공유할 수 있는 오픈소스 CLI 도구 Context Hub 발표",
+        "에이전트가 문서 피드백을 통해 지속적으로 학습하는 시스템 구축",
+        "개방형 문서 관리 시스템을 통해 에이전트의 지식을 공유하는 기능 개발 중"
       ],
-      "ai_summary": "코드 에이전트가 최신 API 문서를 공유하고 피드백을 통해 문서 정확도를 개선하는 Context Hub 도구가 공개되었습니다.",
+      "ai_summary": "코드 에이전트가 최신 API 문서를 활용해 실시간으로 학습하는 오픈소스 도구 Context Hub가 공개되었습니다.",
       "ai_themes": [
         "기술발전",
         "오픈소스"

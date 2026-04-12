@@ -7,8 +7,12 @@
     "msitminister": 1,
     "demishassabis": 1
   },
-  "avg_confidence": 0.5,
+  "avg_confidence": 0.57,
   "top_themes": [
+    [
+      "정책/규제",
+      1
+    ],
     [
       "기술발전",
       1
@@ -25,7 +29,7 @@
       "account_handle": "msitminister",
       "display_name": "배경훈",
       "content": "<데이터를 다 써도, 연결은 계속됩니다>\n\n데이터를 다 쓰는 순간 지도도 안 되고, 카톡도 안 되는 경험, 한 번쯤 있으셨을 겁니다. 이제는 이런 불편을 줄이겠습니다.\n\n앞으로는 데이터를 모두 소진하더라도 기본적인 서비스는 계속 이용할 수 있도록 모든 LTE·5G 데이터 요금제를 개편합니다. 특히 무제한 요금제를 쓰지 않는 분들께는 체감할 수 있는 변화가 있을 것입니다. 이번 개편으로 약 717만 국민께서 연간 약 3,200억 원 수준의 통신비 절감 효과를 보게 됩니다.\n\n어르신들께는 음성과 문자를 더 편하게 쓰실 수 있도록 기본 제공을 확대했습니다. 약 140만 어르신께도 추가적인 통신비 절감 혜택이 돌아갑니다.\n\n또 LTE와 5G로 나뉘어 있던 요금제를 하나로 통합해 복잡했던 구조를 절반 수준으로 줄이고, 2만원대 5G 요금제도 새로 도입합니다. 특히 청년·어르신 등 연령별 혜택은 별도로 신청하지 않아도 자동으로 적용되도록 바꿨습니다.\n\n결국 중요한 것은 누구나 일상에서 연결될 수 있는 환경입니다. AI·디지털 시대에 데이터는 선택이 아니라 기본입니다.\n\n이제는 데이터가 끊기지 않는 환경을 만들겠습니다. 국민께서 체감하실 수 있도록 상반기 내 속도감 있게 추진하겠습니다.\n\n#데이터 #연결은계속 #통신비부담 #민생정책 #기본통신권 #MSIT #과기정통부",
-      "content_ko": "데이터를 다 쓰는 순간 지도도 안 되고, 카톡도 안 되는 경험을 줄이기 위해 LTE·5G 데이터 요금제를 개편합니다. 무제한 요금제를 사용하지 않는 국민 약 717만 명이 연간 3,200억 원의 통신비 절감 효과를 얻습니다. 어르신 대상 음성·문자 기본 제공 확대로 140만 명에게 혜택이 돌아갑니다. LTE·5G 요금제를 통합해 구조를 절반 수준으로 줄이고, 2만원대 5G 요금제 도입합니다. 연령별 혜택은 자동 적용됩니다. AI·디지털 시대에 데이터는 기본입니다. 상반기 내 속도감 있게 추진합니다.",
+      "content_ko": "데이터를 다 쓰는 순간 지도도 안 되고, 카톡도 안 되는 경험은 이제 더 이상 없게 만들겠습니다. 앞으로 데이터를 모두 소진하더라도 기본 서비스는 계속 이용할 수 있도록 LTE·5G 데이터 요금제를 개편합니다. 무제한 요금제를 쓰지 않는 분들께는 체감할 수 있는 변화가 있을 것입니다. 이번 개편으로 약 717만 국민이 연간 약 3,200억 원의 통신비 절감 효과를 얻게 됩니다. 어르신들께는 음성과 문자 사용을 더 편하게 하기 위해 기본 제공을 확대해 약 140만 어르신에게 추가 통신비 절감 혜택이 돌아갑니다. LTE와 5G 요금제를 하나로 통합해 복잡한 구조를 절반 수준으로 줄이고, 2만원대 5G 요금제도 도입합니다. 청년·어르신 등 연령별 혜택은 별도 신청 없이 자동 적용됩니다. AI·디지털 시대에 데이터는 선택이 아니라 기본입니다. 데이터가 끊기지 않는 환경을 만들고, 상반기 내 속도감 있게 추진하겠습니다.",
       "url": "https://x.com/msitminister/status/2042082295377691017",
       "is_ai_trend": false,
       "ai_confidence": 0.2,
@@ -43,18 +47,19 @@
       "account_handle": "demishassabis",
       "display_name": "데미스 하사비스",
       "content": "Great to chat with fellow Londoner @HarryStebbings about the path to AGI and how we’re using AI today to accelerate science &amp; medicine. Appreciated our discussion on the incredible talent &amp; potential for deep tech here in the UK. Thanks for the kind words and for having me on! https://t.co/DuF9cK0tlX",
-      "content_ko": "",
+      "content_ko": "@HarryStebbings과의 대화에서 AGI 달성 경로와 AI 기술이 과학 및 의학 분야에서 혁신을 가속화하고 있음을 논의했습니다. 영국의 딥테크 인재 및 기술 잠재력에 대한 긍정적인 평가를 나누었으며, 토론 내용을 감사드렸습니다. https://t.co/DuF9cK0tlX",
       "url": "https://x.com/demishassabis/status/2041928454887686305",
       "is_ai_trend": true,
-      "ai_confidence": 0.8,
-      "ai_title": "데미스 하사비스: AGI 달성 경로 논의 및 AI 의학 연구 협력",
+      "ai_confidence": 0.95,
+      "ai_title": "Demis Hassabis(데미스 하사비스): AGI 경로와 AI의 과학·의학 가속화 논의",
       "ai_bullets": [
-        "런던 출신 @HarryStebbings과 AGI 달성 경로 및 AI 기술의 과학·의학 분야 가속화에 대한 논의",
+        "AI 기술이 과학 및 의학 분야에서 혁신을 가속화하고 있음을 강조",
         "영국에서의 딥테크 인재 및 기술 잠재력에 대한 긍정적 평가",
-        "AI 기술의 의학 연구 협력 가능성 탐구"
+        "AGI(일반 인공지능) 달성에 대한 전략적 대화 진행"
       ],
-      "ai_summary": "AI 기술의 과학·의학 분야 활용 및 AGI 달성 경로에 대한 논의가 이루어졌다.",
+      "ai_summary": "AI 기술의 과학·의학 분야 활용과 AGI 달성 전략에 대한 대화가 진행되었다.",
       "ai_themes": [
+        "정책/규제",
         "기술발전",
         "산업동향"
       ],
