@@ -1,0 +1,28 @@
+{
+  "date": "2026-04-11",
+  "total": 1,
+  "ai_true": 0,
+  "ai_false": 1,
+  "source_counts": {
+    "sama": 1
+  },
+  "avg_confidence": 0.3,
+  "top_themes": [],
+  "posts": [
+    {
+      "post_id": "2042738954550603884",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "content": "I wrote this early this morning and I wasn't sure if I would actually publish it, but here it is:\n\nhttps://t.co/7Dw9UFpeep",
+      "content_ko": "I wrote this early this morning and I wasn't sure if I would actually publish it, but here it is: https://t.co/7Dw9UFpeep",
+      "url": "https://x.com/sama/status/2042738954550603884",
+      "is_ai_trend": false,
+      "ai_confidence": 0.3,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-04-10 22:58"
+    }
+  ]
+}

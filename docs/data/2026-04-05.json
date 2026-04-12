@@ -1,0 +1,58 @@
+{
+  "date": "2026-04-05",
+  "total": 3,
+  "ai_true": 0,
+  "ai_false": 3,
+  "source_counts": {
+    "karpathy": 3
+  },
+  "avg_confidence": 0.23,
+  "top_themes": [],
+  "posts": [
+    {
+      "post_id": "2040806346556428585",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "content": "Surprised with how good the comments on github gists are. A lot more helpful, insightful, constructive, a lot less AI... Is it the user community? The markdown format? The (lack of) incentives?\n\nSuddenly feeling like I should gist more.\n@github consider competing with X (?)",
+      "content_ko": "깃허브 gist의 댓글이 예상보다 더 도움이 되고 깊이 있는 것에 놀랐다. 더 도움이 되고, 통찰력 있고, 건설적이며, AI 관련 내용이 적다. 사용자 커뮤니티인가? 마크다운 형식인가? (보상이 부족한) 인센티브 때문인가? 갑자기 더 많은 gist를 올려야 할지도 모른다. 깃허브가 X와 경쟁해야 할까?",
+      "url": "https://x.com/karpathy/status/2040806346556428585",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-04-05 14:58"
+    },
+    {
+      "post_id": "2040572272944324650",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "content": "Farzapedia, personal wikipedia of Farza, good example following my Wiki LLM tweet.\n\nI really like this approach to personalization in a number of ways, compared to \"status quo\" of an AI that allegedly gets better the more you use it or something:\n\n1. Explicit. The memory artifact https://t.co/omsJsy8MXq",
+      "content_ko": "Farzapedia는 Farza의 개인용 위키백과로, Wiki LLM 트윗 이후의 좋은 예시이다. 이 접근법은 '상태 quo'인 AI가 사용할수록 더 좋아진다는 주장에 비해 여러 가지 측면에서 개인화에 있어 선호할 만하다. 1. 명시적. 메모리 아티팩트 https://t.co/omsJsy8MXq",
+      "url": "https://x.com/karpathy/status/2040572272944324650",
+      "is_ai_trend": false,
+      "ai_confidence": 0.3,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-04-04 23:28"
+    },
+    {
+      "post_id": "2040549459193704852",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "content": "Something I've been thinking about - I am bullish on people (empowered by AI) increasing the visibility, legibility and accountability of their governments.\n\nHistorically, it is the governments that act to make society legible (e.g. \"Seeing like a state\" is the common reference), https://t.co/CjRTGU3uPF",
+      "content_ko": "최근 고민해온 일에 대해 언급하고 싶다. AI를 통해 사람들의 정부에 대한 가시성, 가독성, 책임감을 높이는 데 대해 낙관적이다. 역사적으로는 정부가 사회의 가독성을 높이는 역할을 해왔으며, 'Seeing like a state'가 일반적인 참조이다. https://t.co/CjRTGU3uPF",
+      "url": "https://x.com/karpathy/status/2040549459193704852",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-04-04 21:57"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "date": "2026-03-10",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.9,
+  "top_themes": [
+    [
+      "오픈소스",
+      1
+    ],
+    [
+      "기술발전",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2031051809499054099",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "content": "I'm excited to announce Context Hub, an open tool that gives your coding agent the up-to-date API documentation it needs. Install it and prompt your agent to use it to fetch curated docs via a simple CLI. (See image.)\n\nWhy this matters: Coding agents often use outdated APIs and https://t.co/EXAVvU74SG",
+      "content_ko": "저는 코드 에이전트가 필요한 최신 API 문서를 제공하는 오픈소스 도구인 Context Hub를 발표하게 되어 매우 흥분합니다. 설치하고 에이전트에게 CLI를 통해 문서를 호출하도록 요청해 보세요(이미지 참조). 이 도구가 중요한 이유는 코드 에이전트가 종종 오래된 API를 사용하기 때문입니다.",
+      "url": "https://x.com/AndrewYNg/status/2031051809499054099",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "Andrew Ng(앤드류 응): 코드 에이전트를 위한 API 문서 도구 'Context Hub' 발표",
+      "ai_bullets": [
+        "Context Hub는 코드 에이전트가 최신 API 문서를 사용할 수 있도록 하는 오픈소스 도구로, CLI를 통해 문서를 간단히 호출할 수 있다.",
+        "현재 API 문서가 오래된 경우가 많아, 이 도구는 개발 효율성 향상에 기여할 것으로 기대된다."
+      ],
+      "ai_summary": "앤드류 응은 코드 에이전트를 위한 최신 API 문서 제공 도구 'Context Hub'를 발표하며, 이 도구가 개발자 생산성 향상에 기여할 것이라고 설명했다.",
+      "ai_themes": [
+        "오픈소스",
+        "기술발전"
+      ],
+      "published_at": "2026-03-09 16:57"
+    }
+  ]
+}

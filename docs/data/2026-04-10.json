@@ -1,0 +1,121 @@
+{
+  "date": "2026-04-10",
+  "total": 4,
+  "ai_true": 4,
+  "ai_false": 0,
+  "source_counts": {
+    "sama": 1,
+    "karpathy": 2,
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.79,
+  "top_themes": [
+    [
+      "산업동향",
+      3
+    ],
+    [
+      "투자/시장",
+      1
+    ],
+    [
+      "생성형AI",
+      1
+    ],
+    [
+      "윤리/안전",
+      1
+    ],
+    [
+      "기술발전",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2042342572958630332",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "content": "It is very nice to see Codex getting so much love. We are launching a $100 ChatGPT Pro tier by very popular demand.",
+      "content_ko": "It is very nice to see Codex getting so much love. We are launching a $100 ChatGPT Pro tier by very popular demand.",
+      "url": "https://x.com/sama/status/2042342572958630332",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "Sam Altman(샘 올트먼): ChatGPT Pro 100달러 요금제 출시 발표",
+      "ai_bullets": [
+        "Codex에 대한 긍정적인 반응을 수용해 $100 ChatGPT Pro 요금제를 출시한다.",
+        "인기 있는 수요에 따라 기업용 AI 서비스 확장 전략을 강화하고 있다."
+      ],
+      "ai_summary": "Sam Altman(샘 올트먼)은 Codex의 인기를 반영해 $100 ChatGPT Pro 요금제를 출시한다고 발표했다.",
+      "ai_themes": [
+        "산업동향",
+        "투자/시장"
+      ],
+      "published_at": "2026-04-09 20:43"
+    },
+    {
+      "post_id": "2042341482531864741",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "content": "Someone recently suggested to me that the reason OpenClaw moment was so big is because it's the first time a large group of non-technical people (who otherwise only knew AI as synonymous with ChatGPT as a website) experienced the latest agentic models.",
+      "content_ko": "최근 누군가가 OpenClaw의 순간이 큰 이유는 비기술자들이(그들은 AI를 단순히 웹사이트인 ChatGPT로 인식하는 경우가 많음) 최신 에이전트 모델을 처음 경험하게 했기 때문이라고 제안했다.",
+      "url": "https://x.com/karpathy/status/2042341482531864741",
+      "is_ai_trend": true,
+      "ai_confidence": 0.7,
+      "ai_title": "Andrej Karpathy(안드레이 카파시): 'OpenClaw'가 비기술자에게 AI의 진보를 보여준 계기",
+      "ai_bullets": [
+        "OpenClaw의 성공은 비기술자들이 AI를 처음으로 경험하게 한 계기가 되었다고 분석했다.",
+        "이 이벤트는 대규모 비기술자들이 AI를 단순히 웹사이트로 인식하는 것을 넘어, 최신 에이전트 모델을 경험하게 했다는 점에서 중요하다."
+      ],
+      "ai_summary": "안드레이 카파시는 OpenClaw가 비기술자들에게 AI의 진보를 보여주는 계기가 되었다고 분석하며, 이는 AI 인식의 변화를 반영한다고 설명했다.",
+      "ai_themes": [
+        "산업동향",
+        "생성형AI"
+      ],
+      "published_at": "2026-04-09 20:38"
+    },
+    {
+      "post_id": "2042334451611693415",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "content": "Judging by my tl there is a growing gap in understanding of AI capability.\n\nThe first issue I think is around recency and tier of use. I think a lot of people tried the free tier of ChatGPT somewhere  last year and allowed it to inform their views on AI a little too much. This is https://t.co/Kx1EwuAYmt",
+      "content_ko": "트위터 피드를 보면 AI 능력에 대한 이해 격차가 커지고 있다. 첫 번째 문제는 최근성과 사용 빈도와 관련이 있다. 많은 사람들이 작년에 ChatGPT 무료 버전을 사용한 경험이 있으며, 이로 인해 AI에 대한 인식이 지나치게 제한적일 수 있다고 보고 있다.",
+      "url": "https://x.com/karpathy/status/2042334451611693415",
+      "is_ai_trend": true,
+      "ai_confidence": 0.6,
+      "ai_title": "Andrej Karpathy(안드레이 카파시): AI 능력에 대한 이해 격차 확대 경고",
+      "ai_bullets": [
+        "AI 능력에 대한 인식 격차가 커지고 있으며, 이는 사용 빈도와 시기와 관련이 있다.",
+        "많은 사람들이 작년에 ChatGPT 무료 버전을 사용한 경험을 바탕으로 AI에 대한 인식이 지나치게 제한적일 수 있다고 지적했다."
+      ],
+      "ai_summary": "안드레이 카파시는 AI 능력에 대한 인식 격차가 커지고 있으며, 이는 과거 ChatGPT 무료 버전 사용 경험에 기인한다고 경고했다.",
+      "ai_themes": [
+        "산업동향",
+        "윤리/안전"
+      ],
+      "published_at": "2026-04-09 20:10"
+    },
+    {
+      "post_id": "2042289428702642588",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "content": "New course: Efficient Inference with SGLang: Text and Image Generation, built in partnership with LMSys @lmsysorg and RadixArk @radixark, and taught by Richard Chen @richardczl, a Member of Technical Staff at RadixArk.\n\nRunning LLMs in production is expensive, and much of that https://t.co/baiT6LKDYY",
+      "content_ko": "SGLang 기반의 텍스트 및 이미지 생성을 위한 '효율적 추론' 과정 강의를 개설했다. LMSys와 RadixArk와의 협업으로 개발되었으며, LLM의 프로덕션 환경에서의 비용 문제에 대해 언급했다.",
+      "url": "https://x.com/AndrewYNg/status/2042289428702642588",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "앤드류 응(Andrew Ng): SGLang 기반의 효율적 추론 과정 강의 개설",
+      "ai_bullets": [
+        "SGLang 기반의 텍스트 및 이미지 생성을 위한 효율적 추론 과정 강의 개설",
+        "LMSys와 RadixArk와의 협업으로 개발된 코스",
+        "LLM(대규모 언어 모델)의 프로덕션 환경에서의 비용 문제에 대한 언급"
+      ],
+      "ai_summary": "앤드류 응은 LMSys와 RadixArk와 협업해 SGLang 기반의 효율적 추론 과정 강의를 개설하며, LLM의 프로덕션 환경에서의 비용 문제를 언급했다.",
+      "ai_themes": [
+        "기술발전",
+        "오픈소스"
+      ],
+      "published_at": "2026-04-09 17:11"
+    }
+  ]
+}

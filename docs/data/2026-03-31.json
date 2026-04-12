@@ -1,0 +1,30 @@
+{
+  "date": "2026-03-31",
+  "total": 1,
+  "ai_true": 0,
+  "ai_false": 1,
+  "source_counts": {
+    "sama": 1
+  },
+  "avg_confidence": 0.2,
+  "top_themes": [],
+  "posts": [
+    {
+      "post_id": "2038640963036626971",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "content": "This is a very good post: https://t.co/w4O3Pol0v3",
+      "content_ko": "이것은 매우 좋은 게시물입니다: https://t.co/w4O3Pol0v3",
+      "url": "https://x.com/sama/status/2038640963036626971",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-30 15:34"
+    }
+  ]
+}

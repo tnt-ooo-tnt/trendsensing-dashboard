@@ -1,0 +1,43 @@
+{
+  "date": "2026-03-17",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.9,
+  "top_themes": [
+    [
+      "오픈소스",
+      1
+    ],
+    [
+      "기술발전",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2033577583200354812",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "content": "Should there be a Stack Overflow for AI coding agents to share learnings with each other?\n\nLast week I announced Context Hub (chub), an open CLI tool that gives coding agents up-to-date API documentation. Since then, our GitHub repo has gained over 6K stars, and we've scaled from",
+      "content_ko": "AI 코딩 에이전트 간 학습을 공유할 수 있는 스택 오버플로우 유사 플랫폼이 필요하다는 제안이 있었다. 지난주 발표한 컨텍스트 허브(Context Hub) CLI 도구는 GitHub에서 6,000개 이상의 스타를 받았으며, 규모 확장이 이루어졌다.",
+      "url": "https://x.com/AndrewYNg/status/2033577583200354812",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "앤드류 응(Andrew Ng): AI 코딩 에이전트를 위한 커뮤니티 플랫폼 제안",
+      "ai_bullets": [
+        "AI 코딩 에이전트 간 학습 공유를 위한 스택 오버플로우 유사 플랫폼 제안",
+        "컨텍스트 허브(Context Hub) 도구가 GitHub에서 6,000개 이상의 스타를 받았다"
+      ],
+      "ai_summary": "앤드류 응은 AI 코딩 에이전트를 위한 커뮤니티 플랫폼을 제안하며, 컨텍스트 허브 도구의 성공을 언급했다.",
+      "ai_themes": [
+        "오픈소스",
+        "기술발전"
+      ],
+      "published_at": "2026-03-16 16:14"
+    }
+  ]
+}

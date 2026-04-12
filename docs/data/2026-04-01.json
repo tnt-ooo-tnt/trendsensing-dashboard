@@ -1,0 +1,43 @@
+{
+  "date": "2026-04-01",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.8,
+  "top_themes": [
+    [
+      "윤리/안전",
+      1
+    ],
+    [
+      "정책/규제",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2039051446084153834",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "content": "The anti-AI coalition continues to maneuver to find arguments to slow down AI progress. If someone has a sincere concern about a specific effect of AI, for instance that it may lead to human extinction, I respect their intellectual honesty, even if I deeply disagree with their https://t.co/rlsOiUPbf2",
+      "content_ko": "AI 진보에 반대하는 세력이 계속해서 논의를 통해 AI 발전을 늦추려는 움직임을 보이고 있다. 만약 누군가 AI가 인류 멸망으로 이어질 수 있다는 구체적인 우려를 제기한다면, 그들의 지적 정직성은 인정하지만 깊이 동의하지 않는다.",
+      "url": "https://x.com/AndrewYNg/status/2039051446084153834",
+      "is_ai_trend": true,
+      "ai_confidence": 0.8,
+      "ai_title": "앤드류 응(Andrew Ng): AI 진보에 대한 반대 세력의 논의",
+      "ai_bullets": [
+        "AI 진보에 반대하는 세력이 구체적인 우려를 제기하고 있다",
+        "AI가 인류 멸망으로 이어질 수 있다는 우려에 대해 지적 정직성을 인정한다"
+      ],
+      "ai_summary": "앤드류 응은 AI 진보에 반대하는 세력의 논의를 언급하며, AI가 인류 멸망을 초래할 수 있다는 우려에 대해 지적 정직성을 인정했다.",
+      "ai_themes": [
+        "윤리/안전",
+        "정책/규제"
+      ],
+      "published_at": "2026-03-31 18:45"
+    }
+  ]
+}
