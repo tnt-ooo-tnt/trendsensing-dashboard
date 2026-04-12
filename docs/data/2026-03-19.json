@@ -9,11 +9,11 @@
   "avg_confidence": 0.95,
   "top_themes": [
     [
-      "연구/논문",
+      "기술발전",
       1
     ],
     [
-      "기술발전",
+      "교육/강의",
       1
     ]
   ],
@@ -22,20 +22,21 @@
       "post_id": "2034314027678192114",
       "platform": "twitter",
       "account_handle": "AndrewYNg",
-      "content": "New course: Agent Memory: Building Memory-Aware Agents, built in partnership with @Oracle and taught by  @richmondalake and Nacho Martínez.\n\nMany agents work well within a single session but their memory resets once the session ends. Consider a research agent working on dozens of https://t.co/dV7azZvNQn",
-      "content_ko": "새로운 과정 '에이전트 메모리: 메모리 인식 에이전트 구축'이 오라클과 협력해 개발되었으며, 린치 리치먼트와 나초 마르티네즈가 강의한다. 많은 에이전트는 단일 세션에서 잘 작동하지만 세션이 종료되면 메모리가 리셋된다.",
+      "content": "New course: Agent Memory: Building Memory-Aware Agents, built in partnership with @Oracle and taught by  @richmondalake and Nacho Martínez.\n\nMany agents work well within a single session but their memory resets once the session ends. Consider a research agent working on dozens of papers across multiple days: without memory, it has no way to store and retrieve what it learned across sessions. This short course teaches you to build a memory system that enables agents to persist memory and thereby learn across sessions.\n\nYou'll design a Memory Manager that handles different memory types, implement semantic tool retrieval that scales without bloating the context, and build write-back pipelines that let your agent autonomously update and refine what it knows over time.\n\nSkills you'll gain:\n- Build persistent memory stores for different agent memory types\n- Implement a Memory Manager that orchestrates how your agent reads, writes, and retrieves memory\n- Treat tools as procedural memory and retrieve only relevant ones at inference time using semantic search\n\nJoin and learn to build agents that remember and improve over time!\n\nhttps://t.co/nxNSEHGmr9",
+      "content_ko": "새로운 강의 'Agent Memory: Building Memory-Aware Agents'가 DeepLearning.AI에서 개설되었습니다. 이 강의는 Oracle과 협업하여 Richmond Alake 및 Nacho Martínez 강사가 진행하며, 세션 종료 후 메모리가 초기화되는 에이전트의 한계를 극복하는 방법을 학습합니다. 강의에서는 메모리 매니저 구축, 세미 앤티크 도구 검색 시스템 개발, 메모리 추출 및 쓰기-back 파이프라인 구현 등을 다룹니다. 연구 에이전트가 다수의 논문을 처리하는 경우, 메모리 시스템을 통해 학습 내용을 저장하고 검색할 수 있는 기법을 소개합니다.",
       "url": "https://x.com/AndrewYNg/status/2034314027678192114",
       "is_ai_trend": true,
       "ai_confidence": 0.95,
-      "ai_title": "앤드류 응(Andrew Ng)과 오라클(Oracle) 공동 개발, 에이전트 메모리 교육 과정 발표",
+      "ai_title": "DeepLearning.AI: 에이전트 메모리 시스템 기술 교육 강의 개설",
       "ai_bullets": [
-        "에이전트 메모리에 대한 새로운 교육 과정이 오라클과 공동 개발되었다",
-        "현재 세션에서만 작동하는 에이전트의 메모리 리셋 문제를 해결하기 위한 교육"
+        "에이전트 메모리 시스템 구축을 위한 새로운 강의 개설",
+        "다양한 메모리 유형 처리 및 세미 앤티크 도구 검색 기법 교육",
+        "메모리 추출 및 쓰기-back 파이프라인 구현 기술 소개"
       ],
-      "ai_summary": "앤드류 응은 오라클과 협력해 에이전트 메모리에 대한 새로운 교육 과정을 발표하며, 세션 종료 시 메모리 리셋 문제를 해결하는 방법을 다룬다.",
+      "ai_summary": "에이전트가 세션 간 학습을 가능하게 하는 메모리 시스템 기술 교육 강의 제공",
       "ai_themes": [
-        "연구/논문",
-        "기술발전"
+        "기술발전",
+        "교육/강의"
       ],
       "published_at": "2026-03-18 17:00"
     }
