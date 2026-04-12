@@ -426,8 +426,7 @@ body {
 
 /* === Priority Section === */
 .priority-section {
-    border: 2px solid var(--gov-navy);
-    box-shadow: 0 2px 12px rgba(0, 55, 100, 0.12);
+    border: 1px solid var(--gov-border);
 }
 
 .priority-header {
