@@ -57,6 +57,12 @@ let currentIdx = 0;
 
 const DAY_NAMES = ['일', '월', '화', '수', '목', '금', '토'];
 
+function kstToday() {
+    var now = new Date();
+    var kst = new Date(now.getTime() + (now.getTimezoneOffset() + 540) * 60000);
+    return kst.getFullYear() + '-' + String(kst.getMonth()+1).padStart(2,'0') + '-' + String(kst.getDate()).padStart(2,'0');
+}
+
 const PRIORITY_ACCOUNTS = [
     { handle: 'Jaemyung_Lee', label: '이재명 대통령', icon: '🇰🇷' },
     { handle: 'msitminister', label: '배경훈 과학기술부총리 겸 과학기술정보통신부 장관', icon: '🇰🇷' }
@@ -73,19 +79,18 @@ async function init() {
         DATES = [];
     }
 
-    const now = new Date();
-    const kstDate = new Date(now.getTime() + (now.getTimezoneOffset() + 540) * 60000);
-    const TODAY = kstDate.toISOString().slice(0, 10);
+    const TODAY = kstToday();
 
     if (DATES.length === 0) {
-        currentIdx = -1;
-        showNoData("수집된 데이터가 없습니다.", "먼저 수집을 실행해 주세요.");
-        updateDateDisplay(TODAY);
-        return;
+        DATES = [TODAY];
     }
 
-    const todayIdx = DATES.indexOf(TODAY);
-    currentIdx = todayIdx >= 0 ? todayIdx : 0;
+    // 오늘 날짜가 목록에 없으면 맨 앞에 삽입
+    if (DATES.indexOf(TODAY) < 0) {
+        DATES.unshift(TODAY);
+    }
+
+    currentIdx = DATES.indexOf(TODAY);
     loadDate(DATES[currentIdx]);
 }
 
@@ -114,9 +119,7 @@ function updateDateDisplay(dateStr) {
     const main = d.getFullYear() + '\ub144 ' + (d.getMonth()+1) + '\uc6d4 ' + d.getDate() + '\uc77c (' + dayName + ')';
     document.getElementById('date-main').textContent = main;
 
-    const now = new Date();
-    const kst = new Date(now.getTime() + (now.getTimezoneOffset() + 540) * 60000);
-    const todayStr = kst.toISOString().slice(0, 10);
+    var todayStr = kstToday();
     document.getElementById('date-sub').textContent = dateStr === todayStr ? '\uc624\ub298' : '';
 
     document.getElementById('btn-prev').disabled = currentIdx >= DATES.length - 1;
