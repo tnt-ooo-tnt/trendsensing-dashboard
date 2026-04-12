@@ -59,7 +59,7 @@ const DAY_NAMES = ['일', '월', '화', '수', '목', '금', '토'];
 
 const PRIORITY_ACCOUNTS = [
     { handle: 'Jaemyung_Lee', label: '이재명 대통령', icon: '🇰🇷' },
-    { handle: 'msitminister', label: '배경훈 과학기술정보통신부 장관', icon: '🏛️' }
+    { handle: 'msitminister', label: '배경훈 과학기술부총리 겸 과학기술정보통신부 장관', icon: '🇰🇷' }
 ];
 
 async function init() {
@@ -159,6 +159,11 @@ function escapeHtml(text) {
     return div.innerHTML;
 }
 
+function linkify(text) {
+    var escaped = escapeHtml(text);
+    return escaped.replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank" style="color:var(--gov-light-blue)">$1</a>');
+}
+
 function renderDashboard(data) {
     const dashboard = document.getElementById('dashboard');
     let html = '';
@@ -256,10 +261,10 @@ function renderPostCard(p) {
     }
 
     if (p.content_ko) {
-        bodyHtml += '<div class="post-translation"><div class="post-original-label">\ud55c\uad6d\uc5b4 \ubc88\uc5ed</div>' + escapeHtml(p.content_ko) + '</div>';
+        bodyHtml += '<div class="post-translation"><div class="post-original-label">\ud55c\uad6d\uc5b4 \ubc88\uc5ed</div>' + linkify(p.content_ko) + '</div>';
     }
 
-    bodyHtml += '<div class="post-original"><div class="post-original-label">\uc6d0\ubb38</div>' + escapeHtml(p.content) + '</div>';
+    bodyHtml += '<div class="post-original"><div class="post-original-label">\uc6d0\ubb38</div>' + linkify(p.content) + '</div>';
 
     if (p.ai_themes && p.ai_themes.length > 0) {
         bodyHtml += '<div class="post-themes">';
