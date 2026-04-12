@@ -287,7 +287,7 @@ function renderPostCard(p) {
     return '<div class="post-card ' + aiClass + '" data-ai="' + p.is_ai_trend + '">' +
         '<div class="post-card-header"><div class="post-meta">' +
         '<span class="post-platform">' + escapeHtml(p.platform) + '</span>' +
-        '<span class="post-handle">@' + escapeHtml(p.account_handle) + '</span>' +
+        '<span class="post-handle">@' + escapeHtml(p.account_handle) + (p.display_name ? ' (' + escapeHtml(p.display_name) + ')' : '') + '</span>' +
         '<span style="color:#7f8c8d;font-size:12px">' + escapeHtml(p.published_at) + '</span>' +
         '</div><div style="display:flex;align-items:center;gap:8px">' +
         '<span class="post-badge ' + badgeClass + '">' + badgeText + '</span>' +
