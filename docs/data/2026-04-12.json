@@ -7,7 +7,7 @@
     "Jaemyung_Lee": 3,
     "ylecun": 1
   },
-  "avg_confidence": 0.12,
+  "avg_confidence": 0.05,
   "top_themes": [],
   "posts": [
     {
@@ -18,13 +18,11 @@
       "content_ko": "완도 화재 현장에서 임무 수행 중이던 소방대원 두 분의 순직을 보고받았습니다. 삼가 고인의 명복을 기원합니다. 국민의 생명과 안전을 지키기 위해 가장 위험한 현장으로 달려가 마지막까지 소임을 다하셨습니다. 그 용기와 헌신에 머리숙여 경의를 표합니다. 정부는 이번 사고를 엄중히 받아들이며, 모든 현장인력이 보다 안전한 환경에서 임무를 수행할 수 있도록 하겠습니다. 유가족 여러분께 깊은 애도의 뜻을 전하며, 동료 대원들께도 위로와 함께 격려의 말씀을 드립니다.",
       "url": "https://x.com/Jaemyung_Lee/status/2043173663776952481",
       "is_ai_trend": false,
-      "ai_confidence": 0.2,
+      "ai_confidence": 0.0,
       "ai_title": "",
       "ai_bullets": [],
       "ai_summary": "",
-      "ai_themes": [
-        "기타"
-      ],
+      "ai_themes": [],
       "published_at": "2026-04-12 03:45"
     },
     {
@@ -35,13 +33,11 @@
       "content_ko": "생산적 금융 강화는 피할 수 없는 길입니다. 남의 돈으로 부동산 투기해 돈 벌면 열심히 일하는 사람들은 의욕을 잃습니다. 세제, 금융, 규제 정상화를 통한 부동산투기 제로 구현은 얼마든지 가능하고 또 반드시 해야 합니다. [단독]'1주택자 전세대출 14조' 만기연장 제한 타깃..배수진 친 정부",
       "url": "https://x.com/Jaemyung_Lee/status/2043152008614752394",
       "is_ai_trend": false,
-      "ai_confidence": 0.1,
+      "ai_confidence": 0.0,
       "ai_title": "",
       "ai_bullets": [],
       "ai_summary": "",
-      "ai_themes": [
-        "정책/규제"
-      ],
+      "ai_themes": [],
       "published_at": "2026-04-12 02:19"
     },
     {
@@ -66,16 +62,14 @@
       "platform": "twitter",
       "account_handle": "ylecun",
       "content": "Tired of winning https://t.co/icBZx6kTN6",
-      "content_ko": "지루해요. https://t.co/icBZx6kTN6",
+      "content_ko": "@ylecun 계정의 'Tired of winning'이라는 짧은 문구와 링크만 포함한 게시물입니다. 본문 내용은 AI 관련 키워드나 맥락이 없습니다.",
       "url": "https://x.com/ylecun/status/2042984428503232534",
       "is_ai_trend": false,
       "ai_confidence": 0.1,
       "ai_title": "",
       "ai_bullets": [],
       "ai_summary": "",
-      "ai_themes": [
-        "기타"
-      ],
+      "ai_themes": [],
       "published_at": "2026-04-11 15:13"
     }
   ]

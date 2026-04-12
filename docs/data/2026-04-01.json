@@ -6,7 +6,7 @@
   "source_counts": {
     "AndrewYNg": 1
   },
-  "avg_confidence": 0.85,
+  "avg_confidence": 0.9,
   "top_themes": [
     [
       "정책/규제",
@@ -23,17 +23,17 @@
       "platform": "twitter",
       "account_handle": "AndrewYNg",
       "content": "The anti-AI coalition continues to maneuver to find arguments to slow down AI progress. If someone has a sincere concern about a specific effect of AI, for instance that it may lead to human extinction, I respect their intellectual honesty, even if I deeply disagree with their position. However, I am concerned about organizations that are surveying the public to find whatever messages will turn people against AI, and how the public reacts as these messages are spread by lobbyists or by politicians seeking to alarm constituents, companies pursuing regulatory capture or seeking to promote the power of their technology, and individuals seeking to gain attention or to profit by being provocative.\n\nA large study (link in original article below; h/t to the AI Panic blog) by a UK group tested different messages that are designed to raise alarm about AI. Their study found that saying AI will cause human extinction has largely failed. Doomsayers were pushing this argument a couple of years ago, and fortunately our community beat it back. But AI-enabled warfare and environmental concerns resonate better. We should be prepared for a flood of messages (which is already underway) arguing against AI on these grounds. Further, job loss and harm to children are messages that motivate people to act.\n\nTo be clear, I find AI-enabled warfare alarming; we need to continue serious efforts to monitor and mitigate the environmental impact of AI; any job losses are tragic and hurt individuals and families; and as a father, I hold dearly the importance of every child’s welfare. Each of these topics deserves serious attention and treatment with the greatest of care.\n\nBut when anti-AI propagandists take a one-sided view of complex issues to benefit their own organizations at the expense of the public at large — for instance, when big AI companies argue that AI is dangerous to block the free distribution of open source projects that compete with their offerings — then we all lose.\n\nFor example, public perception of data centers’ environmental impact is already far worse than the reality — data centers are incredibly efficient for the work they do, and hampering their buildout will hurt rather than help the environment. While job loss is a real problem, the “AI washing” of layoffs — in which businesses that had over-hired during the pandemic blame AI for recent layoffs, although AI hasn’t yet affected their operations — has led to overblown fears about the impact of AI on employment.\n\nUnfortunately, this sort of propaganda easily leads to regulations that create worse outcomes for everyone. For example, oil companies worked for years to create fear of nuclear energy. The result is that overblown concerns about the safety of nuclear power plants has stifled nuclear power development, leading to millions of premature deaths from air pollution that was caused by other energy sources and a massive increase in CO2 emissions. Let’s make sure overblown concerns about AI do not lead to a similar fate for the many people that would benefit from faster AI development.\n\nLast week, the White House proposed a national legislative framework for AI. A key component is a federal preemption framework to prevent a patchwork of state regulations that hamper AI development. I support this. \n\nAfter failing to gain traction at the federal level, a lot of anti-AI propaganda has shifted to the state level. If just one of the 50 states passes a law that limits AI in an unproductive way, it could lead to stifling AI development across all the states and potentially across the globe. The White House proposal rightfully respects each state’s rights to control its own zoning, how it enforces general laws to protect consumers, and how it uses AI. But if a state were to pass laws that limit AI development, federal rules would preempt the state law.\n\nThe White House proposal remains a proposal for now. However, if the U.S. Congress enacts it, it will clear the way for ongoing efforts to develop AI in beneficial ways.\n\nWhere do we go from here? Let’s support limiting applications — those that use AI, and those that don’t — that harm people. When the anti-AI coalition argues against AI, in addition to considering the merits of the argument, I consider whether their position is consistent and persuasive, or if they are just promoting whatever concerns they think will sway the public at a given moment. And, let’s also keep using a scientific approach to weighing AI’s benefits against likely harms, so we don’t end up with overblown concerns that limit the benefits that AI can bring everyone.\n\n[Original text with links: https://t.co/kfZY7mo0Mi ]",
-      "content_ko": "AI 발전을 저해하려는 반-AI 연합의 전략적 메시지 전파에 대한 우려를 표명하며, 특정 AI 영향에 대한 진정한 우려는 존중하지만, 공공 여론 조사와 정치적 선동을 통한 AI 반대 메시지 확산에 대한 우려를 드러냅니다. 영국 연구팀의 대규모 실험 결과를 인용해 AI 인류 멸망 주장은 실패했으나, AI 전쟁 및 환경 문제 등이 더 큰 공감을 얻고 있음을 분석합니다. 미국 정부가 제안한 AI 국가 규제 프레임워크를 소개하며, 주요 내용으로는 주별 규제 혼란 방지와 AI 개발 지원을 위한 연방 규제 우선권을 강조합니다.",
+      "content_ko": "AI에 반대하는 집단이 AI 발전을 저해하기 위한 전략을 모색하고 있다고 경고하며, 특정 AI 영향에 대한 우려가 있을 경우 그 합리성을 존중하지만, 공공 여론을 조작하기 위한 전략적 행동에 우려를 표합니다. 영국 기관의 연구에 따르면 AI가 인류 멸망을 초래할 것이라는 주장은 실패했으며, AI 전쟁 가능성과 환경 문제 등이 더 많은 공감을 얻고 있다고 분석합니다. 또한, AI 규제가 과도한 경계를 넘어서면 기존 에너지 소비 문제를 악화시킬 수 있다고 경고하며, 미국 정부의 AI 국가적 규제 프레임워크 제안을 지지합니다.",
       "url": "https://x.com/AndrewYNg/status/2039051446084153834",
       "is_ai_trend": true,
-      "ai_confidence": 0.85,
-      "ai_title": "AI 정책 논의: 반-AI 연합의 전략과 규제 위험 분석",
+      "ai_confidence": 0.9,
+      "ai_title": "AI 정책 논의: 규제 방해와 규제 포착 전략 분석",
       "ai_bullets": [
-        "반-AI 연합이 AI 발전 저해를 위한 전략적 메시지 전파 분석",
-        "AI 전쟁 가능성 및 환경 영향 등 주요 우려 요소 강조",
-        "미국 정부 AI 규제 프레임워크 제안 및 주요 내용 소개"
+        "AI 규제에 반대하는 집단의 전략적 행동에 대한 경고",
+        "AI 전쟁 가능성과 환경 영향 등 규제 논의 주요 주제 제시",
+        "미국 정부의 AI 국가적 규제 프레임워크 제안 언급"
       ],
-      "ai_summary": "AI 정책 논의에서 반-AI 연합의 전략과 규제 위험에 대한 분석 제공",
+      "ai_summary": "AI 규제 논의에서 규제 방해 전략과 관련된 정책적 논의가 진행되고 있으며, 미국 정부의 AI 규제 프레임워크 제안이 언급되었습니다.",
       "ai_themes": [
         "정책/규제",
         "윤리/안전"

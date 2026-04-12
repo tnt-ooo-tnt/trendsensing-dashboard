@@ -6,7 +6,7 @@
   "source_counts": {
     "sama": 1
   },
-  "avg_confidence": 0.1,
+  "avg_confidence": 0.0,
   "top_themes": [],
   "posts": [
     {
@@ -14,10 +14,10 @@
       "platform": "twitter",
       "account_handle": "sama",
       "content": "This is a very good post: https://t.co/w4O3Pol0v3",
-      "content_ko": "@sama 계정이 '이것은 매우 좋은 게시물입니다'라는 짧은 문장과 링크를 공유했습니다. 본문 내용은 제공되지 않았습니다.",
+      "content_ko": "@sama 계정이 '이것은 매우 좋은 게시물입니다'라고 언급하며, 관련 링크를 제공했으나, 본문 내용은 없습니다.",
       "url": "https://x.com/sama/status/2038640963036626971",
       "is_ai_trend": false,
-      "ai_confidence": 0.1,
+      "ai_confidence": 0.0,
       "ai_title": "",
       "ai_bullets": [],
       "ai_summary": "",

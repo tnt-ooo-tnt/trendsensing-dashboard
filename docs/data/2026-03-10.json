@@ -13,11 +13,11 @@
       1
     ],
     [
-      "생성형AI",
+      "오픈소스",
       1
     ],
     [
-      "오픈소스",
+      "생성형AI",
       1
     ]
   ],
@@ -27,21 +27,21 @@
       "platform": "twitter",
       "account_handle": "AndrewYNg",
       "content": "I'm excited to announce Context Hub, an open tool that gives your coding agent the up-to-date API documentation it needs. Install it and prompt your agent to use it to fetch curated docs via a simple CLI. (See image.)\n\nWhy this matters: Coding agents often use outdated APIs and hallucinate parameters. For example, when I ask Claude Code to call OpenAI's GPT-5.2, it uses the older chat completions API instead of the newer responses API, even though the newer one has been out for a year. Context Hub solves this.\n\nContext Hub is also designed to get smarter over time. Agents can annotate docs with notes — if your agent discovers a workaround, it can save it and doesn't have to rediscover it next session. Longer term, we're building toward agents sharing what they learn with each other, so the whole community benefits.\n\nThanks Rohit Prsad and Xin Ye for working with me on this!\n\nnpm install -g @aisuite/chub\n\nGitHub: https://t.co/OCkyxXQMCq",
-      "content_ko": "코드 에이전트가 최신 API 문서를 사용할 수 있도록 하는 오픈소스 도구 '컨텍스트 허브'를 발표했습니다. 설치 후 에이전트에게 사용하도록 요청하면 간단한 CLI를 통해 정리된 문서를 가져올 수 있습니다. 이 도구는 코드 에이전트가 과거 API를 사용하거나 파라미터 오류를 발생시키는 문제를 해결하는 데 도움을 줍니다. 예를 들어, 클라우드 코드가 GPT-5.2를 호출할 때는 더 최근의 응답 API 대신 오래된 채팅 완료 API를 사용하는 문제가 있었습니다. 컨텍스트 허브는 이러한 문제를 해결합니다. 또한, 도구는 시간이 지남에 따라 지식을 공유하는 기능을 확장할 계획입니다. 사용자는 문서에 주석을 달 수 있으며, 에이전트가 해결책을 찾으면 저장해 다음 세션에서 다시 발견할 필요가 없습니다. 장기적으로는 에이전트들이 서로 학습한 내용을 공유해 커뮤니티 전체에 혜택을 주는 방향으로 개발할 예정입니다.",
+      "content_ko": "코드 작성 에이전트가 최신 API 문서를 사용할 수 있는 오픈소스 CLI 도구 '컨텍스트 허브'를 발표합니다. 설치 후 에이전트에게 사용을 요청하면 간단한 CLI를 통해 정리된 문서를 가져올 수 있습니다. 이 도구가 필요한 이유는 코드 작성 에이전트가 과거 API를 사용하거나 파라미터를 오해하는 문제가 많기 때문입니다. 예를 들어, Claude Code에게 GPT-5.2를 호출하라고 하면, 1년 전에 출시된 새 API 대신 오래된 chat completions API를 사용합니다. 컨텍스트 허브는 이러한 문제를 해결합니다. 또한, 도구는 시간이 지남에 따라 지식을 공유해 지속적으로 학습하도록 설계되었습니다. 에이전트는 문서에 주석을 달 수 있으며, 발견한 해결책을 저장해 다음 세션에서 다시 발견할 필요가 없습니다. 장기적으로는 에이전트가 서로 학습 내용을 공유해 커뮤니티 전체가 혜택을 얻도록 만들 계획입니다.",
       "url": "https://x.com/AndrewYNg/status/2031051809499054099",
       "is_ai_trend": true,
       "ai_confidence": 0.95,
-      "ai_title": "앤드류 응, 코드 에이전트용 컨텍스트 허브 도구 발표",
+      "ai_title": "앤드류 응, 코드 작성 에이전트용 컨텍스트 허브 도구 공개",
       "ai_bullets": [
-        "코드 에이전트가 최신 API 문서를 사용할 수 있도록 하는 오픈소스 도구 '컨텍스트 허브' 공개",
-        "에이전트가 과거 API 사용 및 파라미터 오류 문제 해결을 위한 도구 제공",
-        "도구가 시간이 지남에 따라 지식 공유 기능 확장 예정"
+        "코드 작성 에이전트가 최신 API 문서를 사용할 수 있는 오픈소스 CLI 도구 '컨텍스트 허브' 발표",
+        "에이전트가 과거 API를 사용하거나 파라미터를 오해하는 문제 해결",
+        "도구가 시간이 지남에 따라 지식을 공유해 지속적으로 학습하도록 설계"
       ],
-      "ai_summary": "코드 에이전트용 최신 API 문서 제공 도구 '컨텍스트 허브' 발표, 과거 API 오류 해결",
+      "ai_summary": "코드 작성 에이전트용 최신 API 문서 공유 도구 '컨텍스트 허브' 발표 및 기능 업데이트",
       "ai_themes": [
         "기술발전",
-        "생성형AI",
-        "오픈소스"
+        "오픈소스",
+        "생성형AI"
       ],
       "published_at": "2026-03-09 16:57"
     }
