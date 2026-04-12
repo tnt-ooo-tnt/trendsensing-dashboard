@@ -9,26 +9,26 @@
     "karpathy": 2,
     "AndrewYNg": 1
   },
-  "avg_confidence": 0.79,
+  "avg_confidence": 0.8,
   "top_themes": [
     [
       "기술발전",
-      3
+      4
     ],
     [
       "산업동향",
-      1
-    ],
-    [
-      "생성형AI",
-      1
-    ],
-    [
-      "에이전트",
-      1
+      2
     ],
     [
       "연구/논문",
+      1
+    ],
+    [
+      "윤리/안전",
+      1
+    ],
+    [
+      "오픈소스",
       1
     ]
   ],
@@ -39,7 +39,7 @@
       "account_handle": "msitminister",
       "display_name": "배경훈",
       "content": "<세상에 이런일이, 칭찬을 했더니 더 큰 칭찬이 돌아옵니다>\n\n과학기술정보통신부는 올해부터 탁월한 성과를 낸 공직자들을 찾아서 파격적인 포상으로 격려하는 특별성과포상금제를 시행하고 있습니다.\n\n지난 2월에 우수 공직자들을 선정해서 주공적자 두 명 각각 1,000만원, 부공적자 두 명 각각 350만원의 상금을 시상한 바 있으며, 곧 2차 우수 공직자를 발굴하여 칭찬할 계획입니다.\n\n1차로 포상 받으신 직원분은 공직 생활 중 이런 날도 온다며 감개무량 하시기도 했습니다. \n\n그런데 오늘 더 놀라운 일이 벌어졌습니다. \n직원 칭찬을 했더니 행안부에서 잘했다고 칭찬을 합니다. 심지어 더 칭찬하라고 포상금 1,000만원까지 주고 여기서 그치지 않고 행안부 차관님이 커피차 2대를 몰고 오셔서 직원들에게 커피를 쏘기까지 합니다. \n\n직원들이 깜짝 이벤트에 놀라서 사진을 찍어 보내왔습니다.\n\n부처간 칸막이가 이렇게 무너져 가고 있습니다. \n서로 격려하며 같이 힘을 모아 더 큰 성과를 만들어내도록 하겠습니다. \n\np.s. 칭찬해주신 행정안전부 윤호중 장관님, 김민재 차관님도 칭찬합니다. ^^\n\n#행정안전부 #과학기술정보통신부 #특별성과포상제 #칭찬",
-      "content_ko": "과학기술정보통신부는 올해부터 탁월한 성과를 낸 공직자들을 찾아서 파격적인 포상으로 격려하는 특별성과포상금제를 시행하고 있습니다. 지난 2월 우수 공직자들을 선정해 주공적자 두 명 각각 1,000만원, 부공적자 두 명 각각 350만원의 상금을 시상했으며, 2차 우수 공직자를 발굴해 칭찬할 계획입니다. 1차로 포상 받으신 직원분은 공직 생활 중 이런 날도 온다며 감개무량 하셨습니다. 그런데 오늘 더 놀라운 일이 벌어졌습니다. 직원 칭찬을 했더니 행안부에서 잘했다고 칭찬하며 1,000만원 포상금을 주고, 행안부 차관님이 커피차 2대를 몰아 직원들에게 커피를 쏘는 이벤트가 진행되었습니다. 직원들이 깜짝 이벤트에 놀라 사진을 찍어 보내왔습니다. 부처간 칸막이가 무너지고 서로 격려하며 더 큰 성과를 만들기로 했습니다. p.s. 칭찬해주신 행정안전부 윤호중 장관님, 김민재 차관님도 칭찬합니다. ^^",
+      "content_ko": "<세상에 이런일이, 칭찬을 했더니 더 큰 칭찬이 돌아옵니다>\n\n과학기술정보통신부는 올해부터 탁월한 성과를 낸 공직자들을 찾아서 파격적인 포상으로 격려하는 특별성과포상금제를 시행하고 있습니다.\n\n지난 2월에 우수 공직자들을 선정해서 주공적자 두 명 각각 1,000만원, 부공적자 두 명 각각 350만원의 상금을 시상한 바 있으며, 곧 2차 우수 공직자를 발굴하여 칭찬할 계획입니다.\n\n1차로 포상 받으신 직원분은 공직 생활 중 이런 날도 온다며 감개무량 하시기도 했습니다. \n\n그런데 오늘 더 놀라운 일이 벌어졌습니다. \n직원 칭찬을 했더니 행안부에서 잘했다고 칭찬을 합니다. 심지어 더 칭찬하라고 포상금 1,000만원까지 주고 여기서 그치지 않고 행안부 차관님이 커피차 2대를 몰고 오셔서 직원들에게 커피를 쏘기까지 합니다. \n\n직원들이 깜짝 이벤트에 놀라서 사진을 찍어 보내왔습니다.\n\n부처간 칸막이가 이렇게 무너져 가고 있습니다. \n서로 격려하며 같이 힘을 모아 더 큰 성과를 만들어내도록 하겠습니다. \n\np.s. 칭찬해주신 행정안전부 윤호중 장관님, 김민재 차관님도 칭찬합니다. ^^\n\n#행정안전부 #과학기술정보통신부 #특별성과포상제 #칭찬",
       "url": "https://x.com/msitminister/status/2042417969192714478",
       "is_ai_trend": false,
       "ai_confidence": 0.1,
@@ -47,7 +47,7 @@
       "ai_bullets": [],
       "ai_summary": "",
       "ai_themes": [
-        "정책/규제"
+        "기타"
       ],
       "published_at": "2026-04-10 10:42"
     },
@@ -57,19 +57,19 @@
       "account_handle": "sama",
       "display_name": "샘 올트먼",
       "content": "It is very nice to see Codex getting so much love. We are launching a $100 ChatGPT Pro tier by very popular demand.",
-      "content_ko": "Codex에 대한 많은 사랑을 보고 있습니다. 인기 요청에 따라 $100 ChatGPT Pro 요금제를 출시합니다.",
+      "content_ko": "Codex가 많은 사랑을 받고 있다는 점은 매우 기쁘다. 인기 있는 요구에 따라 100달러의 ChatGPT Pro 요금제를 출시한다.",
       "url": "https://x.com/sama/status/2042342572958630332",
       "is_ai_trend": true,
-      "ai_confidence": 1.0,
+      "ai_confidence": 0.95,
       "ai_title": "OpenAI: ChatGPT Pro 100달러 요금제 출시 발표",
       "ai_bullets": [
-        "Codex에 대한 사용자들의 높은 관심에 따라 $100 ChatGPT Pro 요금제를 출시합니다.",
-        "새로운 요금제는 인기 요청에 따라 제공됩니다."
+        "ChatGPT Pro 100달러 요금제가 인기 요구에 따라 출시된다.",
+        "Codex에 대한 관심이 높아지고 있으며, 새로운 요금제는 이를 반영한 전략이다."
       ],
-      "ai_summary": "Codex 사용자들의 요청에 따라 ChatGPT Pro 100달러 요금제를 출시했습니다.",
+      "ai_summary": "OpenAI는 인기 있는 Codex에 대한 관심을 반영해 100달러 요금제의 ChatGPT Pro를 출시한다고 발표했다.",
       "ai_themes": [
         "산업동향",
-        "생성형AI"
+        "기술발전"
       ],
       "published_at": "2026-04-10 05:43"
     },
@@ -79,19 +79,19 @@
       "account_handle": "karpathy",
       "display_name": "안드레이 카파시",
       "content": "Someone recently suggested to me that the reason OpenClaw moment was so big is because it's the first time a large group of non-technical people (who otherwise only knew AI as synonymous with ChatGPT as a website) experienced the latest agentic models.",
-      "content_ko": "",
+      "content_ko": "Someone recently suggested to me that the reason OpenClaw moment was so big is because it's the first time a large group of non-technical people (who otherwise only knew AI as synonymous with ChatGPT as a website) experienced the latest agentic models.",
       "url": "https://x.com/karpathy/status/2042341482531864741",
       "is_ai_trend": true,
-      "ai_confidence": 0.9,
-      "ai_title": "오픈클라우브 현상과 에이전트 모델의 대중화 논의",
+      "ai_confidence": 0.95,
+      "ai_title": "OpenClaw 이벤트가 비기술자에게 agentic 모델 첫 경험 제공",
       "ai_bullets": [
-        "최근 비기술인들이 대규모로 에이전트 모델을 체험하게 된 이유로 오픈클라우브 현상이 주목받았다고 분석",
-        "비기술인들이 AI를 단순히 챗지피티 웹사이트로 인식하던 상황에서 최신 에이전트 모델을 경험하게 된 점이 특징"
+        "OpenClaw 이벤트가 비기술자에게 agentic 모델 첫 경험 제공",
+        "ChatGPT와 같은 웹사이트로 AI를 인식하던 일반 사용자에게 agentic 모델 체험 기회 제공"
       ],
-      "ai_summary": "비기술인 대상 에이전트 모델 체험 확대로 인한 오픈클라우브 현상에 대한 논의가 이뤄졌다.",
+      "ai_summary": "OpenClaw 이벤트는 비기술자에게 agentic 모델 첫 경험을 제공하며 AI 인식 변화에 기여했다고 분석했다.",
       "ai_themes": [
         "기술발전",
-        "에이전트"
+        "산업동향"
       ],
       "published_at": "2026-04-10 05:38"
     },
@@ -101,20 +101,21 @@
       "account_handle": "karpathy",
       "display_name": "안드레이 카파시",
       "content": "Judging by my tl there is a growing gap in understanding of AI capability.\n\nThe first issue I think is around recency and tier of use. I think a lot of people tried the free tier of ChatGPT somewhere  last year and allowed it to inform their views on AI a little too much. This is a group of reactions laughing at various quirks of the models, hallucinations, etc. Yes I also saw the viral videos of OpenAI's Advanced Voice mode fumbling simple queries like \"should I drive or walk to the carwash\". The thing is that these free and old/deprecated models don't reflect the capability in the latest round of state of the art agentic models of this year, especially OpenAI Codex and Claude Code.\n\nBut that brings me to the second issue. Even if people paid $200/month to use the state of the art models, a lot of the capabilities are relatively \"peaky\" in highly technical areas. Typical queries around search, writing, advice, etc. are *not* the domain that has made the most noticeable and dramatic strides in capability. Partly,  this is due to the technical details of reinforcement learning and its use of verifiable rewards. But partly, it's also because these use cases are not sufficiently prioritized by the companies in their hillclimbing because they don't lead to as much $$$ value. The goldmines are elsewhere, and the focus comes along.\n\nSo that brings me to the second group of people, who *both* 1) pay for and use the state of the art frontier agentic models (OpenAI Codex / Claude Code) and 2) do so professionally in technical domains like programming, math and research. This group of people is subject to the highest amount of \"AI Psychosis\" because the recent improvements in these domains as of this year have been nothing short of staggering. When you hand a computer terminal to one of these models, you can now watch them melt programming problems that you'd normally expect to take days/weeks of work. It's this second group of people that assigns a much greater gravity to the capabilities, their slope, and various cyber-related repercussions.\n\nTLDR the people in these two groups are speaking past each other. It really is simultaneously the case that OpenAI's free and I think slightly orphaned (?) \"Advanced Voice Mode\" will fumble the dumbest questions in your Instagram's reels and *at the same time*, OpenAI's highest-tier and paid Codex model will go off for 1 hour to coherently restructure an entire code base, or find and exploit vulnerabilities in computer systems. This part really works and has made dramatic strides because 2 properties: 1) these domains offer explicit reward functions that are verifiable meaning they are easily amenable to reinforcement learning training (e.g. unit tests passed yes or no, in contrast to writing, which is much harder to explicitly judge),  but also 2) they are a lot more valuable in b2b settings, meaning that the biggest fraction of the team is focused on improving them. So here we are.",
-      "content_ko": "내용: 내 트윗에서 AI 능력 이해 격차가 커지고 있다고 판단합니다. 첫 번째 문제는 최근 사용 및 티어 수준입니다. 많은 사람들이 지난해 ChatGPT 무료 티어를 사용해 AI에 대한 인식을 형성했고, 이로 인해 모델의 특이점이나 홀로우리즘 등에 대한 웃음거리가 생겼습니다. 오픈AI의 고급 음성 모드가 '차를 타거나 걸어갈지' 같은 단순 질문을 처리하는 모습이 바이럴화된 적도 있습니다. 하지만 이는 최신 agentic 모델(오픈AI Codex 및 Claude Code)과 같은 최신 기술 수준을 반영하지 않습니다. 이는 두 번째 문제로 이어집니다. 사용자들이 최신 모델을 사용하더라도 기술 분야 외 사용 사례는 성과가 제한적입니다. 강화학습의 보상 함수 구조와 기업의 우선순위가 이에 영향을 미칩니다. 이 두 그룹은 서로 다른 관점에서 AI 능력을 평가하고 있습니다. TLDR: 두 그룹은 서로 다른 관점에서 말하고 있습니다. 오픈AI의 무료 고급 음성 모드는 인스타그램 레일에서 가장 쉬운 질문도 처리하지 못하지만, Codex 모델은 코드베이스 재구성이나 시스템 취약점 탐지에 1시간을 할애합니다. 이는 보상 함수의 명확성과 B2B 가치 차이로 인한 성과입니다.",
+      "content_ko": "Judging by my tl there is a growing gap in understanding of AI capability. The first issue I think is around recency and tier of use. I think a lot of people tried the free tier of ChatGPT somewhere last year and allowed it to inform their views on AI a little too much. This is a group of reactions laughing at various quirks of the models, hallucinations, etc. Yes I also saw the viral videos of OpenAI's Advanced Voice mode fumbling simple queries like 'should I drive or walk to the carwash'. The thing is that these free and old/deprecated models don't reflect the capability in the latest round of state of the art agentic models of this year, especially OpenAI Codex and Claude Code. But that brings me to the second issue. Even if people paid $200/month to use the state of the art models, a lot of the capabilities are relatively 'peaky' in highly technical areas. Typical queries around search, writing, advice, etc. are *not* the domain that has made the most noticeable and dramatic strides in capability. Partly, this is due to the technical details of reinforcement learning and its use of verifiable rewards. But partly, it's also because these use cases are not sufficiently prioritized by the companies in their hillclimbing because they don't lead to as much $$$ value. The goldmines are elsewhere, and the focus comes along. So that brings me to the second group of people, who *both* 1) pay for and use the state of the art frontier agentic models (OpenAI Codex / Claude Code) and 2) do so professionally in technical domains like programming, math and research. This group of people is subject to the highest amount of 'AI Psychosis' because the recent improvements in these domains as of this year have been nothing short of staggering. When you hand a computer terminal to one of these models, you can now watch them melt programming problems that you'd normally expect to take days/weeks of work. It's this second group of people that assigns a much greater gravity to the capabilities, their slope, and various cyber-related repercussions. TLDR the people in these two groups are speaking past each other. It really is simultaneously the case that OpenAI's free and I think slightly orphaned (?) 'Advanced Voice Mode' will fumble the dumbest questions in your Instagram's reels and *at the same time*, OpenAI's highest-tier and paid Codex model will go off for 1 hour to coherently restructure an entire code base, or find and exploit vulnerabilities in computer systems. This part really works and has made dramatic strides because 2 properties: 1) these domains offer explicit reward functions that are verifiable meaning they are easily amenable to reinforcement learning training (e.g. unit tests passed yes or no, in contrast to writing, which is much harder to explicitly judge), but also 2) they are a lot more valuable in b2b settings, meaning that the biggest fraction of the team is focused on improving them. So here we are.",
       "url": "https://x.com/karpathy/status/2042334451611693415",
       "is_ai_trend": true,
-      "ai_confidence": 0.95,
-      "ai_title": "AI 능력 이해 격차 확대 경고",
+      "ai_confidence": 0.98,
+      "ai_title": "AI 능력 인식 격차와 최신 agentic 모델의 기술적 발전 분석",
       "ai_bullets": [
-        "무료 티어 사용자와 최신 agentic 모델 사용자 간 AI 능력 인식 격차 지적",
-        "Codex 및 Claude Code 등 최신 모델은 기술 분야에서 뚜렷한 성과를 보임",
-        "강화학습의 보상 함수 구조와 B2B 가치 차이로 기술 발전 우선순위 형성"
+        "AI 사용자 간 능력 인식 격차 존재 분석",
+        "무료/구식 모델과 최신 agentic 모델 간 기술적 차이 강조",
+        "OpenAI Codex 및 Claude Code 모델의 높은 성능과 기술적 발전 언급"
       ],
-      "ai_summary": "AI 능력 이해 격차가 확대되고 있으며, 기술 분야에서의 성과와 비즈니스 가치 차이가 발전 방향에 영향을 미침",
+      "ai_summary": "AI 사용자 간 능력 인식 격차와 최신 agentic 모델의 기술적 발전을 분석하며, 특정 분야에서의 성능 향상에 대한 논의가 진행되었다.",
       "ai_themes": [
         "기술발전",
-        "연구/논문"
+        "연구/논문",
+        "윤리/안전"
       ],
       "published_at": "2026-04-10 05:10"
     },
@@ -124,20 +125,20 @@
       "account_handle": "AndrewYNg",
       "display_name": "앤드류 응",
       "content": "New course: Efficient Inference with SGLang: Text and Image Generation, built in partnership with LMSys @lmsysorg and RadixArk @radixark, and taught by Richard Chen @richardczl, a Member of Technical Staff at RadixArk.\n\nRunning LLMs in production is expensive, and much of that cost comes from redundant computation. This short course teaches you to eliminate that waste using SGLang, an open-source inference framework that caches computation already done and reuses it across future requests.\n\nWhen ten users share the same system prompt, SGLang processes it once, not ten times. The speedups compound quickly, especially when there's a lot of shared context across requests.\n\nSkills you'll gain:\n- Implement a KV cache from scratch to eliminate redundant computation within a single request\n- Scale caching across users and requests with RadixAttention, so shared context is only processed once\n- Accelerate image generation with diffusion models using SGLang's caching and multi-GPU parallelism\n\nJoin and learn to make LLM inference faster and more cost-efficient at scale!\nhttps://t.co/vUiu6goWCO",
-      "content_ko": "새로운 과정 'Efficient Inference with SGLang: Text and Image Generation'을 발표했습니다. 이 과정은 LMSys와 RadixArk와 협력하여 진행되며, Richard Chen 강사가 강의합니다. 대규모 언어 모델(LLM)을 생산 환경에서 실행할 때 발생하는 비용 절감을 위한 SGLang 기반 캐싱 기법을 학습할 수 있습니다. 동일 시스템 프롬프트를 사용하는 사용자에게는 계산을 한 번만 수행해 비용을 절감할 수 있으며, 다중 사용자 간 공유 컨텍스트 처리를 통해 성능 향상을 이끌어냅니다. 또한, 확산 모델을 활용한 이미지 생성 최적화 기법도 소개합니다.",
+      "content_ko": "새로운 과정: SGLang을 활용한 효율적인 추론, 텍스트 및 이미지 생성, LMSys @lmsysorg와 RadixArk @radixark와의 협업, Richard Chen @richardczl 교수에 의해 개발됨. 실제 환경에서 LLM을 실행하는 것은 비용이 많이 들며, 그 대부분은 중복 계산에서 비롯된다. 이 짧은 과정은 SGLang이라는 오픈소스 추론 프레임워크를 사용해 이미 수행된 계산을 캐싱하고 미래 요청에서 재사용함으로써 이 낭비를 제거하는 방법을 가르친다. 10명의 사용자가 동일한 시스템 프롬프트를 공유할 경우, SGLang은 그것을 한 번 처리하고, 10번 처리하지 않는다. 속도 향상은 특히 요청 간에 많은 공유 컨텍스트가 있을 때 빠르게 누적된다. 습득할 기술: - 단일 요청 내에서 중복 계산을 제거하기 위해 KV 캐시를 직접 구현 - RadixAttention을 사용해 사용자 및 요청 간 캐싱을 확장하여 공유 컨텍스트가 한 번만 처리되도록 함 - SGLang의 캐싱 및 멀티-GPU 병렬 처리 전략을 사용해 확산 모델을 통한 이미지 생성 가속화",
       "url": "https://x.com/AndrewYNg/status/2042289428702642588",
       "is_ai_trend": true,
-      "ai_confidence": 0.98,
-      "ai_title": "SGLang 기반 AI 추론 최적화 과정 개설 발표",
+      "ai_confidence": 1.0,
+      "ai_title": "Andrew Ng(앤드류 응): SGLang을 활용한 LLM 추론 최적화 과정 공개",
       "ai_bullets": [
-        "SGLang 기반 AI 추론 최적화 과정 개설, 캐싱 기법 강조",
-        "KV 캐시 구현 및 RadixAttention 기법으로 추론 비용 절감",
-        "이미지 생성 및 다중 GPU 병렬 처리 기법 적용 가능"
+        "SGLang이라는 오픈소스 추론 프레임워크를 사용해 LLM 실행 비용을 줄이는 방법을 설명",
+        "KV 캐시와 RadixAttention 기술을 통해 중복 계산을 제거하는 방식을 교육",
+        "이미지 생성을 위한 확산 모델에 SGLang의 캐싱 및 멀티-GPU 병렬 처리 전략 적용"
       ],
-      "ai_summary": "SGLang 기반 AI 추론 최적화 과정 개설로 추론 속도 및 비용 절감 기술 공유",
+      "ai_summary": "앤드류 응(Andrew Ng)은 SGLang을 활용한 LLM 추론 최적화 방법을 교육하는 새로운 코스를 발표했다. 이 과정은 중복 계산을 줄이고, 이미지 생성을 가속화하는 기술을 포함한다.",
       "ai_themes": [
         "기술발전",
-        "교육/강의"
+        "오픈소스"
       ],
       "published_at": "2026-04-10 02:11"
     }
