@@ -190,7 +190,6 @@ function renderDashboard(data) {
         var posts = priorityPostMap[acct.handle] || [];
         html += '<div class="section priority-section"><div class="section-header priority-header">' +
             acct.icon + ' ' + escapeHtml(acct.label) +
-            '<span class="priority-badge">우선순위</span>' +
             '<span class="priority-count">' + posts.length + '건</span>' +
             '</div>';
         if (posts.length > 0) {

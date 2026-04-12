@@ -437,17 +437,6 @@ body {
     gap: 10px;
 }
 
-.priority-badge {
-    background: var(--gov-gold);
-    color: #1a1a1a;
-    padding: 2px 8px;
-    border-radius: 3px;
-    font-size: 10px;
-    font-weight: 700;
-    letter-spacing: 0.5px;
-    text-transform: uppercase;
-}
-
 .priority-count {
     margin-left: auto;
     font-size: 13px;
