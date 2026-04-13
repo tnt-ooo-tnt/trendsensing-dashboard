@@ -32,11 +32,11 @@
         <span id="clock"></span>
     </div>
     <div class="header-main">
-        <div class="header-emblem">AI</div>
+        <div class="header-emblem">TS</div>
         <div>
             <div class="header-title">
-                AI 트렌드센싱 페이지
-                <span class="test-badge">테스트페이지</span>
+                AI 트렌드센싱
+                <span class="test-badge">TEST</span>
             </div>
             <div class="header-subtitle">AI 트렌드 수집 및 분석 대시보드</div>
         </div>
@@ -46,14 +46,16 @@
 <!-- Date Navigation -->
 <nav class="date-nav">
     <button class="date-nav-btn" id="btn-prev" onclick="navigateDate(1)">
-        &#9664; 이전
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+        이전
     </button>
     <div class="date-display">
         <div class="date-display-main" id="date-main"></div>
         <div class="date-display-sub" id="date-sub"></div>
     </div>
     <button class="date-nav-btn" id="btn-next" onclick="navigateDate(-1)">
-        다음 &#9654;
+        다음
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 6 15 12 9 18"/></svg>
     </button>
 </nav>
 
@@ -64,7 +66,7 @@
 
 <!-- Footer -->
 <footer class="footer">
-    TrendSensing Bot &mdash; AI 트렌드 수집 및 분석 시스템 (테스트페이지)<br>
+    TrendSensing Bot &mdash; AI 트렌드 수집 및 분석 시스템<br>
     Powered by Ollama/Qwen3:14b &middot; Data from X(Twitter)
 </footer>
 
@@ -80,9 +82,10 @@ function kstToday() {
     return kst.getFullYear() + '-' + String(kst.getMonth()+1).padStart(2,'0') + '-' + String(kst.getDate()).padStart(2,'0');
 }
 
+const ICON_USER = '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>';
 const PRIORITY_ACCOUNTS = [
-    { handle: 'Jaemyung_Lee', label: '이재명 대통령', icon: '🇰🇷' },
-    { handle: 'msitminister', label: '배경훈 과학기술부총리 겸 과학기술정보통신부 장관', icon: '🇰🇷' }
+    { handle: 'Jaemyung_Lee', label: '이재명 대통령', icon: ICON_USER },
+    { handle: 'msitminister', label: '배경훈 과학기술부총리 겸 과학기술정보통신부 장관', icon: ICON_USER }
 ];
 
 async function init() {
@@ -171,9 +174,9 @@ function showNoData(title, sub) {
 }
 
 function getConfColor(conf) {
-    if (conf >= 0.7) return '#27ae60';
-    if (conf >= 0.4) return '#f39c12';
-    return '#e74c3c';
+    if (conf >= 0.7) return '#059669';
+    if (conf >= 0.4) return '#D97706';
+    return '#DC2626';
 }
 
 function escapeHtml(text) {
@@ -184,7 +187,7 @@ function escapeHtml(text) {
 
 function linkify(text) {
     var escaped = escapeHtml(text);
-    return escaped.replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank" style="color:var(--gov-light-blue)">$1</a>');
+    return escaped.replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank" rel="noopener" style="color:var(--primary-light)">$1</a>');
 }
 
 function renderDashboard(data) {
@@ -242,7 +245,7 @@ function renderDashboard(data) {
     var generalAiTrue = generalPosts.filter(function(p) { return p.is_ai_trend; }).length;
     var generalAiFalse = generalPosts.length - generalAiTrue;
 
-    html += '<div class="section"><div class="section-header">&#127760; 국내외 AI 동향</div><div style="padding-top:16px">' +
+    html += '<div class="section"><div class="section-header"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg> 국내외 AI 동향</div><div style="padding-top:16px">' +
         '<div class="tab-filter">' +
         '<button class="tab-btn active" onclick="filterPosts(\'all\', this, \'post-list\')">전체 (' + generalPosts.length + ')</button>' +
         '<button class="tab-btn" onclick="filterPosts(\'ai\', this, \'post-list\')">AI 관련 (' + generalAiTrue + ')</button>' +
@@ -254,7 +257,7 @@ function renderDashboard(data) {
     // Sources
     var srcEntries = Object.entries(data.source_counts).sort(function(a,b){return b[1]-a[1]});
     var srcTotal = srcEntries.reduce(function(s,e){return s+e[1]}, 0);
-    html += '<div class="section"><div class="section-header">&#128202; 수집 출처별 현황</div><div class="section-body">' +
+    html += '<div class="section"><div class="section-header"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg> 수집 출처별 현황</div><div class="section-body">' +
         '<table class="source-table"><thead><tr><th>출처</th><th>수집 건수</th></tr></thead><tbody>';
     srcEntries.forEach(function(e) {
         html += '<tr><td>@' + escapeHtml(e[0]) + '</td><td>' + e[1] + '건</td></tr>';
@@ -304,17 +307,17 @@ function renderPostCard(p) {
     }
 
     if (p.url) {
-        bodyHtml += '<a class="post-link" href="' + escapeHtml(p.url) + '" target="_blank">&#128279; \uc6d0\ubb38 \ubcf4\uae30</a>';
+        bodyHtml += '<a class="post-link" href="' + escapeHtml(p.url) + '" target="_blank" rel="noopener"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> \uc6d0\ubb38 \ubcf4\uae30</a>';
     }
 
     return '<div class="post-card ' + aiClass + '" data-ai="' + p.is_ai_trend + '">' +
         '<div class="post-card-header"><div class="post-meta">' +
         '<span class="post-platform">' + escapeHtml(p.platform) + '</span>' +
         '<span class="post-handle">@' + escapeHtml(p.account_handle) + (p.display_name ? ' (' + escapeHtml(p.display_name) + ')' : '') + '</span>' +
-        '<span style="color:#7f8c8d;font-size:12px">' + escapeHtml(p.published_at) + '</span>' +
-        '</div><div style="display:flex;align-items:center;gap:8px">' +
+        '<span style="color:var(--text-tertiary);font-size:11px">' + escapeHtml(p.published_at) + '</span>' +
+        '</div><div style="display:flex;align-items:center;gap:6px;flex-shrink:0">' +
         '<span class="post-badge ' + badgeClass + '">' + badgeText + '</span>' +
-        '<span style="font-size:12px;color:#7f8c8d">' + confPct + '%</span>' +
+        '<span style="font-size:11px;font-family:var(--font-mono);color:var(--text-tertiary)">' + confPct + '%</span>' +
         '<span class="confidence-bar"><span class="confidence-fill" style="width:' + confPct + '%;background:' + confColor + '"></span></span>' +
         '</div></div><div class="post-card-body">' + bodyHtml + '</div></div>';
 }
