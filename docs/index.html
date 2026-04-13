@@ -32,7 +32,7 @@
         <span id="clock"></span>
     </div>
     <div class="header-main">
-        <div class="header-emblem">TS</div>
+        <div class="header-emblem"><img src="favicon.svg" alt="과학기술정보통신부" width="28" height="28"></div>
         <div>
             <div class="header-title">
                 AI 트렌드센싱
@@ -82,10 +82,9 @@ function kstToday() {
     return kst.getFullYear() + '-' + String(kst.getMonth()+1).padStart(2,'0') + '-' + String(kst.getDate()).padStart(2,'0');
 }
 
-const ICON_USER = '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>';
 const PRIORITY_ACCOUNTS = [
-    { handle: 'Jaemyung_Lee', label: '이재명 대통령', icon: ICON_USER },
-    { handle: 'msitminister', label: '배경훈 과학기술부총리 겸 과학기술정보통신부 장관', icon: ICON_USER }
+    { handle: 'Jaemyung_Lee', label: '이재명 대통령', icon: '\uD83C\uDDF0\uD83C\uDDF7' },
+    { handle: 'msitminister', label: '배경훈 과학기술부총리 겸 과학기술정보통신부 장관', icon: '\uD83C\uDDF0\uD83C\uDDF7' }
 ];
 
 async function init() {
