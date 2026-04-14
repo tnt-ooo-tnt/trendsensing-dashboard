@@ -1,13 +1,22 @@
 {
   "date": "2026-04-01",
-  "total": 1,
-  "ai_true": 1,
-  "ai_false": 0,
+  "total": 3,
+  "ai_true": 2,
+  "ai_false": 1,
   "source_counts": {
+    "Google AI Blog": 2,
     "AndrewYNg": 1
   },
-  "avg_confidence": 0.9,
+  "avg_confidence": 0.6,
   "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "산업동향",
+      1
+    ],
     [
       "정책/규제",
       1
@@ -18,6 +27,44 @@
     ]
   ],
   "posts": [
+    {
+      "post_id": "945b2912e4f25ced47027eb2",
+      "platform": "rss",
+      "account_handle": "Google AI Blog",
+      "display_name": "Google AI",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp\" />Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests.",
+      "content_ko": "구글은 브라질 정부와 협력하여 국가의 숲 보호를 위해 위성 이미지 지도를 개발하는 프로젝트에 참여했다. 이미지 링크: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp",
+      "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-04-01 22:30"
+    },
+    {
+      "post_id": "1097cf2f5ea33407a007c4b9",
+      "platform": "rss",
+      "account_handle": "Google AI Blog",
+      "display_name": "Google AI",
+      "content": "March 2026 AI Recap showing new updates",
+      "content_ko": "2026년 AI 분야의 주요 업데이트를 정리한 리캡 게시물입니다.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+      "is_ai_trend": true,
+      "ai_confidence": 0.7,
+      "ai_title": "구글 AI 블로그: 2026년 AI 업데이트 요약 발표",
+      "ai_bullets": [
+        "2026년 AI 분야의 주요 업데이트를 정리한 리캡 게시물",
+        "구글 AI 블로그에서 발표한 내용"
+      ],
+      "ai_summary": "구글 AI 블로그는 2026년 AI 분야의 주요 업데이트를 정리한 리캡을 발표했다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-04-01 22:00"
+    },
     {
       "post_id": "2039051446084153834",
       "platform": "twitter",

@@ -1,0 +1,29 @@
+{
+  "date": "2025-08-14",
+  "total": 1,
+  "ai_true": 0,
+  "ai_false": 1,
+  "source_counts": {
+    "NVIDIA Blog": 1
+  },
+  "avg_confidence": 0.1,
+  "top_themes": [],
+  "posts": [
+    {
+      "post_id": "e5feb2a0f0275e9592701b14",
+      "platform": "rss",
+      "account_handle": "NVIDIA Blog",
+      "display_name": "NVIDIA",
+      "content": "Bringing together the world’s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems. To foster such innovation, the NVIDIA Graduate Fellowship Program provides grants, mentors and technical support to doctoral students doing outstanding research relevant to NVIDIA technologies. The program, in its 25th [&#8230;]",
+      "content_ko": "세계 최고의 인재들과 최신 가속 컴퓨팅 기술을 결합하면 가장 큰 연구 문제를 해결하는 강력한 돌파구를 만들 수 있다. 이러한 혁신을 촉진하기 위해 NVIDIA는 NVIDIA 기술과 관련된 뛰어난 연구를 수행하는 박사과정 학생들에게 장학금, 멘토링 및 기술 지원을 제공하는 NVIDIA 대학원 장학금 프로그램을 운영한다. 이 프로그램은 25년째 진행되고 있다.",
+      "url": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2025/",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2025-08-14 00:00"
+    }
+  ]
+}

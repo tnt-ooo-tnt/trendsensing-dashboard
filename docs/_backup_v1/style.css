@@ -1,0 +1,492 @@
+/* === AI 트렌드센싱 대시보드 — 대한민국 정부 스타일 === */
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap');
+
+:root {
+    --gov-navy: #003764;
+    --gov-blue: #1a5276;
+    --gov-light-blue: #2980b9;
+    --gov-accent: #c0392b;
+    --gov-gold: #d4ac0d;
+    --gov-bg: #f4f6f8;
+    --gov-card: #ffffff;
+    --gov-border: #d5d8dc;
+    --gov-text: #2c3e50;
+    --gov-muted: #7f8c8d;
+    --gov-success: #27ae60;
+    --gov-danger: #e74c3c;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+    font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif;
+    background: var(--gov-bg);
+    color: var(--gov-text);
+    line-height: 1.6;
+}
+
+/* === Header === */
+.header {
+    background: linear-gradient(135deg, var(--gov-navy) 0%, var(--gov-blue) 100%);
+    color: white;
+    padding: 0;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.header-top {
+    background: rgba(0,0,0,0.15);
+    padding: 4px 24px;
+    font-size: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: rgba(255,255,255,0.7);
+}
+
+.header-main {
+    padding: 16px 24px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.header-emblem {
+    width: 48px;
+    height: 48px;
+    background: rgba(255,255,255,0.15);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    flex-shrink: 0;
+}
+
+.header-title {
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}
+
+.header-subtitle {
+    font-size: 13px;
+    color: rgba(255,255,255,0.7);
+    font-weight: 300;
+}
+
+.test-badge {
+    background: var(--gov-accent);
+    color: white;
+    padding: 3px 10px;
+    border-radius: 3px;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-left: 12px;
+    vertical-align: middle;
+}
+
+/* === Date Navigation === */
+.date-nav {
+    background: white;
+    border-bottom: 2px solid var(--gov-navy);
+    padding: 12px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+}
+
+.date-nav-btn {
+    background: var(--gov-blue);
+    color: white;
+    border: none;
+    padding: 8px 18px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: inherit;
+    font-weight: 500;
+    transition: background 0.2s;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.date-nav-btn:hover { background: var(--gov-navy); }
+.date-nav-btn:disabled { background: #bdc3c7; cursor: not-allowed; }
+
+.date-display {
+    text-align: center;
+    min-width: 200px;
+}
+
+.date-display-main {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--gov-navy);
+}
+
+.date-display-sub {
+    font-size: 12px;
+    color: var(--gov-muted);
+}
+
+/* === Dashboard Content === */
+.dashboard {
+    max-width: 1200px;
+    margin: 24px auto;
+    padding: 0 24px;
+}
+
+.loading {
+    text-align: center;
+    padding: 60px;
+    color: var(--gov-muted);
+    font-size: 16px;
+}
+
+.no-data {
+    text-align: center;
+    padding: 80px 24px;
+    color: var(--gov-muted);
+}
+
+.no-data h3 { font-size: 18px; margin-bottom: 8px; color: var(--gov-text); }
+
+/* === Stats Cards === */
+.stats-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 16px;
+    margin-bottom: 24px;
+}
+
+.stat-card {
+    background: var(--gov-card);
+    border: 1px solid var(--gov-border);
+    border-radius: 6px;
+    padding: 16px;
+    text-align: center;
+    border-top: 3px solid var(--gov-blue);
+}
+
+.stat-card.highlight { border-top-color: var(--gov-accent); }
+.stat-card.success { border-top-color: var(--gov-success); }
+
+.stat-value {
+    font-size: 28px;
+    font-weight: 900;
+    color: var(--gov-navy);
+    line-height: 1.2;
+}
+
+.stat-label {
+    font-size: 12px;
+    color: var(--gov-muted);
+    margin-top: 4px;
+    font-weight: 500;
+}
+
+/* === Section === */
+.section {
+    background: var(--gov-card);
+    border: 1px solid var(--gov-border);
+    border-radius: 6px;
+    margin-bottom: 24px;
+    overflow: hidden;
+}
+
+.section-header {
+    background: var(--gov-navy);
+    color: white;
+    padding: 10px 20px;
+    font-size: 14px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.section-body { padding: 20px; }
+
+/* === Source Table === */
+.source-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+}
+
+.source-table th {
+    background: var(--gov-bg);
+    padding: 8px 12px;
+    text-align: left;
+    font-weight: 700;
+    color: var(--gov-navy);
+    border-bottom: 2px solid var(--gov-navy);
+}
+
+.source-table td {
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--gov-border);
+}
+
+.source-table tr:last-child td { border-bottom: none; }
+
+.source-table .total-row {
+    background: var(--gov-bg);
+    font-weight: 700;
+}
+
+/* === Theme Tags === */
+.theme-tags { display: flex; flex-wrap: wrap; gap: 8px; }
+
+.theme-tag {
+    background: var(--gov-bg);
+    border: 1px solid var(--gov-border);
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.theme-tag .count {
+    color: var(--gov-light-blue);
+    font-weight: 700;
+    margin-left: 4px;
+}
+
+/* === Post Cards === */
+.post-card {
+    border: 1px solid var(--gov-border);
+    border-radius: 6px;
+    margin-bottom: 16px;
+    overflow: hidden;
+    transition: box-shadow 0.2s;
+}
+
+.post-card:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+
+.post-card.ai-true { border-left: 4px solid var(--gov-success); }
+.post-card.ai-false { border-left: 4px solid var(--gov-muted); }
+
+.post-card-header {
+    padding: 12px 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 12px;
+    background: var(--gov-bg);
+    border-bottom: 1px solid var(--gov-border);
+}
+
+.post-meta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 13px;
+}
+
+.post-handle {
+    font-weight: 700;
+    color: var(--gov-navy);
+}
+
+.post-platform {
+    background: var(--gov-blue);
+    color: white;
+    padding: 1px 6px;
+    border-radius: 3px;
+    font-size: 11px;
+}
+
+.post-badge {
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-size: 11px;
+    font-weight: 700;
+    white-space: nowrap;
+}
+
+.post-badge.ai { background: #d5f5e3; color: #1e8449; }
+.post-badge.not-ai { background: #f2f3f4; color: #7f8c8d; }
+
+.confidence-bar {
+    display: inline-block;
+    width: 50px;
+    height: 6px;
+    background: #ecf0f1;
+    border-radius: 3px;
+    overflow: hidden;
+    vertical-align: middle;
+    margin-left: 6px;
+}
+
+.confidence-fill {
+    display: block;
+    height: 100%;
+    border-radius: 3px;
+    transition: width 0.3s;
+}
+
+.post-card-body { padding: 16px; }
+
+.post-title-ko {
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--gov-navy);
+    margin-bottom: 10px;
+    line-height: 1.4;
+}
+
+.post-bullets {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 12px;
+}
+
+.post-bullets li {
+    padding: 4px 0 4px 18px;
+    position: relative;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #34495e;
+}
+
+.post-bullets li::before {
+    content: "\2014";
+    position: absolute;
+    left: 0;
+    color: var(--gov-light-blue);
+    font-weight: 700;
+}
+
+.post-original {
+    background: var(--gov-bg);
+    border-radius: 4px;
+    padding: 12px;
+    font-size: 13px;
+    color: var(--gov-muted);
+    margin-top: 10px;
+    border-left: 3px solid var(--gov-border);
+    word-break: break-word;
+}
+
+.post-original-label {
+    font-weight: 700;
+    color: var(--gov-text);
+    font-size: 11px;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+}
+
+.post-translation {
+    background: #eaf2f8;
+    border-radius: 4px;
+    padding: 12px;
+    font-size: 13px;
+    color: var(--gov-text);
+    margin-top: 8px;
+    border-left: 3px solid var(--gov-light-blue);
+    white-space: pre-wrap;
+    word-break: break-word;
+}
+
+.post-link {
+    display: inline-block;
+    margin-top: 10px;
+    color: var(--gov-light-blue);
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.post-link:hover { text-decoration: underline; }
+
+.post-themes {
+    margin-top: 10px;
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+}
+
+.post-theme-chip {
+    background: #eaf2f8;
+    color: var(--gov-blue);
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 11px;
+    font-weight: 500;
+}
+
+/* === Priority Section === */
+.priority-section {
+    border: 1px solid var(--gov-border);
+}
+
+.priority-header {
+    background: linear-gradient(135deg, var(--gov-navy) 0%, #1a4d7a 100%);
+    font-size: 15px;
+    padding: 12px 20px;
+    gap: 10px;
+}
+
+.priority-count {
+    margin-left: auto;
+    font-size: 13px;
+    font-weight: 400;
+    color: rgba(255,255,255,0.7);
+}
+
+/* === Tab Filter === */
+.tab-filter {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 16px;
+    padding: 0 20px;
+}
+
+.tab-btn {
+    padding: 6px 16px;
+    border: 1px solid var(--gov-border);
+    border-radius: 4px;
+    background: white;
+    font-family: inherit;
+    font-size: 13px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: all 0.2s;
+}
+
+.tab-btn.active {
+    background: var(--gov-navy);
+    color: white;
+    border-color: var(--gov-navy);
+}
+
+.tab-btn:hover:not(.active) { background: var(--gov-bg); }
+
+/* === Footer === */
+.footer {
+    text-align: center;
+    padding: 24px;
+    color: var(--gov-muted);
+    font-size: 12px;
+    border-top: 1px solid var(--gov-border);
+    margin-top: 40px;
+}
+
+/* === Responsive === */
+@media (max-width: 768px) {
+    .header-main { padding: 12px 16px; }
+    .header-title { font-size: 18px; }
+    .dashboard { padding: 0 12px; }
+    .stats-row { grid-template-columns: repeat(2, 1fr); }
+    .date-nav { padding: 10px 12px; gap: 12px; }
+    .date-display-main { font-size: 16px; }
+}

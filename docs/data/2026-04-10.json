@@ -1,27 +1,29 @@
 {
   "date": "2026-04-10",
-  "total": 5,
-  "ai_true": 4,
-  "ai_false": 1,
+  "total": 10,
+  "ai_true": 8,
+  "ai_false": 2,
   "source_counts": {
+    "Samsung Newsroom": 1,
     "msitminister": 1,
+    "OpenAI Blog": 4,
     "sama": 1,
     "karpathy": 2,
     "AndrewYNg": 1
   },
-  "avg_confidence": 0.79,
+  "avg_confidence": 0.77,
   "top_themes": [
     [
+      "산업동향",
+      5
+    ],
+    [
       "기술발전",
-      3
+      4
     ],
     [
       "연구/논문",
       2
-    ],
-    [
-      "산업동향",
-      1
     ],
     [
       "생성형AI",
@@ -33,6 +35,22 @@
     ]
   ],
   "posts": [
+    {
+      "post_id": "f20b47a9f775c2c1c35caae2",
+      "platform": "rss",
+      "account_handle": "Samsung Newsroom",
+      "display_name": "삼성 뉴스룸",
+      "content": "가전을 선택하는 기준이 달라졌다. 이제는 단순히 성능을 비교하는 수준을 넘어, 우리 집 구조와 가족의 라이프스타일에 얼마나 최적화되어 있는지가 제품 선택의 핵심이다. 특히 주거 환경이나 가족 구성원에 따라 설치 공간과 가사 동선이 달라지는 의류케어 가전은 사용자에게 꼭 맞는 형태를 고르는 것이 무엇보다 중요하다. 삼성전자는 여러 의류케어 가전 라인업을 통해 사용자마다 각기 다른 주거 형태에 맞춘 의류케어 […]",
+      "content_ko": "가전을 선택하는 기준이 달라졌다. 이제는 단순히 성능을 비교하는 수준을 넘어, 우리 집 구조와 가족의 라이프스타일에 얼마나 최적화되어 있는지가 제품 선택의 핵심이다. 특히 주거 환경이나 가족 구성원에 따라 설치 공간과 가사 동선이 달라지는 의류케어 가전은 사용자에게 꼭 맞는 형태를 고르는 것이 무엇보다 중요하다. 삼성전자는 여러 의류케어 가전 라인업을 통해 사용자마다 각기 다른 주거 형태에 맞춘 의류케어 ",
+      "url": "https://news.samsung.com/kr/%ec%98%81%ec%83%81-%ec%9a%b0%eb%a6%ac-%ec%a7%91-%ea%b3%b5%ea%b0%84%ec%97%90-%eb%94%b1-%eb%9d%bc%ec%9d%b4%ed%94%84%ec%8a%a4%ed%83%80%ec%9d%bc%eb%a1%9c-%ea%b3%a0%eb%a5%b4",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-04-10 18:00"
+    },
     {
       "post_id": "2042417969192714478",
       "platform": "twitter",
@@ -50,6 +68,91 @@
         "정책/규제"
       ],
       "published_at": "2026-04-10 10:42"
+    },
+    {
+      "post_id": "f27e81386276dea887e6d6f9",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
+      "content_ko": "운영 팀이 ChatGPT를 활용해 워크플로우를 개선하고, 협업을 강화하며, 표준화된 프로세스를 구축하고, 실행 속도를 높이는 방법을 학습할 수 있습니다.",
+      "url": "https://openai.com/academy/operations",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "OpenAI: 챗봇 기반 운영 효율화 사례 공개",
+      "ai_bullets": [
+        "운영 팀이 챗봇을 활용해 업무 프로세스를 표준화하고 협업을 개선하는 방법을 설명",
+        "AI 도입을 통해 실행 속도를 높이는 사례를 공유"
+      ],
+      "ai_summary": "OpenAI는 챗봇 기술이 운영 팀의 업무 효율성 향상에 기여하는 방식을 소개했다.",
+      "ai_themes": [
+        "산업동향"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "2ffc54a54257793e4aba6e08",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+      "content_ko": "OpenAI의 챗봇, 코덱스, API 등 제품이 업무, 개발, 일상 업무에 AI를 도입하는 방식을 탐구할 수 있습니다.",
+      "url": "https://openai.com/academy/applications-of-ai",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "OpenAI: 챗봇·코덱스·API 기반 AI 실제 적용 사례 공개",
+      "ai_bullets": [
+        "챗봇, 코덱스, API 등 OpenAI 제품이 업무·개발·일상 업무에 어떻게 적용되는지 설명",
+        "AI 기술이 실제 산업 현장에서 활용되는 사례를 공유"
+      ],
+      "ai_summary": "OpenAI는 챗봇과 API 등의 기술이 실제 업무 환경에서 어떻게 활용되는지를 소개했다.",
+      "ai_themes": [
+        "산업동향"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "6f26f347e1a5123a0646b169",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
+      "content_ko": "금융 팀이 ChatGPT를 활용해 보고서 작성, 데이터 분석, 예측 개선, 통찰력 있는 의사소통을 위한 방법을 학습할 수 있습니다.",
+      "url": "https://openai.com/academy/finance",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "OpenAI: 금융 팀이 챗봇으로 보고서 작성 및 데이터 분석 효율화",
+      "ai_bullets": [
+        "금융 팀이 챗봇을 활용해 보고서 작성과 데이터 분석을 개선하는 방법 설명",
+        "예측 정확도 향상과 통찰력 있는 의사소통을 위한 AI 활용 사례 공유"
+      ],
+      "ai_summary": "OpenAI는 금융 분야에서 챗봇 기술이 보고서 작성과 데이터 분석에 어떻게 기여하는지를 소개했다.",
+      "ai_themes": [
+        "산업동향"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "3fd5f55a253df7049bdacfb6",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+      "content_ko": "챗지피티를 사용해 아이디어를 생성하고 사고를 정리하는 방법을 설명하며, 초안 개념을 구조화된 실행 가능한 계획으로 전환하는 과정을 안내합니다.",
+      "url": "https://openai.com/academy/brainstorming",
+      "is_ai_trend": true,
+      "ai_confidence": 0.8,
+      "ai_title": "챗지피티를 활용한 아이디어 브레인스토밍 및 계획 수립 방법 공개",
+      "ai_bullets": [
+        "챗지피티를 사용해 아이디어를 생성하고 사고를 정리하는 방법을 설명",
+        "초안 개념을 구조화된 실행 가능한 계획으로 전환하는 과정을 안내"
+      ],
+      "ai_summary": "오픈AI 블로그는 챗지피티를 활용한 아이디어 브레인스토밍 및 계획 수립 방법을 소개했다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-04-10 09:00"
     },
     {
       "post_id": "2042342572958630332",

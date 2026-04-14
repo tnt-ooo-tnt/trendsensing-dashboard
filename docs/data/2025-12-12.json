@@ -1,0 +1,45 @@
+{
+  "date": "2025-12-12",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "NVIDIA Blog": 1
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "산업동향",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "9214e39dc11675d868aa8f0b",
+      "platform": "rss",
+      "account_handle": "NVIDIA Blog",
+      "display_name": "NVIDIA",
+      "content": "Unveiling what it describes as the most capable model series yet for professional knowledge work, OpenAI launched GPT-5.2 in December. The model was trained and deployed on NVIDIA infrastructure, including NVIDIA Hopper and GB200 NVL72 systems. GPT-5.3 Codex — the first OpenAI agentic coding model to help build itself — was released in February and [&#8230;]",
+      "content_ko": "프로페셔널 지식 작업을 위한 가장 강력한 모델 시리즈로 기술된 OpenAI가 GPT-5.2를 12월에 출시했다. 이 모델은 NVIDIA Hopper 및 GB200 NVL72 시스템을 기반으로 훈련 및 배포되었다. 2월에 출시된 GPT-5.3 Codex는 자체 개발을 돕는 첫 번째 OpenAI 에이전트 코딩 모델이다.",
+      "url": "https://blogs.nvidia.com/blog/leading-models-nvidia/",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "OpenAI, GPT-5.2 및 GPT-5.3 Codex 모델 출시 발표",
+      "ai_bullets": [
+        "OpenAI가 전문 지식 작업을 위한 가장 강력한 모델 시리즈인 GPT-5.2를 12월에 출시",
+        "NVIDIA Hopper 및 GB200 NVL72 시스템을 기반으로 훈련 및 배포",
+        "2월에 출시된 GPT-5.3 Codex는 자체 개발을 돕는 첫 번째 OpenAI 에이전트 코딩 모델"
+      ],
+      "ai_summary": "OpenAI는 NVIDIA 인프라를 기반으로 GPT-5.2 및 GPT-5.3 Codex 모델을 출시하며, 특히 후자는 자체 개발을 지원하는 첫 번째 에이전트 코딩 모델로 주목받고 있다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2025-12-12 04:19"
+    }
+  ]
+}

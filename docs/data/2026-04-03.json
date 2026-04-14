@@ -1,13 +1,23 @@
 {
   "date": "2026-04-03",
-  "total": 1,
-  "ai_true": 0,
-  "ai_false": 1,
+  "total": 3,
+  "ai_true": 1,
+  "ai_false": 2,
   "source_counts": {
-    "sama": 1
+    "sama": 1,
+    "Google AI Blog": 2
   },
-  "avg_confidence": 0.1,
-  "top_themes": [],
+  "avg_confidence": 0.42,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "생성형AI",
+      1
+    ]
+  ],
   "posts": [
     {
       "post_id": "2039773740586918137",
@@ -26,6 +36,44 @@
         "기타"
       ],
       "published_at": "2026-04-03 03:35"
+    },
+    {
+      "post_id": "85e9d1a6753c6801cac7c0fd",
+      "platform": "rss",
+      "account_handle": "Google AI Blog",
+      "display_name": "Google AI",
+      "content": "Gemini API Dials",
+      "content_ko": "Gemini API Dials이라는 제목의 이미지가 공유되었다.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "Gemini API 관련 이미지 공유",
+      "ai_bullets": [
+        "Gemini API Dials이라는 제목의 이미지 공유",
+        "구글의 AI 모델인 Gemini과 관련된 콘텐츠"
+      ],
+      "ai_summary": "구글 AI 블로그가 Gemini API 관련 이미지를 공유하며, AI 모델과 연관된 콘텐츠를 포함하고 있다.",
+      "ai_themes": [
+        "기술발전",
+        "생성형AI"
+      ],
+      "published_at": "2026-04-03 01:00"
+    },
+    {
+      "post_id": "e5a53e0f2f88840a39c5fc0e",
+      "platform": "rss",
+      "account_handle": "Google AI Blog",
+      "display_name": "Google AI",
+      "content": "Google Vids logo surrounded by various video editing UI",
+      "content_ko": "구글 Vids 로고가 다양한 영상 편집 UI로 둘러싸인 이미지가 공유되었다.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-04-03 01:00"
     }
   ]
 }

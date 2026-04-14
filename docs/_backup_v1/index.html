@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 트렌드센싱 페이지(테스트페이지)</title>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+
+    <!-- Open Graph (메신저 미리보기) -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="AI 트렌드센싱 대시보드">
+    <meta property="og:description" content="과학기술정보통신부 AI 트렌드 수집 및 분석 시스템">
+    <meta property="og:image" content="https://tnt-ooo-tnt.github.io/trendsensing-dashboard/og-image.png">
+    <meta property="og:url" content="https://tnt-ooo-tnt.github.io/trendsensing-dashboard/">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="AI 트렌드센싱 대시보드">
+    <meta name="twitter:description" content="과학기술정보통신부 AI 트렌드 수집 및 분석 시스템">
+    <meta name="twitter:image" content="https://tnt-ooo-tnt.github.io/trendsensing-dashboard/og-image.png">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Header -->
+<header class="header">
+    <div class="header-top">
+        <span>AI Trend Sensing System</span>
+        <span id="clock"></span>
+    </div>
+    <div class="header-main">
+        <div class="header-emblem">AI</div>
+        <div>
+            <div class="header-title">
+                AI 트렌드센싱 페이지
+                <span class="test-badge">테스트페이지</span>
+            </div>
+            <div class="header-subtitle">AI 트렌드 수집 및 분석 대시보드</div>
+        </div>
+    </div>
+</header>
+
+<!-- Date Navigation -->
+<nav class="date-nav">
+    <button class="date-nav-btn" id="btn-prev" onclick="navigateDate(1)">
+        &#9664; 이전
+    </button>
+    <div class="date-display">
+        <div class="date-display-main" id="date-main"></div>
+        <div class="date-display-sub" id="date-sub"></div>
+    </div>
+    <button class="date-nav-btn" id="btn-next" onclick="navigateDate(-1)">
+        다음 &#9654;
+    </button>
+</nav>
+
+<!-- Dashboard -->
+<main class="dashboard" id="dashboard">
+    <div class="loading" id="loading">데이터를 불러오는 중...</div>
+</main>
+
+<!-- Footer -->
+<footer class="footer">
+    TrendSensing Bot &mdash; AI 트렌드 수집 및 분석 시스템 (테스트페이지)<br>
+    Powered by Ollama/Qwen3:14b &middot; Data from X(Twitter)
+</footer>
+
+<script>
+let DATES = [];
+let currentIdx = 0;
+
+const DAY_NAMES = ['일', '월', '화', '수', '목', '금', '토'];
+
+function kstToday() {
+    var now = new Date();
+    var kst = new Date(now.getTime() + (now.getTimezoneOffset() + 540) * 60000);
+    return kst.getFullYear() + '-' + String(kst.getMonth()+1).padStart(2,'0') + '-' + String(kst.getDate()).padStart(2,'0');
+}
+
+const PRIORITY_ACCOUNTS = [
+    { handle: 'Jaemyung_Lee', label: '이재명 대통령', icon: '🇰🇷' },
+    { handle: 'msitminister', label: '배경훈 과학기술부총리 겸 과학기술정보통신부 장관', icon: '🇰🇷' }
+];
+
+async function init() {
+    updateClock();
+    setInterval(updateClock, 1000);
+
+    try {
+        const resp = await fetch('data/dates.json');
+        DATES = await resp.json();
+    } catch (e) {
+        DATES = [];
+    }
+
+    const TODAY = kstToday();
+
+    if (DATES.length === 0) {
+        DATES = [TODAY];
+    }
+
+    // 오늘 날짜가 목록에 없으면 맨 앞에 삽입
+    if (DATES.indexOf(TODAY) < 0) {
+        DATES.unshift(TODAY);
+    }
+
+    currentIdx = DATES.indexOf(TODAY);
+    loadDate(DATES[currentIdx]);
+}
+
+function updateClock() {
+    const now = new Date();
+    const kst = new Date(now.getTime() + (now.getTimezoneOffset() + 540) * 60000);
+    document.getElementById('clock').textContent =
+        'KST ' + kst.getFullYear() + '.' +
+        String(kst.getMonth()+1).padStart(2,'0') + '.' +
+        String(kst.getDate()).padStart(2,'0') + ' ' +
+        String(kst.getHours()).padStart(2,'0') + ':' +
+        String(kst.getMinutes()).padStart(2,'0') + ':' +
+        String(kst.getSeconds()).padStart(2,'0');
+}
+
+function navigateDate(delta) {
+    const newIdx = currentIdx + delta;
+    if (newIdx < 0 || newIdx >= DATES.length) return;
+    currentIdx = newIdx;
+    loadDate(DATES[currentIdx]);
+}
+
+function updateDateDisplay(dateStr) {
+    const d = new Date(dateStr + 'T00:00:00');
+    const dayName = DAY_NAMES[d.getDay()];
+    const main = d.getFullYear() + '\ub144 ' + (d.getMonth()+1) + '\uc6d4 ' + d.getDate() + '\uc77c (' + dayName + ')';
+    document.getElementById('date-main').textContent = main;
+
+    var todayStr = kstToday();
+    document.getElementById('date-sub').textContent = dateStr === todayStr ? '\uc624\ub298' : '';
+
+    document.getElementById('btn-prev').disabled = currentIdx >= DATES.length - 1;
+    document.getElementById('btn-next').disabled = currentIdx <= 0;
+}
+
+async function loadDate(dateStr) {
+    updateDateDisplay(dateStr);
+    const dashboard = document.getElementById('dashboard');
+    dashboard.innerHTML = '<div class="loading">\ub370\uc774\ud130\ub97c \ubd88\ub7ec\uc624\ub294 \uc911...</div>';
+
+    try {
+        const resp = await fetch('data/' + dateStr + '.json');
+        if (!resp.ok) {
+            renderDashboard({
+                total: 0, ai_true: 0, ai_false: 0,
+                avg_confidence: 0, source_counts: {}, top_themes: [], posts: []
+            });
+            return;
+        }
+        const data = await resp.json();
+        renderDashboard(data);
+    } catch (e) {
+        showNoData("\ub370\uc774\ud130 \ub85c\ub529 \uc911 \uc624\ub958\uac00 \ubc1c\uc0dd\ud588\uc2b5\ub2c8\ub2e4.", e.message);
+    }
+}
+
+function showNoData(title, sub) {
+    document.getElementById('dashboard').innerHTML =
+        '<div class="no-data"><h3>' + title + '</h3>' +
+        (sub ? '<p>' + sub + '</p>' : '') + '</div>';
+}
+
+function getConfColor(conf) {
+    if (conf >= 0.7) return '#27ae60';
+    if (conf >= 0.4) return '#f39c12';
+    return '#e74c3c';
+}
+
+function escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+}
+
+function linkify(text) {
+    var escaped = escapeHtml(text);
+    return escaped.replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank" style="color:var(--gov-light-blue)">$1</a>');
+}
+
+function renderDashboard(data) {
+    const dashboard = document.getElementById('dashboard');
+    let html = '';
+
+    // Stats
+    html += '<div class="stats-row">' +
+        '<div class="stat-card"><div class="stat-value">' + data.total + '</div><div class="stat-label">총 수집 게시물</div></div>' +
+        '<div class="stat-card success"><div class="stat-value">' + data.ai_true + '</div><div class="stat-label">AI 트렌드 관련</div></div>' +
+        '<div class="stat-card"><div class="stat-value">' + data.ai_false + '</div><div class="stat-label">비관련</div></div>' +
+        '<div class="stat-card highlight"><div class="stat-value">' + data.avg_confidence + '</div><div class="stat-label">평균 신뢰도</div></div>' +
+        '</div>';
+
+    // Split posts: priority vs general
+    var priorityHandles = PRIORITY_ACCOUNTS.map(function(a) { return a.handle; });
+    var generalPosts = [];
+    var priorityPostMap = {};
+    PRIORITY_ACCOUNTS.forEach(function(a) { priorityPostMap[a.handle] = []; });
+
+    data.posts.forEach(function(p) {
+        if (priorityHandles.indexOf(p.account_handle) >= 0) {
+            priorityPostMap[p.account_handle].push(p);
+        } else {
+            generalPosts.push(p);
+        }
+    });
+
+    // Priority account sections
+    PRIORITY_ACCOUNTS.forEach(function(acct, idx) {
+        var posts = priorityPostMap[acct.handle] || [];
+        var pAiTrue = posts.filter(function(p) { return p.is_ai_trend; }).length;
+        var pAiFalse = posts.length - pAiTrue;
+        var listId = 'priority-list-' + idx;
+
+        html += '<div class="section priority-section"><div class="section-header priority-header">' +
+            acct.icon + ' ' + escapeHtml(acct.label) +
+            '<span class="priority-count">' + posts.length + '건</span>' +
+            '</div>';
+        if (posts.length > 0) {
+            html += '<div style="padding-top:16px"><div class="tab-filter">' +
+                '<button class="tab-btn active" onclick="filterPosts(\'all\', this, \'' + listId + '\')">전체 (' + posts.length + ')</button>' +
+                '<button class="tab-btn" onclick="filterPosts(\'ai\', this, \'' + listId + '\')">AI 관련 (' + pAiTrue + ')</button>' +
+                '<button class="tab-btn" onclick="filterPosts(\'not-ai\', this, \'' + listId + '\')">비관련 (' + pAiFalse + ')</button>' +
+                '</div><div class="section-body" id="' + listId + '">';
+            posts.forEach(function(p) { html += renderPostCard(p); });
+            html += '</div></div>';
+        } else {
+            html += '<div class="section-body"><div class="no-data" style="padding:32px">해당 기간에 수집된 게시물이 없습니다.</div></div>';
+        }
+        html += '</div>';
+    });
+
+    // General posts (excluding priority accounts)
+    var generalAiTrue = generalPosts.filter(function(p) { return p.is_ai_trend; }).length;
+    var generalAiFalse = generalPosts.length - generalAiTrue;
+
+    html += '<div class="section"><div class="section-header">&#127760; 국내외 AI 동향</div><div style="padding-top:16px">' +
+        '<div class="tab-filter">' +
+        '<button class="tab-btn active" onclick="filterPosts(\'all\', this, \'post-list\')">전체 (' + generalPosts.length + ')</button>' +
+        '<button class="tab-btn" onclick="filterPosts(\'ai\', this, \'post-list\')">AI 관련 (' + generalAiTrue + ')</button>' +
+        '<button class="tab-btn" onclick="filterPosts(\'not-ai\', this, \'post-list\')">비관련 (' + generalAiFalse + ')</button>' +
+        '</div><div class="section-body" id="post-list">';
+    generalPosts.forEach(function(p) { html += renderPostCard(p); });
+    html += '</div></div></div>';
+
+    // Sources
+    var srcEntries = Object.entries(data.source_counts).sort(function(a,b){return b[1]-a[1]});
+    var srcTotal = srcEntries.reduce(function(s,e){return s+e[1]}, 0);
+    html += '<div class="section"><div class="section-header">&#128202; 수집 출처별 현황</div><div class="section-body">' +
+        '<table class="source-table"><thead><tr><th>출처</th><th>수집 건수</th></tr></thead><tbody>';
+    srcEntries.forEach(function(e) {
+        html += '<tr><td>@' + escapeHtml(e[0]) + '</td><td>' + e[1] + '건</td></tr>';
+    });
+    html += '<tr class="total-row"><td>합계</td><td>' + srcTotal + '건</td></tr></tbody></table></div></div>';
+
+    // Themes (현재 숨김)
+    // if (data.top_themes && data.top_themes.length > 0) {
+    //     html += '<div class="section"><div class="section-header">&#128204; 주요 테마</div><div class="section-body"><div class="theme-tags">';
+    //     data.top_themes.forEach(function(t) {
+    //         html += '<span class="theme-tag">' + escapeHtml(t[0]) + '<span class="count">' + t[1] + '</span></span>';
+    //     });
+    //     html += '</div></div></div>';
+    // }
+
+    dashboard.innerHTML = html;
+}
+
+function renderPostCard(p) {
+    var aiClass = p.is_ai_trend ? 'ai-true' : 'ai-false';
+    var badgeClass = p.is_ai_trend ? 'ai' : 'not-ai';
+    var badgeText = p.is_ai_trend ? 'AI \uad00\ub828' : '\ube44\uad00\ub828';
+    var conf = p.ai_confidence != null ? p.ai_confidence : 0;
+    var confPct = Math.round(conf * 100);
+    var confColor = getConfColor(conf);
+
+    var bodyHtml = '';
+    if (p.is_ai_trend && p.ai_title) {
+        bodyHtml += '<div class="post-title-ko">' + escapeHtml(p.ai_title) + '</div>';
+        if (p.ai_bullets && p.ai_bullets.length > 0) {
+            bodyHtml += '<ul class="post-bullets">';
+            p.ai_bullets.forEach(function(b) { bodyHtml += '<li>' + escapeHtml(b) + '</li>'; });
+            bodyHtml += '</ul>';
+        }
+    }
+
+    if (p.content_ko) {
+        bodyHtml += '<div class="post-translation"><div class="post-original-label">\ud55c\uad6d\uc5b4 \ubc88\uc5ed</div>' + linkify(p.content_ko) + '</div>';
+    }
+
+    bodyHtml += '<div class="post-original"><div class="post-original-label">\uc6d0\ubb38</div>' + linkify(p.content) + '</div>';
+
+    if (p.ai_themes && p.ai_themes.length > 0) {
+        bodyHtml += '<div class="post-themes">';
+        p.ai_themes.forEach(function(t) { bodyHtml += '<span class="post-theme-chip">' + escapeHtml(t) + '</span>'; });
+        bodyHtml += '</div>';
+    }
+
+    if (p.url) {
+        bodyHtml += '<a class="post-link" href="' + escapeHtml(p.url) + '" target="_blank">&#128279; \uc6d0\ubb38 \ubcf4\uae30</a>';
+    }
+
+    return '<div class="post-card ' + aiClass + '" data-ai="' + p.is_ai_trend + '">' +
+        '<div class="post-card-header"><div class="post-meta">' +
+        '<span class="post-platform">' + escapeHtml(p.platform) + '</span>' +
+        '<span class="post-handle">@' + escapeHtml(p.account_handle) + (p.display_name ? ' (' + escapeHtml(p.display_name) + ')' : '') + '</span>' +
+        '<span style="color:#7f8c8d;font-size:12px">' + escapeHtml(p.published_at) + '</span>' +
+        '</div><div style="display:flex;align-items:center;gap:8px">' +
+        '<span class="post-badge ' + badgeClass + '">' + badgeText + '</span>' +
+        '<span style="font-size:12px;color:#7f8c8d">' + confPct + '%</span>' +
+        '<span class="confidence-bar"><span class="confidence-fill" style="width:' + confPct + '%;background:' + confColor + '"></span></span>' +
+        '</div></div><div class="post-card-body">' + bodyHtml + '</div></div>';
+}
+
+function filterPosts(type, btn, listId) {
+    btn.parentElement.querySelectorAll('.tab-btn').forEach(function(b) { b.classList.remove('active'); });
+    btn.classList.add('active');
+    document.querySelectorAll('#' + listId + ' .post-card').forEach(function(card) {
+        var isAi = card.dataset.ai === 'true';
+        if (type === 'all') card.style.display = '';
+        else if (type === 'ai') card.style.display = isAi ? '' : 'none';
+        else card.style.display = isAi ? 'none' : '';
+    });
+}
+
+init();
+</script>
+</body>
+</html>
