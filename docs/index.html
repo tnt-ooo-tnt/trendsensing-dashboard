@@ -36,10 +36,13 @@
         <div>
             <div class="header-title">
                 AI 트렌드센싱
-                <span class="test-badge">TEST</span>
+                <span class="test-badge" id="mode-badge">TEST</span>
             </div>
             <div class="header-subtitle">AI 트렌드 수집 및 분석 대시보드</div>
         </div>
+        <button class="mode-toggle-btn" id="mode-toggle" onclick="toggleViewMode()">
+            <span id="mode-toggle-label">배포 모드</span>
+        </button>
     </div>
 </header>
 
@@ -199,10 +202,10 @@ function renderDashboard(data) {
 
     // Stats
     html += '<div class="stats-row">' +
-        '<div class="stat-card"><div class="stat-value">' + data.total + '</div><div class="stat-label">총 수집 게시물</div></div>' +
+        '<div class="stat-card stat-total"><div class="stat-value">' + data.total + '</div><div class="stat-label">총 수집 게시물</div></div>' +
         '<div class="stat-card success"><div class="stat-value">' + data.ai_true + '</div><div class="stat-label">AI 트렌드 관련</div></div>' +
-        '<div class="stat-card"><div class="stat-value">' + data.ai_false + '</div><div class="stat-label">비관련</div></div>' +
-        '<div class="stat-card highlight"><div class="stat-value">' + data.avg_confidence + '</div><div class="stat-label">평균 신뢰도</div></div>' +
+        '<div class="stat-card stat-non-ai"><div class="stat-value">' + data.ai_false + '</div><div class="stat-label">비관련</div></div>' +
+        '<div class="stat-card highlight stat-confidence"><div class="stat-value">' + data.avg_confidence + '</div><div class="stat-label">평균 신뢰도</div></div>' +
         '</div>';
 
     // Split posts: priority vs general
@@ -231,7 +234,7 @@ function renderDashboard(data) {
             '<span class="priority-count">' + posts.length + '건</span>' +
             '</div>';
         if (posts.length > 0) {
-            html += '<div style="padding-top:16px"><div class="tab-filter">' +
+            html += '<div style="padding-top:16px"><div class="tab-filter filter-tabs">' +
                 '<button class="tab-btn active" onclick="filterPosts(\'all\', this, \'' + listId + '\')">전체 (' + posts.length + ')</button>' +
                 '<button class="tab-btn" onclick="filterPosts(\'ai\', this, \'' + listId + '\')">AI 관련 (' + pAiTrue + ')</button>' +
                 '<button class="tab-btn" onclick="filterPosts(\'not-ai\', this, \'' + listId + '\')">비관련 (' + pAiFalse + ')</button>' +
@@ -260,7 +263,7 @@ function renderDashboard(data) {
     // Sources
     var srcEntries = Object.entries(data.source_counts).sort(function(a,b){return b[1]-a[1]});
     var srcTotal = srcEntries.reduce(function(s,e){return s+e[1]}, 0);
-    html += '<div class="section"><div class="section-header"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg> 수집 출처별 현황</div><div class="section-body">' +
+    html += '<div class="section section-sources"><div class="section-header"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg> 수집 출처별 현황</div><div class="section-body">' +
         '<table class="source-table"><thead><tr><th>출처</th><th>수집 건수</th></tr></thead><tbody>';
     srcEntries.forEach(function(e) {
         html += '<tr><td>@' + escapeHtml(e[0]) + '</td><td>' + e[1] + '건</td></tr>';
@@ -320,8 +323,8 @@ function renderPostCard(p) {
         '<span style="color:var(--text-tertiary);font-size:11px">' + escapeHtml(p.published_at) + '</span>' +
         '</div><div style="display:flex;align-items:center;gap:6px;flex-shrink:0">' +
         '<span class="post-badge ' + badgeClass + '">' + badgeText + '</span>' +
-        '<span style="font-size:11px;font-family:var(--font-mono);color:var(--text-tertiary)">' + confPct + '%</span>' +
-        '<span class="confidence-bar"><span class="confidence-fill" style="width:' + confPct + '%;background:' + confColor + '"></span></span>' +
+        '<span class="confidence-info" style="font-size:11px;font-family:var(--font-mono);color:var(--text-tertiary)">' + confPct + '%</span>' +
+        '<span class="confidence-bar confidence-info"><span class="confidence-fill" style="width:' + confPct + '%;background:' + confColor + '"></span></span>' +
         '</div></div><div class="post-card-body">' + bodyHtml + '</div></div>';
 }
 
@@ -334,6 +337,27 @@ function filterPosts(type, btn, listId) {
         else if (type === 'ai') card.style.display = isAi ? '' : 'none';
         else card.style.display = isAi ? 'none' : '';
     });
+}
+
+// === View Mode Toggle ===
+var viewMode = 'test';
+
+function toggleViewMode() {
+    viewMode = viewMode === 'test' ? 'production' : 'test';
+    document.body.classList.toggle('production-mode', viewMode === 'production');
+
+    var badge = document.getElementById('mode-badge');
+    var label = document.getElementById('mode-toggle-label');
+
+    if (viewMode === 'production') {
+        badge.textContent = '\uBC30\uD3EC\uC6A9';
+        badge.classList.add('deploy-badge');
+        label.textContent = '\uD14C\uC2A4\uD2B8 \uBAA8\uB4DC';
+    } else {
+        badge.textContent = 'TEST';
+        badge.classList.remove('deploy-badge');
+        label.textContent = '\uBC30\uD3EC \uBAA8\uB4DC';
+    }
 }
 
 init();

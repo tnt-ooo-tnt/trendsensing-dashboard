@@ -139,6 +139,31 @@ body {
     line-height: 1.6;
 }
 
+/* ── Mode Toggle Button ── */
+.mode-toggle-btn {
+    margin-left: auto;
+    background: rgba(255, 255, 255, 0.1);
+    color: var(--text-inverse);
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    padding: 7px 16px;
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    font-family: var(--font-sans);
+    font-size: 12px;
+    font-weight: 500;
+    transition: all var(--transition-fast);
+    white-space: nowrap;
+}
+
+.mode-toggle-btn:hover {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: rgba(255, 255, 255, 0.4);
+}
+
+.test-badge.deploy-badge {
+    background: var(--success);
+}
+
 /* ── Date Navigation ── */
 .date-nav {
     background: var(--bg-elevated);
@@ -650,6 +675,39 @@ body {
     line-height: 1.7;
 }
 
+/* ── Production Mode ── */
+.production-mode .post-original,
+.production-mode .post-translation {
+    display: none;
+}
+
+.production-mode .confidence-info {
+    display: none;
+}
+
+.production-mode .post-card.ai-false {
+    display: none;
+}
+
+.production-mode .stat-total,
+.production-mode .stat-non-ai,
+.production-mode .stat-confidence {
+    display: none;
+}
+
+.production-mode .stats-row {
+    grid-template-columns: 1fr;
+    max-width: 200px;
+}
+
+.production-mode .filter-tabs {
+    display: none;
+}
+
+.production-mode .section-sources {
+    display: none;
+}
+
 /* ── Responsive ── */
 @media (max-width: 768px) {
     .header-top { padding: 4px 16px; font-size: 10px; }
@@ -667,6 +725,11 @@ body {
 
     .header-title { font-size: 15px; }
     .header-subtitle { font-size: 11px; }
+
+    .mode-toggle-btn {
+        padding: 5px 10px;
+        font-size: 11px;
+    }
 
     .test-badge {
         font-size: 9px;
