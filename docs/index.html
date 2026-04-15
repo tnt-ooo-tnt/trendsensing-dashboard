@@ -251,14 +251,20 @@ function renderDashboard(data) {
     var generalAiTrue = generalPosts.filter(function(p) { return p.is_ai_trend; }).length;
     var generalAiFalse = generalPosts.length - generalAiTrue;
 
-    html += '<div class="section priority-section"><div class="section-header priority-header"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg> 국내외 AI 동향<span class="priority-count">' + generalPosts.length + '건</span></div><div style="padding-top:16px">' +
-        '<div class="tab-filter filter-tabs">' +
-        '<button class="tab-btn active" onclick="filterPosts(\'all\', this, \'post-list\')">전체 (' + generalPosts.length + ')</button>' +
-        '<button class="tab-btn" onclick="filterPosts(\'ai\', this, \'post-list\')">AI 관련 (' + generalAiTrue + ')</button>' +
-        '<button class="tab-btn" onclick="filterPosts(\'not-ai\', this, \'post-list\')">비관련 (' + generalAiFalse + ')</button>' +
-        '</div><div class="section-body" id="post-list">';
-    generalPosts.forEach(function(p) { html += renderPostCard(p); });
-    html += '</div></div></div>';
+    html += '<div class="section priority-section"><div class="section-header priority-header"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg> 국내외 AI 동향<span class="priority-count">' + generalPosts.length + '건</span></div>';
+    if (generalPosts.length > 0) {
+        html += '<div style="padding-top:16px">' +
+            '<div class="tab-filter filter-tabs">' +
+            '<button class="tab-btn active" onclick="filterPosts(\'all\', this, \'post-list\')">전체 (' + generalPosts.length + ')</button>' +
+            '<button class="tab-btn" onclick="filterPosts(\'ai\', this, \'post-list\')">AI 관련 (' + generalAiTrue + ')</button>' +
+            '<button class="tab-btn" onclick="filterPosts(\'not-ai\', this, \'post-list\')">비관련 (' + generalAiFalse + ')</button>' +
+            '</div><div class="section-body" id="post-list">';
+        generalPosts.forEach(function(p) { html += renderPostCard(p); });
+        html += '</div></div>';
+    } else {
+        html += '<div class="section-body"><div class="no-data" style="padding:32px">해당 기간에 수집된 게시물이 없습니다.</div></div>';
+    }
+    html += '</div>';
 
     // Sources
     var srcEntries = Object.entries(data.source_counts).sort(function(a,b){return b[1]-a[1]});
