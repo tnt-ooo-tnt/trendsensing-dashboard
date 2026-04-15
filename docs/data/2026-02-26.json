@@ -1,0 +1,50 @@
+{
+  "date": "2026-02-26",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "karpathy": 1
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "산업동향",
+      1
+    ],
+    [
+      "생성형AI",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2026731645169185220",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "It is hard to communicate how much programming has changed due to AI in the last 2 months: not gradually and over time in the \"progress as usual\" way, but specifically this last December. There are a number of asterisks but imo coding agents basically didn’t work before December and basically work since - the models have significantly higher quality, long-term coherence and tenacity and they can power through large and long tasks, well past enough that it is extremely disruptive to the default programming workflow.\n\nJust to give an example, over the weekend I was building a local video analysis dashboard for the cameras of my home so I wrote: “Here is the local IP and username/password of my DGX Spark. Log in, set up ssh keys, set up vLLM, download and bench Qwen3-VL, set up a server endpoint to inference videos, a basic web ui dashboard, test everything, set it up with systemd, record memory notes for yourself and write up a markdown report for me”. The agent went off for ~30 minutes, ran into multiple issues, researched solutions online, resolved them one by one, wrote the code, tested it, debugged it, set up the services, and came back with the report and it was just done. I didn’t touch anything. All of this could easily have been a weekend project just 3 months ago but today it’s something you kick off and forget about for 30 minutes.\n\nAs a result, programming is becoming unrecognizable. You’re not typing computer code into an editor like the way things were since computers were invented, that era is over. You're spinning up AI agents, giving them tasks *in English* and managing and reviewing their work in parallel. The biggest prize is in figuring out how you can keep ascending the layers of abstraction to set up long-running orchestrator Claws with all of the right tools, memory and instructions that productively manage multiple parallel Code instances for you. The leverage achievable via top tier \"agentic engineering\" feels very high right now.\n\nIt’s not perfect, it needs high-level direction, judgement, taste, oversight, iteration and hints and ideas. It works a lot better in some scenarios than others (e.g. especially for tasks that are well-specified and where you can verify/test functionality). The key is to build intuition to decompose the task just right to hand off the parts that work and help out around the edges. But imo, this is nowhere near \"business as usual\" time in software.",
+      "content_ko": "지난 2개월간 AI가 프로그래밍 분야에 미친 변화는 단계적 변화가 아닌 급격한 전환을 동반했습니다. 특히 12월 이후로 코드 에이전트 기술이 본격적으로 기능을 발휘하게 되었으며, 모델의 품질과 장기적 일관성이 향상되어 복잡한 작업을 자동화 가능해졌습니다. 예를 들어, 주말에 집의 카메라를 위한 로컬 비디오 분석 대시보드를 구축하려고 할 때, 에이전트가 30분 동안 다양한 문제를 해결하고 코드를 작성해 실행할 수 있었습니다. 이는 기존의 주말 프로젝트였던 작업을 단 30분 만에 완료할 수 있게 되었으며, 프로그래밍 방식이 근본적으로 변화하고 있음을 보여줍니다.",
+      "url": "https://x.com/karpathy/status/2026731645169185220",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "AI 에이전트 기술 혁신, 프로그래밍 방식 근본 변화",
+      "ai_bullets": [
+        "최근 2개월간 AI가 프로그래밍 분야에 미친 변화는 단계적 변화가 아닌 급격한 전환을 동반",
+        "코드 에이전트 기술이 12월 전후로 본격적으로 기능을 발휘하게 되었음",
+        "AI 모델의 품질과 장기적 일관성이 향상되어 복잡한 작업을 자동화 가능해짐"
+      ],
+      "ai_summary": "AI 에이전트가 프로그래밍 방식을 근본적으로 변화시키며, 작업 자동화 수준이 급격히 상승하고 있음",
+      "ai_themes": [
+        "기술발전",
+        "산업동향",
+        "생성형AI"
+      ],
+      "published_at": "2026-02-26 03:50"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "date": "2026-03-07",
+  "total": 2,
+  "ai_true": 2,
+  "ai_false": 0,
+  "source_counts": {
+    "Google AI Blog": 1,
+    "karpathy": 1
+  },
+  "avg_confidence": 0.82,
+  "top_themes": [
+    [
+      "기술발전",
+      2
+    ],
+    [
+      "생성형AI",
+      2
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "866a0103d93ea329508fa44a",
+      "platform": "rss",
+      "account_handle": "Google AI Blog",
+      "display_name": "Google AI",
+      "content": "Photos of animals being identified by the SpeciesNet AI model",
+      "content_ko": "동물 사진을 식별하는 SpeciesNet AI 모델의 작동 모습을 보여주는 사진입니다. AI 기반 생물 분류 기술의 실제 적용 사례를 시각화했습니다.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "SpeciesNet AI 모델, 동물 식별 사진 공개",
+      "ai_bullets": [
+        "SpeciesNet AI 모델이 동물 사진을 식별하는 과정을 보여주는 사진 공유",
+        "모델의 생물 분류 기능을 시각적으로 전시"
+      ],
+      "ai_summary": "SpeciesNet AI 모델의 동물 식별 기능을 사진으로 시연한 내용",
+      "ai_themes": [
+        "기술발전",
+        "생성형AI"
+      ],
+      "published_at": "2026-03-07 03:00"
+    },
+    {
+      "post_id": "2029950967031247231",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "ah yes, this is what post-agi feels like :) i didn't touch anything. brb sauna https://t.co/odILIDAQaF",
+      "content_ko": "아, 네, 이건 AGI 이후의 느낌이야 :) 아무것도 건드리지 않았어. 잠시 후 사우나에 가자 https://t.co/odILIDAQaF",
+      "url": "https://x.com/karpathy/status/2029950967031247231",
+      "is_ai_trend": true,
+      "ai_confidence": 0.7,
+      "ai_title": "AGI 연구 진행 상황 공유 및 휴식 시간 알림",
+      "ai_bullets": [
+        "AGI(일반 인공지능) 연구 진행 중인 상태를 공유",
+        "현재 작업 중단 후 사우나에서 휴식 중임을 알림"
+      ],
+      "ai_summary": "AGI 연구 진행 중인 연구자(@karpathy)가 휴식 시간을 알리는 짧은 메시지",
+      "ai_themes": [
+        "기술발전",
+        "생성형AI"
+      ],
+      "published_at": "2026-03-07 01:03"
+    }
+  ]
+}

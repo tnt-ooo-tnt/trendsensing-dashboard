@@ -1,43 +1,128 @@
 {
   "date": "2026-03-10",
-  "total": 1,
-  "ai_true": 1,
+  "total": 4,
+  "ai_true": 4,
   "ai_false": 0,
   "source_counts": {
+    "Google AI Blog": 1,
+    "karpathy": 2,
     "AndrewYNg": 1
   },
-  "avg_confidence": 0.95,
+  "avg_confidence": 0.96,
   "top_themes": [
     [
       "기술발전",
-      1
+      4
     ],
     [
       "오픈소스",
+      3
+    ],
+    [
+      "연구/논문",
+      2
+    ],
+    [
+      "산업동향",
+      1
+    ],
+    [
+      "생성형AI",
       1
     ]
   ],
   "posts": [
+    {
+      "post_id": "0096402a637e356aca787927",
+      "platform": "rss",
+      "account_handle": "Google AI Blog",
+      "display_name": "Google AI",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Workspace_Jan_Moment_Sheets_Blo.max-600x600.format-webp.webp\" />Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis — just describe …",
+      "content_ko": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Workspace_Jan_Moment_Sheets_Blo.max-600x600.format-webp.webp 오늘 우리는 시트 앱에 Gemini 기반의 새로운 베타 기능을 발표했습니다. 이 기능은 기본 작업부터 복잡한 데이터 분석까지 자연어로 설명해 주는 기능으로, 시트를 생성, 정리, 편집하는 데 도움을 줍니다 — 단지 설명만 하면 됩니다…",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "구글, Gemini 기반 시트 앱 베타 기능 발표",
+      "ai_bullets": [
+        "시트 앱에 Gemini 기반 새로운 베타 기능을 도입",
+        "데이터 분석부터 복잡한 시트 작업까지 자연어로 설명해 작업 자동화"
+      ],
+      "ai_summary": "구글이 Gemini 모델을 활용한 시트 앱의 새로운 기능을 발표했습니다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-03-10 22:00"
+    },
+    {
+      "post_id": "2031137476438548874",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "oh yeah i should have linked autoresearch probably\nhttps://t.co/YCvOwwjOzF\n(you don't \"use it\" directly, it's just a recipe/idea - give it to your agent and apply to what you care about.)\n\nand the tweet about it that went mini-viral over the weekend with more context\nhttps://t.co/q5eWsvx5p2",
+      "content_ko": "오히려 autoresearch 링크를 걸었어야 했다. https://t.co/YCvOwwjOzF(당신은 직접 사용하지 않고, 에이전트에게 주면 관심 있는 분야에 적용할 수 있는 레시피/아이디어). 주말에 바이럴된 트윗과 더 많은 맥락을 확인할 수 있는 링크: https://t.co/q5eWsvx5p2",
+      "url": "https://x.com/karpathy/status/2031137476438548874",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "AI 에이전트 자동 연구 프레임워크 공개",
+      "ai_bullets": [
+        "autoresearch 프로젝트로 AI 에이전트가 단일 GPU에서 연구 자동화",
+        "AI 에이전트가 실험을 통해 모델 개선 및 코드 최적화 수행",
+        "자체 개발된 에이전트가 연구 프로세스를 완전히 자동화"
+      ],
+      "ai_summary": "AI 에이전트가 연구 자동화 프레임워크를 통해 기존 연구 방식을 혁신적으로 대체하고 있음",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문",
+        "오픈소스"
+      ],
+      "published_at": "2026-03-10 07:38"
+    },
+    {
+      "post_id": "2031135152349524125",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "Three days ago I left autoresearch tuning nanochat for ~2 days on depth=12 model. It found ~20 changes that improved the validation loss. I tested these changes yesterday and all of them were additive and transferred to larger (depth=24) models. Stacking up all of these changes, today I measured that the leaderboard's \"Time to GPT-2\" drops from 2.02 hours to 1.80 hours (~11% improvement), this will be the new leaderboard entry. So yes, these are real improvements and they make an actual difference. I am mildly surprised that my very first naive attempt already worked this well on top of what I thought was already a fairly manually well-tuned project.\n\nThis is a first for me because I am very used to doing the iterative optimization of neural network training manually. You come up with ideas, you implement them, you check if they work (better validation loss), you come up with new ideas based on that, you read some papers for inspiration, etc etc. This is the bread and butter of what I do daily for 2 decades. Seeing the agent do this entire workflow end-to-end and all by itself as it worked through approx. 700 changes autonomously is wild. It really looked at the sequence of results of experiments and used that to plan the next ones. It's not novel, ground-breaking \"research\" (yet), but all the adjustments are \"real\", I didn't find them manually previously, and they stack up and actually improved nanochat. Among the bigger things e.g.:\n\n- It noticed an oversight that my parameterless QKnorm didn't have a scaler multiplier attached, so my attention was too diffuse. The agent found multipliers to sharpen it, pointing to future work.\n- It found that the Value Embeddings really like regularization and I wasn't applying any (oops).\n- It found that my banded attention was too conservative (i forgot to tune it).\n- It found that AdamW betas were all messed up.\n- It tuned the weight decay schedule.\n- It tuned the network initialization.\n\nThis is on top of all the tuning I've already done over a good amount of time. The exact commit is here, from this \"round 1\" of autoresearch. I am going to kick off \"round 2\", and in parallel I am looking at how multiple agents can collaborate to unlock parallelism.\nhttps://t.co/WAz8aIztKT\n\nAll LLM frontier labs will do this. It's the final boss battle. It's a lot more complex at scale of course - you don't just have a single train. py file to tune. But doing it is \"just engineering\" and it's going to work. You spin up a swarm of agents, you have them collaborate to tune smaller models, you promote the most promising ideas to increasingly larger scales, and humans (optionally) contribute on the edges.\n\nAnd more generally, *any* metric you care about that is reasonably efficient to evaluate (or that has more efficient proxy metrics such as training a smaller network) can be autoresearched by an agent swarm. It's worth thinking about whether your problem falls into this bucket too.",
+      "content_ko": "3일 전에 autoresearch를 통해 nanochat를 depth=12 모델로 2일간 훈련시켰고, 검증 손실 개선 사항 20개를 찾았다. 전날 이 변경 사항들을 테스트해보니 모두 추가적 개선 효과가 있었고, 더 큰 모델(depth=24)에도 이전할 수 있었다. 이 변경 사항들을 모두 적용해 오늘 측정했더니, 리더보드의 'GPT-2 시간'이 2.02시간에서 1.80시간으로 11% 개선되었다. 이는 새로운 리더보드 항목이 될 것이다. 내게는 이 매우 첫 번째 단순한 시도가 이미 상당히 잘 작동하는 것에 놀랐다. 이전에 내가 생각했던 것보다 이미 상당히 잘 조정된 프로젝트였기 때문이다. 이는 내가 20년간 일상적으로 수행해온 신경망 훈련의 반복적 최적화 과정을 에이전트가 완전히 자동화해 수행한 사례이다. 약 700개의 변경 사항을 자동으로 처리하며 실험 결과 시퀀스를 분석해 다음 실험 계획을 세우는 방식이었다. 이는 아직 혁신적이거나 '연구' 수준이 아니지만, 모든 조정 사항은 실제 존재하며 이전에는 수작업으로 찾지 못했고, 모델 개선에 실질적 영향을 미쳤다. 주요 개선 사항에는 파라미터 없는 QKnorm에 스케일러 곱셈이 부족했음을 발견, Value Embeddings에 정규화 적용이 부족했음을 발견, 밴드 어텐션의 보수적 설정을 조정, AdamW 베타 값 오류 수정, 가중치 감쇠 스케줄 조정, 네트워크 초기화 조정 등이 포함된다. 이는 이미 오랜 시간 동안 수행한 조정 사항을 기반으로 한 것이며, 정확한 커밋은 이 '라운드 1'의 autoresearch에서 확인할 수 있다. 나는 '라운드 2'를 시작할 계획이며, 동시에 여러 에이전트가 협업해 병렬 처리를 가능하게 하는 방식을 탐색 중이다. https://t.co/WAz8aIztKT",
+      "url": "https://x.com/karpathy/status/2031135152349524125",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "AI 에이전트가 모델 최적화 11% 성공",
+      "ai_bullets": [
+        "AI 에이전트가 2일간 nanochat 모델 최적화 20개 변경 사항 제시",
+        "모델 성능 개선으로 'GPT-2 시간' 11% 단축 성공",
+        "에이전트가 파라미터 조정, 옵티마이저 설정 등 기술적 개선 사항 자동 탐색"
+      ],
+      "ai_summary": "AI 에이전트가 모델 최적화 과정에서 기존 수작업 개선 사항을 넘어선 실질적 성과 달성",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문",
+        "오픈소스"
+      ],
+      "published_at": "2026-03-10 07:28"
+    },
     {
       "post_id": "2031051809499054099",
       "platform": "twitter",
       "account_handle": "AndrewYNg",
       "display_name": "앤드류 응",
       "content": "I'm excited to announce Context Hub, an open tool that gives your coding agent the up-to-date API documentation it needs. Install it and prompt your agent to use it to fetch curated docs via a simple CLI. (See image.)\n\nWhy this matters: Coding agents often use outdated APIs and hallucinate parameters. For example, when I ask Claude Code to call OpenAI's GPT-5.2, it uses the older chat completions API instead of the newer responses API, even though the newer one has been out for a year. Context Hub solves this.\n\nContext Hub is also designed to get smarter over time. Agents can annotate docs with notes — if your agent discovers a workaround, it can save it and doesn't have to rediscover it next session. Longer term, we're building toward agents sharing what they learn with each other, so the whole community benefits.\n\nThanks Rohit Prsad and Xin Ye for working with me on this!\n\nnpm install -g @aisuite/chub\n\nGitHub: https://t.co/OCkyxXQMCq",
-      "content_ko": "코드 에이전트가 필요한 최신 API 문서를 제공하는 오픈 도구 Context Hub를 발표한다. 설치하고 에이전트에게 사용하도록 지시하여 간단한 CLI를 통해 정리된 문서를 가져올 수 있다. (이미지 참조). 이 도구가 중요한 이유는 코드 에이전트가 종종 오래된 API를 사용하고 파라미터를 창조하기 때문이다. 예를 들어, Claude Code에 OpenAI의 GPT-5.2를 호출하도록 요청하면, 1년 전에 출시된 새로운 responses API 대신 더 오래된 chat completions API를 사용한다. Context Hub는 이 문제를 해결한다. Context Hub는 시간이 지남에 따라 더 똑똑해지도록 설계되었다. 에이전트는 문서에 노트를 추가할 수 있다. 에이전트가 해결책을 발견하면 다음 세션에서 다시 발견할 필요가 없다. 장기적으로는 에이전트 간 학습을 공유하여 전체 커뮤니티에 이점을 주는 방향으로 발전하고 있다. Rohit Prsad과 Xin Ye에게 협력해 주셔서 감사드린다. npm install -g @aisuite/chub. GitHub: https://t.co/OCkyxXQMCq",
+      "content_ko": "저는 Context Hub, 코드 에이전트가 최신 API 문서를 사용할 수 있도록 도와주는 오픈소스 도구를 발표합니다. 설치 후 에이전트에게 CLI를 통해 정리된 문서를 가져오도록 요청할 수 있습니다. (참조 이미지) 왜 중요한가요? 코드 에이전트는 오래된 API를 사용하거나 파라미터를 허위 정보로 생성하는 경우가 많습니다. 예를 들어, 저는 Claude Code에게 OpenAI의 GPT-5.2를 호출하라고 요청했지만, 사용자가 더 최근인 responses API를 사용하도록 하지 않았습니다. Context Hub는 이러한 문제를 해결합니다. Context Hub는 시간이 지남에 따라 더 똑똑해질 수 있도록 설계되었습니다. 에이전트는 문서에 주석을 달 수 있으며, 에이전트가 해결책을 찾으면 저장하여 다음 세션에서 다시 찾을 필요가 없습니다. 장기적으로는 에이전트들이 서로 배운 내용을 공유하도록 개발 중이며, 커뮤니티 전체가 혜택을 얻을 수 있도록 합니다. 감사합니다, Rohit Prsad와 Xin Ye가 함께 작업해 주셔서 감사합니다! npm install -g @aisuite/chub GitHub: https://t.co/OCkyxXQMCq",
       "url": "https://x.com/AndrewYNg/status/2031051809499054099",
       "is_ai_trend": true,
       "ai_confidence": 0.95,
-      "ai_title": "Andrew Ng(앤드류 응): 코드 에이전트의 오래된 API 사용 문제 해결을 위한 Context Hub 발표",
+      "ai_title": "Context Hub, 코드 에이전트의 API 문서 정확성 개선 도구 공개",
       "ai_bullets": [
-        "Context Hub는 코드 에이전트가 최신 API 문서를 제공하여 오래된 API 사용 및 파라미터 창조 문제를 해결한다.",
-        "에이전트는 문서에 노트를 추가하여 세션 간 학습을 유지하고, 장기적으로 에이전트 간 지식 공유를 목표로 한다.",
-        "npm을 통해 설치하고 에이전트에게 CLI 명령어를 사용하도록 지시할 수 있다."
+        "코드 에이전트가 사용하는 API 문서가 오래된 버전일 경우 발생하는 오류 해결",
+        "Context Hub는 최신 API 문서를 제공하며 에이전트가 학습한 내용을 공유하는 기능 지원",
+        "npm install -g @aisuite/chub 명령어로 설치 및 사용 가능"
       ],
-      "ai_summary": "앤드류 응(Andrew Ng)은 코드 에이전트가 오래된 API를 사용하는 문제를 해결하기 위해 Context Hub 도구를 발표하며, 이 도구는 최신 API 문서를 제공하고 에이전트 간 지식 공유를 지원한다고 설명했다.",
+      "ai_summary": "코드 에이전트의 API 문서 정확성 문제를 해결하기 위한 Context Hub 도구 발표",
       "ai_themes": [
         "기술발전",
-        "오픈소스"
+        "오픈소스",
+        "생성형AI"
       ],
       "published_at": "2026-03-10 01:57"
     }

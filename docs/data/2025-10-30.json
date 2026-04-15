@@ -1,0 +1,39 @@
+{
+  "date": "2025-10-30",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.9,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "1983609014408851718",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "In hindsight the importance of GPUs for AI was something we really got right! https://t.co/aMeVfiKjQ3",
+      "content_ko": "사후 고려하면 AI 개발에 있어 GPU의 중요성은 우리가 정말 잘 수행한 부분이었습니다. https://t.co/aMeVfiKjQ3",
+      "url": "https://x.com/AndrewYNg/status/1983609014408851718",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "GPU의 AI 개발에 대한 중요성 강조",
+      "ai_bullets": [
+        "GPU가 AI 개발에 기여한 점을 후회 없이 성공적으로 수행했다고 평가",
+        "AI 기술 발전에 필요한 하드웨어 인프라에 대한 논의"
+      ],
+      "ai_summary": "GPU의 AI 개발에 대한 중요성 강조 및 기술 발전 논의",
+      "ai_themes": [
+        "기술발전"
+      ],
+      "published_at": "2025-10-30 03:56"
+    }
+  ]
+}

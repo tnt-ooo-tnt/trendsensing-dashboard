@@ -1,0 +1,322 @@
+{
+  "date": "2026-03-27",
+  "total": 14,
+  "ai_true": 8,
+  "ai_false": 6,
+  "source_counts": {
+    "msitminister": 2,
+    "Jaemyung_Lee": 3,
+    "sama": 1,
+    "demishassabis": 3,
+    "Google AI Blog": 4,
+    "karpathy": 1
+  },
+  "avg_confidence": 0.55,
+  "top_themes": [
+    [
+      "기술발전",
+      7
+    ],
+    [
+      "산업동향",
+      7
+    ],
+    [
+      "생성형AI",
+      3
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2037463069123899596",
+      "platform": "twitter",
+      "account_handle": "msitminister",
+      "display_name": "배경훈",
+      "content": "<아날로그 인간 김종국도 한다! 모두의 AI>\n\n“피지컬 하면 김종국, 이제는 피지컬 AI 시대에도 잘 어울립니다.”\n\n이 한마디에 개막식 분위기가 더욱 살아났습니다. 현장에는 초등학생부터 어르신까지 함께했습니다. 이제 AI는 전문가의 기술이 아니라, 국민 모두의 도구입니다.\n\n스스로 아날로그 인간이라던 김종국님이 AI 홍보대사로 나선 것, 그 자체가 메시지입니다.\n\n김종국님이 하면, 누구나 할 수 있습니다.\n\n지금이 바로, 전국민 AI 경진대회에서 직접 써보고 도전해볼 시간입니다.\n\nhttps://t.co/eTlPcygCdP\n\n#모두의AI #전국민AI경진대회 #피지컬AI #김종국 #탈아날로그인간 #과기정통부",
+      "content_ko": "“피지컬 하면 김종국, 이제는 피지컬 AI 시대에도 잘 어울립니다.” 이 한마디에 개막식 분위기가 더욱 살아났습니다. 현장에는 초등학생부터 어르신까지 함께했습니다. 이제 AI는 전문가의 기술이 아니라, 국민 모두의 도구입니다. 스스로 아날로그 인간이라던 김종국님이 AI 홍보대사로 나선 것, 그 자체가 메시지입니다. 김종국님이 하면, 누구나 할 수 있습니다. 지금이 바로, 전국민 AI 경진대회에서 직접 써보고 도전해볼 시간입니다. https://t.co/eTlPcygCdP #모두의AI #전국민AI경진대회 #피지컬AI #김종국 #탈아날로그인간 #과기정통부",
+      "url": "https://x.com/msitminister/status/2037463069123899596",
+      "is_ai_trend": false,
+      "ai_confidence": 0.3,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-27 18:33"
+    },
+    {
+      "post_id": "2037455179780432062",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "한강 작가님의 전미도서비평가협회상 소설 부문 수상을 진심으로 축하합니다. 우리나라 작품이 이 상의 소설 부문에서 수상한 것은 처음이라 더욱 뜻깊습니다.\n\n수상작 「작별하지 않는다」는 제주 4·3이라는 우리 현대사의 비극을 인간의 존엄과 기억, 서사로 승화시킨 작품입니다. 고통스러운 역사를 시적으로 풀어내며 깊은 울림을 주었습니다.\n\n지난해 노벨문학상 수상에 이어 다시 한번 대한민국 문학의 깊이와 품격을 전 세계에 증명해 주신 한강 작가님, 참 자랑스럽습니다. \n\n작가님께서 열어주신 문학의 새로운 지평을 따라 앞으로 우리 예술인들 또한 더 넓은 무대를 향해 힘차게 나아가리라 기대합니다.\n\n“나는 여전히 우리들 안에 깜빡이는 빛이 존재한다고 믿고 싶다. 그리고 그 빛을 굳건히 붙들고 앞으로 나아가길 희망한다”고 말씀하셨지요.\n\n우리 안에 존재하는 빛을 들고, 어둠 속에서도 서로의 온기를 잊지 않으며, 앞으로 나아갈 용기를 건네주고 계신 한강 작가님께 깊은 감사를 전합니다.",
+      "content_ko": "한강 작가님의 전미도서비평가협회상 소설 부문 수상을 진심으로 축하합니다. 우리나라 작품이 이 상의 소설 부문에서 수상한 것은 처음이라 더욱 뜻깊습니다. 수상작 「작별하지 않는다」는 제주 4·3이라는 우리 현대사의 비극을 인간의 존엄과 기억, 서사로 승화시킨 작품입니다. 고통스러운 역사를 시적으로 풀어내며 깊은 울림을 주었습니다. 지난해 노벨문학상 수상에 이어 다시 한번 대한민국 문학의 깊이와 품격을 전 세계에 증명해 주신 한강 작가님, 참 자랑스럽습니다. 작가님께서 열어주신 문학의 새로운 지평을 따라 앞으로 우리 예술인들 또한 더 넓은 무대를 향해 힘차게 나아가리라 기대합니다. \"나는 여전히 우리들 안에 깜빡이는 빛이 존재한다고 믿고 싶다. 그리고 그 빛을 굳건히 붙들고 앞으로 나아가길 희망한다\"고 말씀하셨지요. 우리 안에 존재하는 빛을 들고, 어둠 속에서도 서로의 온기를 잊지 않으며, 앞으로 나아갈 용기를 건네주고 계신 한강 작가님께 깊은 감사를 전합니다.",
+      "url": "https://x.com/Jaemyung_Lee/status/2037455179780432062",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-27 18:02"
+    },
+    {
+      "post_id": "2037453041658741071",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "<조성현 대령은 진급시기가 안되어 조기특진을 검토하였으나 본인이 진급시기전에 특진하는 것을 사양해 장군진급을 시키지 못했습니다. \n\n국민의 군인으로서 당연히 해야 할 일을 한 것에 대해 특진을 수용하지 않겠다는 의사였던 것으로 압니다. \n\n조대령의 국민과 국가에 대한 충정을 존중하여 진급시키지 못하였으니 국민여러분의 이해를 바랍니다.\n\n진정한 참군인 조 대령을 응원하고 기억해 주시기 바랍니다.>\n\n李, '서강대교 넘지 말라' 조성현 대령 만나…\"한 번 보고팠다\"https://t.co/tLXahJi6Qj",
+      "content_ko": "조성현 대령은 진급시기가 안되어 조기특진을 검토하였으나 본인이 진급시기전에 특진하는 것을 사양해 장군진급을 시키지 못했습니다. 국민의 군인으로서 당연히 해야 할 일을 한 것에 대해 특진을 수용하지 않겠다는 의사였던 것으로 압니다. 조대령의 국민과 국가에 대한 충정을 존중하여 진급시키지 못하였으니 국민여러분의 이해를 바랍니다. 진정한 참군인 조 대령을 응원하고 기억해 주시기 바랍니다.",
+      "url": "https://x.com/Jaemyung_Lee/status/2037453041658741071",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-27 17:53"
+    },
+    {
+      "post_id": "2037396826060673188",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "The coolest meeting I had this week with was Paul, who used ChatGPT and other LLMs to create an mRNA vaccine protocol to save his dog Rosie. It is amazing story.\n\n\"The chat bots empowered me as an individual to act with the power of a research institute - planning, education, troubleshooting, compliance, and yes, real scientific design work in converting genomic data to a vaccine prescription and designing the treatment protocol around it. But they worked alongside humans at every step. The combination is what made it possible.\"\n\nIt immediately got me thinking \"this should be a company\".\n\nAlso, Paul is an extraordinary guy. This should be easy to do, but it is not yet.",
+      "content_ko": "이번 주 가장 인상 깊은 만남은 Paul과의 것이었다. Paul은 ChatGPT 및 다른 LLM을 사용해 개 Rosie의 mRNA 백신 프로토콜을 만들었다. 이는 놀라운 이야기다. '챗봇이 나를 개인으로서 연구소의 힘을 가진 존재로 만들어 주었다. 계획 수립, 교육, 문제 해결, 준수 사항, 그리고 유전자 데이터를 백신 처방으로 전환하는 실제 과학적 설계 작업까지 가능하게 했다. 하지만 모든 단계에서 인간과 협업했다. 이 결합이 가능하게 했다.' 이 글을 읽으며 '이건 기업이 되어야 한다'는 생각이 들었다. Paul은 놀라운 사람이다. 이건 쉬운 일이지만 아직 완성되지 않았다.",
+      "url": "https://x.com/sama/status/2037396826060673188",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "LLM 활용한 동물 백신 개발 사례 공유",
+      "ai_bullets": [
+        "Paul이 ChatGPT 및 다른 대규모 언어 모델(LLM)을 활용해 개 Rosie의 mRNA 백신 프로토콜을 개발했다",
+        "AI 도구가 개인이 연구소 수준의 과학적 설계 작업을 수행할 수 있도록 지원했다",
+        "인간과 AI의 협업이 실제 의학적 적용 가능성을 열었다"
+      ],
+      "ai_summary": "개인도 AI 도구를 통해 과학적 연구와 치료 프로토콜 개발이 가능하다는 사례 공유",
+      "ai_themes": [
+        "기술발전",
+        "산업동향",
+        "생성형AI"
+      ],
+      "published_at": "2026-03-27 14:10"
+    },
+    {
+      "post_id": "2037358058242977869",
+      "platform": "twitter",
+      "account_handle": "msitminister",
+      "display_name": "배경훈",
+      "content": "<기초연구의 시간, 결국 세계를 바꿉니다>\n\n요즘 우리나라 연구자들의 성과를 접할 때마다 기초연구의 힘이 얼마나 큰지 다시 한번 실감하게 됩니다.\n\n지난주에는 포항공대 신소재공학과 김종환 교수 연구팀이 기존 소재 대비 20배 이상의 효율을 갖는 심자외선 LED 신소재를 개발해 Science지에 논문을 게재했습니다. 인체에는 비교적 안전하면서도 강력한 살균 효과를 가진 심자외선의 특성을 활용해 감염병 대응과 공공 위생 분야에 새로운 길을 열 수 있는 중요한 성과입니다.\n\n이어 오늘은 같은 포항공대 화학과 김경환 교수 연구팀이 수십 년간 풀리지 않았던 물의 ‘액체-액체 임계점’을 세계 최초로 관측하며 역시 Science지에 논문을 게재했다는 소식을 접했습니다. 물의 가장 근본적인 성질에 대한 오랜 과학적 질문에 답을 제시한, 말 그대로 교과서를 바꿀 수 있는 연구입니다.\n\n이 두 성과는 분야도 다르고 연구 대상도 다르지만, 짧은 성과를 좇지 않고 10년 이상 한 분야를 묵묵히 파고든 ‘기초연구의 시간’이 있었기에 가능했다는 공통점을 가지고 있습니다.\n\n기초연구는 당장 눈에 보이는 성과로 평가하기 어렵지만 시간이 축적되면 어느 순간 세상을 바꾸는 돌파구로 나타나며, 이번 두 연구가 바로 그 증거라고 생각합니다. 두 연구팀 모두 과기정통부의 기초연구지원사업을 통해 장기간 안정적인 지원을 받아왔으며, 연구자가 흔들리지 않고 한 길을 갈 수 있도록 뒷받침하는 것이 정부의 가장 중요한 역할이라고 생각합니다.\n\nAI, 반도체, 바이오와 같은 전략기술도 결국 기초연구 위에서 꽃을 피우며, 기초연구에 대한 투자는 선택이 아니라 국가의 미래를 위한 필수 조건입니다.\n\n과기정통부는 앞으로도 연구자들이 긴 호흡으로 도전할 수 있도록, 그리고 세계를 바꾸는 연구가 대한민국에서 계속 나올 수 있도록 기초연구 지원을 흔들림 없이 이어가겠습니다.\n\n세계적인 성과는 결국 ‘시간과 신뢰’에서 나온다고 믿습니다.\n\n#기초연구 #과학기술 #연구성과 #김종환교수 #김경환교수 #연구개발 #과기정통부",
+      "content_ko": "기초연구의 시간, 결국 세계를 바꿉니다. 요즘 우리나라 연구자들의 성과를 접할 때마다 기초연구의 힘이 얼마나 큰지 다시 한번 실감하게 됩니다. 지난주에는 포항공대 신소재공학과 김종환 교수 연구팀이 기존 소재 대비 20배 이상의 효율을 갖는 심자외선 LED 신소재를 개발해 Science지에 논문을 게재했습니다. 인체에는 비교적 안전하면서도 강력한 살균 효과를 가진 심자외선의 특성을 활용해 감염병 대응과 공공 위생 분야에 새로운 길을 열 수 있는 중요한 성과입니다. 이어 오늘은 같은 포항공대 화학과 김경환 교수 연구팀이 수십 년간 풀리지 않았던 물의 '액체-액체 임계점'을 세계 최초로 관측하며 역시 Science지에 논문을 게재했다는 소식을 접했습니다. 물의 가장 근본적인 성질에 대한 오랜 과학적 질문에 답을 제시한, 말 그대로 교과서를 바꿀 수 있는 연구입니다. 이 두 성과는 분야도 다르고 연구 대상도 다르지만, 짧은 성과를 좇지 않고 10년 이상 한 분야를 묵묵히 파고든 '기초연구의 시간'이 있었기에 가능했다는 공통점을 가지고 있습니다. 기초연구는 당장 눈에 보이는 성과로 평가하기 어렵지만 시간이 축적되면 어느 순간 세상을 바꾸는 돌파구로 나타나며, 이번 두 연구가 바로 그 증거라고 생각합니다. 두 연구팀 모두 과기정통부의 기초연구지원사업을 통해 장기간 안정적인 지원을 받아왔으며, 연구자가 흔들리지 않고 한 길을 갈 수 있도록 뒷받침하는 것이 정부의 가장 중요한 역할이라고 생각합니다. AI, 반도체, 바이오와 같은 전략기술도 결국 기초연구 위에서 꽃을 피우며, 기초연구에 대한 투자는 선택이 아니라 국가의 미래를 위한 필수 조건입니다. 과기정통부는 앞으로도 연구자들이 긴 호흡으로 도전할 수 있도록, 그리고 세계를 바꾸는 연구가 대한민국에서 계속 나올 수 있도록 기초연구 지원을 흔들림 없이 이어가겠습니다. 세계적인 성과는 결국 '시간과 신뢰'에서 나온다고 믿습니다.",
+      "url": "https://x.com/msitminister/status/2037358058242977869",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "정책/규제",
+        "기타"
+      ],
+      "published_at": "2026-03-27 11:36"
+    },
+    {
+      "post_id": "2037348762138677735",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "Now it’s even easier to switch to the @GeminiApp ! 😎 https://t.co/qhsARXzJSq",
+      "content_ko": "Now it’s even easier to switch to the @GeminiApp ! 😎 https://t.co/qhsARXzJSq",
+      "url": "https://x.com/demishassabis/status/2037348762138677735",
+      "is_ai_trend": true,
+      "ai_confidence": 0.8,
+      "ai_title": "GeminiApp: 사용자 전환 간소화 발표",
+      "ai_bullets": [
+        "@GeminiApp 사용자 전환 절차 간소화",
+        "새로운 기능으로 사용자 경험 개선"
+      ],
+      "ai_summary": "GeminiApp이 사용자 전환 절차를 간소화하며 새로운 기능을 통해 사용자 경험을 개선했다.",
+      "ai_themes": [
+        "산업동향"
+      ],
+      "published_at": "2026-03-27 10:59"
+    },
+    {
+      "post_id": "2037304390399435153",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "&lt;스토리 라인이 워낙 부실해서 쓰다만 소설.. 출연진 연기가 조금만 리얼했어도..&gt;\n\n이재명과 조폭 엮으려…검·경이 '파타야 주범' 회유 https://t.co/FtvoggV3Cz",
+      "content_ko": "스토리 라인이 워낙 부실해서 쓰다만 소설.. 출연진 연기가 조금만 리얼했어도.. 이재명과 조폭 엮으려…검·경이 '파타야 주범' 회유 https://t.co/FtvoggV3Cz",
+      "url": "https://x.com/Jaemyung_Lee/status/2037304390399435153",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-27 08:03"
+    },
+    {
+      "post_id": "2037241748486054176",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "more info on the benchmarks here: https://t.co/78ZdsHtETg",
+      "content_ko": "https://t.co/78ZdsHtETg 링크의 내용: 구글이 최신 음성 모델 Gemini 3.1 Flash Live를 출시했습니다. 이 모델은 음성 인터랙션의 자연스러움과 정확도를 향상시켰으며, 개발자는 Gemini Live API를 통해 음성 에이전트를 구축할 수 있습니다. 또한, 기업은 고객 경험 개선을 위해 활용할 수 있으며, 일반 사용자는 검색 및 Gemini Live 기능을 통해 200개 이상 국가에서 사용할 수 있습니다.",
+      "url": "https://x.com/demishassabis/status/2037241748486054176",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "구글, Gemini 3.1 Flash Live 음성 모델 출시",
+      "ai_bullets": [
+        "Gemini 3.1 Flash Live는 음성 인터랙션의 자연스러움과 정확도를 높인 최신 음성 모델",
+        "개발자는 Gemini Live API를 통해 음성 에이전트 개발에 활용 가능",
+        "구글 제품 내에서 실시간 대화 기능을 확장해 글로벌 사용자 대상 제공"
+      ],
+      "ai_summary": "구글이 음성 인터랙션 기술을 혁신한 Gemini 3.1 Flash Live 모델을 출시하며, 개발자와 기업 사용자 대상으로 다양한 플랫폼에서 활용 가능성을 열어두고 있다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-03-27 03:54"
+    },
+    {
+      "post_id": "2037241441152590056",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "Gemini 3.1 Flash Live is our highest quality audio &amp; voice model yet - and a big leap towards building next-gen voice-first agents. Lower latency, better precision, more natural interactions... try it now with Gemini Live in the @GeminiApp or build with it in @GoogleAIStudio! https://t.co/JIqaaVlTuM",
+      "content_ko": "https://t.co/JIqaaVlTuM 링크의 내용: 구글은 음성 및 음성 기반 AI 에이전트 개발을 위한 최신 모델인 Gemini 3.1 Flash Live를 발표했습니다. 이 모델은 음성 인터랙션의 정밀도와 저지연을 개선해 자연스러운 대화를 가능하게 하며, Gemini App 및 Google AI Studio에서 직접 테스트 및 개발할 수 있습니다.",
+      "url": "https://x.com/demishassabis/status/2037241441152590056",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "구글, 음성 기반 AI 에이전트 개발 위한 Gemini 3.1 Flash Live 공개",
+      "ai_bullets": [
+        "Gemini 3.1 Flash Live는 음성 인터랙션의 정밀도와 저지연을 강화한 최신 모델",
+        "음성 에이전트 개발에 활용해 복잡한 작업 처리 신뢰도 향상",
+        "Gemini App 및 Google AI Studio에서 직접 테스트 및 개발 가능"
+      ],
+      "ai_summary": "구글이 음성 기반 AI 에이전트 개발을 위한 최신 모델 Gemini 3.1 Flash Live를 발표하며, 개발자와 사용자 대상 다양한 플랫폼에서 활용성을 강조했습니다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-03-27 03:53"
+    },
+    {
+      "post_id": "3f8d0eb2cfdf5d3023c2274c",
+      "platform": "rss",
+      "account_handle": "Google AI Blog",
+      "display_name": "Google AI",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Approved_thumbnail_with_logo.max-600x600.format-webp.webp\" />In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
+      "content_ko": "In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "기술과 사회 대화 시리즈 진행",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-27 02:00"
+    },
+    {
+      "post_id": "2037200624450936940",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "When I built menugen ~1 year ago, I observed that the hardest part by far was not the code itself, it was the plethora of services you have to assemble like IKEA furniture to make it real, the DevOps: services, payments, auth, database, security, domain names, etc...\n\nI am really looking forward to a day where I could simply tell my agent: \"build menugen\" (referencing the post) and it would just work. The whole thing up to the deployed web page. The agent would have to browse a number of services, read the docs, get all the api keys, make everything work, debug it in dev, and deploy to prod. This is the actually hard part, not the code itself. Or rather, the better way to think about it is that the entire DevOps lifecycle has to become code, in addition to the necessary sensors/actuators of the CLIs/APIs with agent-native ergonomics. And there should be no need to visit web pages, click buttons, or anything like that for the human. \n\nIt's easy to state, it's now just barely technically possible and expected to work maybe, but it definitely requires from-scratch re-design, work and thought. Very exciting direction!",
+      "content_ko": "1년 전 menugen을 개발할 때 가장 어려웠던 점은 코드 자체가 아니라 서비스 통합이었다고 설명했습니다. DevOps 서비스(결제, 인증, 데이터베이스 등)를 조립하는 과정이 가장 복잡했으며, AI 에이전트가 이를 자동화할 수 있다고 기대하고 있습니다. 에이전트가 문서를 읽고 API 키를 수집해 전체 시스템을 개발하고 배포할 수 있는 기능이 필요하다고 강조했습니다.",
+      "url": "https://x.com/karpathy/status/2037200624450936940",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "AI 에이전트가 DevOps 프로세스 자동화 가능성 탐구",
+      "ai_bullets": [
+        "DevOps 서비스 자동 조립을 위한 AI 에이전트 기능 제안",
+        "코드 작성보다 서비스 통합이 DevOps의 주요 난관으로 지적",
+        "DevOps 라이프사이클을 코드화하고 CLI/API 기반 에이전트 기능 필요성 강조"
+      ],
+      "ai_summary": "AI 에이전트가 DevOps 서비스 통합을 자동화하는 기술적 가능성에 대한 제안",
+      "ai_themes": [
+        "기술발전",
+        "생성형AI",
+        "산업동향"
+      ],
+      "published_at": "2026-03-27 01:10"
+    },
+    {
+      "post_id": "4e37dc6664d26ac35d12db8c",
+      "platform": "rss",
+      "account_handle": "Google AI Blog",
+      "display_name": "Google AI",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Static-InterstitialscreenJapane.max-600x600.format-webp.webp\" />Google Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…",
+      "content_ko": "구글 번역기의 실시간 번역 기능이 iOS에 공식 출시되었습니다. 또한, iOS 및 안드로이드 사용자 대상으로 지원 국가 확대를 진행 중입니다. https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Static-InterstitialscreenJapane.max-600x600.format-webp.webp",
+      "url": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "구글 번역기, 실시간 번역 기능 iOS 출시 및 국가 확대 발표",
+      "ai_bullets": [
+        "구글 번역기의 실시간 번역 기능이 iOS에 공식 출시됨",
+        "iOS 및 안드로이드 사용자 대상 지원 국가 확대 진행 중"
+      ],
+      "ai_summary": "구글 번역기의 실시간 번역 기능이 iOS에 출시되며, 지원 국가 확대를 발표했습니다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-03-27 01:00"
+    },
+    {
+      "post_id": "9ab840ff0c6990e5fa706735",
+      "platform": "rss",
+      "account_handle": "Google AI Blog",
+      "display_name": "Google AI",
+      "content": "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon",
+      "content_ko": "Gemini emblem가 'Gemini 3.1 Flash Live' 텍스트와 함께 배치된 이미지가 공개되었습니다. 배경은 파랑색과 다색 점으로 구성된 마이크 아이콘입니다.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "구글 Gemini 3.1 Flash Live 버전 브랜드 이미지 공개",
+      "ai_bullets": [
+        "Gemini 3.1 Flash Live 버전 브랜드 이미지 공개됨",
+        "블루 및 다색 점으로 구성된 마이크 아이콘 배경 사용"
+      ],
+      "ai_summary": "구글이 Gemini 3.1 Flash Live 버전의 브랜드 이미지를 공개했습니다.",
+      "ai_themes": [
+        "기술발전",
+        "생성형AI"
+      ],
+      "published_at": "2026-03-27 00:21"
+    },
+    {
+      "post_id": "e4e2e0b5ba74a6a1af30de43",
+      "platform": "rss",
+      "account_handle": "Google AI Blog",
+      "display_name": "Google AI",
+      "content": "A graphic with the words Search Live shown underneath a waveform icon. To the right, a phone shows the Google app with Search Live open. The camera is pointing at trees in a forest.",
+      "content_ko": "검색 라이브라는 문구가 웨이브폼 아이콘 아래에 표시된 그래픽이 공개되었습니다. 오른쪽에는 구글 앱이 열린 휴대폰 화면이 보이며, 카메라가 숲의 나무를 촬영하는 장면이 포함되어 있습니다.",
+      "url": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "구글 '검색 라이브' 기능, 포레스트 캠코더 기능 탑재",
+      "ai_bullets": [
+        "검색 라이브 기능이 웨이브폼 아이콘 아래에 표시됨",
+        "휴대폰 화면에 구글 앱에서 검색 라이브 실행 모습 보여짐",
+        "카메라가 숲의 나무를 촬영하는 장면 포함"
+      ],
+      "ai_summary": "구글이 '검색 라이브' 기능을 탑재한 새로운 UI 이미지를 공개했습니다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-03-27 00:00"
+    }
+  ]
+}

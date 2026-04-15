@@ -1,0 +1,180 @@
+{
+  "date": "2026-03-18",
+  "total": 8,
+  "ai_true": 3,
+  "ai_false": 5,
+  "source_counts": {
+    "msitminister": 5,
+    "Google AI Blog": 2,
+    "sama": 1
+  },
+  "avg_confidence": 0.39,
+  "top_themes": [
+    [
+      "산업동향",
+      3
+    ],
+    [
+      "정책/규제",
+      2
+    ],
+    [
+      "투자/시장",
+      2
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2034250643008033266",
+      "platform": "twitter",
+      "account_handle": "msitminister",
+      "display_name": "배경훈",
+      "content": "<AI 미래들의 수다, 대한민국 독자 AI 모델이 필요한 이유>\n\n오늘 AI 기업 간담회에서 언급했던 내용입니다.\n\n제가 원하진 않았지만 핑크빛 옷을 입고 ^^\n젊은 인재들과 대한민국 AI 미래를 얘기하고 왔습니다.\n\n앞으로 2~3년이 대한민국 AI의 미래를 결정짓는 골든타임이 될 것이고 이 시기를 놓치지 않기 위해 정부는 민간과 힘을 모아 산업과 시장에서 경쟁력을 갖추는 것은 물론이고, 국가 경쟁력의 근간이 되는 영역에서는 독자 AI 역량을 반드시 확보하겠습니다.\n\nhttps://t.co/rwUGNk0LZm - @YouTube",
+      "content_ko": "<AI 미래들의 수다, 대한민국 독자 AI 모델이 필요한 이유> 오늘 AI 기업 간담회에서 언급했던 내용입니다. 제가 원하진 않았지만 핑크빛 옷을 입고 ^^ 젊은 인재들과 대한민국 AI 미래를 얘기하고 왔습니다. 앞서 2~3년이 대한민국 AI의 미래를 결정짓는 골든타임이 될 것이고 이 시기를 놓치지 않기 위해 정부는 민간과 힘을 모아 산업과 시장에서 경쟁력을 갖추는 것은 물론이고, 국가 경쟁력의 근간이 되는 영역에서는 독자 AI 역량을 반드시 확보하겠습니다. https://t.co/rwUGNk0LZm - @YouTube",
+      "url": "https://x.com/msitminister/status/2034250643008033266",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "정부, 대한민국 독자 AI 모델 개발 필요성 강조",
+      "ai_bullets": [
+        "AI 기업 간담회에서 '독자 AI 역량 확보' 필요성 언급",
+        "정부-민간 협력으로 산업 경쟁력 강화 및 국가 경쟁력 기반 마련 추진"
+      ],
+      "ai_summary": "정부는 AI 기업 간담회에서 독자 AI 모델 개발의 중요성을 강조하며, 민간과 협력해 국가 경쟁력 기반을 마련할 계획을 발표했습니다.",
+      "ai_themes": [
+        "정책/규제",
+        "산업동향"
+      ],
+      "published_at": "2026-03-18 21:48"
+    },
+    {
+      "post_id": "2034246133955047783",
+      "platform": "twitter",
+      "account_handle": "msitminister",
+      "display_name": "배경훈",
+      "content": "<국민성장펀드, K-엔비디아 육성 간담회 스케치>\n\n어제 정부와 민간 운명공동체를 선언하며 대한민국 AI 3강 달성을 위한 AI반도체 기업과 정부 그리고 산업은행이 의기투합한 현장입니다.\n\n많은 응원부탁드립니다.\n\n #국민성장펀드 #AI반도체 #과학기술정보통신부 #리벨리온 #퓨리오사AI #딥엑스 #하이퍼엑셀 #모빌린트 #금융위원회 #산업은행\nhttps://t.co/pFRy1rK7Zf - @YouTube",
+      "content_ko": "<국민성장펀드, K-엔비디아 육성 간담회 스케치> 어제 정부와 민간 운명공동체를 선언하며 대한민국 AI 3강 달성을 위한 AI반도체 기업과 정부 그리고 산업은행이 의기투합한 현장입니다. 많은 응원부탁드립니다. #국민성장펀드 #AI반도체 #과학기술정보통신부 #리벨리온 #퓨리오사AI #딥엑스 #하이퍼엑셀 #모빌린트 #금융위원회 #산업은행 https://t.co/pFRy1rK7Zf - @YouTube",
+      "url": "https://x.com/msitminister/status/2034246133955047783",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "정부-민간, AI 반도체 공동육성 선언",
+      "ai_bullets": [
+        "국민성장펀드로 K-엔비디아 육성 본격화 선언",
+        "정부-민간 운명공동체를 통해 AI 반도체 기업 지원 확대"
+      ],
+      "ai_summary": "정부는 민간과 협력해 AI 반도체 기업 육성을 위한 운명공동체를 선언하며, 국민성장펀드를 통해 K-엔비디아 성장 지원에 나선다고 밝혔습니다.",
+      "ai_themes": [
+        "산업동향",
+        "투자/시장"
+      ],
+      "published_at": "2026-03-18 21:30"
+    },
+    {
+      "post_id": "2034219008820400602",
+      "platform": "twitter",
+      "account_handle": "msitminister",
+      "display_name": "배경훈",
+      "content": "<K-AI, 글로벌 AI 시장에서 주요 선택지가 되어야>\n\n오늘 독자 AI 관계 기업 간담회를 통해 우리가 나아가야 할 방향을 다시 한 번 분명히 확인했습니다.\n\n이제 대한민국도 엔트로픽, 구글 딥마인드와 같은 세계적인 AI 기업을 배출해야 합니다. 단순히 기술을 빠르게 도입하고 활용하는 수준을 넘어, 글로벌 시장에서 실제로 선택받는 최고 수준의 AI 모델과 서비스를 보유해야 합니다.\n\n지금 AI 경쟁은 속도의 싸움이자 시간과의 경쟁입니다. 앞으로 2~3년이 대한민국 AI의 미래를 결정짓는 골든타임이 될 것입니다. 이 시기를 놓치지 않기 위해 정부와 민간이 힘을 모아야하겠습니다.\n\n특히, 산업과 시장에서 경쟁력을 갖추는 것은 물론이고, 공공·국방 등 핵심 분야에서는 우리 기술로 주도권을 확보하는 등 국가 경쟁력의 근간이 되는 영역에서는 독자 AI 역량을 반드시 확보하겠습니다.\n\n결국 목표는 분명합니다.\n대한민국이 더 이상 AI 기술을 ‘사용하는 나라’에 머무르지 않고, 세계가 선택하는 AI를 만드는 나라로 도약하는 것입니다.\n\n간담회에서 AI모델 경쟁력 확보만 중요한 것이 아니라 경쟁력 있는 AI 서비스를 만들어 세계 무대로 나아가는 것이 중요하고, 이를 위해 AI 서비스 포트폴리오를 만들어 각 기업들이 잘 할 수 있는 분야에 집중 투자하고 전 국민이 실질적으로 체감할 수 있는 모두의 AI를 만드는 일에도 도전해보자고 제안했습니다.\n\n정부도 과감한 투자와 제도 개선을 통해 기업들이 마음껏 도전할 수 있는 환경을 만들겠습니다. 민간의 혁신 역량과 정부의 전략적 지원을 결합해, 글로벌 AI 경쟁에서 대한민국이 당당한 플레이어로 자리매김하도록 최선을 다하겠습니다.\n\n#AI #독파모 #독자AI #엔트로픽 #딥마인드 #모두의AI #SKT #NCAI #네이버 #카카오 #모티프테크놀로지 #LGAI연구원 #업스테이지\n\nhttps://t.co/jkNQV589q6",
+      "content_ko": "오늘 독자 AI 관계 기업 간담회를 통해 우리가 나아가야 할 방향을 다시 한 번 분명히 확인했습니다. 이제 대한민국도 엔트로픽, 구글 딥마인드와 같은 세계적인 AI 기업을 배출해야 합니다. 단순히 기술을 빠르게 도입하고 활용하는 수준을 넘어, 글로벌 시장에서 실제로 선택받는 최고 수준의 AI 모델과 서비스를 보유해야 합니다. 지금 AI 경쟁은 속도의 싸움이자 시간과의 경쟁입니다. 앞으로 2~3년이 대한민국 AI의 미래를 결정짓는 골든타임이 될 것입니다. 이 시기를 놓치지 않기 위해 정부와 민간이 힘을 모아야겠습니다. 특히, 산업과 시장에서 경쟁력을 갖추는 것은 물론이고, 공공·국방 등 핵심 분야에서는 우리 기술로 주도권을 확보하는 등 국가 경쟁력의 근간이 되는 영역에서는 독자 AI 역량을 반드시 확보하겠습니다. 결론적으로 목표는 분명합니다. 대한민국이 더 이상 AI 기술을 '사용하는 나라'에 머무르지 않고, 세계가 선택하는 AI를 만드는 나라로 도약하는 것입니다. 간담회에서 AI모델 경쟁력 확보만 중요한 것이 아니라 경쟁력 있는 AI 서비스를 만들어 세계 무대로 나아가는 것이 중요하고, 이를 위해 AI 서비스 포트폴리오를 만들어 각 기업들이 잘 할 수 있는 분야에 집중 투자하고 전 국민이 실질적으로 체감할 수 있는 모두의 AI를 만드는 일에도 도전해보자고 제안했습니다. 정부도 과감한 투자와 제도 개선을 통해 기업들이 마음껏 도전할 수 있는 환경을 만들겠습니다. 민간의 혁신 역량과 정부의 전략적 지원을 결합해, 글로벌 AI 경쟁에서 대한민국이 당당한 플레이어로 자리매김하도록 최선을 다하겠습니다.",
+      "url": "https://x.com/msitminister/status/2034219008820400602",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "정부, 글로벌 AI 경쟁에서 독자 AI 기업 육성 강조",
+      "ai_bullets": [
+        "정부는 2~3년 내 대한민국 AI의 미래를 결정할 골든타임을 맞아 기술 중심에서 국민 체감 중심으로 전환해야 한다고 제안",
+        "국방·안보 분야에서 우리 기술로 주도권 확보 및 공공·산업 전반 AI 주도권 확보를 위한 전략 논의",
+        "LG AI연구원, 업스테이지, SK텔레콤, 모티프테크놀로지스 등 4개 기업과 함께 독자 AI 파운데이션 모델 프로젝트 추진"
+      ],
+      "ai_summary": "정부는 글로벌 AI 시장에서 대한민국이 선택받는 기술과 서비스를 확보하기 위해 정책적 지원과 민간 혁신 역량 결합을 강조",
+      "ai_themes": [
+        "정책/규제",
+        "산업동향",
+        "투자/시장"
+      ],
+      "published_at": "2026-03-18 19:43"
+    },
+    {
+      "post_id": "2034133234645377312",
+      "platform": "twitter",
+      "account_handle": "msitminister",
+      "display_name": "배경훈",
+      "content": "3월 21일 BTS 공연의 성공적인 개최를 위해 과학기술정보통신부도 통신 안전 확보에 최선을 다하고 있습니다.\n\n대규모 인파 밀집 상황에서도 안정적인 통신 서비스 제공을 위해 통신사, 플랫폼, 넷플릭스와 협력하여 이동통신 기지국 18대와 임시시설(중계기) 17개를 배치하고, 트래픽 분산 및 비상통신체계를 지원할 계획입니다.\n\n아울러 사이버공격에 대비해 하이브 관련 주요 사이트 37개를 대상으로 상시 모니터링을 실시하고, 다양한 디지털재난 상황에 대응할 수 있는 긴급 대응체계를 가동하여 국민 여러분의 불편이 없도록 끝까지 챙기겠습니다.",
+      "content_ko": "3월 21일 BTS 공연의 성공적인 개최를 위해 과학기술정보통신부도 통신 안전 확보에 최선을 다하고 있습니다. 대규모 인파 밀집 상황에서도 안정적인 통신 서비스 제공을 위해 통신사, 플랫폼, 넷플릭스와 협력하여 이동통신 기지국 18대와 임시시설(중계기) 17개를 배치하고, 트래픽 분산 및 비상통신체계를 지원할 계획입니다. 아울러 사이버공격에 대비해 하이브 관련 주요 사이트 37개를 대상으로 상시 모니터링을 실시하고, 다양한 디지털재난 상황에 대응할 수 있는 긴급 대응체계를 가동하여 국민 여러분의 불편이 없도록 끝까지 챙기겠습니다.",
+      "url": "https://x.com/msitminister/status/2034133234645377312",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-03-18 14:02"
+    },
+    {
+      "post_id": "2034052167364186479",
+      "platform": "twitter",
+      "account_handle": "msitminister",
+      "display_name": "배경훈",
+      "content": "대한민국 AI의 새로운 판이 열립니다.\n\n상상이 현실이 되어,\nAI로 세상을 놀라게 할 시간.\n대한민국 AI 도전의 위대한 여정을 함께할\n'당신'을 기다립니다!\n\nCOMING SOON 🔥\n\n#AI #과기정통부 #티저 #COMINGSOON\n\n https://t.co/Qi7WZKAfJo",
+      "content_ko": "대한민국 AI의 새로운 판이 열립니다. 상상이 현실이 되어, AI로 세상을 놀라게 할 시간. 대한민국 AI 도전의 위대한 여정을 함께할 '당신'을 기다립니다! COMING SOON 🔥",
+      "url": "https://x.com/msitminister/status/2034052167364186479",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-03-18 08:40"
+    },
+    {
+      "post_id": "6e5e3c59e1780ba143a1d50e",
+      "platform": "rss",
+      "account_handle": "Google AI Blog",
+      "display_name": "Google AI",
+      "content": "A collage including security icons and photos of hands clasped, a man looking at a computer, and two people pointing at something off camera",
+      "content_ko": "A collage including security icons and photos of hands clasped, a man looking at a computer, and two people pointing at something off camera",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-18 01:00"
+    },
+    {
+      "post_id": "5a0308d3b135a89e84dc0d0d",
+      "platform": "rss",
+      "account_handle": "Google AI Blog",
+      "display_name": "Google AI",
+      "content": "Bubble that says \"Personal Intelligence\" with Google G, Google Photos logo, and Gmail logo around it",
+      "content_ko": "구글 G 로고와 구글 사진, Gmail 로고가 둘러싼 '개인 지능'이라는 텍스트가 있는 버블 이미지",
+      "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-18 01:00"
+    },
+    {
+      "post_id": "2033935276079510011",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "I have so much gratitude to people who wrote extremely complex software character-by-character. It already feels difficult to remember how much effort it really took.\n\nThank you for getting us to this point.",
+      "content_ko": "복잡한 소프트웨어 개발에 기여한 개발자들에게 감사를 전하며, 현재의 성과에 도달할 수 있도록 많은 노력이 필요했다고 밝혔습니다.",
+      "url": "https://x.com/sama/status/2033935276079510011",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-03-18 00:55"
+    }
+  ]
+}

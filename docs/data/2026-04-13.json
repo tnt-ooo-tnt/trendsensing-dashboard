@@ -1,52 +1,68 @@
 {
   "date": "2026-04-13",
-  "total": 7,
+  "total": 8,
   "ai_true": 3,
-  "ai_false": 4,
+  "ai_false": 5,
   "source_counts": {
+    "ylecun": 1,
     "Samsung Newsroom": 1,
     "OpenAI Blog": 1,
     "SKT Newsroom": 5
   },
-  "avg_confidence": 0.45,
+  "avg_confidence": 0.41,
   "top_themes": [
+    [
+      "산업동향",
+      3
+    ],
     [
       "기술발전",
       2
     ],
     [
-      "산업동향",
-      2
-    ],
-    [
       "교육",
-      1
-    ],
-    [
-      "연구/논문",
       1
     ]
   ],
   "posts": [
+    {
+      "post_id": "2043671830548840909",
+      "platform": "twitter",
+      "account_handle": "ylecun",
+      "display_name": "얀 르쿤",
+      "content": "Tired of winning https://t.co/kDBJAb6jOR",
+      "content_ko": "이긴 것에 지쳤다 https://t.co/kDBJAb6jOR",
+      "url": "https://x.com/ylecun/status/2043671830548840909",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-04-13 21:45"
+    },
     {
       "post_id": "00368aa28a9826b7f61207fa",
       "platform": "rss",
       "account_handle": "Samsung Newsroom",
       "display_name": "삼성 뉴스룸",
       "content": "삼성청년SW∙AI아카데미(Samsung Software AI academy For Youth, SSAFY)가 4월 27일부터 5월 11일까지 16기 교육생을 모집한다. SSAFY는 청년들의 취업 경쟁력 강화를 위해 체계적인 SW∙AI교육과 맞춤형 취업 지원 서비스를 제공하는 삼성전자의 CSR 프로그램이다. 지원 대상은 29세 이하의 취업 준비 청년으로, 대학교 혹은 마이스터고 졸업자라면 누구나 지원할 수 있다. 지원자는 삼성청년SW·AI아카데미 홈페이지에서 지원서를 작성한 뒤, SSAFY 적성진단과 인터뷰 전형을 […]",
-      "content_ko": "삼성청년SW∙AI아카데미(Samsung Software AI academy For Youth, SSAFY)가 4월 27일부터 5월 11일까지 16기 교육생을 모집한다. SSAFY는 청년들의 취업 경쟁력 강화를 위해 체계적인 SW∙AI교육과 맞춤형 취업 지원 서비스를 제공하는 삼성전자의 CSR 프로그램이다. 지원 대상은 29세 이하의 취업 준비 청년으로, 대학교 혹은 마이스터고 졸업자라면 누구나 지원할 수 있다. 지원자는 삼성청년SW·AI아카데미 홈페이지에서 지원서를 작성한 뒤, SSAFY 적성진단과 인터뷰 전형을...",
+      "content_ko": "삼성전자는 4월 27일부터 5월 11일까지 16기 교육생을 모집하는 삼성청년SW·AI아카데미(SSAFY)를 운영합니다. 청년들의 취업 경쟁력 강화를 위해 체계적인 SW·AI 교육과 맞춤형 취업 지원 서비스를 제공하는 삼성전자의 CSR 프로그램입니다. 지원 대상은 29세 이하의 취업 준비 청년으로, 대학교 혹은 마이스터고 졸업자라면 누구나 지원할 수 있습니다.",
       "url": "https://news.samsung.com/kr/ai%eb%a1%9c-%ec%97%ac%eb%8a%94-%eb%82%98%eb%a7%8c%ec%9d%98-%eb%af%b8%eb%9e%98-%ec%b2%ad%eb%85%84-sw%e2%88%99ai-%ec%9d%b8%ec%9e%ac-%ed%82%a4%ec%9a%b0%eb%8a%94-ssafy-16%ea%b8%b0",
       "is_ai_trend": true,
-      "ai_confidence": 0.8,
-      "ai_title": "삼성전자, 청년을 위한 AI 교육 프로그램 16기 모집",
+      "ai_confidence": 0.9,
+      "ai_title": "삼성전자, 청년 SW·AI 교육 프로그램 모집",
       "ai_bullets": [
-        "삼성청년SW·AI아카데미는 4월 27일부터 5월 11일까지 16기 교육생을 모집한다.",
-        "AI 교육과 맞춤형 취업 지원 서비스를 통해 청년들의 취업 경쟁력 강화를 목표로 한다."
+        "삼성청년SW·AI아카데미(SSAFY)가 4월 27일부터 5월 11일까지 16기 교육생을 모집합니다.",
+        "청년들의 취업 경쟁력 강화를 위한 체계적인 SW·AI 교육과 맞춤형 취업 지원 서비스 제공",
+        "29세 이하의 취업 준비 청년 대상으로, 대학 및 마이스터고 졸업자 누구나 지원 가능"
       ],
-      "ai_summary": "삼성전자는 청년들을 위한 SW 및 AI 교육 프로그램을 통해 인재 양성에 나서고 있다.",
+      "ai_summary": "삼성전자가 청년 대상 AI 교육 프로그램을 운영하며 인재 양성에 나선다.",
       "ai_themes": [
-        "교육",
-        "연구/논문"
+        "산업동향",
+        "교육"
       ],
       "published_at": "2026-04-13 19:00"
     },
@@ -56,16 +72,16 @@
       "account_handle": "OpenAI Blog",
       "display_name": "OpenAI",
       "content": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
-      "content_ko": "클라우드플레어는 오픈AI의 GPT-5.4와 Codex를 Agent Cloud에 도입하여 기업이 실제 업무에 AI 에이전트를 빠르고 안전하게 구축, 배포, 확장할 수 있도록 지원한다.",
+      "content_ko": "클라우드플레어는 오픈AI의 GPT-5.4 및 코덱스를 에이전트 클라우드에 제공하여, 기업이 실제 작업용 AI 에이전트를 빠르고 안전하게 구축, 배포 및 확장할 수 있도록 지원합니다. 이 플랫폼은 기업이 다양한 AI 작업을 효율적으로 처리할 수 있는 기반을 제공합니다.",
       "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
       "is_ai_trend": true,
       "ai_confidence": 0.95,
-      "ai_title": "클라우드플레어, 오픈AI의 GPT-5.4와 코덱스를 에이전트 클라우드에 도입",
+      "ai_title": "클라우드플레어, 오픈AI GPT-5.4 및 코덱스를 에이전트 클라우드에 제공",
       "ai_bullets": [
-        "클라우드플레어가 오픈AI의 GPT-5.4와 Codex 모델을 Agent Cloud에 통합",
-        "기업이 실제 업무에 AI 에이전트를 빠르고 안전하게 구축·배포·확장 가능"
+        "엔터프라이즈가 실제 작업용 AI 에이전트를 빠르고 안전하게 구축·배포·확장 가능",
+        "GPT-5.4와 코덱스 기반의 클라우드 기반 AI 에이전트 플랫폼 제공"
       ],
-      "ai_summary": "클라우드플레어는 오픈AI의 GPT-5.4와 Codex를 Agent Cloud에 도입하여 기업의 AI 에이전트 활용을 지원한다.",
+      "ai_summary": "오픈AI의 GPT-5.4와 코덱스를 클라우드플레어의 에이전트 클라우드에 통합해 기업용 AI 에이전트 개발을 지원합니다.",
       "ai_themes": [
         "기술발전",
         "산업동향"
@@ -78,14 +94,16 @@
       "account_handle": "SKT Newsroom",
       "display_name": "SK텔레콤",
       "content": "SKT, 오상욱·송세라와 함께하는 ‘쉬운 펜싱’ 공개… 종목 저변 확대 나선다",
-      "content_ko": "SKT, 오상욱·송세라와 함께하는 ‘쉬운 펜싱’ 공개… 종목 저변 확대 나선다",
+      "content_ko": "SKT가 오상욱·송세라와 함께하는 ‘쉬운 펜싱’ 콘텐츠를 공개하며 종목 저변 확대를 위한 전략을 발표했다. 스포츠 유튜브 채널 ‘스크라이크’를 통해 펜싱 규칙과 종목별 차이점을 소개하며, 재치 있는 입담과 미니게임을 통해 재미를 더했다. 24년째 대한펜싱협회 회장사로서 국내외 대회 유치 및 생활체육 활성화에 지속 기여할 계획이다.",
       "url": "https://news.sktelecom.com/223867",
       "is_ai_trend": false,
-      "ai_confidence": 0.0,
+      "ai_confidence": 0.1,
       "ai_title": "",
       "ai_bullets": [],
       "ai_summary": "",
-      "ai_themes": [],
+      "ai_themes": [
+        "산업동향"
+      ],
       "published_at": "2026-04-13 10:09"
     },
     {
@@ -94,14 +112,16 @@
       "account_handle": "SKT Newsroom",
       "display_name": "SK텔레콤",
       "content": "<p>– 스포츠 유튜브 ‘스크라이크’ 통해 펜싱 규칙·종목별 차이점 등 총 2편의 콘텐츠 선봬 – 오상욱·송세라 등 국가대표 선수들 출연… 재치 있는 입담과 미니게임으로 재미 더해 – 24년째 대한펜싱협회 회장사로서 국내외</p>\n<p>The post <a href=\"https://news.sktelecom.com/223798\">SKT, 오상욱·송세라와 함께하는 ‘쉬운 펜싱’ 공개… 종목 저변 확대 나선다</a> first appeared on <a href=\"https://news.sktelecom.com\">SK텔레콤 뉴스룸</a>.</p>",
-      "content_ko": "<p>– 스포츠 유튜브 ‘스크라이크’ 통해 펜싱 규칙·종목별 차이점 등 총 2편의 콘텐츠 선봬 – 오상욱·송세라 등 국가대표 선수들 출연… 재치 있는 입담과 미니게임으로 재미 더해 – 24년째 대한펜싱협회 회장사로서 국내외</p><p>The post <a href=\"https://news.sktelecom.com/223798\">SKT, 오상욱·송세라와 함께하는 ‘쉬운 펜싱’ 공개… 종목 저변 확대 나선다</a> first appeared on <a href=\"https://news.sktelecom.com\">SK텔레콤 뉴스룸</a>.</p>",
+      "content_ko": "SK텔레콤이 스포츠 유튜브 채널 ‘스크라이크’를 통해 펜싱의 재미를 알기 쉽게 풀어낸 ‘쉬운 펜싱’ 시리즈를 공개했다. 총 2편의 콘텐츠는 펜싱 규칙과 종목별 차이점을 소개하며, 오상욱·송세라 등 국가대표 선수들이 출연해 재미있는 토크쇼와 퀴즈, 미니게임 형식으로 흥미를 끌어냈다. 이번 콘텐츠는 ‘SKT 남녀 사브르 국제 그랑프리’와 ‘아이치·나고야 아시안게임’을 앞두고 일반 대중이 펜싱을 친숙하게 즐길 수 있도록 기획되었다.",
       "url": "https://news.sktelecom.com/223798",
       "is_ai_trend": false,
-      "ai_confidence": 0.2,
+      "ai_confidence": 0.1,
       "ai_title": "",
       "ai_bullets": [],
       "ai_summary": "",
-      "ai_themes": [],
+      "ai_themes": [
+        "산업동향"
+      ],
       "published_at": "2026-04-13 09:59"
     },
     {
@@ -110,14 +130,16 @@
       "account_handle": "SKT Newsroom",
       "display_name": "SK텔레콤",
       "content": "SKT, ‘숲캉스 데이’ 통해 장기고객과 자연 속 힐링 함께한다",
-      "content_ko": "SKT, ‘숲캉스 데이’ 통해 장기고객과 자연 속 힐링 함께한다. SKT는 10년 이상 이용한 장기고객을 대상으로, 자연 속 휴식과 체험을 제공하는 ‘T 장기고객 숲캉스 데이’를 진행한다고 밝혔다. 이벤트는 에버랜드 내 ‘포레스트 캠프’에서 진행되며, 일반에 공개되지 않는 자연 체험 공간을 초청해 호평을 받고 있다. 응모 경쟁률은 최대 212:1을 기록했으며, ‘T 장기고객 프로그램’ 개편을 통해 미식·공연 초청 등 장기고객 혜택이 지속 확대될 예정이다. https://news.sktelecom.com/223839",
+      "content_ko": "SKT, '숲캉스 데이'를 통해 10년 이상 이용한 장기고객과 자연 속 힐링을 함께하는 이벤트를 진행한다. '숲캉스(숲+바캉스) 데이'는 에버랜드 내 '포레스트 캠프'에 초청해 진행하는 피크닉형 이벤트로, 지난해 응모 경쟁률은 212:1을 기록했다. 행사장은 일반 방문객에게 개방되지 않는 자연 생태 체험 공간이다. 5월 3일부터 18일까지 총 6회에 걸쳐 1천8백여 명을 초청할 예정이다.",
       "url": "https://news.sktelecom.com/223857",
       "is_ai_trend": false,
       "ai_confidence": 0.1,
       "ai_title": "",
       "ai_bullets": [],
       "ai_summary": "",
-      "ai_themes": [],
+      "ai_themes": [
+        "산업동향"
+      ],
       "published_at": "2026-04-13 08:59"
     },
     {
@@ -126,14 +148,16 @@
       "account_handle": "SKT Newsroom",
       "display_name": "SK텔레콤",
       "content": "<p>– 10년 이상 이용 장기고객 대상 에버랜드 ‘포레스트 캠프’ 초청 이벤트 진행 – 일반에 공개되지 않는 자연 체험 공간 초청으로 호평… 응모 경쟁률 최대 212:1 기록 – ‘T 장기고객 프로그램’</p>\n<p>The post <a href=\"https://news.sktelecom.com/223839\">SKT, ‘숲캉스 데이’ 통해 장기고객과 자연 속 힐링 함께한다</a> first appeared on <a href=\"https://news.sktelecom.com\">SK텔레콤 뉴스룸</a>.</p>",
-      "content_ko": "– 10년 이상 이용 장기고객 대상 에버랜드 ‘포레스트 캠프’ 초청 이벤트 진행 – 일반에 공개되지 않는 자연 체험 공간 초청으로 호평… 응모 경쟁률 최대 212:1 기록 – ‘T 장기고객 프로그램’ 개편… 미식·공연 초청 등 장기고객 혜택 지속 확대 예정 SKT 모델들이 ‘T 장기고객 숲캉스 데이’ 이벤트 페이지를 살펴보는 모습. SK텔레콤(대표이사 CEO 정재헌, news.sktelecom.com)은 SKT와 10년 이상 함께한 장기고객을 대상으로, 자연 속 휴식과 체험을 제공하는 ‘T 장기고객 숲캉스 데이(이하 숲캉스 데이)’를 진행한다고 13일 밝혔다. ‘숲캉스(숲+바캉스) 데이’는 SKT가 장기고객과 가족·지인을 에버랜드 내 ‘포레스트 캠프’에 초청해 진행하는 피크닉형 이벤트로, 이번이 다섯 번째 시즌이다. 지난해 가을 시즌에는 높은 관심 속에 응모 경쟁률이 212:1을 기록한 바 있다. 행사가 열리는 ‘포레스트 캠프‘는 경기도 용인시 향수산 일대 약 9만㎡(2만7천여 평) 규모의 자연 생태 체험 공간이다. SKT는 평소 일반 방문객에게는 개방되지 않는 ‘포레스트 캠프’에 장기고객들만 초청해 특별한 시간을 마련할 예정이다. SKT는 오는 5월 3일부터 18일까지 총 6회에 걸쳐 진행되는 이번 ‘숲캉스 데이’에 총 1천8백여 명을 초청할 예정이다. SKT를 10년 이상 이용한 고객이라면 누구나 응모할 수 있으며, 참여를 원하는 고객은 T멤버십 앱 내 ‘T 장기고객‘ 메뉴에서 ‘숲캉스 데이‘를 선택해… https://news.sktelecom.com",
+      "content_ko": "SKT는 10년 이상 이용한 장기고객을 대상으로 에버랜드 '포레스트 캠프' 초청 이벤트를 진행한다. 일반에 공개되지 않는 자연 체험 공간 초청으로 응모 경쟁률이 최대 212:1을 기록했다. 'T 장기고객 프로그램' 개편으로 미식·공연 초청 등 혜택이 지속 확대될 예정이다. 5월 3일부터 18일까지 총 6회에 걸쳐 1천8백여 명을 초청할 계획이다.",
       "url": "https://news.sktelecom.com/223839",
       "is_ai_trend": false,
-      "ai_confidence": 0.2,
+      "ai_confidence": 0.1,
       "ai_title": "",
       "ai_bullets": [],
       "ai_summary": "",
-      "ai_themes": [],
+      "ai_themes": [
+        "산업동향"
+      ],
       "published_at": "2026-04-13 08:57"
     },
     {
@@ -142,17 +166,17 @@
       "account_handle": "SKT Newsroom",
       "display_name": "SK텔레콤",
       "content": "<p>2026년 오늘날의 통신은 단순한 연결을 넘어 데이터와 산업, 그리고 AI까지 이어지는 인프라로 확장 중이다. 사람과 사람을 연결하던 통신은 이제 데이터와 기술, 산업 전반을 연결하는 기반으로 진화하고 있다. 이 변화의 출발점에는</p>\n<p>The post <a href=\"https://news.sktelecom.com/223718\">CDMA에서 AI까지, 30년간 이어온 이동통신의 진화</a> first appeared on <a href=\"https://news.sktelecom.com\">SK텔레콤 뉴스룸</a>.</p>",
-      "content_ko": "2026년 오늘날의 통신은 단순한 연결을 넘어 데이터와 산업, 그리고 AI까지 이어지는 인프라로 확장 중이다. 사람과 사람을 연결하던 통신은 이제 데이터와 기술, 산업 전반을 연결하는 기반으로 진화하고 있다. 이 변화의 출발점에는 1996년 CDMA(코드분할 다중접속) 상용화가 있다. 당시 SK텔레콤의 전신인 한국이동통신서비스(주)는 서울과 수도권에서 세계 최초로 CDMA 상용 서비스를 시작하며 디지털 이동통신 시대를 열었다. CDMA 상용화는 이후 이동통신 기술의 방향을 결정지었을 뿐만 아니라, 통신과 산업 구조 전반의 변화를 이끈 계기가 됐다. SKT 뉴스룸은 CDMA 상용화 30주년을 맞아 한국의 이동통신 시작지점부터 현재의 AI 기반 통신 인프라까지 이어지는 변화상을 짚어봤다. https://news.sktelecom.com/223718",
+      "content_ko": "",
       "url": "https://news.sktelecom.com/223718",
       "is_ai_trend": true,
       "ai_confidence": 0.9,
-      "ai_title": "SK텔레콤: 이동통신의 30년 진화, AI 기반 인프라로 확장",
+      "ai_title": "SK텔레콤, 이동통신 기술의 AI 기반 인프라로 진화 과정 공개",
       "ai_bullets": [
-        "2026년 통신은 데이터와 산업, AI까지 연결하는 인프라로 진화 중",
-        "1996년 CDMA 상용화가 디지털 이동통신 시대를 열었으며, AI 시대를 맞아 또 한 번의 진화를 앞두고 있음",
-        "SK텔레콤은 이동통신 기술의 변화상을 AI 기반 통신 인프라까지 이어지는 과정을 되짚어봄"
+        "1996년 세계 최초 CDMA 상용화로 시작된 이동통신 기술이 AI 기반 통신 인프라로 진화 중",
+        "CDMA 상용화는 통신 산업 구조 전반의 변화를 이끌며 디지털 이동통신 시대를 열었다",
+        "현재 AI 기반 통신 인프라로 확장되며 데이터와 산업 연결 기능을 갖추고 있음"
       ],
-      "ai_summary": "SK텔레콤은 이동통신 기술의 30년간의 진화를 소개하며, 현재 AI 기반 통신 인프라로 확장되고 있음을 강조했다. 1996년 CDMA 상용화가 디지털 이동통신 시대를 열었고, AI 시대를 맞아 새로운 변화를 준비하고 있다.",
+      "ai_summary": "SK텔레콤이 이동통신 기술의 30년 발전사를 조명하며 AI 기반 통신 인프라로의 진화를 발표했습니다.",
       "ai_themes": [
         "기술발전",
         "산업동향"

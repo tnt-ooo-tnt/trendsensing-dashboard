@@ -1,0 +1,248 @@
+{
+  "date": "2026-02-27",
+  "total": 11,
+  "ai_true": 4,
+  "ai_false": 7,
+  "source_counts": {
+    "sama": 8,
+    "demishassabis": 3
+  },
+  "avg_confidence": 0.44,
+  "top_themes": [
+    [
+      "기술발전",
+      3
+    ],
+    [
+      "생성형AI",
+      2
+    ],
+    [
+      "산업동향",
+      1
+    ],
+    [
+      "연구/논문",
+      1
+    ],
+    [
+      "윤리/안전",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2027386258700599531",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "SoftBank is an incredible and high-conviction partner. We are excited to welcome them again as a major investor, and to do much more across their ecosystem.",
+      "content_ko": "소프트뱅크는 놀라운 신뢰를 가진 파트너입니다. 우리는 그들을 다시 주요 투자자로 환영하며, 그들의 생태계에서 더 많은 협력을 기대합니다.",
+      "url": "https://x.com/sama/status/2027386258700599531",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-02-27 23:12"
+    },
+    {
+      "post_id": "2027386257031246228",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "NVIDIA has long been one of our most important partners, and their chips are the foundation of AI computing. We are grateful for their continued trust in us, and excited to run their systems in AWS. Their upcoming generations should be great.",
+      "content_ko": "NVIDIA는 오랫동안 우리에게 가장 중요한 파트너 중 하나였으며, 그들의 칩은 AI 컴퓨팅의 기반이 되었습니다. 우리는 그들의 지속적인 신뢰에 감사하며, AWS에서 그들의 시스템을 실행할 수 있게 되어 기쁩니다. 그들의 차세대 기술은 매우 흥미로울 것입니다.",
+      "url": "https://x.com/sama/status/2027386257031246228",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "오픈AI, NVIDIA와 AI 컴퓨팅 인프라 협력 확대",
+      "ai_bullets": [
+        "NVIDIA의 칩이 AI 컴퓨팅 기반으로 오랫동안 핵심 파트너",
+        "AWS에서 NVIDIA 시스템 실행 및 차세대 기술 기대"
+      ],
+      "ai_summary": "오픈AI가 NVIDIA와 AI 컴퓨팅 인프라 협력을 강화하며 차세대 기술 도입 기대",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-02-27 23:12"
+    },
+    {
+      "post_id": "2027386255621984391",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "We continue to have a great relationship with Microsoft. Our stateless API will remain exclusive to Azure, and we will build out much more capacity with them.",
+      "content_ko": "우리는 Microsoft와 계속해서 좋은 관계를 유지하고 있습니다. 우리의 상태가 없는 API는 Azure에 독점적으로 남아있을 것이며, 우리는 그들과 함께 더 많은 자원을 구축할 것입니다.",
+      "url": "https://x.com/sama/status/2027386255621984391",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "산업동향"
+      ],
+      "published_at": "2026-02-27 23:12"
+    },
+    {
+      "post_id": "2027386254074302584",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "We are excited to partner with Amazon to bring a new generation of products to market, especially around new enterprise products like the stateful runtime environment. We are also very excited to make great use of Tranium.",
+      "content_ko": "우리는 Amazon과 협력하여 새로운 제품을 시장에 출시하기 위해 흥분하고 있으며, 특히 새로운 기업용 제품들에 대한 관심이 큽니다. 또한 Tranium을 매우 잘 활용할 수 있을 것으로 기대하고 있습니다.",
+      "url": "https://x.com/sama/status/2027386254074302584",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "산업동향"
+      ],
+      "published_at": "2026-02-27 23:12"
+    },
+    {
+      "post_id": "2027386252555919386",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "We have raised a $110 billion round of funding from Amazon, NVIDIA, and SoftBank.\n\nWe are grateful for the support from our partners, and have a lot of work to do to bring you the tools you deserve.",
+      "content_ko": "우리는 Amazon, NVIDIA, 그리고 SoftBank로부터 110억 달러 규모의 자금을 조달했습니다. 파트너들의 지원에 감사드리며, 여러분에게 필요한 도구를 제공하기 위해 많은 작업이 필요합니다.",
+      "url": "https://x.com/sama/status/2027386252555919386",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "투자/시장"
+      ],
+      "published_at": "2026-02-27 23:12"
+    },
+    {
+      "post_id": "2027109383922933863",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "top 🍌 https://t.co/xwe1Xm5rdT",
+      "content_ko": "상위 🍌 https://t.co/xwe1Xm5rdT",
+      "url": "https://x.com/demishassabis/status/2027109383922933863",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-02-27 04:51"
+    },
+    {
+      "post_id": "2027087700214591913",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "We often get asked how people who are not technical can contribute to AGI. One area is research recruiting. \n\nTifa (@tifafafafa) is looking for exceptional recruiters from non-traditional backgrounds, former founders especially.\n\nWe believe the best research teams are built through context, taste and a real feel for where the field is headed next; research recruiting is about finding people who will move the frontier forward, not just filling roles.\n\nShould be an interesting thing!",
+      "content_ko": "기술적 배경이 없는 인재가 AGI 개발에 기여할 수 있는 방안 중 하나는 연구 인재 채용입니다. Tifa(@tifafafafa)는 비전통적 배경의 특별한 채용 담당자를 찾고 있습니다. 우리는 최고의 연구 팀은 맥락과 감각, 분야의 미래 방향을 이해하는 능력으로 구성되어야 한다고 믿습니다. 연구 채용은 단순히 역할을 채우는 것이 아니라, 분야의 경계를 넘어서는 인재를 찾는 것이 중요합니다. 흥미로운 주제가 될 것입니다!",
+      "url": "https://x.com/sama/status/2027087700214591913",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "AGI 연구 인재 채용 전략 발표",
+      "ai_bullets": [
+        "비기술 인재의 AGI 연구 참여 방안 중 채용 전략 강조",
+        "Tifa가 비전통적 배경의 채용 담당자 모집 중",
+        "연구 팀 구성 시 맥락과 분야 전망 이해가 핵심 요소"
+      ],
+      "ai_summary": "AGI 연구 인재 채용에 있어 비기술 인재의 기여 방안을 제시하며, 채용 전략의 중요성을 강조",
+      "ai_themes": [
+        "연구/논문",
+        "윤리/안전"
+      ],
+      "published_at": "2026-02-27 03:25"
+    },
+    {
+      "post_id": "2027087689359753483",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "Thank you and will work hard to continue to earn your tokens! https://t.co/kPm3y1szKu",
+      "content_ko": "감사드리며, 토큰을 계속해서 얻기 위해 노력하겠습니다! https://t.co/kPm3y1szKu",
+      "url": "https://x.com/sama/status/2027087689359753483",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-02-27 03:25"
+    },
+    {
+      "post_id": "2027087128514183553",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "Many times, Greg has shown clear conviction in doing whatever he thought would be important to defend the mission and people of OpenAI, especially when it was hard. Here he talks about many of those moments. https://t.co/SPhqX6TTJl",
+      "content_ko": "Greg은 OpenAI의 사명과 구성원을 수호하기 위해 중요한 결정을 내려온 적이 많습니다. 여기서 그가 겪었던 여러 순간을 소개합니다. https://t.co/SPhqX6TTJl",
+      "url": "https://x.com/sama/status/2027087128514183553",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-02-27 03:23"
+    },
+    {
+      "post_id": "2027063586745438656",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "We vibe coded this demo in @GoogleAIStudio to show Nano Banana 2's real-world understanding. With each frame in this environment, the model sees only the previous image, and is prompted to imagine what happens next. The consistency is incredible! https://t.co/A75unsaybd",
+      "content_ko": "우리는 @GoogleAIStudio에서 이 데모를 vibe 코드로 작성하여 Nano Banana 2의 실제 환경 이해력을 보여주고 있습니다. 이 환경에서 각 프레임마다 모델은 이전 이미지만 보고 다음에 무슨 일이 일어날지를 상상하도록 프롬프트를 제공합니다. 일관성은 믿을 수 없습니다! https://t.co/A75unsaybd",
+      "url": "https://x.com/demishassabis/status/2027063586745438656",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "Nano Banana 2 생성형 AI 모델, 실제 환경 이해력 보여줘",
+      "ai_bullets": [
+        "GoogleAIStudio에서 개발한 Nano Banana 2가 실제 환경 이해 능력을 시연",
+        "모델은 이전 이미지만 보고 다음 장면을 상상하도록 프롬프트 제공",
+        "일관성 있는 결과로 주목받고 있는 중"
+      ],
+      "ai_summary": "Nano Banana 2가 실제 환경 이해 능력을 보여주는 시연을 통해 생성형 AI 기술 발전을 강조",
+      "ai_themes": [
+        "기술발전",
+        "생성형AI"
+      ],
+      "published_at": "2026-02-27 01:49"
+    },
+    {
+      "post_id": "2027063584094605732",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "Nano Banana 2 is our new faster and better SOTA image generation &amp; editing model! \n\nIt uses Gemini’s amazing world understanding + grabs real-time info w/ search to create higher quality outputs.\n\nAvailable in @GeminiApp, @GoogleAIStudio, @FlowbyGoogle, Search &amp; Vertex - enjoy! https://t.co/3zhhaB3Sto",
+      "content_ko": "Nano Banana 2는 우리 새로운 더 빠르고 더 나은 SOTA 이미지 생성 및 편집 모델입니다. 이는 Gemini의 놀라운 세계 이해 기능과 실시간 정보 검색을 결합하여 더 높은 품질의 결과물을 생성합니다. @GeminiApp, @GoogleAIStudio, @FlowbyGoogle, 검색 및 Vertex에서 사용 가능합니다! https://t.co/3zhhaB3Sto",
+      "url": "https://x.com/demishassabis/status/2027063584094605732",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "Nano Banana 2, 최신 생성형 AI 모델 출시",
+      "ai_bullets": [
+        "Gemini의 세계 이해 기능과 실시간 정보 검색을 결합한 최신 생성형 AI 모델",
+        "이미지 생성 및 편집 기능을 강화한 SOTA 모델로 제공",
+        "GoogleAIStudio, GeminiApp 등 플랫폼에서 사용 가능"
+      ],
+      "ai_summary": "Nano Banana 2가 Gemini 기반의 생성형 AI 모델로 출시되어 기술 발전 동향을 반영",
+      "ai_themes": [
+        "기술발전",
+        "생성형AI"
+      ],
+      "published_at": "2026-02-27 01:49"
+    }
+  ]
+}

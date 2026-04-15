@@ -1,0 +1,80 @@
+{
+  "date": "2026-03-21",
+  "total": 3,
+  "ai_true": 1,
+  "ai_false": 2,
+  "source_counts": {
+    "demishassabis": 2,
+    "karpathy": 1
+  },
+  "avg_confidence": 0.37,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "산업동향",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2035178376273547631",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "It’s 2am again, my favourite time, and as always reality is still staring me in the face 🧐 https://t.co/2lbKG7FZSX",
+      "content_ko": "또 다시 2시가 되었고, 제일 좋아하는 시간이지만 현실이 여전히 나를 바라보고 있어요 🧐",
+      "url": "https://x.com/demishassabis/status/2035178376273547631",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-03-21 11:15"
+    },
+    {
+      "post_id": "2035158351357911527",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "Thank you Sarah, my pleasure to come on the pod! And happy to do some more Q&amp;A in the replies. https://t.co/uIeUtFxDkm",
+      "content_ko": "@karpathy가 Sarah에게 감사의 인사를 전하며, 팟캐스트 출연에 대한 만족감을 표현했습니다. 추가 Q&A는 댓글을 통해 진행할 수 있음을 알렸습니다. https://t.co/uIeUtFxDkm",
+      "url": "https://x.com/karpathy/status/2035158351357911527",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-21 09:55"
+    },
+    {
+      "post_id": "2035157224893387035",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "Thrilled to welcome Jas Sekhon to @GoogleDeepMind as Chief Strategy Officer! The path to AGI requires exceptional thoughtfulness and foresight - Jas’ incredible experience as former Chief Scientist &amp; Head of AI at Bridgewater makes him uniquely suited to advise us on the mission",
+      "content_ko": "Jas Sekhon을 @GoogleDeepMind의 최고 전략 책임자로 환영합니다! AGI 달성은 예측력과 전략적 사고가 필수적입니다. Jas의 브리지워터 전 Chief Scientist 및 AI 책임자 경험을 바탕으로 우리 미션에 조언해 주실 것입니다.",
+      "url": "https://x.com/demishassabis/status/2035157224893387035",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "DeepMind, AGI 달성 전략에 자문역 임명",
+      "ai_bullets": [
+        "Jas Sekhon이 DeepMind 최고 전략 책임자로 영입됨",
+        "AGI 달성에 필요한 전략적 통찰력과 예측력 강조",
+        "브리지워터 전 Chief Scientist 경험을 바탕으로 AI 미션 조언"
+      ],
+      "ai_summary": "DeepMind이 AGI 달성 전략을 위한 자문역을 영입하며 AI 연구 방향성에 대한 논의를 예고",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-03-21 09:51"
+    }
+  ]
+}

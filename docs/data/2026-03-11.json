@@ -1,0 +1,132 @@
+{
+  "date": "2026-03-11",
+  "total": 5,
+  "ai_true": 5,
+  "ai_false": 0,
+  "source_counts": {
+    "demishassabis": 5
+  },
+  "avg_confidence": 0.97,
+  "top_themes": [
+    [
+      "기술발전",
+      5
+    ],
+    [
+      "연구/논문",
+      5
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2031428562780303603",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "@GoogleDeepMind @FryRsquared + the newest @GoogleDeepMind Podcast is all about AlphaGo! Check it out here: https://t.co/KlmDKbmNR9",
+      "content_ko": "@demishassabis 계정은 Google DeepMind 팟캐스트를 통해 알파고의 10주년을 기념하며, AI 기술 발전의 전환점이 되었던 알파고의 영향력을 강조했습니다. 관련 링크: https://t.co/KlmDKbmNR9",
+      "url": "https://x.com/demishassabis/status/2031428562780303603",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "알파고 10주년 기념 AI 기술 발전 동향 발표",
+      "ai_bullets": [
+        "알파고 개발 10주년을 기념한 Google DeepMind 팟캐스트 공개",
+        "AI 기술 발전의 전환점으로 자리잡은 알파고의 영향력 강조"
+      ],
+      "ai_summary": "알파고 개발 10주년을 기념한 팟캐스트를 통해 AI 기술 발전의 전환점을 다룬 내용 공유",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문"
+      ],
+      "published_at": "2026-03-11 02:54"
+    },
+    {
+      "post_id": "2031387921429750130",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "And if you want even more AlphaGo + AI for Science content, there’s a recent episode of the @GoogleDeepMind Podcast with the awesome @FryRsquared and I discussing the Alpha series + AGI amongst many other things! https://t.co/u3QyJVfoHs",
+      "content_ko": "@demishassabis 계정은 알파시리즈와 AGI(일반 인공지능)에 대한 논의를 포함한 Google DeepMind 팟캐스트 방송을 소개하며, AI 기술의 미래 방향성에 대한 전문가 의견을 공유했습니다. 관련 링크: https://t.co/u3QyJVfoHs",
+      "url": "https://x.com/demishassabis/status/2031387921429750130",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "알파시리즈와 AGI 논의 포함한 AI 연구 동향 공유",
+      "ai_bullets": [
+        "알파시리즈와 AGI(일반 인공지능)에 대한 논의 포함한 팟캐스트 방송",
+        "AI 기술의 미래 방향성에 대한 전문가 의견 공유"
+      ],
+      "ai_summary": "알파시리즈와 AGI에 대한 논의를 담은 Google DeepMind 팟캐스트 방송 공유",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문"
+      ],
+      "published_at": "2026-03-11 00:13"
+    },
+    {
+      "post_id": "2031387919441617284",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "If you're interested in a behind-the-scenes look at the full match and story, watch the award-winning AlphaGo documentary: https://t.co/DkDU3q4HVn",
+      "content_ko": "AI의 뒷면을 살펴보는 알파고 다큐멘터리가 공개되었습니다. 이 다큐멘터리는 AI 기술이 과학 문제 해결로 이어지는 과정을 탐구합니다. [링크 내용]을 참조하세요.",
+      "url": "https://x.com/demishassabis/status/2031387919441617284",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "알파고 다큐멘터리, AGI로의 길을 조명",
+      "ai_bullets": [
+        "알파고 다큐멘터리 'The Thinking Game' 공개",
+        "AI 기술 발전이 과학 문제 해결로 이어지는 과정 강조"
+      ],
+      "ai_summary": "알파고의 기술 발전이 AGI 연구로 이어지는 과정을 다큐멘터리로 제시",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문"
+      ],
+      "published_at": "2026-03-11 00:13"
+    },
+    {
+      "post_id": "2031387917566779693",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "Read about AlphaGo’s incredible impact over the past 10 years and our vision for the future: https://t.co/utLIKwSGqg",
+      "content_ko": "알파고가 10년 전에 발표된 이후 AI 검색 및 학습 방법이 과학 발견을 촉진하고, AGI 달성에 길을 열고 있다고 발표되었습니다. [링크 내용]을 참조하세요.",
+      "url": "https://x.com/demishassabis/status/2031387917566779693",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "알파고 10주년, AI 혁신과 AGI로의 전망",
+      "ai_bullets": [
+        "알파고 기술이 과학 발견 촉진에 기여하고 있음",
+        "AI 검색 및 학습 방법이 AGI 달성에 길을 열고 있음"
+      ],
+      "ai_summary": "알파고의 기술이 과학적 혁신과 AGI 연구에 기여하고 있음을 강조",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문"
+      ],
+      "published_at": "2026-03-11 00:13"
+    },
+    {
+      "post_id": "2031387915348062567",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "Ten years ago, AlphaGo’s legendary match in Seoul heralded the start of the modern era in AI. Its famous ‘Move 37’ signaled to us that AI techniques were ready to tackle real-world problems in areas like science - and ideas inspired by these methods are critical to building AGI https://t.co/8EibfAByaG",
+      "content_ko": "10년 전 알파고의 서울 경기에서 유명한 '37번 수'는 AI 기술이 과학 분야에서 실제 문제 해결로 확장되고 있음을 보여주고 있다고 발표되었습니다. [링크 내용]을 참조하세요.",
+      "url": "https://x.com/demishassabis/status/2031387915348062567",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "알파고의 '37번 수'로 AI 기술 진화 기념",
+      "ai_bullets": [
+        "알파고의 '37번 수'가 AI 기술 응용의 시작 신호",
+        "AI 기술이 과학 분야에서 실제 문제 해결로 확장 중"
+      ],
+      "ai_summary": "알파고의 역사적 수가 AI 기술의 진화와 과학적 응용을 상징",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문"
+      ],
+      "published_at": "2026-03-11 00:13"
+    }
+  ]
+}

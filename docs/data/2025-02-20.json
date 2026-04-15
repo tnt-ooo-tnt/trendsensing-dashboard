@@ -1,0 +1,76 @@
+{
+  "date": "2025-02-20",
+  "total": 2,
+  "ai_true": 2,
+  "ai_false": 0,
+  "source_counts": {
+    "NVIDIA Blog": 2
+  },
+  "avg_confidence": 0.82,
+  "top_themes": [
+    [
+      "산업동향",
+      1
+    ],
+    [
+      "윤리/안전",
+      1
+    ],
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "연구/논문",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "c2a6274ea9e30204ff758fb8",
+      "platform": "rss",
+      "account_handle": "NVIDIA Blog",
+      "display_name": "NVIDIA",
+      "content": "American Sign Language is the third most prevalent language in the United States — but there are vastly fewer AI tools developed with ASL data than data representing the country’s most common languages, English and Spanish. NVIDIA, the American Society for Deaf Children and creative agency Hello Monday are helping close this gap with Signs, [&#8230;]",
+      "content_ko": "미국에서 가장 흔한 언어인 영어와 스페인어에 비해 아메리칸 수어(ASL)에 대한 AI 도구 개발이 부족한 것으로 나타났습니다. NVIDIA, 미국 낭청아동협회, 크리에이티브 에이전시 Hello Monday가 ASL 데이터 부족 문제를 해결하기 위한 Signs 프로젝트를 진행 중입니다. [링크 내용]",
+      "url": "https://blogs.nvidia.com/blog/ai-sign-language/",
+      "is_ai_trend": true,
+      "ai_confidence": 0.7,
+      "ai_title": "NVIDIA, ASL 데이터 부족 해소를 위한 AI 도구 개발 협력",
+      "ai_bullets": [
+        "미국의 3대 언어인 ASL에 대한 AI 도구 개발이 부족한 상황 지적",
+        "NVIDIA와 미국 낭청아동협회, Hello Monday가 Signs 프로젝트 진행 중",
+        "ASL 데이터 부족으로 인해 AI 기술 접근성 격차 심화 우려"
+      ],
+      "ai_summary": "NVIDIA가 미국 낭청아동협회와 협력해 ASL 데이터 부족 문제를 해결하기 위한 AI 도구 개발을 진행하고 있습니다.",
+      "ai_themes": [
+        "산업동향",
+        "윤리/안전"
+      ],
+      "published_at": "2025-02-20 23:30"
+    },
+    {
+      "post_id": "6dcc8dca0c412acd95f2d2d9",
+      "platform": "rss",
+      "account_handle": "NVIDIA Blog",
+      "display_name": "NVIDIA",
+      "content": "Scientists everywhere can now access Evo 2, a powerful new foundation model that understands the genetic code for all domains of life. Unveiled today as the largest publicly available AI model for genomic data, it was built on the NVIDIA DGX Cloud platform in a collaboration led by nonprofit biomedical research organization Arc Institute and [&#8230;]",
+      "content_ko": "과학자들은 이제 Evo 2라는 강력한 기반 모델을 통해 모든 생명체의 유전자 코드를 이해할 수 있습니다. 오늘 공개된 이 모델은 유전체 데이터 분석을 위한 최대 규모의 공개 AI 모델로, NVIDIA DGX Cloud 플랫폼을 기반으로 비영리 생물학 연구 기관 Arc Institute와 공동 개발되었습니다. [링크 내용]",
+      "url": "https://blogs.nvidia.com/blog/evo-2-biomolecular-ai/",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "NVIDIA, 유전자 코드 이해를 위한 Evo 2 기반 모델 공개",
+      "ai_bullets": [
+        "생물학적 유전자 코드를 이해하는 Evo 2 기반 모델 출시",
+        "전 세계 생명체 유전자 데이터 분석을 위한 최대 규모 AI 모델로 선정",
+        "NVIDIA DGX Cloud 플랫폼을 기반으로 Arc Institute와 공동 개발"
+      ],
+      "ai_summary": "NVIDIA가 유전자 코드 분석을 위한 최대 규모 AI 모델 Evo 2를 공개하며, 생명과학 분야의 데이터 처리 역량을 강화했습니다.",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문"
+      ],
+      "published_at": "2025-02-20 01:00"
+    }
+  ]
+}

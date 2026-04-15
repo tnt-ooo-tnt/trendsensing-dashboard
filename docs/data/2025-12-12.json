@@ -1,19 +1,24 @@
 {
   "date": "2025-12-12",
-  "total": 1,
-  "ai_true": 1,
+  "total": 2,
+  "ai_true": 2,
   "ai_false": 0,
   "source_counts": {
-    "NVIDIA Blog": 1
+    "NVIDIA Blog": 1,
+    "AndrewYNg": 1
   },
   "avg_confidence": 0.95,
   "top_themes": [
     [
       "기술발전",
-      1
+      2
     ],
     [
       "산업동향",
+      1
+    ],
+    [
+      "연구/논문",
       1
     ]
   ],
@@ -24,22 +29,44 @@
       "account_handle": "NVIDIA Blog",
       "display_name": "NVIDIA",
       "content": "Unveiling what it describes as the most capable model series yet for professional knowledge work, OpenAI launched GPT-5.2 in December. The model was trained and deployed on NVIDIA infrastructure, including NVIDIA Hopper and GB200 NVL72 systems. GPT-5.3 Codex — the first OpenAI agentic coding model to help build itself — was released in February and [&#8230;]",
-      "content_ko": "프로페셔널 지식 작업을 위한 가장 강력한 모델 시리즈로 기술된 OpenAI가 GPT-5.2를 12월에 출시했다. 이 모델은 NVIDIA Hopper 및 GB200 NVL72 시스템을 기반으로 훈련 및 배포되었다. 2월에 출시된 GPT-5.3 Codex는 자체 개발을 돕는 첫 번째 OpenAI 에이전트 코딩 모델이다.",
+      "content_ko": "NVIDIA 블로그는 오픈AI가 12월에 가장 능력 있는 모델 시리즈로 기술한 GPT-5.2를 출시했다고 밝혔습니다. 이 모델은 NVIDIA 인프라를 기반으로 훈련 및 배포되었습니다. GPT-5.3 Codex는 첫 번째 오픈AI 에이전트 코드 생성 모델로 2월에 출시되었습니다. [링크 내용]",
       "url": "https://blogs.nvidia.com/blog/leading-models-nvidia/",
       "is_ai_trend": true,
-      "ai_confidence": 0.95,
-      "ai_title": "OpenAI, GPT-5.2 및 GPT-5.3 Codex 모델 출시 발표",
+      "ai_confidence": 1.0,
+      "ai_title": "오픈AI, GPT-5.2 및 GPT-5.3 Codex 출시",
       "ai_bullets": [
-        "OpenAI가 전문 지식 작업을 위한 가장 강력한 모델 시리즈인 GPT-5.2를 12월에 출시",
-        "NVIDIA Hopper 및 GB200 NVL72 시스템을 기반으로 훈련 및 배포",
-        "2월에 출시된 GPT-5.3 Codex는 자체 개발을 돕는 첫 번째 OpenAI 에이전트 코딩 모델"
+        "NVIDIA 인프라를 기반으로 개발된 GPT-5.2 모델 12월 출시",
+        "GPT-5.3 Codex는 첫 번째 에이전트 기반 코드 생성 모델로 2월 공개"
       ],
-      "ai_summary": "OpenAI는 NVIDIA 인프라를 기반으로 GPT-5.2 및 GPT-5.3 Codex 모델을 출시하며, 특히 후자는 자체 개발을 지원하는 첫 번째 에이전트 코딩 모델로 주목받고 있다.",
+      "ai_summary": "오픈AI가 NVIDIA의 하퍼와 GB200 NVL72 시스템을 활용해 GPT-5.2 및 Codex 모델을 출시했습니다.",
       "ai_themes": [
         "기술발전",
         "산업동향"
       ],
       "published_at": "2025-12-12 04:19"
+    },
+    {
+      "post_id": "1999174188259770795",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "Sharing a fun recipe for building a highly autonomous, moderately capable, and very UNreliable agent using the open source aisuite package that Rohit Prasad and I have been working on.\n\nWith a few lines of code, you can give a frontier LLM a tool (like disk access or web search), prompt it with a high-level task (such as creating a snake game and saving as an HTML file, or carrying out deep research), and let the LLM loose and see what it does. Example in image. \n\nCaveat: This is not how practical agents are built today, since most need much more scaffolding (see my Agentic AI course to learn more), but is still interesting to experiment with.\n\nLonger write-up here: https://t.co/BdS8tGhnIy",
+      "content_ko": "Rohit Prasad과 함께 개발한 오픈소스 aisuite 패키지를 활용해 고도화된 에이전트를 구축하는 재미있는 레시피 공유. 몇 줄의 코드로 LLM에 도구(디스크 접근, 웹 검색)를 부여하고, 고수준 작업(게임 생성 및 HTML 파일 저장, 심층 연구 수행 등)을 지시해 LLM을 자유롭게 실행시켜 결과를 확인할 수 있음. 주의사항: 이 방법은 현재 실용적 에이전트 개발 방식이 아님(더 많은 프레임워크 구축이 필요함) 그러나 실험적으로 흥미로움. 자세한 내용은 https://t.co/BdS8tGhnIy 참조",
+      "url": "https://x.com/AndrewYNg/status/1999174188259770795",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "오픈소스 aisuite로 고도화된 에이전트 실험 방법 공유",
+      "ai_bullets": [
+        "LLM에 도구(디스크 접근, 웹 검색)를 부여해 고도화된 작업 수행 가능",
+        "실제 예시로 게임 생성 및 HTML 파일 저장, 심층 연구 수행 등 보여",
+        "실용적 에이전트 개발에는 더 많은 프레임워크 구축이 필요함"
+      ],
+      "ai_summary": "LLM을 활용한 고도화된 에이전트 실험 방법과 제한 사항 공유",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문"
+      ],
+      "published_at": "2025-12-12 02:47"
     }
   ]
 }

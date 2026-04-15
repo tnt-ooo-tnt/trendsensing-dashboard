@@ -243,10 +243,6 @@ function renderDashboard(data) {
                 '</div><div class="section-body" id="' + listId + '">';
             posts.forEach(function(p) { html += renderPostCard(p); });
             html += '</div></div>';
-            // 배포모드에서 AI 관련 0건일 때 표시할 빈 메시지
-            if (!hasAi) {
-                html += '<div class="section-body no-ai-msg"><div class="no-data" style="padding:32px">해당 기간에 AI 관련 게시물이 없습니다.</div></div>';
-            }
         } else {
             html += '<div class="section-body"><div class="no-data" style="padding:32px">해당 기간에 수집된 게시물이 없습니다.</div></div>';
         }
@@ -270,9 +266,6 @@ function renderDashboard(data) {
             '</div><div class="section-body" id="post-list">';
         generalPosts.forEach(function(p) { html += renderPostCard(p); });
         html += '</div></div>';
-        if (generalAiTrue === 0) {
-            html += '<div class="section-body no-ai-msg"><div class="no-data" style="padding:32px">해당 기간에 AI 관련 게시물이 없습니다.</div></div>';
-        }
     } else {
         html += '<div class="section-body"><div class="no-data" style="padding:32px">해당 기간에 수집된 게시물이 없습니다.</div></div>';
     }

@@ -1,0 +1,44 @@
+{
+  "date": "2025-08-12",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "NVIDIA Blog": 1
+  },
+  "avg_confidence": 1.0,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "로봇공학",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "996fe03ad9b030c2e5ded710",
+      "platform": "rss",
+      "account_handle": "NVIDIA Blog",
+      "display_name": "NVIDIA",
+      "content": "AI and graphics research breakthroughs in neural rendering, 3D generation and world simulation power robotics, autonomous vehicles and content creation.",
+      "content_ko": "AI 및 그래픽스 연구의 돌파구인 신경 렌더링, 3D 생성 및 세계 시뮬레이션 기술이 로봇, 자율주행차 및 콘텐츠 생성 분야에 혁신을 가져옵니다. [링크 내용]",
+      "url": "https://blogs.nvidia.com/blog/physical-ai-research-siggraph-2025/",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "AI 및 그래픽스 연구 혁신, 로봇 및 콘텐츠 생성 기술 발전",
+      "ai_bullets": [
+        "신경 렌더링, 3D 생성 및 세계 시뮬레이션 분야에서 AI와 그래픽스 연구의 돌파구가 발표됨",
+        "이 기술들은 로봇, 자율주행차 및 콘텐츠 생성 분야에 혁신적인 영향을 미침"
+      ],
+      "ai_summary": "AI와 그래픽스 연구의 최신 성과가 로봇공학 및 콘텐츠 생성 분야에 기술적 혁신을 제공하고 있음",
+      "ai_themes": [
+        "기술발전",
+        "로봇공학"
+      ],
+      "published_at": "2025-08-12 00:00"
+    }
+  ]
+}

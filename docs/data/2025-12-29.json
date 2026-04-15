@@ -1,0 +1,44 @@
+{
+  "date": "2025-12-29",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "생성형AI",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2005442816571474342",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "Lots of buzz on Claude Code here today. This short course, created with Anthropic, is the best way to learn to use it well. Please enjoy it! https://t.co/DvEZ8NWq12",
+      "content_ko": "오늘 Claude Code에 대한 관심이 많아 보입니다. Anthropic과 함께 만든 이 짧은 강의는 이 모델을 효과적으로 사용하는 방법을 배우는 최선의 방법입니다. 즐거운 학습 되세요! https://t.co/DvEZ8NWq12",
+      "url": "https://x.com/AndrewYNg/status/2005442816571474342",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "Anthropic과 협력한 Claude Code 활용 강의 공개",
+      "ai_bullets": [
+        "AI 모델 Claude Code 사용법을 배우는 짧은 강의를 공개",
+        "강의는 Anthropic과 공동 개발된 교육 자료로 구성"
+      ],
+      "ai_summary": "AI 모델 Claude Code의 활용 방법을 학습할 수 있는 교육 자료가 공개됨",
+      "ai_themes": [
+        "기술발전",
+        "생성형AI"
+      ],
+      "published_at": "2025-12-29 09:56"
+    }
+  ]
+}

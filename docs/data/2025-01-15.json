@@ -1,0 +1,44 @@
+{
+  "date": "2025-01-15",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "NVIDIA Blog": 1
+  },
+  "avg_confidence": 0.9,
+  "top_themes": [
+    [
+      "산업동향",
+      1
+    ],
+    [
+      "기술발전",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "b6b99c54a71864a17cb83fcb",
+      "platform": "rss",
+      "account_handle": "NVIDIA Blog",
+      "display_name": "NVIDIA",
+      "content": "AI is making inroads across the entire healthcare industry — from genomic research to drug discovery, clinical trial workflows and patient care. In a fireside chat Monday during the annual J.P. Morgan Healthcare Conference in San Francisco, NVIDIA founder and CEO Jensen Huang took the stage with industry leaders progressing each of these areas to [&#8230;]",
+      "content_ko": "AI는 유전체 연구, 약물 개발, 임상 시험 워크플로우, 환자 관리 등 의료 산업 전반에 깊이 자리 잡고 있으며, NVIDIA의 Jensen Huang은 J.P. Morgan Healthcare Conference에서 이 기술의 의료 혁신 역할을 강조했습니다.",
+      "url": "https://blogs.nvidia.com/blog/jp-morgan-healthcare-2025/",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "AI, 의료 산업 전반에 영향 확대",
+      "ai_bullets": [
+        "유전체 연구부터 약물 개발까지 AI가 의료 분야 전반에 적용 중",
+        "Jensen Huang, J.P. Morgan Healthcare Conference에서 AI 기술의 의료 혁신 역할 강조"
+      ],
+      "ai_summary": "AI 기술이 의료 산업의 다양한 분야에서 혁신을 이끌며 산업 전반에 영향을 미치고 있다.",
+      "ai_themes": [
+        "산업동향",
+        "기술발전"
+      ],
+      "published_at": "2025-01-15 05:00"
+    }
+  ]
+}

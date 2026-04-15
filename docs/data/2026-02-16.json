@@ -1,0 +1,44 @@
+{
+  "date": "2026-02-16",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "sama": 1
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "산업동향",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2023233085509410833",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "Codex weekly users have more than tripled since the beginning of the year!",
+      "content_ko": "Codex의 주간 사용자 수가 올해 초에 비해 3배 이상 증가했습니다. 이는 AI 모델의 실용성과 접근성 향상에 따른 사용자 성장 추세를 반영합니다.",
+      "url": "https://x.com/sama/status/2023233085509410833",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "Codex 사용자 수 연간 3배 증가",
+      "ai_bullets": [
+        "Codex의 주간 사용자 수가 올해 초 대비 3배 이상 증가",
+        "AI 모델의 실용성 확대를 반영한 사용자 성장 추세"
+      ],
+      "ai_summary": "Codex 사용자 수가 급증하며 AI 기술의 실용성 확대를 보여주는 트렌드",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-02-16 12:08"
+    }
+  ]
+}

@@ -6,7 +6,7 @@
   "source_counts": {
     "NVIDIA Blog": 1
   },
-  "avg_confidence": 0.95,
+  "avg_confidence": 1.0,
   "top_themes": [
     [
       "기술발전",
@@ -27,13 +27,14 @@
       "content_ko": "NVIDIA founder and CEO Jensen Huang took the stage at the Fontainebleau Las Vegas to open CES 2026, declaring that AI is scaling into every domain and every device. “Computing has been fundamentally reshaped as a result of accelerated computing, as a result of artificial intelligence,” Huang said. “What that means is some $10 trillion [&#8230;]",
       "url": "https://blogs.nvidia.com/blog/2026-ces-special-presentation/",
       "is_ai_trend": true,
-      "ai_confidence": 0.95,
-      "ai_title": "NVIDIA CEO, CES 2026에서 AI의 모든 영역과 기기 확장 강조",
+      "ai_confidence": 1.0,
+      "ai_title": "NVIDIA 잰슨 황, AI 기술의 모든 분야로 확장되는 경로 발표",
       "ai_bullets": [
-        "NVIDIA의 Jensen Huang은 CES 2026에서 AI가 모든 영역과 기기로 확장되고 있다고 발표했다.",
-        "AI 기술이 컴퓨팅 분야를 근본적으로 재정의하고 있으며, 이는 약 10조 달러 규모의 경제적 영향을 미친다고 설명했다."
+        "NVIDIA 창립자 겸 CEO 잰슨 황이 CES 2026에서 AI 기술이 모든 분야와 장치로 확장되고 있다고 선언했습니다.",
+        "AI가 컴퓨팅 분야를 근본적으로 변화시켰으며, 이는 액셀레레이티드 컴퓨팅과 인공지능의 결과라고 밝혔습니다.",
+        "AI 기술의 확장이 10조 달러 규모의 시장 영향을 미칠 것으로 전망되었습니다."
       ],
-      "ai_summary": "NVIDIA의 CEO는 CES 2026에서 AI 기술이 모든 산업과 기기로 확장되고 있으며, 이는 컴퓨팅 분야에 큰 변화를 가져왔다고 강조했다.",
+      "ai_summary": "NVIDIA CEO가 AI 기술의 모든 분야로 확장되는 경로를 발표하며, 10조 달러 규모의 시장 영향을 예측했습니다.",
       "ai_themes": [
         "기술발전",
         "산업동향"

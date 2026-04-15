@@ -6,14 +6,14 @@
   "source_counts": {
     "NVIDIA Blog": 1
   },
-  "avg_confidence": 0.85,
+  "avg_confidence": 0.8,
   "top_themes": [
     [
       "기술발전",
       1
     ],
     [
-      "산업동향",
+      "연구/논문",
       1
     ]
   ],
@@ -24,20 +24,19 @@
       "account_handle": "NVIDIA Blog",
       "display_name": "NVIDIA",
       "content": "Celtic languages — including Cornish, Irish, Scottish Gaelic and Welsh — are the U.K.’s oldest living languages. To empower their speakers, the UK-LLM sovereign AI initiative is building an AI model based on NVIDIA Nemotron that can reason in both English and Welsh, a language spoken by about 850,000 people in Wales today. Enabling high-quality [&#8230;]",
-      "content_ko": "켈트어 계열인 코르니시어, 아일랜드어, 스코틀랜드 게일어, 웨일스어는 영국에서 가장 오래된 생존 언어이다. 이를 지원하기 위해 UK-LLM 주권 AI 이니셔티브는 NVIDIA Nemotron 기반의 AI 모델을 개발 중이며, 이 모델은 영어와 웨일스어(현재 웨일스에서 약 85만 명이 사용) 모두에서 추론할 수 있다.",
+      "content_ko": "켈트어인 코르니시, 아일랜드어, 스코틀랜드 Gaelic, 웨일스어는 영국의 가장 오래된 현존 언어입니다. UK-LLM 주도의 AI 프로젝트는 NVIDIA Nemotron 기반 모델을 개발 중으로, 영어와 웨일스어로 추론 및 생성이 가능합니다. [링크 내용]",
       "url": "https://blogs.nvidia.com/blog/uk-llm-nemotron/",
       "is_ai_trend": true,
-      "ai_confidence": 0.85,
-      "ai_title": "영국, 웨일스어 지원 AI 모델 개발을 위한 UK-LLM 프로젝트 추진",
+      "ai_confidence": 0.8,
+      "ai_title": "UK-LLM, 영어와 웨일스어로 사고하는 AI 모델 개발",
       "ai_bullets": [
-        "영국의 UK-LLM 주권 AI 이니셔티브가 NVIDIA Nemotron 기반 AI 모델 개발 중",
-        "영어와 웨일스어(약 85만 명 사용) 모두에서 추론 가능한 모델 개발",
-        "웨일스어 보존 및 사용자 지원을 위한 AI 기술 적용"
+        "UK-LLM 프로젝트가 NVIDIA Nemotron 기반 AI 모델 개발 중",
+        "모델은 영어와 웨일스어로 추론 및 생성 기능 지원"
       ],
-      "ai_summary": "영국은 NVIDIA Nemotron 기반의 영어와 웨일스어 모두에서 추론 가능한 AI 모델 개발을 통해 웨일스어 보존을 지원하고 있다.",
+      "ai_summary": "UK-LLM이 NVIDIA Nemotron 기반으로 다국어 AI 모델을 개발 중인 것으로 확인되었습니다.",
       "ai_themes": [
         "기술발전",
-        "산업동향"
+        "연구/논문"
       ],
       "published_at": "2025-09-14 10:00"
     }

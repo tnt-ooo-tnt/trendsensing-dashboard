@@ -1,0 +1,45 @@
+{
+  "date": "2025-11-07",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "산업동향",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "1986500817613169025",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "AI agents are getting better at looking at different types of data in businesses to spot patterns and create value. This is making data silos increasingly painful. This is why I increasingly try to select software that lets me control my own data, so I can make it available to my AI agents.\n\nBecause of AI’s growing capabilities, the value you can now create from “connecting the dots” between different pieces of data is higher than ever. For example, if an email click is logged in one vendor’s system and a subsequent online purchase is logged in a different one, then it is valuable to build agents that can access both of these data sources to see how they correlate to make better decisions.\n\nUnfortunately, many SaaS vendors try to create a data silo in their customer’s business. By making it hard for you to extract your data, they create high switching costs. This also allows them to steer you to buy their AI agent services — sometimes at high expense and/or of low quality — rather than build your own or buy from a different vendor. Unfortunately, some SaaS vendors are seeing AI agents coming for this data and working to make it harder for you (and your AI agents) to efficiently access it.\n\nOne of my teams just told me that a SaaS vendor we have been using to store our customer data wants to charge over $20,000 for an API key to get at our data. This high cost — no doubt intentionally designed to make it hard for customers to get their data out — is adding a barrier to implementing agentic workflows that take advantage of that data.\n\nThrough AI Aspire (an AI advisory firm), I advise a number of businesses on their AI strategies. When it comes to buying SaaS, I often advise them to try to control their own data (which, sadly, some vendors mightily resist). This way, you can hire a SaaS vendor to record and operate on your data, but ultimately you decide how to route it to the appropriate human or AI system for processing.\n\nOver the past decade, a lot of work has gone into organizing businesses’ structured data. Because AI can now process unstructured data much better than before, the value of organizing your unstructured data (including PDF files, which LandingAI’s Agentic Document Extraction specializes in!) is higher than ever before.\n\nIn the era of generative AI, businesses and individuals have important work ahead to organize their data to be AI-ready.\n\nP.S. As an individual, my favorite note-taking app is Obsidian. I am happy to “hire” Obsidian to operate on my notes files. And, all my notes are saved as Markdown files in my file system, and I have built AI agents that read from or write to my Obsidian files. This is a small example of how controlling my own notes data lets me do more with AI agents!\n\n[Original text: https://t.co/1bwB2lBowg ]",
+      "content_ko": "AI 에이전트가 다양한 데이터를 분석해 패턴을 발견하고 가치를 창출할 수 있지만, 데이터 실리콘 문제로 인해 접근성이 낮아지고 있습니다. SaaS 업체의 데이터 접근 제한으로 인해 고비용 API 키 요금제 문제가 발생하며, 데이터 관리 전략 수립이 필요합니다. 개인 노트 관리 시스템을 통해 AI 에이전트와의 협업 사례도 공유하고 있습니다. (https://t.co/1bwB2lBowg)",
+      "url": "https://x.com/AndrewYNg/status/1986500817613169025",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "데이터 통합을 통한 AI 에이전트 활용 확대, SaaS 업계의 데이터 접근성 문제 지적",
+      "ai_bullets": [
+        "AI 에이전트가 다양한 데이터를 분석해 가치 창출 가능하지만 데이터 실리콘 문제 심화",
+        "SaaS 업체의 데이터 접근 제한으로 인한 고비용 API 키 요금제 문제 지적",
+        "AI 기반 데이터 관리 전략 필요성 강조 및 개인 노트 관리 사례 공유"
+      ],
+      "ai_summary": "AI 에이전트의 데이터 통합 활용 가능성과 SaaS 업계의 데이터 접근성 문제에 대한 분석 및 대응 전략 제시",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2025-11-07 03:27"
+    }
+  ]
+}

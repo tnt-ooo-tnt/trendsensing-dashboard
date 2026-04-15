@@ -1,0 +1,101 @@
+{
+  "date": "2026-02-11",
+  "total": 3,
+  "ai_true": 3,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1,
+    "demishassabis": 2
+  },
+  "avg_confidence": 0.9,
+  "top_themes": [
+    [
+      "산업동향",
+      3
+    ],
+    [
+      "기술발전",
+      2
+    ],
+    [
+      "투자/시장",
+      1
+    ],
+    [
+      "윤리/안전",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2021259884709413291",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "Job seekers in the U.S. and many other nations face a tough environment. At the same time, fears of AI-caused job loss have — so far — been overblown. However, the demand for AI skills is starting to cause shifts in the job market. I’d like to share what I’m seeing on the ground. \n\nFirst, many tech companies have laid off workers over the past year. While some CEOs cited AI as the reason — that AI is doing the work, so people are no longer needed — the reality is AI just doesn’t work that well yet. Many of the layoffs have been corrections for overhiring during the pandemic or general cost-cutting and reorganization that occasionally happened even before modern AI. Outside of a handful of roles, few layoffs have resulted from jobs being automated by AI.\nGranted, this may grow in the future. People who are currently in some professions that are highly exposed to AI automation, such as call-center operators, translators, and voice actors, are likely to struggle to find jobs and/or see declining salaries. But widespread job losses have been overhyped.\n\nInstead, a common refrain applies: AI won’t replace workers, but workers who use AI will replace workers who don’t. For instance, because AI coding tools make developers much more efficient, developers who know how to use them are increasingly in-demand. (If you want to be one of these people, please take our short courses on Claude Code, Gemini CLI, and Agentic Skills!)\n\nSo AI is leading to job losses, but in a subtle way. Some businesses are letting go of employees who are not adapting to AI and replacing them with people who are. This trend is already obvious in software development. Further, in many startups’ hiring patterns, I am seeing early signs of this type of personnel replacement in roles that traditionally are considered non-technical. Marketers, recruiters, and analysts who know how to code with AI are more productive than those who don’t, so some businesses are slowly parting ways with employees that aren’t able to adapt. I expect this will accelerate.\n\nAt the same time, when companies build new teams that are AI native, sometimes the new teams are smaller than the ones they replace. AI makes individuals more effective, and this makes it possible to shrink team sizes. For example, as AI has made building software easier, the bottleneck is shifting to deciding what to build — this is the Product Management (PM) bottleneck. A project that used to be assigned to 8 engineers and 1 PM might now be assigned to 2 engineers and 1 PM, or perhaps even to a single person with a mix of engineering and product skills.\n\nThe good news for employees is that most businesses have a lot of work to do and not enough people to do it. People with the right AI skills are often given opportunities to step up and do more, and maybe tackle the long backlog of ideas that couldn’t be executed before AI made the work go more quickly. I’m seeing many employees in many businesses step up to build new things that help their business. Opportunities abound!\n\nI know these changes are stressful. My heart goes out to every family that has been affected by a layoff, to every job seeker struggling to find the role they want, and to the far larger number of people who are worried about their future job prospects. Fortunately, there’s still time to learn and position yourself well for where the job market is going. When it comes to AI, the vast majority of people, technical or nontechnical, are at the starting line, or they were recently. So this remains a great time to keep learning and keep building, and the opportunities for those who do are numerous!\n\n[Original text; https://t.co/zbIhZHfCC0 ]",
+      "content_ko": "미국과 다른 많은 국가의 취업자들은 어려운 환경을 맞고 있습니다. 동시에 AI로 인한 일자리 감소에 대한 우려는 지금까지 과도하게 과장되어 왔습니다. 그러나 AI 기술에 대한 수요가 일자리 시장에 변화를 일으키고 있습니다. 저는 현장에서 관찰한 내용을 공유합니다. 먼저, 많은 기술 기업들이 지난해 직원들을 해고했습니다. 일부 CEO들은 AI가 작업을 수행해 사람들을 필요치 않게 만들었다고 이유를 밝혔지만, 현실은 AI가 아직 잘 작동하지 않기 때문에 대부분의 해고는 코로나 팬데믹 시기의 과다 채용 정정이나 일반적인 비용 절감 및 재조직 때문입니다. 몇 가지 직무를 제외하고는 AI로 인한 자동화로 인한 해고는 거의 없습니다. 그러나 미래에는 AI 자동화에 고위험 직무에 있는 직업인, 예를 들어 콜센터 운영자, 번역가, 음성 연기자 등이 일자리 찾기 어려움이나 급여 감소에 직면할 수 있습니다. 그러나 대규모 일자리 감소는 과도하게 과장되었습니다. 대신, AI를 사용하는 직무자들이 AI를 사용하지 않는 직무자들을 대체하고 있다는 공통된 경향이 있습니다. 예를 들어, AI 코드 도구로 개발자들이 훨씬 효율적이기 때문에 AI를 사용하는 개발자들이 점점 더 요구되고 있습니다. (AI 기술을 익히고 싶다면 우리의 짧은 강의인 Claude Code, Gemini CLI, Agentic Skills를 수강해 보세요!) AI는 일자리 감소를 일으키지만, 그 방식은 미묘합니다. 일부 기업은 AI에 적응하지 못한 직원들을 해고하고 AI를 사용하는 직원들을 채용하고 있습니다. 이 추세는 이미 소프트웨어 개발 분야에서 명확하게 나타나고 있으며, 많은 스타트업의 채용 패턴에서도 비전문직 직무에서 이러한 인력 교체의 초기 징후를 보고 있습니다. 마케터, 채용 담당자, 분석가 등이 AI로 코드를 작성할 수 있는 능력이 더 생산적이라서 일부 기업은 적응하지 못한 직원들과의 관계를 점차 끝내고 있습니다. 저는 이 추세가 가속화될 것으로 기대합니다. 한편, 기업이 AI 중심의 새로운 팀을 구성할 때, 종종 이전 팀보다 더 작은 규모의 팀이 구성됩니다. AI는 개인의 효율성을 높여 팀 규모를 줄일 수 있습니다. 예를 들어, AI로 소프트웨어 개발이 쉬워졌기 때문에, 결정해야 할 일인 제품 관리(PM)의 병목 현상이 발생합니다. 이전에는 8명의 엔지니어와 1명의 PM이 담당했던 프로젝트가 이제는 2명의 엔지니어와 1명의 PM이 담당하거나, 심지어 단일 엔지니어와 PM 역할을 겸하는 사람이 담당할 수 있습니다. 직원들에게 좋은 소식은 대부분의 기업이 많은 일을 해야 하지만 인력이 부족하다는 점입니다. AI 기술을 갖춘 직원들은 더 많은 일을 할 기회를 얻고, 이전에 실행 불가능했던 아이디어의 장기적인 대기열을 처리할 수 있습니다. 저는 많은 직원들이 새로운 것을 만들고 기업의 성장을 도울 수 있는 기회를 얻고 있다고 보고 있습니다. 기회가 매우 많습니다. 저는 이러한 변화가 스트레스를 주고 있다고 알고 있습니다. 해고로 인해 영향을 받은 가족, 일자리 찾기 어려운 취업자, 그리고 미래 직업 전망에 대해 걱정하는 사람들에게 마음을 나누고 싶습니다. 다행히도, AI에 대해 기술자든 비기술자든 대부분의 사람들이 시작점에 있거나 최근에 시작했다는 점에서, 이 시점에서 계속 배우고 성장하는 것이 매우 중요합니다. 이에 따라 기회가 매우 많습니다.",
+      "url": "https://x.com/AndrewYNg/status/2021259884709413291",
+      "is_ai_trend": true,
+      "ai_confidence": 0.85,
+      "ai_title": "AI 기술이 일자리 시장에 미치는 영향과 직업 전환 동향",
+      "ai_bullets": [
+        "AI 기술이 일자리 시장에 변화를 일으키고 있으며, 일부 직업은 자동화로 인해 감소하고 있음",
+        "AI를 활용하는 직무 능력이 요구되며, 기존 직무의 역할이 변화하고 있음",
+        "AI 도구를 사용하는 개발자와 마케터 등이 기존 직무자보다 생산성 향상으로 인해 선호됨"
+      ],
+      "ai_summary": "AI 기술이 일자리 시장에 미치는 영향과 직업 전환 동향을 다룬 글",
+      "ai_themes": [
+        "산업동향",
+        "투자/시장",
+        "윤리/안전"
+      ],
+      "published_at": "2026-02-11 01:28"
+    },
+    {
+      "post_id": "2021245818477445326",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "Link to the @FortuneMagazine cover article here, thanks @agarfinks for the great interview - it was a lot of fun to do! https://t.co/VRs8PaxX8k",
+      "content_ko": "https://t.co/VRs8PaxX8k 링크의 내용: 데미스 하사비스가 IsomorphicLabs에서 AI 모델을 개발 중으로, 이는 약물 발견 속도를 10배 가속화하고 의약품 시장 출시 기간을 단축하는 데 기여하고 있음. AI 기술이 별자리 패턴 해석과 유사한 창의적 문제 해결 능력을 지닌다는 점을 강조하며, 이는 의약품 개발 분야에서 혁신적인 접근 방식으로 평가받고 있음.",
+      "url": "https://x.com/demishassabis/status/2021245818477445326",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "데미스 하사비스, AI 기반 약물 발견 기술 개발",
+      "ai_bullets": [
+        "IsomorphicLabs에서 AI 모델 개발로 약물 발견 속도 향상 중",
+        "AI 기술이 의약품 시장 출시 기간 단축에 기여하고 있음",
+        "AI가 별자리 패턴 해석과 유사한 창의적 문제 해결 기능 보유"
+      ],
+      "ai_summary": "AI 기반 약물 발견 기술 개발로 의약품 개발 효율성 향상 중",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-02-11 00:32"
+    },
+    {
+      "post_id": "2021245817105867263",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "One of the most important things we can use AI for is to improve human health. I recently spoke with @agarfinks from @FortuneMagazine on the incredible progress we're making @IsomorphicLabs pushing the frontier of AI-powered drug discovery to make the process 10x faster &amp; better!",
+      "content_ko": "AI 기술을 활용한 의약품 개발 프로세스 개선이 중요한 목표로, 최근 FortuneMagazine과의 인터뷰에서 이 기술이 약물 발견을 10배 빠르게 만들 수 있다고 강조함. 이는 AI가 의약품 개발 분야에서 혁신적인 변화를 주도하고 있음을 보여주는 사례로 평가받고 있음.",
+      "url": "https://x.com/demishassabis/status/2021245817105867263",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "AI 기반 약물 발견 기술, 의약품 개발 혁신 주도",
+      "ai_bullets": [
+        "AI 기술로 의약품 개발 프로세스 10배 가속화 중",
+        "약물 발견 분야에서 AI 기술의 잠재력 강조",
+        "FortuneMagazine과의 인터뷰 통해 기술 성과 공유"
+      ],
+      "ai_summary": "AI 기술이 의약품 개발 프로세스 혁신을 주도하고 있음",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-02-11 00:32"
+    }
+  ]
+}

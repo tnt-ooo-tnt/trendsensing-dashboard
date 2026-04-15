@@ -1,0 +1,44 @@
+{
+  "date": "2025-01-24",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "NVIDIA Blog": 1
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "산업동향",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "09f64a949d8f57f2015713cf",
+      "platform": "rss",
+      "account_handle": "NVIDIA Blog",
+      "display_name": "NVIDIA",
+      "content": "NVIDIA GPUs powered deep learning to decode years of Cassini data in seconds—helping researchers pioneer a smarter way to explore alien worlds.",
+      "content_ko": "NVIDIA GPU가 딥러닝을 통해 캐시니 데이터를 수초 만에 해석해 과학자들이 외계 세계 탐사를 더 똑똑하게 할 수 있는 새로운 방식을 선도하고 있습니다.",
+      "url": "https://blogs.nvidia.com/blog/ai-maps-titan-clouds/",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "NVIDIA GPU, 딥러닝으로 캐시니 데이터 분석 가속화",
+      "ai_bullets": [
+        "NVIDIA GPU가 딥러닝을 통해 캐시니 데이터를 수초 만에 해석해 과학자들의 탐사 방식 혁신",
+        "AI 기술이 외계 행성 탐사에 새로운 가능성을 열어주는 기술적 성과"
+      ],
+      "ai_summary": "NVIDIA GPU가 딥러닝 기술을 활용해 캐시니 데이터 분석 속도를 극대화하며 AI 기반 탐사 기술 발전을 보여준다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2025-01-24 23:00"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "date": "2026-04-02",
+  "total": 7,
+  "ai_true": 3,
+  "ai_false": 4,
+  "source_counts": {
+    "Jaemyung_Lee": 2,
+    "OpenAI Blog": 2,
+    "demishassabis": 2,
+    "SKT Newsroom": 1
+  },
+  "avg_confidence": 0.41,
+  "top_themes": [
+    [
+      "산업동향",
+      3
+    ],
+    [
+      "기술발전",
+      2
+    ],
+    [
+      "투자/시장",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2039710483520147729",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "한미동맹은 매우 특별합니다. 대한민국의 발전은 과거 미국의 지지와 지원을 빼놓고는 설명하기 어려우며, 이제 대한민국은 한층 성장한 국력을 바탕으로 미국의 제조업 부흥과 글로벌 리더십 강화에 적극 기여하고 있습니다.\n\n한국을 방문해 주신 진 섀힌 상원 외교위원회 간사님과 존 커티스 상원의원을 비롯한 의원 여러분을 만나, 한미동맹에 대한 초당적 지지가 굳건히 유지되고 있음을 다시 한번 확인했습니다.\n\n양국은 지난해 두 차례 정상회담을 통해 미래지향적 협력을 더욱 발전시킬 동력을 마련했습니다. 이를 토대로 대미 전략투자를 차질 없이 이행하는 동시에 원자력의 평화적 이용, 핵추진잠수함, 조선 등 주요 분야에서의 협력을 가속화하기 위해 노력하고 있습니다.\n\n오늘 우리는 중동 지역 분쟁의 여파가 민생과 산업에 미치는 영향을 최소화하기 위해 한미 간 소통이 중요하다는 데 인식을 같이했습니다. 아울러 한국의 대미 투자가 원활히 추진될 수 있도록 이를 뒷받침할 비자 제도 개선 방안에 대한 미 의회의 협조도 요청했습니다.\n\n미 의회의 지속적인 관심과 지원 속에 한미동맹이 더욱 발전해 나가길 기대합니다. 앞으로도 양국은 서로를 뒷받침하며, 든든한 파트너로서 함께 할 것입니다.\n\nThe ROK-U.S. Alliance is truly special. The support of the United States has been indispensable to Korea's development. Now, based on its remarkable growth, Korea is actively contributing to America's manufacturing renaissance and strengthening its global leadership.\n\nToday's meeting with Sen. Jeanne Shaheen, Ranking Member of the Senate Foreign Relations Committee, Sen. John Curtis, and their delegation provided a good opportunity to reaffirm that the bipartisan support for our alliance in the U.S. Congress remains strong.\n\nBuilding on the two bilateral summits last year, we are actively working together to further advance future-oriented cooperation, including Korea's strategic investment in the United States, peaceful use of nuclear energy, conventionally armed nuclear-powered submarines, and shipbuilding.\n\nWe shared the view that close communication between our two countries is essential to minimizing the impact of the crisis in the Middle East on people's livelihoods and industries. I also asked for cooperation from the U.S. Congress to improve the U.S. visa system so as to facilitate Korean investment in the United States.\n\nI look forward to seeing the ROK-U.S. Alliance grow ever stronger with the continued interest and support of the U.S. Congress. Our two nations will continue to stand by each other as steadfast partners.",
+      "content_ko": "한미동맹은 매우 특별합니다. 대한민국의 발전은 과거 미국의 지지와 지원을 빼놓고는 설명하기 어려우며, 이제 대한민국은 한층 성장한 국력을 바탕으로 미국의 제조업 부흥과 글로벌 리더십 강화에 적극 기여하고 있습니다. 한국을 방문해 주신 진 섀힌 상원 외교위원회 간사님과 존 커티스 상원의원을 비롯한 의원 여러분을 만나, 한미동맹에 대한 초당적 지지가 굳건히 유지되고 있음을 다시 한번 확인했습니다. 양국은 지난해 두 차례 정상회담을 통해 미래지향적 협력을 더욱 발전시킬 동력을 마련했습니다. 이를 토대로 대미 전략투자를 차질 없이 이행하는 동시에 원자력의 평화적 이용, 핵추진잠수함, 조선 등 주요 분야에서의 협력을 가속화하기 위해 노력하고 있습니다. 오늘 우리는 중동 지역 분쟁의 여파가 민생과 산업에 미치는 영향을 최소화하기 위해 한미 간 소통이 중요하다는 데 인식을 같이했습니다. 아울러 한국의 대미 투자가 원활히 추진될 수 있도록 이를 뒷받침할 비자 제도 개선 방안에 대한 미 의회의 협조도 요청했습니다. 미 의회의 지속적인 관심과 지원 속에 한미동맹이 더욱 발전해 나가길 기대합니다. 앞으로도 양국은 서로를 뒷받침하며, 든든한 파트너로서 함께 할 것입니다.",
+      "url": "https://x.com/Jaemyung_Lee/status/2039710483520147729",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "정책/규제",
+        "산업동향"
+      ],
+      "published_at": "2026-04-02 23:24"
+    },
+    {
+      "post_id": "86685a01860027dee20e60a4",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
+      "content_ko": "AI 기술 발전을 위한 글로벌 대화 확대를 위해 독립적 미디어를 지원하는 TBPN을 인수했습니다. 이는 기술 건설자, 기업, 기술 커뮤니티와의 대화를 넓히는 전략입니다. [https://openai.com/blog/tbpn-acquisition/]",
+      "url": "https://openai.com/index/openai-acquires-tbpn",
+      "is_ai_trend": true,
+      "ai_confidence": 0.8,
+      "ai_title": "오픈AI, TBPN 인수로 글로벌 AI 대화 확대",
+      "ai_bullets": [
+        "독립적 미디어 지원을 위한 TBPN 인수 결정",
+        "기술 커뮤니티와의 대화 확대 전략 발표"
+      ],
+      "ai_summary": "오픈AI가 독립적 미디어 지원을 위해 TBPN을 인수하며 글로벌 AI 대화 확대를 추진한다.",
+      "ai_themes": [
+        "산업동향",
+        "투자/시장"
+      ],
+      "published_at": "2026-04-02 19:30"
+    },
+    {
+      "post_id": "22c2ff8bad8cfd85b49cffce",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+      "content_ko": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption. https://openai.com/blog/codex-business-enterprise-pricing",
+      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "Codex, ChatGPT 기업용 요금제 출시",
+      "ai_bullets": [
+        "Codex에 기업용 요금제 도입, 팀의 유연한 도입 및 확장 지원",
+        "ChatGPT Business 및 Enterprise 사용자 대상 지불형 요금제 제공"
+      ],
+      "ai_summary": "OpenAI가 Codex와 ChatGPT 기업용 요금제를 출시하며 기업 고객의 유연한 AI 도입을 지원합니다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-04-02 19:00"
+    },
+    {
+      "post_id": "2039539272408260754",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "Momen bersama dengan Bapak Sugianto, yang menyelamatkan nyawa dengan membantu evakuasi para lansia saat kebakaran hutan di Yeongdeok-Gun, Gyeongbuk, tahun lalu, serta Carmen, member asal Indonesia dari grup Hearts2Hearts.\n\nMeskipun negara, bahasa dan budaya kita berbeda, persahabatan dan solidaritas kita semakin mendalam. Semoga pertemuan ini menjadi momentum yang semakin mendekatkan Korea dan Indonesia.\n\n지난해 경북 영덕군 산불 당시 어르신들의 대피를 도우며 생명을 구한 수기안토님, 그룹 하츠투하츠의 인도네시아 출신 멤버 카르멘님과 함께한 시간.\n\n비록 나라와 언어, 문화는 다르지만 우리의 우정과 연대는 깊어져갑니다. 이번 만남이 대한민국과 인도네시아를 더욱 가깝게 잇는 계기가 되었길 소망합니다.🇰🇷🇲🇨\n\n#수기안토 #하츠투하츠 #카르멘\n#Sugianto #Hearts2Hearts #Carmen #Indonesia",
+      "content_ko": "지난해 경북 영덕군 산불 당시 어르신들의 대피를 도우며 생명을 구한 수기안토 님, 그룹 하츠투하츠의 인도네시아 출신 멤버 카르멘 님과 함께한 시간. 비록 나라와 언어, 문화가 다르지만 우리의 우정과 연대는 깊어져갑니다. 이번 만남이 대한민국과 인도네시아를 더욱 가깝게 잇는 계기가 되었길 소망합니다. #수기안토 #하츠투하츠 #카르멘 #Sugianto #Hearts2Hearts #Carmen #Indonesia",
+      "url": "https://x.com/Jaemyung_Lee/status/2039539272408260754",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-04-02 12:03"
+    },
+    {
+      "post_id": "2039489134465614068",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "💎💎💎💎",
+      "content_ko": "💎💎💎💎",
+      "url": "https://x.com/demishassabis/status/2039489134465614068",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-04-02 08:44"
+    },
+    {
+      "post_id": "bfa5002c88f23925316e3f25",
+      "platform": "rss",
+      "account_handle": "SKT Newsroom",
+      "display_name": "SK텔레콤",
+      "content": "<p>매일 쏟아지는 회의록, 쌓이는 강의 노트와 아이디어 정리 노트. 기록이 늘어날수록 마음 한구석에선 이런 걱정이 스며든다. ‘그때 그 회의록 어디에 있더라?’, ‘내용이 어려워서 기록만 봐서는 잘 이해가 안 되네’, ‘녹음</p>\n<p>The post <a href=\"https://news.sktelecom.com/223449\">일상의 기록을 시각화하고 더 체계적으로 관리·공유… ‘에이닷 노트’ 업데이트</a> first appeared on <a href=\"https://news.sktelecom.com\">SK텔레콤 뉴스룸</a>.</p>",
+      "content_ko": "에이닷은 이번 에이닷 노트 업데이트를 통해 정리·편집·공유 기능을 한층 강화했다. 여기에 내용을 시각화해주는 ‘다이어그램’ 기능까지 더했다. ‘프로 일잘러’로 거듭날 수 있는 신규 에이닷 노트 기능을 살펴본다. 매일 쏟아지는 회의록, 쌓이는 강의 노트와 아이디어 정리 노트. 기록이 늘어날수록 마음 한구석에선 이런 걱정이 스며든다. ‘그때 그 회의록 어디에 있더라?’, ‘내용이 어려워서 기록만 봐서는 잘 이해가 안 되네’, ‘녹음 내용을 수정하고 싶은데 방법이 없을까?’ 기록은 잘 남기는 것을 넘어, 사용자가 필요한 내용을 쉽게 찾고, 보기 좋게 정리되고, 상황에 맞게 공유할 수 있어야 한다. 에이닷은 이번 에이닷 노트 업데이트를 통해 정리·편집·공유 기능을 한층 강화했다. 여기에 내용을 시각화해주는 ‘다이어그램’ 기능까지 더했다. ‘프로 일잘러’로 거듭날 수 있는 신규 에이닷 노트 기능을 살펴본다. 복잡한 회의록을 시각화, ‘다이어그램’ 생성 기능 ‘다이어그램’은 텍스트 중심의 노트를 더욱 직관적으로 이해할 수 있도록 시각화해주는 기능이다. 길고 복잡한 설명이나 정보가 많은 내용을 도식화된 형태로 표현해 핵심을 빠르게 파악할 수 있도록 돕는다. 특히, 노트를 공유 받은 사용자가 문서의 구조와 핵심 내용을 더 쉽게 확인할 수 있게 됐다. 다이어그램은 ‘자동 선택’과 ‘직접 선택’ 두 가지 방식으로 생성할 수 있다.",
+      "url": "https://news.sktelecom.com/223449",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "SKT, AI 기반 노트 관리 도구 '에이닷 노트' 업데이트 발표",
+      "ai_bullets": [
+        "AI 기술로 회의록·강의 노트 시각화 기능 추가",
+        "다이어그램 자동 생성 및 편집 기능 제공",
+        "사용자 중심의 정보 정리·공유 효율성 개선"
+      ],
+      "ai_summary": "SKT가 AI 기반 노트 관리 도구 '에이닷 노트'를 업데이트해 정보 시각화 기능을 강화했다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-04-02 08:29"
+    },
+    {
+      "post_id": "2039438720022065632",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "Thanks for the great chat @HarryStebbings - and congrats on all your amazing successes! https://t.co/fDGMPdgufg",
+      "content_ko": "HarryStebbings 님과의 훌륭한 대화에 감사드립니다 - 모든 성공을 축하드립니다! https://t.co/fDGMPdgufg",
+      "url": "https://x.com/demishassabis/status/2039438720022065632",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-04-02 05:24"
+    }
+  ]
+}

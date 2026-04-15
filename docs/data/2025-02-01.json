@@ -1,0 +1,44 @@
+{
+  "date": "2025-02-01",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "NVIDIA Blog": 1
+  },
+  "avg_confidence": 0.9,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "연구/논문",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "23398c63fd4b3bd7d0d06e57",
+      "platform": "rss",
+      "account_handle": "NVIDIA Blog",
+      "display_name": "NVIDIA",
+      "content": "Editor&#8217;s note: This article, originally published on Nov. 15, 2023, has been updated. To understand the latest advancements in generative AI, imagine a courtroom. Judges hear and decide cases based on their general understanding of the law. Sometimes a case — like a malpractice suit or a labor dispute — requires special expertise, so judges [&#8230;]",
+      "content_ko": "생성형 AI의 최신 발전을 이해하기 위해 사법 판단 장면을 상상해보자. 판사는 법률에 대한 일반적인 이해를 바탕으로 사건을 듣고 결정한다. 때로는 민사소송이나 노동 분쟁처럼 특수한 전문 지식이 필요한 사건[&#8230;]",
+      "url": "https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "생성형 AI의 최신 발전을 이해하기 위한 사법 판단 사례 유사성 분석",
+      "ai_bullets": [
+        "생성형 AI의 발전을 이해하기 위해 사법 판단 사례를 비유적으로 설명함",
+        "특수 전문 지식이 필요한 사건 처리 시 AI의 역할 가능성 탐구"
+      ],
+      "ai_summary": "생성형 AI의 기술 발전을 사법 판단 사례를 통해 설명함",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문"
+      ],
+      "published_at": "2025-02-01 08:00"
+    }
+  ]
+}

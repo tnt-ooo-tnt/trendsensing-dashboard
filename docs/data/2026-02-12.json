@@ -1,0 +1,169 @@
+{
+  "date": "2026-02-12",
+  "total": 6,
+  "ai_true": 5,
+  "ai_false": 1,
+  "source_counts": {
+    "karpathy": 5,
+    "demishassabis": 1
+  },
+  "avg_confidence": 0.82,
+  "top_themes": [
+    [
+      "기술발전",
+      4
+    ],
+    [
+      "오픈소스",
+      3
+    ],
+    [
+      "생성형AI",
+      2
+    ],
+    [
+      "연구/논문",
+      1
+    ],
+    [
+      "산업동향",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2021862247568642485",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "I spent more test time compute and realized that my micrograd can be dramatically simplified even further. You just return local gradients for each op and get backward() to do the multiply (chaining) with global gradient from loss. So each op just expresses the bare fundamentals of what it needs to: the forward computation and the backward gradients for it.\n\nHuge savings from 243 lines of code to just 200 (~18%).\n\nAlso, the code now fits even more beautifully to 3 columns and happens to break just right:\n\nColumn 1: Dataset, Tokenizer, Autograd\nColumn 2: GPT model\nColumn 3: Training, Inference\n\nOk now surely we are done.",
+      "content_ko": "더 많은 테스트 계산 시간을 소비하면서도, 제 미세그라디언트는 더욱 단순화될 수 있음을 깨달았습니다. 각 연산자는 로컬 그라디언트만 반환하고, 역전파()가 손실의 글로벌 그라디언트와 곱셈(연쇄)을 처리하도록 하면 됩니다. 따라서 각 연산자는 전방 계산과 해당 연산의 역방향 그라디언트만 표현하면 됩니다. 243행의 코드를 200행으로 줄여 18% 감소를 달성했습니다. 또한 코드는 3열로 더욱 깔끔하게 정리되어, 적절하게 끊어지게 되었습니다. 열 1: 데이터셋, 토큰화, 자동 미분, 열 2: GPT 모델, 열 3: 학습, 추론. 이제 확실히 마무리가 되었습니다.",
+      "url": "https://x.com/karpathy/status/2021862247568642485",
+      "is_ai_trend": false,
+      "ai_confidence": 0.3,
+      "ai_title": "미세그라디언트 라이브러리 최적화 성공",
+      "ai_bullets": [
+        "미세그라디언트 라이브러리 코드 줄 수 감소(243행 → 200행)",
+        "각 연산자에 로컬 그라디언트 반환 및 역전파 처리 최적화",
+        "코드 구조가 3열로 더욱 깔끔하게 정리됨"
+      ],
+      "ai_summary": "미세그라디언트 라이브러리의 코드 구조를 최적화하여 효율성 향상",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-02-12 17:21"
+    },
+    {
+      "post_id": "2021756066678419508",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "(oops should have added to this thread instead of separate post). Made a few changes and put it up here as a mirror to the gist because I wanted it to one page. https://t.co/piVWid3nsb https://t.co/7zZ9WeERsq",
+      "content_ko": "오류가 있었던 글을 이 스레드 대신 별도 게시물로 올렸습니다. 몇 가지 수정사항을 반영해 gist를 복사해 놓았습니다. https://t.co/piVWid3nsb https://t.co/7zZ9WeERsq",
+      "url": "https://x.com/karpathy/status/2021756066678419508",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "microgpt: 순수 파이썬으로 GPT 훈련 및 추론 구현",
+      "ai_bullets": [
+        "GPT 모델의 핵심 알고리즘을 순수 파이썬으로 243행으로 구현",
+        "의존성 없는 코드로 LLM 훈련 및 추론을 단일 페이지로 제공"
+      ],
+      "ai_summary": "GPT 모델의 핵심 알고리즘을 파이썬으로 구현한 오픈소스 프로젝트 공개",
+      "ai_themes": [
+        "기술발전",
+        "오픈소스"
+      ],
+      "published_at": "2026-02-12 10:19"
+    },
+    {
+      "post_id": "2021734578369552566",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "Gemini Deep Think is helping advance scientific progress! Very cool to see how experts are using it to accelerate solutions to longstanding problems in maths, physics, and computer science https://t.co/GMTwlzyNR5",
+      "content_ko": "Gemini Deep Think이 과학 기술 발전에 기여하고 있으며, 전문가들이 이 모델을 활용해 오랜 시간 해결되지 못한 문제를 해결하고 있는 모습이 인상적입니다. https://t.co/GMTwlzyNR5",
+      "url": "https://x.com/demishassabis/status/2021734578369552566",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "Gemini Deep Think, 과학 기술 발전에 기여 중",
+      "ai_bullets": [
+        "수학, 물리학, 컴퓨터 과학 등 오랜 시간 해결되지 못한 문제 해결 가속화",
+        "전문가들이 모델을 활용해 연구 성과 확대 중"
+      ],
+      "ai_summary": "Gemini Deep Think이 과학 기술 발전에 기여하며 전문가들의 연구 활동에 영향을 미치고 있음",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문"
+      ],
+      "published_at": "2026-02-12 08:54"
+    },
+    {
+      "post_id": "2021695367507529825",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "The way it works is that the full LLM architecture and loss function is stripped entirely to the most atomic individual mathematical operations that make it up (+, *, **, log, exp), and then a tiny scalar-valued autograd engine (micrograd) calculates gradients. Adam for optim.",
+      "content_ko": "LLM 아키텍처와 손실 함수를 가장 기본적인 수학 연산으로 분해해, 작은 스칼라 값 자동 미분 엔진(micrograd)을 사용해 기울기를 계산합니다. Adam을 최적화 알고리즘으로 사용합니다.",
+      "url": "https://x.com/karpathy/status/2021695367507529825",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "LLM 훈련의 수학적 기초로 구성된 미세 자동 미분 엔진",
+      "ai_bullets": [
+        "LLM 아키텍처를 기본 수학 연산(+, *, log, exp)으로 분해",
+        "미세 자동 미분 엔진(micrograd)을 사용한 기울기 계산"
+      ],
+      "ai_summary": "LLM 훈련을 기본 수학 연산으로 구현한 자동 미분 엔진 공개",
+      "ai_themes": [
+        "기술발전",
+        "오픈소스"
+      ],
+      "published_at": "2026-02-12 06:18"
+    },
+    {
+      "post_id": "2021694437152157847",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "New art project. \nTrain and inference GPT in 243 lines of pure, dependency-free Python. This is the *full* algorithmic content of what is needed. Everything else is just for efficiency. I cannot simplify this any further.\nhttps://t.co/HmiRrQugnP",
+      "content_ko": "새로운 예술 프로젝트로, 의존성 없는 순수 파이썬으로 GPT 훈련 및 추론을 243행으로 완성했습니다. 이는 필요한 전체 알고리즘적 내용입니다. 나머지는 효율성에 대한 것입니다. 더 이상 단순화할 수 없습니다. https://t.co/HmiRrQugnP",
+      "url": "https://x.com/karpathy/status/2021694437152157847",
+      "is_ai_trend": true,
+      "ai_confidence": 0.85,
+      "ai_title": "GPT 훈련/추론을 243행 파이썬 코드로 완성한 오픈소스 프로젝트",
+      "ai_bullets": [
+        "의존성 없는 순수 파이썬으로 GPT 훈련/추론 기능 구현",
+        "GitHub Gist로 공유된 코드는 전체 알고리즘을 포함"
+      ],
+      "ai_summary": "GPT 훈련/추론 기능을 243행 파이썬 코드로 구현한 오픈소스 프로젝트 공개",
+      "ai_themes": [
+        "생성형AI",
+        "오픈소스"
+      ],
+      "published_at": "2026-02-12 06:14"
+    },
+    {
+      "post_id": "2021633574089416993",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "On DeepWiki and increasing malleability of software.\n\nThis starts as partially a post on appreciation to DeepWiki, which I routinely find very useful and I think more people would find useful to know about. I went through a few iterations of use:\n\nTheir first feature was that it auto-builds wiki pages for github repos (e.g. nanochat here) with quick Q&A:\nhttps://t.co/DQHXagUwK0\nJust swap \"github\" to \"deepwiki\" in the URL for any repo and you can instantly Q&A against it. For example, yesterday I was curious about \"how does torchao implement fp8 training?\". I find that in *many* cases, library docs can be spotty and outdated and bad, but directly asking questions to the code via DeepWiki works very well. The code is the source of truth and LLMs are increasingly able to understand it.\n\nBut then I realized that in many cases it's even a lot more powerful not being the direct (human) consumer of this information/functionality, but giving your agent access to DeepWiki via MCP. So e.g. yesterday I faced some annoyances with using torchao library for fp8 training and I had the suspicion that the whole thing really shouldn't be that complicated (wait shouldn't this be a Function like Linear except with a few extra casts and 3 calls to torch._scaled_mm?) so I tried:\n\n\"Use DeepWiki MCP and Github CLI to look at how torchao implements fp8 training. Is it possible to 'rip out' the functionality? Implement nanochat/fp8.py that has identical API but is fully self-contained\"\n\nClaude went off for 5 minutes and came back with 150 lines of clean code that worked out of the box, with tests proving equivalent results, which allowed me to delete torchao as repo dependency, and for some reason I still don't fully understand (I think it has to do with internals of torch compile) - this simple version runs 3% faster. The agent also found a lot of tiny implementation details that actually do matter, that I may have naively missed otherwise and that would have been very hard for maintainers to keep docs about. Tricks around numerics, dtypes, autocast, meta device, torch compile interactions so I learned a lot from the process too. So this is now the default fp8 training implementation for nanochat\nhttps://t.co/3i5cv6grWm\n\nAnyway TLDR I find this combo of DeepWiki MCP + GitHub CLI is quite powerful to \"rip out\" any specific functionality from any github repo and target it for the very specific use case that you have in mind, and it actually kind of works now in some cases. Maybe you don't download, configure and take dependency on a giant monolithic library, maybe you point your agent at it and rip out the exact part you need. Maybe this informs how we write software more generally to actively encourage this workflow - e.g. building more \"bacterial code\", code that is less tangled, more self-contained, more dependency-free, more stateless, much easier to rip out from the repo (https://t.co/iKJUoHiIpl) \nThere's obvious downsides and risks to this, but it is fundamentally a new option that was not possible or economical before (it would have cost too much time) but now with agents, it is. Software might become a lot more fluid and malleable. \"Libraries are over, LLMs are the new compiler\" :). And does your project really need its 100MB of dependencies?",
+      "content_ko": "DeepWiki와 MCP를 활용해 GitHub 리포지토리의 특정 기능을 에이전트를 통해 추출해 특정 용도로 재사용 가능하다고 보고. torchao 라이브러리의 fp8 트레이닝 기능을 150줄의 코드로 구현해 성능 향상도 확인. 소프트웨어 개발 방식이 '세균 코드'처럼 간소화되고 의존성 없는 구조로 전환될 가능성을 제시. '라이브러리는 종식, LLM이 새로운 컴파일러'라는 결론을 내리며 의존성 최소화 필요성을 강조. https://t.co/3i5cv6grWm",
+      "url": "https://x.com/karpathy/status/2021633574089416993",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "DeepWiki와 에이전트 기술로 소프트웨어 기능 추출 가능성 확대",
+      "ai_bullets": [
+        "DeepWiki를 활용해 GitHub 리포지토리의 특정 기능을 에이전트를 통해 추출해 특정 용도로 재사용 가능하다고 보고",
+        "Claude 에이전트가 torchao 라이브러리의 fp8 트레이닝 기능을 150줄의 코드로 구현해 성능 향상도 확인",
+        "소프트웨어 개발 방식이 '세균 코드'처럼 간소화되고 의존성 없는 구조로 전환될 가능성을 제시"
+      ],
+      "ai_summary": "DeepWiki와 에이전트 기술의 결합이 소프트웨어 기능 추출 및 재사용을 가능하게 하며, 개발 방식 혁신을 예고",
+      "ai_themes": [
+        "기술발전",
+        "생성형AI",
+        "산업동향"
+      ],
+      "published_at": "2026-02-12 02:12"
+    }
+  ]
+}

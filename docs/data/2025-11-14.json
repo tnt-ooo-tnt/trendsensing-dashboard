@@ -1,0 +1,45 @@
+{
+  "date": "2025-11-14",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "윤리/안전",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "1989003741316673714",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "I recently received an email titled “An 18-year-old’s dilemma: Too late to contribute to AI?” Its author, who gave me permission to share this, is preparing for college. He is worried that by the time he graduates, AI will be so good there’s no meaningful work left for him to do to contribute to humanity, and he will just live on Universal Basic Income (UBI). I wrote back to reassure him that there will still be plenty of work he can do for decades hence, and encouraged him to work hard and learn to build with AI. But this conversation struck me as an example of how harmful hype about AI is.\n\nYes, AI is amazingly intelligent, and I’m thrilled to be using it every day to build things I couldn’t have built a year ago. At the same time, AI is still incredibly dumb, and I would not trust a frontier LLM by itself to prioritize my calendar, carry out resumé screening, or choose what to order for lunch — tasks that businesses routinely ask junior personnel to do.\n\nYes, we can build AI software to do these tasks. For example, after a lot of customization work, one of my teams now has a decent AI resumé screening assistant. But the point is it took a lot of customization.\n\nEven though LLMs can handle a much more general set of tasks than previous iterations of AI technology, compared to what humans can do, they are still highly specialized. They’re much better at working with text than other modalities, still require lots of custom engineering to get it the right context for a particular application, and we have few tools — and only inefficient ones — for getting our systems to learn from feedback and repeated exposure to a specific task (such as screening resumés for a particular role).\n\nAI has stark limitations, and despite rapid improvements, it will remain limited compared to humans for a long time.\n\nAI is amazing, but it has unfortunately been hyped up to be even more amazing than it is. A pernicious aspect of hype is that it often contains an element of truth, but not to the degree of the hype. This makes it difficult for nontechnical people to discern where the truth really is. Modern AI is a general purpose technology that is enabling many applications, but AI that can do any intellectual tasks that a human can (a popular definition for AGI) is still decades away or longer. This nuanced message that AI is general, but not that general, often is lost in the noise of today's media environment.\n\nSimilarly, the progress of frontier models is amazing! But not so amazing that they’ll be able to do everything under the sun without a lot of customization. I know VC investors who are scared to invest in application-layer startups because they are worried that frontier AI model companies will quickly wipe out all of these businesses by improving their models. While some thin wrappers around LLMs no doubt will be replaced, there also remains a huge set of valuable applications that the current trajectory of progress of frontier models won’t displace for a long time.\n\nWithout accurate information about the current state of AI and how it is likely to progress, some young people will decide not to enter AI because think think AGI leaves them no meaningful role, or decide not to learn how to code because they fear AI will automate it — right when it is the best time ever to join our field.\nLet us all keep working to get to a precise understanding of what’s actually possible, and keep building!\n\n[Original text:  https://t.co/OfxCVPGKoq ]",
+      "content_ko": "최근 18세 청년이 AI 발전으로 인해 자신의 기여가 줄어들고 UBI에 의존할지 우려하는 이메일을 받았습니다. AI는 놀라운 능력을 보유하지만, 일상 업무 자동화에 적합하지 않으며, LLM은 일정한 커스터마이징이 필요합니다. AI 애플리케이션 개발은 여전히 복잡하며, AGI 달성은 수십 년 후 예상됩니다. AI 허ype가 청년들의 진로 선택에 부정적 영향을 미치고 있으며, 정확한 기술 이해를 통한 AI 활용이 필요합니다. (https://t.co/OfxCVPGKoq)",
+      "url": "https://x.com/AndrewYNg/status/1989003741316673714",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "AI 기술 한계와 윤리적 논의, 생성형 AI의 현실적 한계 강조",
+      "ai_bullets": [
+        "AI의 놀라운 능력과 동시에 여전히 한계가 있으며, LLM은 일상 업무 자동화에 적합하지 않음",
+        "AI 애플리케이션 개발에는 많은 커스터마이징이 필요하며, AGI 달성은 수십 년 후 예상됨",
+        "AI 허ype가 청년들의 진로 선택에 부정적 영향을 미치고 있는 현실 지적"
+      ],
+      "ai_summary": "AI 기술의 현실적 한계와 허ype의 부정적 영향에 대한 경고 및 청년 대상 AI 교육 필요성 강조",
+      "ai_themes": [
+        "기술발전",
+        "윤리/안전"
+      ],
+      "published_at": "2025-11-14 01:13"
+    }
+  ]
+}

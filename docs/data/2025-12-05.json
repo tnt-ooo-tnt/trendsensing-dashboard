@@ -1,0 +1,45 @@
+{
+  "date": "2025-12-05",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.85,
+  "top_themes": [
+    [
+      "정책/규제",
+      1
+    ],
+    [
+      "윤리/안전",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "1996631366470132053",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "Separate reports by the publicity firm Edelman and Pew Research show that Americans, and more broadly large parts of Europe and the western world, do not trust AI and are not excited about it. (Links in original text, below.) Despite the AI community’s optimism about the tremendous benefits AI will bring, we should take this seriously and not dismiss it. The public’s concerns about AI can be a significant drag on progress, and we can do a lot to address them.\n\nAccording to Edelman’s survey, in the U.S., 49% of people reject the growing use of AI, and 17% embrace it. In China, 10% reject it and 54% embrace it. Pew’s data also shows many other nations much more enthusiastic than the U.S. about AI adoption.\n\nPositive sentiment toward AI is a huge national advantage. On the other hand, widespread distrust of AI means:\n- Individuals will be slow to adopt it. For example, Edelman’s data shows that, in the U.S., those who rarely use AI cite Trust (70%) more than lack of Motivation and Access (55%) or Intimidation by the technology (12%) as an issue.\n- Valuable projects that need societal support will be stymied. For example, local protests in Indiana brought down Google’s plan to build a data center there. Hampering construction of data centers will hurt AI’s growth. Communities do have concerns about data centers beyond the general dislike of AI; I will address this in a later letter.\n- Populist anger against AI raises the risk that laws will be passed that hamper AI development.\n\nTo be clear, all of us working in AI should look carefully at both the benefits and harmful effects of AI (such as deepfakes polluting social media and biased or inaccurate AI outputs misleading users), speak truthfully about both benefits and harms, and work to ameliorate problems even as we work to grow the benefits. But hype about AI’s danger has done real damage to trust in our field. Much of this hype has come from leading AI companies that aim to make their technology seem extraordinarily powerful by, say, comparing it to nuclear weapons. Unfortunately, a significant fraction of the public has taken this seriously and thinks AI could bring about the end of the world. The AI community has to stop self-inflicting these wounds and work to win back society’s trust.\n\nWhere do we go from here?\n\nFirst, to win people’s trust, we have a lot of work ahead to make sure AI broadly benefits everyone. “Higher productivity” is often viewed by general audiences as a codeword for “my boss will make more money,” or worse, layoffs. As amazing as ChatGPT is, we still have a lot of work to do to build applications that make an even bigger positive impact on people’s lives. I believe providing training to people will be a key piece of the puzzle. https://t.co/zpIxRSuky4 will continue to lead the charge on AI training, but we will need more than this.\n\nSecond, we have to be genuinely worthy of trust. This means every one of us has to avoid hyping things up or fear mongering, despite the occasional temptation to do so for publicity or to lobby governments to pass laws that stymie competing products (such as open source).\n\nI hope our community can also call out journalism that spreads hype. For example, Nirit Weiss-Blatt wrote a remarkable article about how 60 Minutes’ coverage of an Anthropic study in which Claude, threatened with being shut down, resorted to “blackmail,” was highly misleading. The study carried out a red-teaming exercise in which skilled researchers, after a lot of determined work, finally pushed an AI system into a corner so it demonstrated “blackmailing” behavior. Unfortunately, news reports distorted this and led many to think the “blackmail” behavior occurred naturally rather than only because skilled researchers engineered it to happen. The reports left many with a wildly exaggerated picture of how often AI actually “schemes.” Red-teaming exercises are important to test vulnerabilities of systems, but this particular piece of hype, which was widely circulated, will hurt AI for a long time.\n\nLiving in Silicon Valley, I realize I live in a bubble of AI enthusiasts, which is great for exchanging ideas and encouraging each other to build! At the same time, I recognize that AI does have problems, and the AI community needs to address them. I frequently speak with people from many different walks of life. I’ve spoken with artists concerned about AI devaluing their work, college seniors worried about the tough job market and whether AI is exacerbating their challenges, and parents worried about their kids being addicted to, and receiving harmful advice from, chatbots.\n\nI don’t know how to solve all of these problems, but I will work hard to solve as many as I can. And I hope you will too. It will only be through all of us doing this that we can win back society’s trust.\n\n[Original text, with links: https://t.co/oi29S8uu6C ]",
+      "content_ko": "공공관계 기관 에델먼과 페우 연구소 보고서에 따르면 미국 및 유럽 지역 주민들이 AI를 신뢰하지 않으며, 기대감도 낮음. AI 커뮤니티의 기술 혜택에 대한 낙관론에도 불구하고, 대중의 우려는 기술 발전에 부정적 영향을 줄 수 있음. 에델먼 조사에 따르면 미국에서 49%가 AI 사용을 거부하고 17%가 수용. 중국에서는 10%가 거부하고 54%가 수용. 페우 데이터는 미국보다 다른 국가들이 AI 도입에 더 적극적임. AI에 대한 긍정적 태도는 국가적 우위이지만, 신뢰 부족은 개인의 도입 지연, 사회적 프로젝트 저지, AI 관련 법률 제정 위험 등으로 이어짐. AI 커뮤니티는 기술의 이점과 해악을 솔직히 전달하고 문제를 해결해야 함. 그러나 AI 위험 과장 보도가 신뢰도 하락에 기여했으며, 이는 기술 발전에 장애가 될 수 있음. https://t.co/zpIxRSuky4",
+      "url": "https://x.com/AndrewYNg/status/1996631366470132053",
+      "is_ai_trend": true,
+      "ai_confidence": 0.85,
+      "ai_title": "미국 및 유럽 지역 AI 신뢰도 저조, 사회적 영향 분석",
+      "ai_bullets": [
+        "에델먼 및 페우 연구소 보고서, 미국 49%가 AI 사용 거부, 중국 10% 거부",
+        "AI 신뢰도 저하가 기술 발전에 부정적 영향, 데이터 센터 건설 저지 사례 포함",
+        "AI 관련 허위 보도가 신뢰도 하락에 기여, 기술 발전에 장애가 될 수 있음"
+      ],
+      "ai_summary": "미국 및 유럽 지역 AI 신뢰도 저조, 사회적 영향 및 해결 방안 분석",
+      "ai_themes": [
+        "정책/규제",
+        "윤리/안전"
+      ],
+      "published_at": "2025-12-05 02:23"
+    }
+  ]
+}

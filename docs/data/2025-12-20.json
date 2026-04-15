@@ -1,0 +1,45 @@
+{
+  "date": "2025-12-20",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.98,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "연구/논문",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2002062897074352593",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "As amazing as LLMs are, improving their knowledge today involves a more piecemeal process than is widely appreciated. I’ve written before about how AI is amazing... but not that amazing. Well, it is also true that LLMs are general... but not that general. We shouldn’t buy into the inaccurate hype that LLMs are a path to AGI in just a few years, but we also shouldn’t buy into the opposite, also inaccurate hype that they are only demoware. Instead, I find it helpful to have a more precise understanding of the current path to building more intelligent  models.\n\nFirst, LLMs are indeed a more general form of intelligence than earlier generations of technology. This is why a single LLM can be applied to a wide range of tasks. The first wave of LLM technology accomplished this by training on the public web, which contains a lot of information about a wide range of topics. This made their knowledge far more general than earlier algorithms that were trained to carry out a single task such as predicting housing prices or playing a single game like chess or Go. However, they’re far less general than human abilities. For instance, after pretraining on the entire content of the public web, an LLM still struggles to adapt to write in certain styles that many editors would be able to, or use simple websites reliably.\n\nAfter leveraging pretty much all the open information on the web, progress got harder. Today, if a frontier lab wants an LLM to do well on a specific task — such as code using a specific programming language, or say sensible things about a specific niche in, say, healthcare or finance — researchers might go through a laborious process of finding or generating lots of data for that domain and then preparing that data (cleaning low-quality text, deduplicating, paraphrasing, etc.) to create data to give an LLM that knowledge.\n\nOr, to get a model to perform certain tasks, such as use a web browser, developers might go through an even more laborious process of creating many RL gyms (simulated environments) to let an algorithm repeatedly practice a narrow set of tasks.\n\nA typical human, despite having seen vastly less text or practiced far less in computer-use training environments than today's frontier models, nonetheless can generalize to a far wider range of tasks than a frontier model. Humans might do this by taking advantage of continuous learning from feedback, or by having superior representations of non-text input (the way LLMs tokenize images still seems like a hack to me), and many other mechanisms that we do not yet understand.\n\nAdvancing frontier models today requires making a lot of manual decisions and taking a data-centric AI approach to engineering the data we use to train our models. Future breakthroughs might allow us to advance LLMs in a less piecemeal fashion than I describe here. But even if they don’t, the ongoing piecemeal improvements, coupled with the limited degree to which these models do generalize and exhibit “emergent behaviors,” will continue to drive rapid progress.\n\nEither way, we should plan for many more years of hard work. A long, hard — and fun! — slog remains ahead to build more intelligent models.\n\n[Original text: https://t.co/SHRN5JDvTW ]",
+      "content_ko": "LLMs는 놀라운 성능을 보이지만, 지식 향상은 단계적 접근이 필요합니다. AI가 놀라운 기술이지만, 그 한계도 존재합니다. LLM은 일반적인 지능 형태이지만, 인간 수준의 일반성은 부족합니다. 특정 작업(예: 특정 프로그래밍 언어 사용, 특정 분야의 지식)을 수행하려면 해당 분야 데이터를 수집하고 처리하는 과정이 필요합니다. 웹 브라우저 사용 같은 작업은 RL gym을 통해 반복 연습해야 합니다. 인간은 훈련량이 적음에도 더 넓은 범위의 작업을 처리할 수 있으며, 이는 피드백을 통한 지속 학습이나 비문자 입력 표현 등 기전 때문입니다. 현재 최전선 모델의 발전은 수작업 결정과 데이터 중심 접근법이 필요하며, 향후 돌파구가 생길지 모릅니다. 하지만 많은 시간이 필요할 것으로 예상됩니다.",
+      "url": "https://x.com/AndrewYNg/status/2002062897074352593",
+      "is_ai_trend": true,
+      "ai_confidence": 0.98,
+      "ai_title": "LLM 기술 발전의 제한적 접근 방식 분석",
+      "ai_bullets": [
+        "LLM의 지식 향상은 단계적 접근이 필요하다고 지적",
+        "특정 분야(의료, 금융 등) 데이터 수집 및 처리 과정 설명",
+        "RL gym을 통한 특정 작업 연습 과정 언급"
+      ],
+      "ai_summary": "LLM 기술의 발전 과정에서 데이터 중심 접근법과 제한적 성능 분석",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문"
+      ],
+      "published_at": "2025-12-20 02:06"
+    }
+  ]
+}

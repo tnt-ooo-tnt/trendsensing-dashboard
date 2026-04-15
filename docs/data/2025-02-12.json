@@ -1,0 +1,31 @@
+{
+  "date": "2025-02-12",
+  "total": 1,
+  "ai_true": 0,
+  "ai_false": 1,
+  "source_counts": {
+    "NVIDIA Blog": 1
+  },
+  "avg_confidence": 0.1,
+  "top_themes": [],
+  "posts": [
+    {
+      "post_id": "d906a18c0f09bbdbc6f162b4",
+      "platform": "rss",
+      "account_handle": "NVIDIA Blog",
+      "display_name": "NVIDIA",
+      "content": "Editor’s note: This article, originally published on March 13, 2023, has been updated. The mics were live and tape was rolling in the studio where the Miles Davis Quintet was recording dozens of tunes in 1956 for Prestige Records. When an engineer asked for the next song’s title, Davis shot back, “I’ll play it, and [&#8230;]",
+      "content_ko": "편집자 주: 이 기사는 2023년 3월 13일에 처음 게재되었으며 업데이트되었습니다. 1956년 프레스티지 레코즈에서 마일스 데이비스 쿼텟이 수십 곡을 녹음하는 스튜디오에서 마이크가 켜지고 테이프가 흘러가던 장면입니다. 엔지니어가 다음 곡 제목을 요청하자, 데이비스는 \"나는 그것을 연주할 것이며[&#8230;]",
+      "url": "https://blogs.nvidia.com/blog/what-are-foundation-models/",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "1956년 레코드 제작 현장의 역사적 기록",
+      "ai_bullets": [],
+      "ai_summary": "1956년 레코드 제작 현장의 역사적 기록이 공유됨",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2025-02-12 08:51"
+    }
+  ]
+}

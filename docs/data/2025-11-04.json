@@ -1,0 +1,68 @@
+{
+  "date": "2025-11-04",
+  "total": 2,
+  "ai_true": 1,
+  "ai_false": 1,
+  "source_counts": {
+    "AndrewYNg": 2
+  },
+  "avg_confidence": 0.55,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "생성형AI",
+      1
+    ],
+    [
+      "오픈소스",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "1985453870601109733",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "Wrong tag - I’m so sorry. This is co-taught with the wonderful Brian Granger @ellisonbg !",
+      "content_ko": "잘못된 태그입니다. 죄송합니다. 이 강의는 브라이언 그랜저(@ellisonbg)와 함께 공동 강의합니다!",
+      "url": "https://x.com/AndrewYNg/status/1985453870601109733",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2025-11-04 06:07"
+    },
+    {
+      "post_id": "1985416763916632124",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "AI coding just arrived in Jupyter notebooks - and @brganger (Jupyter co-founder) and I will show you how to use it.\n\nCoding by hand is becoming obsolete. The latest Jupyter AI - built by the Jupyter team and showcased at JupyterCon this week - brings AI assistance directly into notebooks.\n\nMost AI coding assistants struggle with Jupyter notebooks. Jupyter AI was designed specifically for them. This is the first course to teach it.\n\nIn this course, Brian and I teach you to:\n- Generate and debug code directly in notebook cells through an integrated chat interface\n- Provide the right context (like API docs) to help AI write accurate code\n- Use Jupyter AI's unique notebook features: drag cells to chat, generate cells from chat, attach context for the LLM\n\nWe've integrated Jupyter AI directly into the DeepLearningAI platform, so you can start using it immediately. Since Jupyter AI is open source, you can also install and run it locally afterward.\n\nWhether you're experienced with notebooks or learning them for the first time, this course will prepare you for AI-assisted notebook development.\n\nStart using Jupyter AI (free): https://t.co/W2drDNGFgQ",
+      "content_ko": "AI 코드 작성 기능이 Jupyter 노트북에 도입되었습니다. @brganger(노트북 공동 설립자)와 저는 이를 사용하는 방법을 보여드리겠습니다. 손으로 코딩하는 방식은 이제 시대의 끝이 되고 있습니다. 이번주 Jupyter 컨퍼런스에서 발표된 최신 Jupyter AI는 노트북 환경에 AI 지원을 직접 제공합니다. 대부분의 AI 코드 작성 도구는 노트북 환경에서 잘 작동하지 못하지만, Jupyter AI는 이를 위해 특별히 설계되었습니다. 이는 첫 번째로 이 기능을 가르치는 강의입니다. 이 강의에서 Brian과 저는 다음과 같은 방법을 가르치게 됩니다: 노트북 셀에서 통합 채팅 인터페이스를 통해 코드 생성 및 디버깅, API 문서와 같은 적절한 맥락 제공으로 AI가 정확한 코드를 작성하도록 도움, Jupyter AI의 고유 노트북 기능 사용(셀 드래그하여 채팅, 채팅에서 셀 생성, LLM에 맥락 첨부). 우리는 Jupyter AI를 DeepLearningAI 플랫폼에 직접 통합하여 즉시 사용할 수 있도록 했습니다. Jupyter AI는 오픈소스이므로 이후 로컬에서 설치 및 실행할 수도 있습니다. 노트북 경험자든 처음 접하는 사람이라도 이 강의는 AI 지원 노트북 개발을 준비시킬 것입니다. Jupyter AI 사용 시작(무료): https://t.co/W2drDNGFgQ",
+      "url": "https://x.com/AndrewYNg/status/1985416763916632124",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "Jupyter AI, 노트북 환경에서 AI 코드 작성 기능 공개",
+      "ai_bullets": [
+        "Jupyter 노트북에 AI 코드 작성 기능이 새롭게 도입됨",
+        "Jupyter AI는 노트북 환경에서 AI 코드 작성에 최적화됨",
+        "Andrew Ng와 Brian Granger가 AI 코드 작성 기법을 직접 강의함"
+      ],
+      "ai_summary": "Jupyter AI가 노트북 환경에서 AI 코드 작성 기능을 제공하며, Andrew Ng와 Brian Granger가 관련 강의를 진행 중임",
+      "ai_themes": [
+        "기술발전",
+        "생성형AI",
+        "오픈소스"
+      ],
+      "published_at": "2025-11-04 03:40"
+    }
+  ]
+}

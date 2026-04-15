@@ -1,0 +1,248 @@
+{
+  "date": "2026-03-25",
+  "total": 10,
+  "ai_true": 6,
+  "ai_false": 4,
+  "source_counts": {
+    "Jaemyung_Lee": 3,
+    "OpenAI Blog": 2,
+    "demishassabis": 1,
+    "sama": 3,
+    "karpathy": 1
+  },
+  "avg_confidence": 0.56,
+  "top_themes": [
+    [
+      "정책/규제",
+      4
+    ],
+    [
+      "윤리/안전",
+      4
+    ],
+    [
+      "산업동향",
+      3
+    ],
+    [
+      "기술발전",
+      2
+    ],
+    [
+      "오픈소스",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2036765424617214321",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "<우리의 독자 기술로 설계하고, 우리 손으로 완성한 한국형 최첨단 전투기 KF-21 양산 1호기가 오늘 출고됐습니다. 땅과 바다를 넘어 하늘에서도 대한민국 스스로의 힘으로 평화를 지키는 자주국방의 시대를 열었음을 의미합니다.  \n\n이제 대한민국은 외국 원조 무기에 의존하던 시기를 지나, 우리 기술로 첨단 무기를 개발하고 세계가 앞다투어 찾는 나라로 도약했습니다. 참으로 자랑스럽습니다.\n\n앞으로도 끊임없는 혁신과 도전으로 국민의 삶을 더욱 풍요롭게 하고, 세계 평화에 기여하는 나라로 나아가겠습니다. 우리 기술이 대한민국의 자부심이 되도록 세심히 살피고 힘껏 뒷받침하겠습니다.\n\nKF-21의 개발과 제작을 이끈 한국항공우주산업, 핵심기술 연구를 담당한 국방과학연구소, 수많은 방산기업과 연구기관, 그리고 우리 공군 장병 여러분께 대한민국을 대표해 깊은 존경과 감사를 전합니다.>",
+      "content_ko": "우리의 독자 기술로 설계하고, 우리 손으로 완성한 한국형 최첨단 전투기 KF-21 양산 1호기가 오늘 출고됐습니다. 땅과 바다를 넘어 하늘에서도 대한민국 스스로의 힘으로 평화를 지키는 자주국방의 시대를 열었음을 의미합니다. 이제 대한민국은 외국 원조 무기에 의존하던 시기를 지나, 우리 기술로 첨단 무기를 개발하고 세계가 앞다투어 찾는 나라로 도약했습니다. 참으로 자랑스럽습니다. 앞으로도 끊임없는 혁신과 도전으로 국민의 삶을 더욱 풍요롭게 하고, 세계 평화에 기여하는 나라로 나아가겠습니다. 우리 기술이 대한민국의 자부심이 되도록 세심히 살피고 힘껏 뒷받침하겠습니다. KF-21의 개발과 제작을 이끈 한국항공우주산업, 핵심기술 연구를 담당한 국방과학연구소, 수많은 방산기업과 연구기관, 그리고 우리 공군 장병 여러분께 대한민국을 대표해 깊은 존경과 감사를 전합니다.",
+      "url": "https://x.com/Jaemyung_Lee/status/2036765424617214321",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-25 20:21"
+    },
+    {
+      "post_id": "2036764865990480017",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "내 고향 경북은 왜 없냐고 했더니..ㅋ https://t.co/JIKVw9eMLc",
+      "content_ko": "내 고향 경북은 왜 없냐고 했더니..ㅋ https://t.co/JIKVw9eMLc",
+      "url": "https://x.com/Jaemyung_Lee/status/2036764865990480017",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-25 20:19"
+    },
+    {
+      "post_id": "2036758194379501614",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "창업시대 창업국가.. 정부가 전적으로 지원하니, 아이디어와 열정만 있으면 한번 도전하세요 https://t.co/xeGG9Nullo",
+      "content_ko": "창업 시대의 창업 국가입니다. 정부가 전적으로 지원하니, 아이디어와 열정만 있으면 한번 도전해 보세요. https://t.co/xeGG9Nullo",
+      "url": "https://x.com/Jaemyung_Lee/status/2036758194379501614",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-25 19:52"
+    },
+    {
+      "post_id": "263c2043f1c3113e3ab2b204",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+      "content_ko": "오픈AI는 AI 시스템의 발전에 따라 모델의 행동에 대한 공개적인 프레임워크를 제공하며, 안전성, 사용자 자유, 책임성의 균형을 유지할 필요성을 강조했습니다. 이는 AI 기술의 안전한 확산을 위한 정책적 접근으로 해석됩니다.",
+      "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "오픈AI 모델 스펙, 안전성과 책임성 균형 도출",
+      "ai_bullets": [
+        "모델 행동에 대한 공개 프레임워크 제공",
+        "안전성·사용자 자유·책임성 균형 강조"
+      ],
+      "ai_summary": "오픈AI가 AI 시스템 발전에 따른 모델 행동 규범을 공개하며 안전성과 책임성을 균형 있게 조율하고 있다.",
+      "ai_themes": [
+        "정책/규제",
+        "윤리/안전"
+      ],
+      "published_at": "2026-03-25 19:00"
+    },
+    {
+      "post_id": "2036726283464581343",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "Excited to partner with Agile Robots! Looking forward to seeing our models being deployed through Agile Robots incredible platform to help solve some of the most complex industrial challenges https://t.co/gsx6eGWwUI",
+      "content_ko": "Agile Robots와 협력하여 우리의 모델이 그들의 놀라운 플랫폼을 통해 복잡한 산업 문제 해결에 기여할 수 있도록 기대하고 있습니다.",
+      "url": "https://x.com/demishassabis/status/2036726283464581343",
+      "is_ai_trend": true,
+      "ai_confidence": 0.8,
+      "ai_title": "Agile Robots와 AI 모델 공동 개발 협력 발표",
+      "ai_bullets": [
+        "Agile Robots 플랫폼을 통해 복잡한 산업 문제 해결용 AI 모델 배포 계획",
+        "AI 모델의 산업 적용을 위한 협력 관계 구축"
+      ],
+      "ai_summary": "AI 모델을 산업용 솔루션으로 구현하기 위한 기업 간 협력 관계가 형성되었다.",
+      "ai_themes": [
+        "산업동향",
+        "기술발전"
+      ],
+      "published_at": "2026-03-25 17:46"
+    },
+    {
+      "post_id": "fb38dfafd80a435f42a8e1b1",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+      "content_ko": "OpenAI는 AI 악용 및 안전 위험을 탐지하기 위한 'Safety Bug Bounty' 프로그램을 공식 출시했습니다. 이 프로그램은 에이전트 취약점, 프롬프트 주입, 데이터 유출 등 주요 위험 요소를 대상으로 하며, AI 시스템의 안전성 강화를 위해 개발자들의 참여를 유도합니다. https://openai.com/blog/safety-bug-bounty-program",
+      "url": "https://openai.com/index/safety-bug-bounty",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "오픈AI, AI 남용 및 안전 위험 식별을 위한 보안 버그 보상 프로그램 출시",
+      "ai_bullets": [
+        "AI 악용 및 안전 위험을 탐지하기 위한 'Safety Bug Bounty' 프로그램 공식 출시",
+        "에이전트 취약점, 프롬프트 주입, 데이터 유출 등 주요 위험 요소 대상",
+        "AI 시스템의 안전성 강화를 위한 개발자 참여 유도"
+      ],
+      "ai_summary": "오픈AI가 AI 보안 취약점을 식별하기 위한 보안 버그 보상 프로그램을 발표했습니다.",
+      "ai_themes": [
+        "윤리/안전",
+        "정책/규제"
+      ],
+      "published_at": "2026-03-25 09:00"
+    },
+    {
+      "post_id": "2036489823792607273",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "I would like a single word for this phrase: \"throw it into the maw with every bit of context I can think of\". https://t.co/xwG9pgtEnM",
+      "content_ko": "이 문장에 하나의 단어로 요약해 주세요: 'throw it into the maw with every bit of context I can think of'. https://t.co/xwG9pgtEnM",
+      "url": "https://x.com/sama/status/2036489823792607273",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "문장 요약 요청 게시물",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-25 02:06"
+    },
+    {
+      "post_id": "2036488729230295399",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "More details here:\n\nhttps://t.co/OT0cPOCGO4",
+      "content_ko": "더 많은 정보는 다음과 같습니다: https://t.co/OT0cPOCGO4 [링크 내용] (https://t.co/OT0cPOCGO4) [제목] 오픈AI 기금 업데이트 [설명] 오픈AI 기금은 오픈AI 그룹에 지분을 보유하고 있으며, 현재 약 1300억 달러 가치를 가진 세계 최대 규모의 기부 기관 중 하나입니다. 2026년 3월 24일, 오픈AI 기금은 재구조화를 통해 중요한 자원에 접근할 수 있게 되었음을 발표했습니다. 오늘은 기금이 이러한 지원을 어떻게 활용하고 있는지 공유합니다. 우리의 사명은 인공 일반 지능(AI)이 인류 전체에 혜택을 주는 것을 보장하는 것입니다. 이는 다면적인 노력입니다. AI는 이미 사람들의 일, 학습, 의료 접근 방식을 바꾸고 있으며, 의학적 혁신 가속화, 과학적 발견 가속화, 의료 및 교육 분야의 개인화된 서비스, 창의성 및 발명에 대한 새로운 도구, 생산성 및 경제 성장 향상, 교통 시스템 등 공공 서비스 개선 등 엄청난 혜택을 제공할 수 있습니다. 이 잠재력을 믿고 오픈AI는 설립 이래 지속해 왔습니다. 하지만 인류를 위한 강력한 시스템을 구축하는 것은…",
+      "url": "https://x.com/sama/status/2036488729230295399",
+      "is_ai_trend": true,
+      "ai_confidence": 0.85,
+      "ai_title": "오픈AI 재구조화 후 기금 운용 현황 공개",
+      "ai_bullets": [
+        "오픈AI 재구조화로 기금이 약 1300억 달러 규모로 확대됨",
+        "오픈AI 기금은 인공 일반 지능(AI)을 통해 인류 전체에 혜택을 제공하는 것을 목표로 함",
+        "AI 기술이 의료, 교육, 창의성 분야에서 혁신적 변화를 일으킬 수 있음"
+      ],
+      "ai_summary": "오픈AI 기금의 재구조화 후 자금 규모와 AI 연구 목적 공개",
+      "ai_themes": [
+        "산업동향",
+        "정책/규제",
+        "기술발전"
+      ],
+      "published_at": "2026-03-25 02:02"
+    },
+    {
+      "post_id": "2036488680769241223",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "AI will help discover new science, such as cures for diseases, which is perhaps the most important way to increase quality of life long-term.\n\nAI will also present new threats to society that we have to address. No company can sufficiently mitigate these on their own; we will need a society-wide response to things like novel bio threats, a massive and fast change to the economy, extremely capable models causing complex emergent effects across society, and more.\n\nThese are the areas the OpenAI Foundation will initially focus on, and in my opinion are some of the most important ones for us to get right. The Foundation will spend at least $1 billion over the next year.\n\n@woj_zaremba, co-founder of OpenAI, will transition to Head of AI Resilience. I believe that shifting how the world thinks about safety to include a Resilience-style approach is critical, and I am extremely grateful to Wojciech for taking on this role.\n\nWojciech has been my cofounder for the last decade; anyone who knows him will understand what I mean when I say he is one of a kind. He has a lot of ideas about how we build a new kind of AI safety.\n\n@JacobTref is joining as Head of Life Sciences and Curing Diseases.\n\n@annaadeola, our VP of Global Impact, will transition to Head of AI for Civil Society and Philanthropy.\n\n@robert_kaiden is joining as Chief Financial Officer.\n\n@jeffarnold is joining as Director of Operations.",
+      "content_ko": "AI는 질병 치료법 등 새로운 과학 발견을 통해 장기적으로 삶의 질을 높이는 데 기여할 수 있습니다. 그러나 AI 기술이 사회에 미칠 수 있는 새로운 위협(예: 생물학적 위협, 경제 구조 변화, 매우 강력한 모델이 사회에 복잡한 영향을 미치는 등)을 해결하기 위해 기업만으로는 충분하지 않으며, 사회적 협력이 필요합니다. 이에 오픈AI 재단은 내년에 최소 10억 달러를 투자해 안전 및 윤리적 연구에 집중할 계획입니다. @woj_zaremba가 AI 회복력 담당 책임자로 이직하고, @jacobtref가 생명과학 및 질병 치료 분야를 주도하며, @annaadeola가 민간 사회 및 기부 분야를 책임지는 등 조직 구조 개편을 발표했습니다.",
+      "url": "https://x.com/sama/status/2036488680769241223",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "오픈AI 재단, AI 안전 및 사회적 영향 집중 투자 발표",
+      "ai_bullets": [
+        "오픈AI 재단은 AI 기술이 새로운 과학 발견(질병 치료법 등)에 기여할 수 있음을 강조",
+        "AI 기술이 사회에 미칠 수 있는 위협(생물학적 위협, 경제 변화 등) 대응을 위한 사회적 협력 필요성 제시",
+        "재단이 내년에 최소 10억 달러를 투자해 안전 및 윤리적 연구에 집중할 계획"
+      ],
+      "ai_summary": "오픈AI 재단이 AI 기술의 잠재력과 위협을 균형 있게 관리하기 위한 사회적 협력 방안을 발표했습니다.",
+      "ai_themes": [
+        "윤리/안전",
+        "정책/규제",
+        "산업동향"
+      ],
+      "published_at": "2026-03-25 02:01"
+    },
+    {
+      "post_id": "2036487306585268612",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "Software horror: litellm PyPI supply chain attack. \n\nSimple `pip install litellm` was enough to exfiltrate SSH keys, AWS/GCP/Azure creds, Kubernetes configs, git credentials, env vars (all your API keys), shell history, crypto wallets, SSL private keys, CI/CD secrets, database passwords.\n\nLiteLLM itself has 97 million downloads per month which is already terrible, but much worse, the contagion spreads to any project that depends on litellm. For example, if you did `pip install dspy` (which depended on litellm>=1.64.0), you'd also be pwnd. Same for any other large project that depended on litellm.\n\nAfaict the poisoned version was up for only less than ~1 hour. The attack had a bug which led to its discovery - Callum McMahon was using an MCP plugin inside Cursor that pulled in litellm as a transitive dependency. When litellm 1.82.8 installed, their machine ran out of RAM and crashed. So if the attacker didn't vibe code this attack it could have been undetected for many days or weeks.\n\nSupply chain attacks like this are basically the scariest thing imaginable in modern software. Every time you install any depedency you could be pulling in a poisoned package anywhere deep inside its entire depedency tree. This is especially risky with large projects that might have lots and lots of dependencies. The credentials that do get stolen in each attack can then be used to take over more accounts and compromise more packages.\n\nClassical software engineering would have you believe that dependencies are good (we're building pyramids from bricks), but imo this has to be re-evaluated, and it's why I've been so growingly averse to them, preferring to use LLMs to \"yoink\" functionality when it's simple enough and possible.",
+      "content_ko": "@karpathy가 LiteLLM 공급망 공격 사례를 공유하며, pip install litellm 명령어로 SSH 키, AWS/GCP/Azure 자격 증명, Kubernetes 구성, Git 자격 증명 등 민감 정보가 유출될 수 있음을 경고했습니다. 또한, LiteLLM 의존 라이브러리 사용 시 간접적으로 공격에 노출될 수 있으며, 공격이 1시간 이내 발견되었으나 오랜 시간 감지되지 않았을 수 있음을 설명했습니다.",
+      "url": "https://x.com/karpathy/status/2036487306585268612",
+      "is_ai_trend": true,
+      "ai_confidence": 0.7,
+      "ai_title": "LiteLLM 공급망 공격으로 인한 보안 위험 경고",
+      "ai_bullets": [
+        "LiteLLM 설치 시 SSH 키 및 클라우드 자격 증명 등 민감 정보 유출 위험",
+        "LiteLLM 의존 라이브러리 사용 시 간접적으로 공격에 노출될 수 있음",
+        "공격이 1시간 이내 발견되었으나, 오랜 시간 감지되지 않았을 수 있음"
+      ],
+      "ai_summary": "LiteLLM 공급망 공격으로 인해 민감 정보 유출 위험이 발생했으며, 의존 라이브러리 사용 시 보안 취약점이 확산될 수 있음.",
+      "ai_themes": [
+        "윤리/안전",
+        "오픈소스"
+      ],
+      "published_at": "2026-03-25 01:56"
+    }
+  ]
+}

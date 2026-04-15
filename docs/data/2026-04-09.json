@@ -1,41 +1,291 @@
 {
   "date": "2026-04-09",
-  "total": 2,
-  "ai_true": 1,
-  "ai_false": 1,
+  "total": 13,
+  "ai_true": 6,
+  "ai_false": 7,
   "source_counts": {
+    "Jaemyung_Lee": 2,
+    "Samsung Newsroom": 4,
     "msitminister": 1,
+    "SKT Newsroom": 3,
+    "OpenAI Blog": 2,
     "demishassabis": 1
   },
   "avg_confidence": 0.5,
   "top_themes": [
     [
-      "연구/논문",
-      1
+      "기술발전",
+      6
     ],
     [
-      "AGI",
+      "산업동향",
+      3
+    ],
+    [
+      "연구/논문",
+      2
+    ],
+    [
+      "정책/규제",
       1
     ]
   ],
   "posts": [
     {
-      "post_id": "2042082295377691017",
+      "post_id": "2042215546729717846",
       "platform": "twitter",
-      "account_handle": "msitminister",
-      "display_name": "배경훈",
-      "content": "<데이터를 다 써도, 연결은 계속됩니다>\n\n데이터를 다 쓰는 순간 지도도 안 되고, 카톡도 안 되는 경험, 한 번쯤 있으셨을 겁니다. 이제는 이런 불편을 줄이겠습니다.\n\n앞으로는 데이터를 모두 소진하더라도 기본적인 서비스는 계속 이용할 수 있도록 모든 LTE·5G 데이터 요금제를 개편합니다. 특히 무제한 요금제를 쓰지 않는 분들께는 체감할 수 있는 변화가 있을 것입니다. 이번 개편으로 약 717만 국민께서 연간 약 3,200억 원 수준의 통신비 절감 효과를 보게 됩니다.\n\n어르신들께는 음성과 문자를 더 편하게 쓰실 수 있도록 기본 제공을 확대했습니다. 약 140만 어르신께도 추가적인 통신비 절감 혜택이 돌아갑니다.\n\n또 LTE와 5G로 나뉘어 있던 요금제를 하나로 통합해 복잡했던 구조를 절반 수준으로 줄이고, 2만원대 5G 요금제도 새로 도입합니다. 특히 청년·어르신 등 연령별 혜택은 별도로 신청하지 않아도 자동으로 적용되도록 바꿨습니다.\n\n결국 중요한 것은 누구나 일상에서 연결될 수 있는 환경입니다. AI·디지털 시대에 데이터는 선택이 아니라 기본입니다.\n\n이제는 데이터가 끊기지 않는 환경을 만들겠습니다. 국민께서 체감하실 수 있도록 상반기 내 속도감 있게 추진하겠습니다.\n\n#데이터 #연결은계속 #통신비부담 #민생정책 #기본통신권 #MSIT #과기정통부",
-      "content_ko": "데이터를 다 써도, 연결은 계속됩니다. 데이터를 다 쓰는 순간 지도도 안 되고, 카톡도 안 되는 경험, 한 번쯤 있으셨을 겁니다. 이제는 이런 불편을 줄이겠습니다. 앞으로는 데이터를 모두 소진하더라도 기본적인 서비스는 계속 이용할 수 있도록 모든 LTE·5G 데이터 요금제를 개편합니다. 특히 무제한 요금제를 쓰지 않는 분들께는 체감할 수 있는 변화가 있을 것입니다. 이번 개편으로 약 717만 국민께서 연간 약 3,200억 원 수준의 통신비 절감 효과를 보게 됩니다. 어르신들께는 음성과 문자를 더 편하게 쓰실 수 있도록 기본 제공을 확대했습니다. 약 140만 어르신께도 추가적인 통신비 절감 혜택이 돌아갑니다. 또 LTE와 5G로 나뉘어 있던 요금제를 하나로 통합해 복잡했던 구조를 절반 수준으로 줄이고, 2만원대 5G 요금제도 새로 도입합니다. 특히 청년·어르신 등 연령별 혜택은 별도로 신청하지 않아도 자동으로 적용되도록 바꿨습니다. 결국 중요한 것은 누구나 일상에서 연결될 수 있는 환경입니다. AI·디지털 시대에 데이터는 선택이 아니라 기본입니다. 이제는 데이터가 끊기지 않는 환경을 만들겠습니다. 국민께서 체감하실 수 있도록 상반기 내 속도감 있게 추진하겠습니다. #데이터 #연결은계속 #통신비부담 #민생정책 #기본통신권 #MSIT #과기정통부",
-      "url": "https://x.com/msitminister/status/2042082295377691017",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "현재 경찰과 소방, 군이 총력을 다해 안전한 포획과 복귀를 위해 노력하고 있습니다. 부디 어떠한 인명 피해도 발생하지 않길 바라며, 늑구 역시 무사히 안전하게 돌아오길 기원합니다.\n\nhttps://t.co/YpwmM4y1Nt",
+      "content_ko": "현재 경찰과 소방, 군이 총력을 다해 안전한 포획과 복귀를 위해 노력하고 있습니다. 부디 어떠한 인명 피해도 발생하지 않길 바라며, 늑구 역시 무사히 안전하게 돌아오길 기원합니다. https://t.co/YpwmM4y1Nt",
+      "url": "https://x.com/Jaemyung_Lee/status/2042215546729717846",
       "is_ai_trend": false,
       "ai_confidence": 0.1,
       "ai_title": "",
       "ai_bullets": [],
       "ai_summary": "",
       "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-04-09 21:18"
+    },
+    {
+      "post_id": "2042165286842098018",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "이 정부 출범후 초국가범죄 강력대응으로 보이스피싱 등 스캠범죄가 대폭 감소했습니다.\n\n캄보디아 정부의 적극 협조와 강력한 소탕 의지에 감사드립니다. https://t.co/UFxB4xfsUb",
+      "content_ko": "이 정부 출범 후 초국가범죄 강력 대응으로 보이스피싱 등 스캠 범죄가 대폭 감소했습니다. 캄보디아 정부의 적극 협조와 강력한 소탕 의지에 감사드립니다. https://t.co/UFxB4xfsUb",
+      "url": "https://x.com/Jaemyung_Lee/status/2042165286842098018",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
         "정책/규제"
       ],
+      "published_at": "2026-04-09 17:58"
+    },
+    {
+      "post_id": "8e08f7de0572824735221461",
+      "platform": "rss",
+      "account_handle": "Samsung Newsroom",
+      "display_name": "삼성 뉴스룸",
+      "content": "2026 ‘삼성 명장’의 끊임없는 도전과 장인정신을 조명하는 영상 시리즈 두 번째 편 공개 첨단 기술이 우리 일상의 제품으로 탄생하기 위해서는 정교한 제조 과정이 필수적이다. 그 가운데 금형은 같은 형태의 부품을 정밀하게 대량 생산하는 제조의 핵심 공정이다. 제품의 품질과 생산 효율을 좌우하는 제조 경쟁력의 출발점이라 할 수 있다. 김주우 계측명장에 이어, 이번 편에서는 삼성 스마트폰 혁신의 […]",
+      "content_ko": "2026 ‘삼성 명장’의 끊임없는 도전과 장인정신을 조명하는 영상 시리즈 두 번째 편이 공개되었습니다. 첨단 기술이 우리 일상의 제품으로 탄생하기 위해서는 정교한 제조 과정이 필수적입니다. 그 가운데 금형은 같은 형태의 부품을 정밀하게 대량 생산하는 제조의 핵심 공정입니다. 제품의 품질과 생산 효율을 좌우하는 제조 경쟁력의 출발점이라 할 수 있습니다. 김주우 계측명장에 이어, 이번 편에서는 삼성 스마트폰 혁신의 [링크 내용]",
+      "url": "https://news.samsung.com/kr/%ec%98%81%ec%83%81-2026-%ec%82%bc%ec%84%b1-%eb%aa%85%ec%9e%a5-2%ed%8e%b8-%ed%92%88%ec%a7%88%ec%97%90-%ed%83%80%ed%98%91%ec%9d%80-%ec%97%86%eb%8b%a4-%ec%99%84%eb%b2%bd",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "삼성, 2026 명장 영상 시리즈 두 번째 편 공개",
+      "ai_bullets": [
+        "금형 제조 공정을 통해 제품 품질과 생산 효율을 강조",
+        "김주우 계측명장 이후 삼성 스마트폰 혁신 관련 내용 언급"
+      ],
+      "ai_summary": "삼성전자는 2026년 명장 영상 시리즈 두 번째 편을 통해 정교한 제조 과정을 소개했습니다.",
+      "ai_themes": [
+        "산업동향",
+        "기타"
+      ],
+      "published_at": "2026-04-09 17:00"
+    },
+    {
+      "post_id": "57726c4c43c61cda52fc98ae",
+      "platform": "rss",
+      "account_handle": "Samsung Newsroom",
+      "display_name": "삼성 뉴스룸",
+      "content": "누구나 ‘크리에이터’가 되는 시대가 열렸다. 모바일폰 하나로 고품질의 영상을 손쉽게 촬영할 수 있게 되면서 영상은 전문가만의 영역이 아닌, 우리 일상 속으로 들어왔다. 삼성전자는 고품질의 영상 편집을 가능케 하는 ‘APV(Advanced Professional Video) 코덱’을 독자 개발해 오픈소스로 공개했다. 그리고 이 기술을 지난 3월 출시한 ‘갤럭시 S26 울트라’에 최초 적용해 모바일 영상 제작의 새로운 기준을 제시했다. APV 코덱은 […]",
+      "content_ko": "누구나 ‘크리에이터’가 되는 시대가 열렸습니다. 모바일폰 하나로 고품질의 영상을 손쉽게 촬영할 수 있게 되면서 영상은 전문가만의 영역이 아닌, 우리 일상 속으로 들어왔습니다. 삼성전자는 고품질의 영상 편집을 가능케 하는 ‘APV(Advanced Professional Video) 코덱’을 독자 개발해 오픈소스로 공개했습니다. 그리고 이 기술을 지난 3월 출시한 ‘갤럭시 S23 울트라’에 최초 적용해 모바일 영상 제작의 새로운 기준을 제시했습니다. APV 코덱은 [링크 내용]",
+      "url": "https://news.samsung.com/kr/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ec%b4%ac%ec%98%81%ec%9d%84-%eb%84%98%ec%96%b4-%ed%8e%b8%ec%a7%91%ea%b9%8c%ec%a7%80-apv-%ec%bd%94%eb%8d%b1%ec%9d%b4-%ec%99%84%ec%84%b1%ed%95%9c",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "삼성, APV 코덱 기반 모바일 영상 제작 기술 공개",
+      "ai_bullets": [
+        "고품질 영상 편집을 위한 APV 코덱 독자 개발 및 오픈소스 공개",
+        "APV 코덱을 적용한 갤럭시 S26 울트라 출시 발표"
+      ],
+      "ai_summary": "삼성전자는 모바일 영상 제작 기준을 새롭게 제시하는 APV 코덱 기술을 공개했습니다.",
+      "ai_themes": [
+        "기술발전",
+        "오픈소스"
+      ],
+      "published_at": "2026-04-09 17:00"
+    },
+    {
+      "post_id": "b5dcbb945eddd8cf32957a50",
+      "platform": "rss",
+      "account_handle": "Samsung Newsroom",
+      "display_name": "삼성 뉴스룸",
+      "content": "독일 출신의 예술가이자 탐험가 마이클 나자르(Michael Najjar)는 사진과 디지털 구성 기법, 미래적 상상력을 한데 녹여 지구와 우주를 넘나드는 독보적인 작품 세계를 선보인다. 현대 미술가 최초로 2027년 우주 비행을 앞둔 ‘예비 우주비행사’이기도 한 그는 기술과 인류의 야망이 빚어낸 세상을 렌즈에 담으며, 우리 사회의 진보와 미래를 향한 질문을 던진다. 최근 삼성전자는 삼성 TV 전용 아트 구독 서비스인 […]",
+      "content_ko": "독일 출신의 예술가이자 탐험가 마이클 나자르(Michael Najjar)는 사진과 디지털 구성 기법, 미래적 상상력을 한데 녹여 지구와 우주를 넘나드는 독보적인 작품 세계를 선보입니다. 현대 미술가 최초로 2027년 우주 비행을 앞둔 ‘예비 우주비행사’이기도 한 그는 기술과 인류의 야망이 빚어낸 세상을 렌즈에 담으며, 우리 사회의 진보와 미래를 향한 질문을 던집니다. 최근 삼성전자는 삼성 TV 전용 아트 구독 서비스인 [링크 내용]",
+      "url": "https://news.samsung.com/kr/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ec%9d%b8%ea%b0%84%ec%9d%98-%ea%b2%bd%ed%97%98%ec%9c%bc%eb%a1%9c-%ec%9a%b0%ec%a3%bc%eb%a5%bc-%eb%b9%9a%ec%96%b4%eb%82%b4%eb%8b%a4-%eb%a7%88%ec%9d%b4%ed%81%b4-%eb%82%98-2",
+      "is_ai_trend": false,
+      "ai_confidence": 0.3,
+      "ai_title": "삼성, 예술가와 협업한 TV 아트 구독 서비스 선보임",
+      "ai_bullets": [
+        "독일 예술가 마이클 나자르와 협업한 아트 구독 서비스 소개",
+        "2027년 우주 비행사 자격을 갖춘 예술가의 작품 전시 언급"
+      ],
+      "ai_summary": "삼성전자는 예술가와 협업한 TV 아트 구독 서비스를 통해 창의적 기술 협업을 강조했습니다.",
+      "ai_themes": [
+        "산업동향",
+        "기타"
+      ],
+      "published_at": "2026-04-09 17:00"
+    },
+    {
+      "post_id": "2042082295377691017",
+      "platform": "twitter",
+      "account_handle": "msitminister",
+      "display_name": "배경훈",
+      "content": "<데이터를 다 써도, 연결은 계속됩니다>\n\n데이터를 다 쓰는 순간 지도도 안 되고, 카톡도 안 되는 경험, 한 번쯤 있으셨을 겁니다. 이제는 이런 불편을 줄이겠습니다.\n\n앞으로는 데이터를 모두 소진하더라도 기본적인 서비스는 계속 이용할 수 있도록 모든 LTE·5G 데이터 요금제를 개편합니다. 특히 무제한 요금제를 쓰지 않는 분들께는 체감할 수 있는 변화가 있을 것입니다. 이번 개편으로 약 717만 국민께서 연간 약 3,200억 원 수준의 통신비 절감 효과를 보게 됩니다.\n\n어르신들께는 음성과 문자를 더 편하게 쓰실 수 있도록 기본 제공을 확대했습니다. 약 140만 어르신께도 추가적인 통신비 절감 혜택이 돌아갑니다.\n\n또 LTE와 5G로 나뉘어 있던 요금제를 하나로 통합해 복잡했던 구조를 절반 수준으로 줄이고, 2만원대 5G 요금제도 새로 도입합니다. 특히 청년·어르신 등 연령별 혜택은 별도로 신청하지 않아도 자동으로 적용되도록 바꿨습니다.\n\n결국 중요한 것은 누구나 일상에서 연결될 수 있는 환경입니다. AI·디지털 시대에 데이터는 선택이 아니라 기본입니다.\n\n이제는 데이터가 끊기지 않는 환경을 만들겠습니다. 국민께서 체감하실 수 있도록 상반기 내 속도감 있게 추진하겠습니다.\n\n#데이터 #연결은계속 #통신비부담 #민생정책 #기본통신권 #MSIT #과기정통부",
+      "content_ko": "데이터를 다 써도, 연결은 계속됩니다. 데이터를 다 쓰는 순간 지도도 안 되고, 카톡도 안 되는 경험, 한 번쯤 있으셨을 겁니다. 이제는 이런 불편을 줄이겠습니다. 앞으로는 데이터를 모두 소진하더라도 기본적인 서비스는 계속 이용할 수 있도록 모든 LTE·5G 데이터 요금제를 개편합니다. 특히 무제한 요금제를 쓰지 않는 분들께는 체감할 수 있는 변화가 있을 것입니다. 이번 개편으로 약 717만 국민께서 연간 약 3,200억 원 수준의 통신비 절감 효과를 보게 됩니다. 어르신들께는 음성과 문자를 더 편하게 쓰실 수 있도록 기본 제공을 확대했습니다. 약 140만 어르신께도 추가적인 통신비 절감 혜택이 돌아갑니다. 또 LTE와 5G로 나뉘어 있던 요금제를 하나로 통합해 복잡했던 구조를 절반 수준으로 줄이고, 2만원대 5G 요금제도 새로 도입합니다. 특히 청년·어르신 등 연령별 혜택은 별도로 신청하지 않아도 자동으로 적용되도록 바꿨습니다. 결국 중요한 것은 누구나 일상에서 연결될 수 있는 환경입니다. AI·디지털 시대에 데이터는 선택이 아니라 기본입니다. 이제는 데이터가 끊기지 않는 환경을 만들겠습니다. 국민께서 체감하실 수 있도록 상반기 내 속도감 있게 추진하겠습니다.",
+      "url": "https://x.com/msitminister/status/2042082295377691017",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
       "published_at": "2026-04-09 12:28"
+    },
+    {
+      "post_id": "4f4bc92ad7065c020b0326e5",
+      "platform": "rss",
+      "account_handle": "SKT Newsroom",
+      "display_name": "SK텔레콤",
+      "content": "담대한 도전이 만든 신화, CDMA 30년… 대한민국 ICT 초석을 세우다",
+      "content_ko": "담대한 도전이 만든 신화, CDMA 30년… 대한민국 ICT 초석을 세우다. 30년간 GDP 내 정보통신산업 비중 2.2% → 13.1%… 경제 성장 견인. IT 수출 412억 → 2,643억 달러로 30년 간 6.4배 늘어. ‘가보지 않은 길’ 선택한 역사… ICT 추격자에서 선도자로 전환. ‘통신 고속도로’ 넘어 다음 30년 경쟁력을 위한 ‘AI 고속도로’ 구축 추진. [링크 내용]을 제외한 본문 내용입니다.",
+      "url": "https://news.sktelecom.com/223709",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "CDMA 30년, 통신 고속도로에서 AI 고속도로로 전환",
+      "ai_bullets": [
+        "30년간 정보통신산업 비중 2.2% → 13.1%로 확대, 경제 성장 견인",
+        "IT 수출 412억 → 2,643억 달러로 6.4배 성장",
+        "정부와 협력해 AI 기반 통신 인프라 구축 전략 발표"
+      ],
+      "ai_summary": "SK텔레콤이 CDMA 기술로 시작한 통신 산업의 30년 역사를 조명하며, AI 기반 통신 인프라 구축 전략을 발표했습니다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-04-09 10:48"
+    },
+    {
+      "post_id": "f473a3c015ac4c8bd8307d91",
+      "platform": "rss",
+      "account_handle": "SKT Newsroom",
+      "display_name": "SK텔레콤",
+      "content": "<p>– 30년간 GDP 내 정보통신산업 비중 2.2% → 13.1%… 경제 성장 견인 – IT 수출 412억 → 2,643억 달러로 30년 간 6.4배 늘어 – ‘가보지 않은 길’ 선택한 역사… ICT</p>\n<p>The post <a href=\"https://news.sktelecom.com/223649\">담대한 도전이 만든 신화, CDMA 30년… 대한민국 ICT 초석을 세우다</a> first appeared on <a href=\"https://news.sktelecom.com\">SK텔레콤 뉴스룸</a>.</p>",
+      "content_ko": "5,190억 개의 파라미터. SK텔레콤 정예팀은 정부의 독자 AI 파운데이션 모델 프로젝트(이하 독파모)를 통해 초거대 모델 A.X K1을 개발했다. 지난 1월 SKT 정예팀은 프로젝트 1단계 평가를 통과했으며, 오는 8월 2단계 평가를 앞두고 A.X K1의 후속 모델 개발에 속도를 내고 있다. [링크 내용]을 제외한 본문 내용입니다.",
+      "url": "https://news.sktelecom.com/223649",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "SK텔레콤, 독파모 프로젝트로 초거대 AI 모델 A.X K1 개발",
+      "ai_bullets": [
+        "5,190억 파라미터로 구성된 초거대 AI 모델 A.X K1 개발 중",
+        "정부 독자 AI 파운데이션 모델 프로젝트 1단계 평가 통과",
+        "8월 2단계 평가를 앞두고 후속 모델 개발 가속화"
+      ],
+      "ai_summary": "SK텔레콤이 정부의 독자 AI 파운데이션 모델 프로젝트를 통해 초거대 AI 모델 A.X K1을 개발 중이며, 2단계 평가 준비 중입니다.",
+      "ai_themes": [
+        "기술발전",
+        "정책/규제"
+      ],
+      "published_at": "2026-04-09 10:00"
+    },
+    {
+      "post_id": "95384e9055c3b715bb5cf50e",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
+      "content_ko": "CyberAgent가 ChatGPT Enterprise와 Codex를 활용해 AI 도입을 안전하게 확대하고, 광고, 미디어, 게임 분야에서 품질 향상과 의사결정 속도를 높이는 방법을 소개합니다. https://openai.com/blog/cyberagent-ai-adoption",
+      "url": "https://openai.com/index/cyberagent",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "CyberAgent, ChatGPT 및 Codex로 AI 도입 가속화",
+      "ai_bullets": [
+        "CyberAgent가 ChatGPT Enterprise 및 Codex 도입",
+        "광고·미디어·게임 분야 AI 도입 확대 및 의사결정 가속화"
+      ],
+      "ai_summary": "AI 기술을 산업별로 확장 적용하는 사례 공유",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-04-09 09:00"
+    },
+    {
+      "post_id": "5ec5e2af0c3d99d3b3815a30",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on Instagram, and win IPL match tickets.",
+      "content_ko": "오픈AI Full Fan Mode 콘테스트 공식 이용 약관을 확인해보세요. 참가 자격, 신청 절차, 심사 기준, 상품 정보 등을 확인할 수 있습니다. 인스타그램을 통해 작품을 제출하고 IPL 경기 티켓을 경품으로 받을 수 있습니다.",
+      "url": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "오픈AI: Full Fan Mode 콘테스트 참여 방법 안내",
+      "ai_bullets": [
+        "오픈AI Full Fan Mode 콘테스트 공식 이용 약관 확인",
+        "참가 자격 및 신청 절차, 심사 기준, 상품 정보 안내",
+        "인스타그램을 통해 작품 제출 및 IPL 경기 티켓 경품 가능"
+      ],
+      "ai_summary": "오픈AI가 진행하는 Full Fan Mode 콘테스트의 참여 방법과 상품 정보를 공개했습니다.",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-04-09 09:00"
+    },
+    {
+      "post_id": "183423bf01f9186db87f8c0e",
+      "platform": "rss",
+      "account_handle": "SKT Newsroom",
+      "display_name": "SK텔레콤",
+      "content": "<p>5,190억 개의 파라미터. SK텔레콤 정예팀은 정부의 독자 AI 파운데이션 모델 프로젝트(이하 독파모)를 통해 초거대 모델 A.X K1을 개발했다. 지난 1월 SKT 정예팀은 프로젝트 1단계 평가를 통과했으며, 오는 8월 2단계 평가를</p>\n<p>The post <a href=\"https://news.sktelecom.com/223630\">초거대 AI 모델 개발 현장, 독파모 연구 인턴들의 이야기</a> first appeared on <a href=\"https://news.sktelecom.com\">SK텔레콤 뉴스룸</a>.</p>",
+      "content_ko": "5,190억 개의 파라미터. SK텔레콤 정예팀은 정부의 독자 AI 파운데이션 모델 프로젝트(이하 독파모)를 통해 초거대 모델 A.X K1을 개발했다. 지난 1월 SKT 정예팀은 프로젝트 1단계 평가를 통과했으며, 오는 8월 2단계 평가를 앞두고 A.X K1의 후속 모델 개발에 속도를 내고 있다. 이 가운데 SKT는 지난 2월 연구개발 인턴을 모집해 모델 학습과 최적화, 데이터 구축 등 다양한 연구를 수행하고 있다. [링크 내용]을 제외한 본문 내용입니다.",
+      "url": "https://news.sktelecom.com/223630",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "독파모 인턴 연구팀, A.X K1 후속 모델 개발 활동",
+      "ai_bullets": [
+        "VLM 학습 속도 개선 및 멀티모달 데이터셋 구축 연구 중",
+        "Omnimodal Foundation Model팀 인턴 2명 참여",
+        "국가 AI 경쟁력 강화를 위한 기술 개발 활동"
+      ],
+      "ai_summary": "SK텔레콤 독파모 프로젝트 인턴 연구팀이 A.X K1 후속 모델 개발을 위해 VLM 최적화 및 데이터셋 구축 연구에 참여하고 있습니다.",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문"
+      ],
+      "published_at": "2026-04-09 08:29"
+    },
+    {
+      "post_id": "eaf993d039f059d55cc9c6e1",
+      "platform": "rss",
+      "account_handle": "Samsung Newsroom",
+      "display_name": "삼성 뉴스룸",
+      "content": "AI 기술의 발전과 함께 사용자 경험도 빠르게 진화하고 있다. 이제 AI는 단순히 명령을 수행하는 단계를 넘어, 사용자의 의도와 맥락을 이해하고 스스로 실행까지 이어가는 ‘에이전틱 AI(Agentic AI)’ 시대로 접어들고 있다. 삼성전자는 이러한 변화의 최전선에 ‘빅스비(Bixby)’를 내세웠다. 지난 31일 글로벌 정식 출시를 통해 빅스비는 단순한 음성 비서를 넘어, 디바이스를 깊이 이해하고 이를 통해 사용자를 대신해 복잡한 작업을 […]",
+      "content_ko": "AI 기술의 발전과 함께 사용자 경험도 빠르게 진화하고 있다. 이제 AI는 단순히 명령을 수행하는 단계를 넘어, 사용자의 의도와 맥락을 이해하고 스스로 실행까지 이어가는 ‘에이전틱 AI(Agentic AI)’ 시대로 접어들고 있다. 삼성전자는 이러한 변화의 최전선에 ‘빅스비(Bixby)’를 내세웠다. 지난 31일 글로벌 정식 출시를 통해 빅스비는 단순한 음성 비서를 넘어, 디바이스를 깊이 이해하고 이를 통해 사용자를 대신해 복잡한 작업을 자동으로 수행할 수 있는 기능을 제공한다.",
+      "url": "https://news.samsung.com/kr/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ec%83%88%eb%a1%9c%ec%9b%8c%ec%a7%84-%eb%b9%85%ec%8a%a4%eb%b9%84-%ec%82%bc%ec%84%b1-%ec%a0%9c%ed%92%88-%ec%82%ac%ec%9a%a9%ed%95%a0-%eb%95%8c-%ea%b0%80%ec%9e%a5",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "삼성전자, 에이전틱 AI 시대 진입을 선언",
+      "ai_bullets": [
+        "AI 기술 발전으로 사용자 경험의 진화가 가속화되고 있다.",
+        "삼성전자는 빅스비를 통해 에이전틱 AI(Agentic AI) 기술을 선보인다.",
+        "빅스비는 사용자의 의도와 맥락을 이해해 복잡한 작업을 자동으로 수행한다."
+      ],
+      "ai_summary": "삼성전자는 AI 기술 발전을 통해 에이전틱 AI 시대를 선언하고 빅스비를 중심으로 혁신을 추진한다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-04-09 06:00"
     },
     {
       "post_id": "2041928454887686305",
@@ -43,20 +293,19 @@
       "account_handle": "demishassabis",
       "display_name": "데미스 하사비스",
       "content": "Great to chat with fellow Londoner @HarryStebbings about the path to AGI and how we’re using AI today to accelerate science &amp; medicine. Appreciated our discussion on the incredible talent &amp; potential for deep tech here in the UK. Thanks for the kind words and for having me on! https://t.co/DuF9cK0tlX",
-      "content_ko": "런던 출신의 Harry Stebbings와 AGI 달성 경로 및 AI가 오늘날 과학과 의학을 가속화하는 방식에 대해 대화했다. UK의 깊은 기술 분야 인재와 잠재력에 대해 언급하며, 대화에 대한 칭찬과 참여에 감사했다. 감사의 말과 함께 참여해 주셔서 감사드린다. https://t.co/DuF9cK0tlX",
+      "content_ko": "런던 출신 @HarryStebbings과 AGI 달성 경로 및 AI 기술이 과학과 의학 분야에서 어떻게 혁신을 가속화하는지에 대해 흥미로운 대화를 나누게 되어 기쁩니다. 영국에서 딥테크 분야의 뛰어난 인재와 기술 잠재력에 대해 논의해 주셔서 감사합니다. 친절한 말씀과 인터뷰 기회 감사드립니다! https://t.co/DuF9cK0tlX",
       "url": "https://x.com/demishassabis/status/2041928454887686305",
       "is_ai_trend": true,
       "ai_confidence": 0.9,
-      "ai_title": "Demis Hassabis(데미스 하사비스): AGI 달성과 AI가 과학·의학 가속화에 대한 대화 발표",
+      "ai_title": "데미스 하사비스: AGI 달성 경로와 AI의 과학·의학 기여 논의",
       "ai_bullets": [
-        "데미스 하사비스는 런던 출신의 Harry Stebbings와 AGI 달성 경로 및 AI가 과학과 의학을 가속화하는 방식에 대해 논의했다.",
-        "UK의 깊은 기술 분야 인재와 잠재력에 대해 언급하며, 대화에 대한 칭찬과 참여에 감사했다.",
-        "AI가 과학과 의학 분야에서의 잠재력을 강조하며, AGI 달성에 대한 토론을 진행했다."
+        "AGI 달성 경로와 AI 기술의 과학·의학 분야 활용 방안에 대해 논의",
+        "영국의 딥테크 인재 및 기술 잠재력에 대한 긍정적 평가 언급"
       ],
-      "ai_summary": "데미스 하사비스는 AGI 달성 경로와 AI가 과학 및 의학 분야에서의 역할에 대해 Harry Stebbings와의 대화를 발표하며, UK의 깊은 기술 분야 인재와 잠재력을 언급했다.",
+      "ai_summary": "AI 기술이 과학 및 의학 분야에서 혁신을 가속화하는 방안에 대한 토론 내용",
       "ai_themes": [
-        "연구/논문",
-        "AGI"
+        "기술발전",
+        "연구/논문"
       ],
       "published_at": "2026-04-09 02:17"
     }

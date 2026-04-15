@@ -1,33 +1,37 @@
 {
   "date": "2026-04-08",
-  "total": 4,
-  "ai_true": 4,
-  "ai_false": 0,
+  "total": 19,
+  "ai_true": 10,
+  "ai_false": 9,
   "source_counts": {
-    "msitminister": 2,
+    "msitminister": 3,
+    "OpenAI Blog": 2,
+    "Jaemyung_Lee": 4,
+    "Samsung Newsroom": 5,
     "demishassabis": 1,
+    "SKT Newsroom": 3,
     "sama": 1
   },
-  "avg_confidence": 0.96,
+  "avg_confidence": 0.49,
   "top_themes": [
     [
       "기술발전",
-      3
+      8
     ],
     [
       "산업동향",
-      3
-    ],
-    [
-      "로봇공학",
-      1
+      7
     ],
     [
       "정책/규제",
-      1
+      2
     ],
     [
-      "투자/시장",
+      "연구/논문",
+      2
+    ],
+    [
+      "윤리/안전",
       1
     ]
   ],
@@ -38,25 +42,208 @@
       "account_handle": "msitminister",
       "display_name": "배경훈",
       "content": "<생성형 AI를 넘어 '몸'을 가진 AI, 피지컬 AI>  \n\nSBS에 출연하여, 인공지능이 컴퓨터 화면을 넘어 현실 세계에서 직접 행동하는 '피지컬 AI(Physical AI)' 시대의 도래와 이에 대응하는 대한민국 정부의 로드맵을 설명하였습니다. \n\n피지컬 AI에 대한 이해도를 높일 수 있는 영상이니 시간 되실때 봐주시면 좋겠습니다.\n\n기존 생성형 AI가 정보를 제공하는 수준이었다면, 이제는 로봇이나 공장 등 기계가 스스로 상황을 판단하고 현실 세계에서 물리적인 작업을 수행하는 '행동하는 AI'로 진화하고 있습니다.\n\n우리나라는 세계 최고 수준의 제조업 기반을 갖추고 있어 피지컬 AI 분야에서 '퍼스트 무버'가 될 수 있는 잠재력이 큽니다. \n\n이를 실현하기 위한 3대 핵심 전략을 다음과 같이 제안하였습니다.\n\n    1. 데이터 파이프라인 구축: 장인들의 노하우(암묵지)를 디지털화하고, 올해 64개 공정을 시작으로 양질의 데이터를 확보\n    2. 핵심 기술 확보: 사람의 섬세한 작업을 모사할 수 있는 로봇 기술과 가상 환경에서 학습하는 '월드 모델' 개발 등 3년 내 독자적인 기술을 확보\n    3. 지역 혁신 생태계 조성: 앵커 기업과 거점 대학, 정부 협의체를 유기적으로 연결하여 지속 가능한 혁신 생태계 조성\n\n한국이 가진 제조 경쟁력 위에 인공지능 기술을 결합하여, 글로벌 기술 패권 경쟁 속에서 대한민국의 미래 100년을 선도할 수 있는 기반을 마련하겠습니다.\n\n#피지컬AI #SBS #AI #데이터 #제조\n\nhttps://t.co/6xWnmjzgPm - @YouTube",
-      "content_ko": "생성형 AI를 넘어 '몸'을 가진 AI, 피지컬 AI. SBS에 출연하여, 인공지능이 컴퓨터 화면을 넘어 현실 세계에서 직접 행동하는 '피지컬 AI(Physical AI)' 시대의 도래와 이에 대응하는 대한민국 정부의 로드맵을 설명하였습니다. 피지컬 AI에 대한 이해도를 높일 수 있는 영상이니 시간 되실때 봐주시면 좋겠습니다. 기존 생성형 AI가 정보를 제공하는 수준이었다면, 이제는 로봇이나 공장 등 기계가 스스로 상황을 판단하고 현실 세계에서 물리적인 작업을 수행하는 '행동하는 AI'로 진화하고 있습니다. 우리나라는 세계 최고 수준의 제조업 기반을 갖추고 있어 피지컬 AI 분야에서 '퍼스트 무버'가 될 수 있는 잠재력이 큽니다. 이를 실현하기 위한 3대 핵심 전략을 다음과 같이 제안하였습니다. 1. 데이터 파이프라인 구축: 장인들의 노하우(암묵지)를 디지털화하고, 올해 64개 공정을 시작으로 양질의 데이터를 확보 2. 핵심 기술 확보: 사람의 섬세한 작업을 모사할 수 있는 로봇 기술과 가상 환경에서 학습하는 '월드 모델' 개발 등 3년 내 독자적인 기술을 확보 3. 지역 혁신 생태계 조성: 앵커 기업과 거점 대학, 정부 협의체를 유기적으로 연결하여 지속 가능한 혁신 생태계 조성 한국이 가진 제조 경쟁력 위에 인공지능 기술을 결합하여, 글로벌 기술 패권 경쟁 속에서 대한민국의 미래 100년을 선도할 수 있는 기반을 마련하겠습니다. #피지컬AI #SBS #AI #데이터 #제조 https://t.co/6xWnmjzgPm - @YouTube",
+      "content_ko": "생성형 AI를 넘어 '몸'을 가진 AI, 피지컬 AI 시대의 도래와 대한민국 정부의 로드맵을 설명했습니다. 기존 생성형 AI가 정보 제공 수준이었다면, 이제는 로봇이나 공장 등 기계가 스스로 상황을 판단하고 현실 세계에서 물리적인 작업을 수행하는 '행동하는 AI'로 진화하고 있습니다. 우리나라는 세계 최고 수준의 제조업 기반을 갖추고 있어 피지컬 AI 분야에서 '퍼스트 무버'가 될 수 있는 잠재력이 큽니다. 이를 실현하기 위한 3대 핵심 전략으로 데이터 파이프라인 구축, 핵심 기술 확보, 지역 혁신 생태계 조성을 제안했습니다. 한국이 가진 제조 경쟁력 위에 인공지능 기술을 결합하여, 글로벌 기술 패권 경쟁 속에서 대한민국의 미래 100년을 선도할 수 있는 기반을 마련하겠습니다. #피지컬AI #SBS #AI #데이터 #제조 https://t.co/6xWnmjzgPm",
       "url": "https://x.com/msitminister/status/2041888178957930707",
       "is_ai_trend": true,
       "ai_confidence": 0.95,
-      "ai_title": "과기정통부: '피지컬 AI' 시대 도래, 제조업 기반으로 글로벌 경쟁력 확보",
+      "ai_title": "정부, 피지컬 AI로 글로벌 기술 경쟁 선도 전략 발표",
       "ai_bullets": [
-        "피지컬 AI(Physical AI)는 기존 생성형 AI와 달리 현실 세계에서 물리적인 작업을 수행하는 '행동하는 AI'로 진화하고 있다.",
-        "한국은 세계 최고 수준의 제조업 기반을 바탕으로 피지컬 AI 분야에서 '퍼스트 무버'가 될 잠재력이 크다고 강조했다.",
-        "정부는 데이터 파이프라인 구축, 핵심 기술 확보, 지역 혁신 생태계 조성의 3대 전략을 통해 피지컬 AI 로드맵을 추진한다.",
-        "2023년 64개 공정부터 시작해 장인들의 노하우를 디지털화한 데이터 확보를 계획하고 있다.",
-        "3년 내 로봇 기술과 '월드 모델' 개발을 통해 사람의 섬세한 작업을 모사하는 기술을 확보할 예정이다."
+        "피지컬 AI(Physical AI) 시대 도래에 대응해 3대 핵심 전략 제시",
+        "데이터 파이프라인 구축, 핵심 기술 확보, 지역 혁신 생태계 조성을 주요 과제로 선정",
+        "제조업 기반과 AI 기술 결합해 글로벌 기술 패권 경쟁에서 선도적 기반 마련"
       ],
-      "ai_summary": "과기정통부는 피지컬 AI 시대가 도래함에 따라 제조업 기반을 활용한 글로벌 경쟁력 확보를 위한 로드맵을 발표했다. 이는 기존 생성형 AI를 넘어 현실 세계에서 물리적인 작업을 수행하는 AI로의 진화를 의미한다.",
+      "ai_summary": "정부는 피지컬 AI 분야에서 글로벌 경쟁력을 확보하기 위한 3대 전략을 발표했습니다.",
       "ai_themes": [
+        "정책/규제",
         "기술발전",
-        "산업동향",
-        "로봇공학"
+        "산업동향"
       ],
       "published_at": "2026-04-08 23:37"
+    },
+    {
+      "post_id": "7bcd68b5d5cb7fb5256e9f26",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
+      "content_ko": "오픈AI가 기업용 AI 도입 가속화에 따른 다음 단계 전략을 발표했습니다. Frontier, ChatGPT Enterprise, Codex, 그리고 기업 내 AI 에이전트 기술을 통해 산업 전반에 걸친 AI 활용 확대를 추진할 계획입니다.",
+      "url": "https://openai.com/index/next-phase-of-enterprise-ai",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "오픈AI: 기업용 AI 전략 확대 발표",
+      "ai_bullets": [
+        "기업용 AI 도입 가속화에 따른 다음 단계 전략 공개",
+        "Frontier, ChatGPT Enterprise, Codex, 기업 내 AI 에이전트 기술 강화",
+        "산업 전반에 걸친 AI 활용 확대 전망"
+      ],
+      "ai_summary": "오픈AI가 기업용 AI 전략을 확대하며, 주요 기술과 산업 적용 전망을 발표했습니다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-04-08 23:00"
+    },
+    {
+      "post_id": "2041849444765986988",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "&lt;국민과 직접 대화, 정말 중요합니다. 이훈기 의원님 잘 하십니다. 정치는 국민이 합니다.&gt;\n\n이훈기표 '불금정치' 100만보의 기적…눈물 닦고 현안 풀어 https://t.co/6BnYEEp450",
+      "content_ko": "국민과 직접 대화, 정말 중요합니다. 이훈기 의원님 잘 하십니다. 정치는 국민이 합니다. 이훈기표 '불금정치' 10,000만보의 기적…눈물 닦고 현안 풀어 https://t.co/6BnYEEp450",
+      "url": "https://x.com/Jaemyung_Lee/status/2041849444765986988",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "정책/규제"
+      ],
+      "published_at": "2026-04-08 21:03"
+    },
+    {
+      "post_id": "2041838839594115226",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "고유가로 어려움을 겪고 계신 화물운송과 물류업계 종사자분들을 찾아 뵈었습니다. 오랜 시간 우리 경제를 지탱해 오신 여러분의 노고가 얼마나 큰지 다시금 느낄 수 있었습니다.\n\n정부의 신속한 대응으로 시행된 석유 최고가격제와 유가 연동보조금이 피해를 줄이는 데 도움이 되었다고 말씀해 주셨지만, 여전히 부담이 크다는 점을 잘 알고 있습니다.\n\n화물차주 소상공인 대출 지원 제도 개선, 안전운임제 확대 검토, 수도권 유휴지 활용 물류 인프라 확충, 전기·수소 화물차 전환 지원 등 건의해 주신 사항은 즉시 검토하도록 지시했습니다.\n\n어려운 시기일수록 현장의 목소리에 더욱 세심히 귀 기울이겠습니다. 오늘도 각자의 자리에서 최선을 다하고 계신 국민 여러분께 깊은 감사와 존경의 마음을 전합니다.",
+      "content_ko": "고유가로 어려움을 겪고 계신 화물운송과 물류업계 종사자분들을 찾아 뵈었습니다. 오랜 시간 우리 경제를 지탱해 오신 여러분의 노고가 얼마나 큰지 다시금 느낄 수 있었습니다. 정부의 신속한 대응으로 시행된 석유 최고가격제와 유가 연동보조금이 피해를 줄이는 데 도움이 되었다고 말씀해 주셨지만, 여전히 부담이 크다는 점을 잘 알고 있습니다. 화물차주 소상공인 대출 지원 제도 개선, 안전운임제 확대 검토, 수도권 유휴지 활용 물류 인프라 확충, 전기·수소 화물차 전환 지원 등 건의해 주신 사항은 즉시 검토하도록 지시했습니다. 어려운 시기일수록 현장의 목소리에 더욱 세심히 귀 기울이겠습니다. 오늘도 각자의 자리에서 최선을 다하고 계신 국민 여러분께 깊은 감사와 존경의 마음을 전합니다.",
+      "url": "https://x.com/Jaemyung_Lee/status/2041838839594115226",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "정책/규제"
+      ],
+      "published_at": "2026-04-08 20:21"
+    },
+    {
+      "post_id": "866f216ea702959d47da08a8",
+      "platform": "rss",
+      "account_handle": "Samsung Newsroom",
+      "display_name": "삼성 뉴스룸",
+      "content": "삼성전자가 8일부터 ‘갤럭시 XR’ 대상으로 ‘안드로이드 XR’ 운영체제(OS) 소프트웨어 업데이트를 진행한다. ‘안드로이드 XR’은 삼성전자와 구글이 공동 설계한 확장현실(XR) 전용 플랫폼이다. 이번 업데이트를 통해 안드로이드 기기를 위한 기업용 관리·제어 시스템인 ‘안드로이드 엔터프라이즈(Android Enterprise)’ XR버전이 ‘갤럭시 XR’에 최초로 적용된다. 이 시스템을 통해 기업은 복잡한 설정 없이 기기를 쉽고 빠르게 세팅할 수 있는 안드로이드 제로터치(Android Zero-touch) 등록, QR코드 […]",
+      "content_ko": "삼성전자가 8일부터 ‘갤럭시 XR’ 대상으로 ‘안드로이드 XR’ 운영체제(OS) 소프트웨어 업데이트를 진행한다. ‘안드로이드 XR’은 삼성전자와 구글이 공동 설계한 확장현실(XR) 전용 플랫폼이다. 이번 업데이트를 통해 안드로이드 기기를 위한 기업용 관리·제어 시스템인 ‘안드로이드 엔터프라이즈(Android Enterprise)’ XR버전이 ‘갤럭시 XR’에 최초로 적용된다. 이 시스템을 통해 기업은 복잡한 설정 없이 기기를 쉽고 빠르게 세팅할 수 있는 안드로이드 제로터치(Android Zero-touch) 등록, QR코드 기반의 간편한 설정 기능 등을 제공한다.",
+      "url": "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ea%b0%a4%eb%9f%ad%ec%8b%9c-xr-%eb%8c%80%ec%83%81-%ec%95%88%eb%93%9c%eb%a1%9c%ec%9d%b4%eb%93%9c-xr-os-%ec%97%85%eb%8d%b0%ec%9d%b4%ed%8a%b8",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "삼성전자, 안드로이드 XR OS 업데이트 진행",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-04-08 19:24"
+    },
+    {
+      "post_id": "2041820481662198189",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "작년 가을 부산에서 열린 정상회담 이후 약 반년 만에 이시바 시게루 전 일본 총리님을 다시 뵙게 되어 매우 뜻깊습니다. 바쁜 일정에도 한국을 찾아주신 총리님께 깊이 감사드립니다.\n\n급변하는 국제정세 속 한국과 일본이 힘을 모아 공동의 과제에 대응하는 것이 그 어느 때보다 중요합니다. 총리님과 저는 양국 간 상호 이해와 신뢰를 바탕으로 소통과 협력을 한층 강화해야 한다는 데 의견을 같이했습니다.\n\n일본 정치 원로로서 폭넓은 식견과 풍부한 경륜을 지니신 총리님께서 앞으로도 한일 간 우호 증진을 위해 애써주시길 기대합니다. 양국 관계가 보다 성숙하고 안정적으로 발전할 수 있도록 저 역시 최선을 다하겠습니다.\n\n@shigeruishiba 昨秋、釜山で開催された首脳会談から約半年ぶりに、日本の石破茂前総理とお会いし、大変有意義な時間を過ごすことができました。ご多忙の中、韓国にお越しいただいたことに心より感謝申し上げます。\n\n急激に変動する国際情勢の中、韓国と日本が力を合わせて共通の課題に対応することは、かつてなく重要です。総理と私は、両国が相互理解と信頼を基盤に、意思疎通と協力を一層強化していかなければならないという認識で一致しました。\n\n日本の政界の重鎮であり、高いご見識と豊かなご経験をお持ちの総理には、これからも両国間の友好促進に向けて変わらぬお力添えを頂戴できれば幸いです。両国の関係がより成熟かつ安定的に発展できるよう、私としても最善を尽くしてまいります。",
+      "content_ko": "작년 가을 부산에서 열린 정상회담 이후 약 반년 만에 이시바 시게루 전 일본 총리님을 다시 뵙게 되어 매우 뜻깊습니다. 바쁜 일정에도 한국을 찾아주신 총리님께 깊이 감사드립니다. 급변하는 국제정세 속 한국과 일본이 힘을 모아 공동의 과제에 대응하는 것이 그 어느 때보다 중요합니다. 총리님과 저는 양국 간 상호 이해와 신뢰를 바탕으로 소통과 협력을 한층 강화해야 한다는 데 의견을 같이했습니다. 일본 정치 원로로서 폭넓은 식견과 풍부한 경륜을 지니신 총리님께서 앞으로도 한일 간 우호 증진을 위해 애써주시길 기대합니다. 양국 관계가 보다 성숙하고 안정적으로 발전할 수 있도록 저 역시 최선을 다하겠습니다.",
+      "url": "https://x.com/Jaemyung_Lee/status/2041820481662198189",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-04-08 19:08"
+    },
+    {
+      "post_id": "2041796290368172223",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "&lt;노동 대가는 온당하게 지급해야지요?&gt;\n\n‘공짜노동’ 포괄임금 오남용 뿌리 뽑는다… 9일부터 ‘지도 지침’ 시행 https://t.co/OeXzZ7vPOI",
+      "content_ko": "노동 대가는 온당하게 지급해야지요? '공짜노동' 포괄임금 오남용 뿌리 뽑는다… 9일부터 '지도 지침' 시행 https://t.co/OeXzZ7vPOI",
+      "url": "https://x.com/Jaemyung_Lee/status/2041796290368172223",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-04-08 17:32"
+    },
+    {
+      "post_id": "8167a3a3412c0ad7e779dfe5",
+      "platform": "rss",
+      "account_handle": "Samsung Newsroom",
+      "display_name": "삼성 뉴스룸",
+      "content": "삼성전자의 2026년형 OLED·더 프레임 프로 TV와 사운드바 등 14개 모델이 독일 ‘TUV 라인란드(TÜV Rheinland)’로부터 ‘탄소저감(Product Carbon Reduction)’인증을 받았다. 또 삼성전자는 마이크로 RGB TV와 미니LED TV 등 20개 모델에서 ‘탄소 발자국’ 인증을 획득하며 프리미엄 라인업 전반에서 탄소 중립을 향한 노력을 지속하고 있다. 인증기관인 TUV 라인란드는 TV제품의 제조, 운송, 사용, 폐기에 이르는 전 생애주기에 걸쳐 발생하는 온실가스 […]",
+      "content_ko": "삼성전자의 2026년형 OLED·더 프레임 프로 TV와 사운드바 등 14개 모델이 독일 ‘TUV 라인란드(TÜV Rheinland)’로부터 ‘탄소저감(Product Carbon Reduction)’ 인증을 받았다. 또 삼성전자는 마이크로 RGB TV와 미니LED TV 등 20개 모델에서 ‘탄소 발자국’ 인증을 획득하며 프리미엄 라인업 전반에서 탄소 중립을 향한 노력을 지속하고 있다. 인증기관인 TUV 라인란드는 TV제품의 제조, 운송, 사용, 폐기에 이르는 전 생애주기에 걸쳐 발생하는 온실가스 배출량을 평가해 인증을 부여했다.",
+      "url": "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-2026%eb%85%84%ed%98%95-tv%c2%b7%ec%82%ac%ec%9a%b4%eb%93%9c%eb%b0%94-%e7%8d%a8-tuv-%eb%9d%bc%ec%9d%b8%eb%9e%80%eb%93%9c-%ed%83%84%ec%86%8c%ec%a0%80%ea%b0%90",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "삼성전자, 탄소저감 인증 획득",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-04-08 17:00"
+    },
+    {
+      "post_id": "cfc5a1ce97dcb4a8c20b00c6",
+      "platform": "rss",
+      "account_handle": "Samsung Newsroom",
+      "display_name": "삼성 뉴스룸",
+      "content": "삼성전자가 독일 베를린의 ‘자이스 천체투영관(Zeiss Grand Planetarium)’에 LED 사이니지를 설치해 전시장 입구를 우주를 향한 역동적인 디지털 관문으로 탈바꿈시켰다. 이번에 설치된 디스플레이는 매년 이곳을 찾는 수십만 명의 방문객에게 압도적인 몰입감을 선사하며, 천체투영관의 새로운 관람 문화를 상징하는 랜드마크로 자리 잡았다. 유럽 내 최고 수준의 시설을 갖춘 자이스 천체투영관은 천문학과 우주 탐사 관련 전시· 이벤트를 선보이는 과학 커뮤니케이션의 […]",
+      "content_ko": "삼성전자가 독일 베를린의 '자이스 천체투영관(Zeiss Grand Planetarium)'에 LED 사이니지를 설치해 전시장 입구를 우주를 향한 역동적인 디지털 관문으로 탈바꿈시켰다. 이번에 설치된 디스플레이는 매년 이곳을 찾는 수십만 명의 방문객에게 압도적인 몰입감을 선사하며, 천체투영관의 새로운 관람 문화를 상징하는 랜드마크로 자리 잡았다. 유럽 내 최고 수준의 시설을 갖춘 자이스 천체투영관은 천문학과 우주 탐사 관련 전시·이벤트를 선보이는 과학 커뮤니케이션의 공간이다.",
+      "url": "https://news.samsung.com/kr/%ec%98%81%ec%83%81-%ec%9a%b0%ec%a3%bc%eb%a1%9c-%ea%b0%80%eb%8a%94-%eb%94%94%ec%a7%80%ed%84%b8-%ea%b4%80%eb%ac%b8-%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%eb%8f%85%ec%9d%bc-%ec%9e%90%ec%9d%b4",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-04-08 17:00"
+    },
+    {
+      "post_id": "20f9cf44850aa08c172c35dd",
+      "platform": "rss",
+      "account_handle": "Samsung Newsroom",
+      "display_name": "삼성 뉴스룸",
+      "content": "2026 ‘삼성 명장’의 끊임없는 도전과 장인정신을 조명하는 영상 시리즈 첫 번째 편 공개 인공지능(AI) 시대의 가속화로 글로벌 반도체 시장의 패권 경쟁이 어느 때보다 치열한 가운데, 삼성전자가 핵심 경쟁력의 원천인 ‘기술 인재’에 주목했다. 삼성전자는 최고 수준의 숙련 기술과 노하우를 보유한 ‘삼성 명장’의 끊임없는 도전과 노력의 기록들을 담은 영상 콘텐츠 시리즈 3편을 4월 8일부터 순차적으로 공개한다. 이번 […]",
+      "content_ko": "2026년 '삼성 명장'의 끊임없는 도전과 장인정신을 조명하는 영상 시리즈 첫 번째 편이 공개되었다. 인공지능(AI) 시대의 가속화로 글로벌 반도체 시장의 패권 경쟁이 어느 때보다 치열한 가운데, 삼성전자가 핵심 경쟁력의 원천인 '기술 인재'에 주목했다. 삼성전자는 최고 수준의 숙련 기술과 노하우를 보유한 '삼성 명장'의 끊임없는 도전과 노력의 기록들을 담은 영상 콘텐츠 시리즈 3편을 4월 8일부터 순차적으로 공개한다.",
+      "url": "https://news.samsung.com/kr/%ec%98%81%ec%83%81-2026-%ec%82%bc%ec%84%b1-%eb%aa%85%ec%9e%a5-1%ed%8e%b8-%ec%a0%95%ed%99%95%ed%95%9c-%ea%b3%84%ec%b8%a1%ec%9c%bc%eb%a1%9c-hbm-%eb%b6%88%eb%9f%89%eb%a5%a0-%ec%a0%9c%eb%a1%9c",
+      "is_ai_trend": false,
+      "ai_confidence": 0.3,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "산업동향"
+      ],
+      "published_at": "2026-04-08 17:00"
+    },
+    {
+      "post_id": "487938567ca08f298d45379c",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
+      "content_ko": "오픈AI가 아동 온라인 보호를 위한 AI 개발 가이드라인을 발표했습니다. 안전 장치, 연령에 맞는 디자인, 협업을 통한 안전 강화를 중심으로 소비자 보호와 디지털 역량 향상을 목표로 삼고 있습니다.",
+      "url": "https://openai.com/index/introducing-child-safety-blueprint",
+      "is_ai_trend": true,
+      "ai_confidence": 0.7,
+      "ai_title": "오픈AI: 아동 안전을 위한 AI 개발 가이드라인 발표",
+      "ai_bullets": [
+        "아동 온라인 보호를 위한 AI 개발 가이드라인 공개",
+        "안전 장치, 연령에 맞는 디자인, 협업을 통한 안전 강화",
+        "소비자 보호 및 디지털 역량 향상 목표 설정"
+      ],
+      "ai_summary": "오픈AI가 아동을 위한 AI 개발 안전 가이드라인을 발표하며 윤리적 개발 방향을 제시했습니다.",
+      "ai_themes": [
+        "윤리/안전"
+      ],
+      "published_at": "2026-04-08 14:00"
     },
     {
       "post_id": "2041726678595203293",
@@ -64,23 +251,46 @@
       "account_handle": "msitminister",
       "display_name": "배경훈",
       "content": "<International Business Times(IBT), 올해 혁신을 이끌 한국의 10대 AI 기업>\n\nIBT 기사에 따르면, 한국은 대기업·스타트업·정부 지원을 결합해 글로벌 AI 경쟁에서 핵심 플레이어로 부상하고 있습니다. 특히 삼성전자와 SK하이닉스를 중심으로 한 반도체(HBM) 경쟁력을 바탕으로 AI 인프라와 공급망에서 중요한 역할을 수행하고 있으며, 업스테이지, 리벨리온, 네이버 등 다양한 기업들이 LLM, AI 칩, 헬스케어, 플랫폼 등 전 영역에서 동시 성장하고 있다고 보도하고 있습니다.\n\n또한 범용 AI 경쟁을 넘어서, 한국어와 서비스 중심의 실용적 AI, 그리고 agentic AI에 집중하는 차별화 전략을 추진하고 있습니다. 인재 부족, 전력 문제, 지정학적 리스크 등 과제가 존재하지만, 한국은 AI 혁신 국가로 전환하고 있으며 글로벌 영향력도 지속적으로 확대될 것으로 전망됩니다.\n\n지금 우리가 마주하고 있는 변화는 단순한 기업 성장 그 이상의 의미를 지니고 있습니다.\n\n우선 AI 경쟁의 기준이 ‘누가 더 뛰어난 모델을 만드느냐’에서 ‘누가 산업 현장에 더 빠르게 적용해 실질적인 성과를 만들어내느냐’로 이동하고 있습니다. 또한 AI는 더 이상 소프트웨어만의 경쟁이 아니라, 반도체·데이터·규제·산업 현장이 결합된 ‘국가 총력전’의 양상으로 전환되고 있습니다.\n\n이제 대한민국은 AI를 ‘잘 활용하는 나라’를 넘어, AI로 산업을 근본적으로 변화시키는 나라로 도약하고 있습니다. 앞으로는 세계적인 기업들이 한국을 테스트베드로 삼고, 우리 기업들이 글로벌 표준을 만들어가는 구조로 발전해 나갈 것입니다.\n\n대한민국이 산업과 긴밀히 연결된 AI 강국으로서 확실한 차별적 경쟁력을 갖출 수 있도록, 흔들림 없이 정책적 노력을 이어가겠습니다.\n\nhttps://t.co/8xnqkqXpui\n\n#AI #삼성전자 #sk하이닉스 #업스테이지 #리벨리온 #네이버 #LLM #AI칩 #AgenticAI",
-      "content_ko": "국제비즈니스타임스(IBT) 기사에 따르면, 한국은 대기업, 스타트업, 정부 지원을 결합해 글로벌 AI 경쟁에서 핵심 플레이어로 부상하고 있습니다. 특히 삼성전자와 SK하이닉스를 중심으로 한 반도체(HBM) 경쟁력을 바탕으로 AI 인프라와 공급망에서 중요한 역할을 수행하고 있으며, 업스테이지, 리벨리온, 네이버 등 다양한 기업들이 LLM, AI 칩, 헬스케어, 플랫폼 등 전 영역에서 동시 성장하고 있다고 보도하고 있습니다. 또한 범용 AI 경쟁을 넘어서, 한국어와 서비스 중심의 실용적 AI, 그리고 agentic AI에 집중하는 차별화 전략을 추진하고 있습니다. 인재 부족, 전력 문제, 지정학적 리스크 등 과제가 존재하지만, 한국은 AI 혁신 국가로 전환하고 있으며 글로벌 영향력도 지속적으로 확대될 것으로 전망됩니다. https://t.co/8xnqkqXpui",
+      "content_ko": "IBT 기사에 따르면 한국은 대기업·스타트업·정부 지원을 결합해 글로벌 AI 경쟁에서 핵심 플레이어로 부상하고 있습니다. 삼성전자와 SK하이닉스 중심의 반도체(HBM) 경쟁력을 바탕으로 AI 인프라와 공급망에서 중요한 역할을 수행하고 있으며, 업스테이지, 리벨리온, 네이버 등 다양한 기업들이 LLM, AI 칩, 헬스케어, 플랫폼 등 전 영역에서 동시 성장하고 있다고 보도하고 있습니다. 범용 AI 경쟁을 넘어서, 한국어와 서비스 중심의 실용적 AI, 그리고 agentic AI에 집중하는 차별화 전략을 추진하고 있습니다. AI 경쟁의 기준이 '누가 더 뛰어난 모델을 만드느냐'에서 '누가 산업 현장에 더 빠르게 적용해 실질적인 성과를 만들어내느냐'로 이동하고 있으며, AI는 반도체·데이터·규제·산업 현장이 결합된 '국가 총력전'의 양상으로 전환되고 있습니다. https://t.co/8xnqkqXpui",
       "url": "https://x.com/msitminister/status/2041726678595203293",
       "is_ai_trend": true,
-      "ai_confidence": 1.0,
-      "ai_title": "한국, AI 기업과 정부 지원으로 글로벌 경쟁력 확대",
+      "ai_confidence": 0.95,
+      "ai_title": "한국, 글로벌 AI 경쟁에서 10대 기업 중심으로 성장 가속화",
       "ai_bullets": [
-        "삼성전자, SK하이닉스 중심의 반도체(HBM) 경쟁력으로 AI 인프라에서 중요한 역할 수행",
-        "업스테이지, 리벨리온, 네이버 등 LLM, AI 칩, 헬스케어 등 전 영역에서 성장",
-        "agentic AI 전략 추진, 한국어와 서비스 중심의 실용적 AI 개발"
+        "삼성전자·SK하이닉스 중심 반도체 경쟁력으로 AI 인프라 및 공급망 주도",
+        "업스테이지·리벨리온·네이버 등 다양한 기업이 LLM·AI 칩·헬스케어 등 전 영역 성장",
+        "실용적 AI와 agentic AI에 집중하는 차별화 전략 추진"
       ],
-      "ai_summary": "한국은 대기업과 정부 지원을 결합해 글로벌 AI 경쟁에서 핵심 플레이어로 부상하고 있으며, agentic AI 전략을 통해 차별화된 경쟁력을 확보하고 있다.",
+      "ai_summary": "한국이 글로벌 AI 경쟁에서 대기업·스타트업·정부 지원을 결합해 주도적 역할을 하고 있음.",
       "ai_themes": [
         "산업동향",
-        "정책/규제",
+        "기술발전",
         "투자/시장"
       ],
       "published_at": "2026-04-08 12:55"
+    },
+    {
+      "post_id": "2041717202064437470",
+      "platform": "twitter",
+      "account_handle": "msitminister",
+      "display_name": "배경훈",
+      "content": "<세계적인 연구자는 왜 한국을 선택했을까요>\n\n이제 세계적인 연구자들이 한국을 선택하고 있습니다.\n\n최근 전 세계 생명과학계의 주목을 받고 있는 서울대학교 마틴 슈타이네거(Martin Steinegger) 교수님의 인터뷰를 소개드립니다. 마틴 교수님은 구글 딥마인드의 ‘알파폴드2’ 논문에 참여한 유일한 외부저자인 세계적인 석학입니다.\n\n그가 한국을 선택한 이유는 분명합니다. 저는 그 답이 ‘기초연구를 믿어주는 환경’에 있다고 생각합니다.\n\n연구자가 스스로 질문을 던지고, 오랜 시간 답을 찾아갈 수 있도록 묵묵히 지원하는 환경. 이러한 환경 속에서 연구자는 가장 창의적인 성과를 만들어낼 수 있습니다.\n\n결국 중요한 것은 기초연구입니다. 미래 혁신은 여기서 시작됩니다.\n\n이제는 연구자가 마음껏 도전할 수 있는 나라, 실패를 감당할 수 있는 나라가 경쟁력을 갖습니다.\n\n세계적인 연구자들이 한국에서 연구하고, 우리 젊은 연구자들과 함께 성장하는 생태계를 만들겠습니다. 대한민국을 세계 연구자들이 모이는 나라로 만들어가겠습니다.\n\nDistinguished scholars from around the world are increasingly choosing Korea.\n\nI am pleased to share an interview with Professor Martin Steinegger of Seoul National University, a globally renowned figure who is currently drawing significant attention in the life sciences community. Professor Steinegger was the only external author to contribute to Google DeepMind’s AlphaFold2 paper—an achievement that underscores his standing as a leading authority in the field.\n\nHis decision to come to Korea is no coincidence. In my view, it reflects the presence of a research environment that places deep trust in the value of fundamental science.\n\nIt is an environment where researchers are empowered to pose their own questions and are steadfastly supported as they pursue answers over the long term. Within such a setting, truly original and transformative discoveries can take shape.\n\nAt its core, the foundation of future innovation is basic research. This is where breakthroughs begin.\n\nNations that enable researchers to explore boldly—and that are resilient enough to embrace failure as an integral part of progress—will define the next era of global competitiveness.\n\nWe are committed to fostering an ecosystem where world-class researchers choose Korea, and where they collaborate and grow alongside our next generation of scientists. Our goal is clear: to establish Korea as a premier global destination for research excellence.\n\nhttps://t.co/vI8aDFOLMB",
+      "content_ko": "세계적인 연구자들이 한국을 선택하고 있다고 보도하며, 서울대학교 마틴 슈타이네거 교수의 인터뷰를 소개했습니다. 마틴 교수는 구글 딥마인드의 '알파폴드2' 논문에 참여한 유일한 외부저자로, 한국을 선택한 이유는 '기초연구를 믿어주는 환경'이라고 설명했습니다. 연구자가 스스로 질문을 던지고 오랜 시간 답을 찾아갈 수 있도록 지원하는 환경이 창의적인 성과를 가능하게 한다고 강조했습니다. 기초연구는 미래 혁신의 출발점이며, 실패를 감당할 수 있는 환경이 경쟁력을 형성한다고 밝혔습니다. https://t.co/vI8aDFOLMB",
+      "url": "https://x.com/msitminister/status/2041717202064437470",
+      "is_ai_trend": true,
+      "ai_confidence": 0.75,
+      "ai_title": "세계적 연구자, 한국 기초연구 지원 환경에 주목",
+      "ai_bullets": [
+        "서울대학교 마틴 슈타이네거 교수, 알파폴드2 논문 참여자로 주목받음",
+        "한국의 기초연구 지원 환경이 세계적 연구자 유치에 기여",
+        "연구자에게 자유로운 탐구와 실패 허용이 혁신 기반이 됨"
+      ],
+      "ai_summary": "한국의 기초연구 지원 환경이 세계적 연구자 유치에 긍정적 영향을 미치고 있음.",
+      "ai_themes": [
+        "연구/논문",
+        "정책/규제"
+      ],
+      "published_at": "2026-04-08 12:18"
     },
     {
       "post_id": "2041681474580021536",
@@ -88,16 +298,16 @@
       "account_handle": "demishassabis",
       "display_name": "데미스 하사비스",
       "content": "Thanks for the great conversation @cleoabram (and some competitive Jenga)! Really enjoyed talking about all the amazing ways AI is helping to advance science &amp; the incredible future it will enable! https://t.co/LQiYEeDhiH",
-      "content_ko": "cleoabram과의 대화(그리고 경쟁적인 Jenga 게임)에 감사드립니다. AI가 과학 발전에 기여하는 방식과 미래에 가능하게 될 놀라운 가능성에 대해 이야기하는 것을 정말 즐겼습니다. https://t.co/LQiYEeDhiH",
+      "content_ko": "cleoabram(@cleoabram)과의 흥미로운 대화에 감사드립니다(그리고 경쟁적인 제네جا 게임도 즐겁게 했습니다!). AI가 과학 발전을 이끌고, 앞으로 기술이 가능하게 할 미래에 대해 정말 즐겁게 논의할 수 있었습니다. https://t.co/LQiYEeDhiH",
       "url": "https://x.com/demishassabis/status/2041681474580021536",
       "is_ai_trend": true,
-      "ai_confidence": 0.95,
-      "ai_title": "AI가 과학 발전에 기여하는 방식에 대한 대화 공유",
+      "ai_confidence": 0.9,
+      "ai_title": "데미스 하사비스: AI가 과학 발전에 기여하는 방식 논의",
       "ai_bullets": [
-        "AI가 과학 발전에 기여하는 다양한 방식에 대해 논의했다.",
-        "AI가 미래에 가능하게 될 놀라운 가능성에 대해 언급했다."
+        "AI 기술이 과학 분야에서 혁신을 이끌고 미래 기술 발전 가능성을 논의",
+        "AI의 과학 기여도와 관련된 대화에 감사 표명"
       ],
-      "ai_summary": "Demis Hassabis는 AI가 과학 발전에 기여하는 방식과 미래 가능성에 대해 언급한 대화를 공유했다.",
+      "ai_summary": "AI 기술이 과학 분야에서 중요한 역할을 수행하는 방식에 대한 토론 내용",
       "ai_themes": [
         "기술발전",
         "연구/논문"
@@ -105,26 +315,113 @@
       "published_at": "2026-04-08 09:56"
     },
     {
+      "post_id": "0fb9d1e9077b3402d3e49215",
+      "platform": "rss",
+      "account_handle": "SKT Newsroom",
+      "display_name": "SK텔레콤",
+      "content": "SKT, AI 통합 관제 시스템으로 벚꽃 축제 안정적 통신 서비스 지원",
+      "content_ko": "SK텔레콤(대표이사 CEO 정재헌)은 7일까지 이어진 벚꽃 축제에서 AI 기반 코어 네트워크 관제 시스템을 적용해 안정적인 통신 서비스를 제공했다고 밝혔다. 석촌호수, 여의도 등 주요 지역에서 진행된 축제는 AI를 활용한 선제적 대응 체계로 대규모 인파 속에서도 통신 장애 없이 서비스를 운영했다. 지난 주말에만 44.9TB의 모바일 데이터가 사용되었으며, 이는 이전 주말 대비 1.5배 수준이다. 트래픽이 가장 많았던 날은 토요일인 4일로, 석촌호수 15.91TB, 여의도 7.3TB에 달했다. [링크 내용]",
+      "url": "https://news.sktelecom.com/223620",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "SKT, AI 통합 관제 시스템으로 벚꽃 축제 안정적 통신 서비스 지원",
+      "ai_bullets": [
+        "AI 기반 통합 관제 시스템 '스파이더'로 네트워크 안정성 및 효율성 강화",
+        "석촌호수·여의도 축제 지역에서 44.9TB의 모바일 데이터 사용 기록",
+        "20대 방문객이 데이터 사용량 29%로 가장 많아"
+      ],
+      "ai_summary": "SKT가 AI 기반 통합 관제 시스템을 통해 대규모 축제 현장의 통신 안정성 확보에 성공했다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-04-08 09:11"
+    },
+    {
+      "post_id": "b73297cc989a1d36ceaa1277",
+      "platform": "rss",
+      "account_handle": "SKT Newsroom",
+      "display_name": "SK텔레콤",
+      "content": "<p>– 석촌호수∙여의도 축제 지역에서 지난 주말에만 총 44.9TB 기록 – 방문객 수는 50대 이상이 31%, 데이터 사용량은 20대가 29%로 가장 많아 – AI 기반 통합 관제 시스템 ‘스파이더’로 네트워크 안정성</p>\n<p>The post <a href=\"https://news.sktelecom.com/223596\">SKT, AI 통합 관제 시스템으로 벚꽃 축제 안정적 통신 서비스 지원</a> first appeared on <a href=\"https://news.sktelecom.com\">SK텔레콤 뉴스룸</a>.</p>",
+      "content_ko": "SK텔레콤은 AI 기반 통합 관제 시스템 '스파이더'를 통해 벚꽃 축제 현장의 네트워크 안정성 및 효율성을 강화했다. 석촌호수·여의도 축제 지역에서 지난 주말에만 총 44.9TB의 모바일 데이터가 사용되었으며, 이는 이전 주말 대비 1.5배 수준이다. 20대 방문객이 데이터 사용량 29%로 가장 많았고, 트래픽이 가장 많았던 날은 토요일인 4일로, 석촌호수 15.91TB, 여의도 7.3TB에 달했다. [링크 내용]",
+      "url": "https://news.sktelecom.com/223596",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "AI 기반 통합 관제 시스템 '스파이더'로 벚꽃 축제 통신 안정성 확보",
+      "ai_bullets": [
+        "AI 기반 통합 관제 시스템 '스파이더'로 네트워크 안정성 및 효율성 강화",
+        "44.9TB의 모바일 데이터 사용량 기록, 20대 방문객 데이터 사용량 29%",
+        "AI를 활용한 선제적 대응 체계로 통신 장애 방지 성공"
+      ],
+      "ai_summary": "SKT, AI 기반 관제 시스템으로 대규모 축제 현장 통신 안정성 확보",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-04-08 09:06"
+    },
+    {
+      "post_id": "2d7acdb7a2426c42a6d40d4d",
+      "platform": "rss",
+      "account_handle": "SKT Newsroom",
+      "display_name": "SK텔레콤",
+      "content": "<p>누구나 운동, 식단 등 건강 관리를 결심하고 며칠을 넘기지 못한 경험이 있을 것이다. 건강 관리에서 가장 중요한 것은 시작이 아니라 지속이다. 꾸준히 이어가기 위해서는 내 상태를 꼼꼼히 기록하고 관리하는 습관이</p>\n<p>The post <a href=\"https://news.sktelecom.com/223565\">내 손 안의 헬스케어, 바쁜 하루에도 나를 챙기는 헬스케어 앱 4선</a> first appeared on <a href=\"https://news.sktelecom.com\">SK텔레콤 뉴스룸</a>.</p>",
+      "content_ko": "SK텔레콤은 바쁜 일상 속에서도 건강 관리를 지속할 수 있도록 AI 기반 헬스케어 앱 4선을 소개했다. 운동 앱 '번핏', 식단 관리 앱 '인아웃', 정신건강 앱 '닥터리슨', AI 비서 '에이닷'이 각 분야에서 개인의 건강 데이터를 기록하고 분석해 맞춤형 조언을 제공한다. 기록을 쌓고 패턴을 분석해 주는 앱이 건강 관리 지속성 촉진에 기여하고 있다. [링크 내용]",
+      "url": "https://news.sktelecom.com/223565",
+      "is_ai_trend": true,
+      "ai_confidence": 0.85,
+      "ai_title": "AI 비서 '에이닷'을 활용한 헬스케어 앱 4선 소개",
+      "ai_bullets": [
+        "AI 비서 '에이닷'이 건강 데이터 분석 및 개선 방향 제공",
+        "운동 앱 '번핏', 식단 관리 앱 '인아웃', 정신건강 앱 '닥터리슨' 등 헬스케어 앱 선정",
+        "AI 기반 앱이 건강 관리 지속성 촉진에 기여"
+      ],
+      "ai_summary": "SKT, AI 기반 헬스케어 앱을 통해 건강 관리 지속성 지원",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-04-08 08:29"
+    },
+    {
       "post_id": "2041658719839383945",
       "platform": "twitter",
       "account_handle": "sama",
       "display_name": "샘 올트먼",
       "content": "To celebrate 3 million weekly codex users, we are resetting usage limits.\n\nWe will do this every million users up to 10 million.\n\nHappy building!",
-      "content_ko": "300만 명의 주간 Codex 사용자 달성을 기념하여 사용량 제한을 재설정합니다. 1000만 명까지 사용자 수가 증가할 때마다 사용량 제한을 재설정할 계획입니다. 건설에 즐거움을 느끼세요!",
+      "content_ko": "코덱스 사용자 수가 주간 300만 명을 달성한 것을 기념해 사용량 제한을 재설정합니다. 1000만 사용자까지 매 100만 사용자당 제한을 재조정할 예정입니다. 행복한 개발을 기원합니다!",
       "url": "https://x.com/sama/status/2041658719839383945",
       "is_ai_trend": true,
-      "ai_confidence": 0.95,
-      "ai_title": "OpenAI: Codex 사용량 제한 조정 및 확장 계획 발표",
+      "ai_confidence": 1.0,
+      "ai_title": "오픈AI: 코덱스 사용자 300만 달성 기념 사용량 제한 재설정",
       "ai_bullets": [
-        "300만 명의 주간 Codex 사용자 달성 기념으로 사용량 제한 재설정",
-        "1000만 명까지 사용자 수 증가 시마다 사용량 제한 재설정 계획"
+        "코덱스 사용자 수 300만 달성 기념으로 사용량 제한을 재설정합니다.",
+        "1000만 사용자까지 매 100만 사용자당 제한을 재조정할 예정입니다."
       ],
-      "ai_summary": "OpenAI는 Codex 사용량 제한을 300만 명 달성 기념으로 재설정하고, 1000만 명까지 매 단계마다 조정할 계획이라고 발표했다.",
+      "ai_summary": "코덱스 사용자 수 300만 달성 기념으로 사용량 제한을 재설정합니다.",
       "ai_themes": [
-        "기술발전",
-        "산업동향"
+        "산업동향",
+        "기술발전"
       ],
       "published_at": "2026-04-08 08:25"
+    },
+    {
+      "post_id": "71d31218d3d2ef6104ce28dd",
+      "platform": "rss",
+      "account_handle": "Samsung Newsroom",
+      "display_name": "삼성 뉴스룸",
+      "content": "삼성전자가 스웨덴 · 노르웨이 · 덴마크 · 핀란드 4개국에서 ‘가장 오래 사용 중인 삼성 TV’를 찾는 특별한 캠페인을 4월 6일부터 26일까지 진행중이다. 이번 캠페인은 삼성 TV의 50여 년 혁신과 글로벌 TV 시장 20년 연속 1위 기록을 기념하기 위해 기획됐다. 참여는 현재까지 사용 중인 가장 오래된 삼성 TV 사진을 제출하는 방식으로 진행되며, 이를 통해 삼성 TV의 […]",
+      "content_ko": "삼성전자가 스웨덴, 노르웨이, 덴마크, 핀란드 4개국에서 '가장 오래 사용 중인 삼성 TV'를 찾는 특별한 캠페인을 4월 6일부터 26일까지 진행 중이다. 이번 캠페인은 삼성 TV의 50여 년 혁신과 글로벌 TV 시장 20년 연속 1위 기록을 기념하기 위해 기획됐다. 참여는 현재까지 사용 중인 가장 오래된 삼성 TV 사진을 제출하는 방식으로 진행되며, 이를 통해 삼성 TV의 역사와 기술 발전을 기념한다.",
+      "url": "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%eb%b6%81%ec%9c%a0%eb%9f%bd%ec%84%9c-%ea%b0%80%ec%9e%a5-%ec%98%a4%eb%9e%98%eb%90%9c-%ec%82%bc%ec%84%b1-tv-%ec%b0%be%eb%8a%94-%ec%ba%a0%ed%8e%98",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-04-08 03:36"
     }
   ]
 }

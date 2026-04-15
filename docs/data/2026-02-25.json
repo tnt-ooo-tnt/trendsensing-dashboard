@@ -1,0 +1,106 @@
+{
+  "date": "2026-02-25",
+  "total": 3,
+  "ai_true": 3,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1,
+    "karpathy": 2
+  },
+  "avg_confidence": 0.9,
+  "top_themes": [
+    [
+      "기술발전",
+      3
+    ],
+    [
+      "산업동향",
+      2
+    ],
+    [
+      "연구/논문",
+      1
+    ],
+    [
+      "투자/시장",
+      1
+    ],
+    [
+      "생성형AI",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2026478474681262576",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "Impressive inference speed from Inception Labs’ diffusion LLMs. Diffusion LLMs are a fascinating alternative to conventional autoregressive LLMs. Well done @StefanoErmon and team! https://t.co/w4w5QZpyp6",
+      "content_ko": "Inception Labs의 확산형 LLM이 놀라운 추론 속도를 보여줬습니다. 확산형 LLM은 전통적 자동회귀형 LLM 대안으로 매우 흥미로운 기술입니다. @StefanoErmon과 팀의 기술 개발에 박수를 보내고 싶습니다. https://t.co/w4w5QZpyp6",
+      "url": "https://x.com/AndrewYNg/status/2026478474681262576",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "Inception Labs, 확산형 LLM 기술 성능 강조",
+      "ai_bullets": [
+        "Inception Labs의 확산형 LLM이 높은 추론 속도를 보여줘 주목받음",
+        "확산형 LLM이 전통적 자동회귀형 LLM 대안으로 주목받고 있음",
+        "Stefano Ermon 팀의 기술 개발에 대한 칭찬 포함"
+      ],
+      "ai_summary": "Inception Labs의 확산형 LLM 기술이 높은 추론 속도로 주목받고 있으며, 전통적 자동회귀형 LLM 대안으로 평가받고 있음.",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문"
+      ],
+      "published_at": "2026-02-25 11:04"
+    },
+    {
+      "post_id": "2026452488434651264",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "With the coming tsunami of demand for tokens, there are significant opportunities to orchestrate the underlying memory+compute *just right* for LLMs.\n\nThe fundamental and non-obvious constraint is that due to the chip fabrication process, you get two completely distinct pools of memory (of different physical implementations too): 1) on-chip SRAM that is immediately next to the compute units that is incredibly fast but of very of low capacity, and 2) off-chip DRAM which has extremely high capacity, but the contents of which you can only suck through a long straw. On top of this, there are many details of the architecture (e.g. systolic arrays), numerics, etc.\n\nThe design of the optimal physical substrate and then the orchestration of memory+compute across the top volume workflows of LLMs (inference prefill/decode, training/finetuning, etc.) with the best throughput/latency/$ is probably today's most interesting intellectual puzzle with the highest rewards (\\cite 4.6T of NVDA). All of it to get many tokens, fast and cheap. Arguably, the workflow that may matter the most (inference decode *and* over long token contexts in tight agentic loops) is the one hardest to achieve simultaneously by the ~both camps of what exists today (HBM-first NVIDIA adjacent and SRAM-first Cerebras adjacent). Anyway the MatX team is A++ grade so it's my pleasure to have a small involvement and congratulations on the raise!",
+      "content_ko": "토큰 처리 수요의 급증으로 인해 LLM의 메모리 및 컴퓨팅 자원 관리 최적화 기회가 생겼습니다. 칩 제조 공정상 SRAM과 DRAM이 완전히 다른 물리적 구현을 가지며, SRAM은 빠르지만 용량이 제한적이고 DRAM은 용량이 크지만 데이터 전송 속도가 낮습니다. 최적의 물리적 기반 설계와 LLM의 주요 워크플로우(추론, 훈련 등)에 대한 메모리/컴퓨팅 자원 관리 전략이 핵심 기술 경쟁 포인트로 부상했으며, 이는 빠르고 저비용으로 많은 토큰 처리를 가능하게 하는 핵심 과제입니다.",
+      "url": "https://x.com/karpathy/status/2026452488434651264",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "LLM 성능 최적화를 위한 메모리/컴퓨팅 아키텍처 혁신",
+      "ai_bullets": [
+        "LLM 처리를 위한 최적의 물리적 기반 설계가 핵심 기술 경쟁 포인트",
+        "SRAM과 DRAM의 물리적 구조 차이로 인한 메모리 관리 전략 중요성",
+        "NVDA의 4.6T 규모 토큰 처리 성능 달성에 대한 기술적 도전"
+      ],
+      "ai_summary": "LLM의 성능 최적화를 위한 메모리 및 컴퓨팅 아키텍처 설계가 기술적 혁신의 핵심으로 부상",
+      "ai_themes": [
+        "기술발전",
+        "산업동향",
+        "투자/시장"
+      ],
+      "published_at": "2026-02-25 09:21"
+    },
+    {
+      "post_id": "2026360908398862478",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "CLIs are super exciting precisely because they are a \"legacy\" technology, which means AI agents can natively and easily use them, combine them, interact with them via the entire terminal toolkit.\n\nE.g ask your Claude/Codex agent to install this new Polymarket CLI and ask for any arbitrary dashboards or interfaces or logic. The agents will build it for you. Install the Github CLI too and you can ask them to navigate the repo, see issues, PRs, discussions, even the code itself.\n\nExample: Claude built this terminal dashboard in ~3 minutes, of the highest volume polymarkets and the 24hr change. Or you can make it a web app or whatever you want. Even more powerful when you use it as a module of bigger pipelines.\n\nIf you have any kind of product or service think: can agents access and use them?\n\n- are your legacy docs (for humans) at least exportable in markdown?\n- have you written Skills for your product?\n- can your product/service be usable via CLI? Or MCP?\n- ...\n\nIt's 2026. Build. For. Agents.",
+      "content_ko": "CLI 기술이 AI 에이전트와의 원활한 통합을 가능하게 하며, 에이전트가 CLI를 활용해 다양한 작업을 자동화할 수 있습니다. 예를 들어, Claude나 Codex 에이전트가 Polymarket CLI를 설치하고 임의의 대시보드나 인터페이스를 생성할 수 있으며, GitHub CLI를 통해 저장소 내부의 이슈나 코드 자체를 분석할 수 있습니다. 2026년에는 에이전트를 위한 제품 및 서비스 개발이 필수적이며, CLI 접근성 개선이 중요합니다.",
+      "url": "https://x.com/karpathy/status/2026360908398862478",
+      "is_ai_trend": true,
+      "ai_confidence": 0.85,
+      "ai_title": "AI 에이전트와 CLI 통합 기술의 혁신적 활용",
+      "ai_bullets": [
+        "CLI 기술이 AI 에이전트와의 원활한 통합을 가능하게 함",
+        "에이전트가 CLI를 활용해 다양한 작업 자동화 가능",
+        "AI 에이전트가 제품/서비스에 대한 CLI 접근성 개선 필요"
+      ],
+      "ai_summary": "CLI 기술이 AI 에이전트와의 통합을 통해 작업 자동화 수준을 극대화하고 있음",
+      "ai_themes": [
+        "기술발전",
+        "산업동향",
+        "생성형AI"
+      ],
+      "published_at": "2026-02-25 03:17"
+    }
+  ]
+}

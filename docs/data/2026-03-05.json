@@ -1,0 +1,90 @@
+{
+  "date": "2026-03-05",
+  "total": 3,
+  "ai_true": 2,
+  "ai_false": 1,
+  "source_counts": {
+    "demishassabis": 1,
+    "AndrewYNg": 2
+  },
+  "avg_confidence": 0.65,
+  "top_themes": [
+    [
+      "기술발전",
+      2
+    ],
+    [
+      "생성형AI",
+      1
+    ],
+    [
+      "교육/강의",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2029369663210008835",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "Still super underrated what the incredible @NotebookLM can do. It's magical - one of my favourite AI tools. https://t.co/0ZGXJPc3nc",
+      "content_ko": "@NotebookLM의 놀라운 기능이 여전히 과소평가되고 있다고 생각해요. 마법 같은 존재로, 제가 가장 좋아하는 AI 도구 중 하나입니다. https://t.co/0ZGXJPc3nc",
+      "url": "https://x.com/demishassabis/status/2029369663210008835",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "NotebookLM, AI 도구 중 최고의 선택",
+      "ai_bullets": [
+        "NotebookLM의 기능이 놀라운 수준으로 평가받고 있음",
+        "AI 도구 중 가장 좋아하는 제품으로 꼽힘"
+      ],
+      "ai_summary": "NotebookLM의 뛰어난 기능이 주목받고 있으며, 사용자 중 일부는 최고의 AI 도구로 평가하고 있음",
+      "ai_themes": [
+        "생성형AI",
+        "기술발전"
+      ],
+      "published_at": "2026-03-05 10:33"
+    },
+    {
+      "post_id": "2029269587670507833",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "Apple just named its latest laptop Neo -- same name as my son! Should I buy one? \n\nIf I run Amazon Nova on an Apple Neo I hope to blow both of my kids' minds.",
+      "content_ko": "애플이 최신 노트북에 네오라는 이름을 붙였는데, 제 아들 이름도 같은 이름입니다! 구매해야 할까요? 만약 애플 네오에 아마존 노바를 실행하면 두 아이의 마음을 놀라게 할 수 있을지 궁금합니다.",
+      "url": "https://x.com/AndrewYNg/status/2029269587670507833",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-05 03:55"
+    },
+    {
+      "post_id": "2029266102178693378",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "New course: Build and Train an LLM with JAX, built in partnership with @Google and taught by @chrisachard.\n\nJAX is the open-source library behind Google's Gemini, Veo, and other advanced models. This short course teaches you to build and train a 20-million parameter language model from scratch using JAX and its ecosystem of tools.\n\nYou'll implement a complete MiniGPT-style architecture from scratch, train it, and chat with your finished model through a graphical interface.\n\nSkills you'll gain:\n- Learn JAX's core primitives: automatic differentiation, JIT compilation, and vectorized execution\n- Build a MiniGPT-style LLM using Flax/NNX, implementing embedding and transformer blocks\n- Load a pretrained MiniGPT model and run inference through a chat interface\n\nCome learn this important software layer for building LLMs!\n\nhttps://t.co/wm6NZOGIKC",
+      "content_ko": "새로운 과정: @Google과 협력하여 @chrisachard가 강의하는 'JAX로 LLM 구축 및 학습' 과정 제공. JAX는 구글의 Gemini, Veo 및 기타 고급 모델을 개발하는 오픈소스 라이브러리입니다. 이 짧은 과정은 JAX 및 도구 생태계를 사용하여 2000만 파라미터의 언어 모델을 처음부터 구축하고 학습하는 방법을 가르칩니다. 학습자는 MiniGPT 스타일 아키텍처를 처음부터 구현하고, 학습 후 그래픽 인터페이스를 통해 완성된 모델과 대화할 수 있습니다. 습득할 기술: JAX의 핵심 원리(자동 미분, JIT 컴파일, 벡터화 실행), Flax/NNX를 사용한 MiniGPT 스타일 LLM 구축, 사전 학습된 MiniGPT 모델 로드 및 대화 인터페이스를 통한 추론 실행. 이 중요한 LLM 구축 소프트웨어 레이어를 배우러 오세요! https://t.co/wm6NZOGIKC",
+      "url": "https://x.com/AndrewYNg/status/2029266102178693378",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "JAX 기반 LLM 개발 교육 과정 공개, 구글과 협력",
+      "ai_bullets": [
+        "JAX를 활용해 2000만 파라미터 LLM을 직접 구축·학습하는 과정 제공",
+        "JAX는 구글의 Gemini, Veo 등 고급 모델 개발 기반이 되는 오픈소스 라이브러리",
+        "MiniGPT 스타일 아키텍처 구현 및 그래픽 인터페이스를 통한 대화 기능 지원"
+      ],
+      "ai_summary": "구글과 협력한 JAX 기반 LLM 개발 교육 과정 발표",
+      "ai_themes": [
+        "기술발전",
+        "교육/강의"
+      ],
+      "published_at": "2026-03-05 03:41"
+    }
+  ]
+}

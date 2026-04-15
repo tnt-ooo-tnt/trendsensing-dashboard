@@ -1,0 +1,50 @@
+{
+  "date": "2025-12-30",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "교육/강의",
+      1
+    ],
+    [
+      "산업동향",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2005702832524255475",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "Another year of rapid AI advances has created more opportunities than ever for anyone — including those just entering the field — to build software. In fact, many companies just can’t find enough skilled AI talent. Every winter holiday, I spend some time learning and building, and I hope you will too. This helps me sharpen old skills and learn new ones, and it can help you grow your career in tech.\n\nTo be skilled at building AI systems, I recommend that you:\n- Take AI courses\n- Practice building AI systems\n- (Optionally) read research papers\n\nLet me share why each of these is important.\n\nI’ve heard some developers advise others to just plunge into building things without worrying about learning. This is bad advice! Unless you’re already surrounded by a community of experienced AI developers, plunging into building without understanding the foundations of AI means you’ll risk reinventing the wheel or — more likely — reinventing the wheel badly!\n\nFor example, during interviews with job candidates, I have spoken with developers who reinvented standard RAG document chunking strategies, duplicated existing evaluation techniques for Agentic AI, or ended up with messy LLM context management code. If they had taken a couple of relevant courses, they would have better understood the building blocks that already exist. They could still rebuild these blocks from scratch if they wished, or perhaps even invent something superior to existing solutions, but they would have avoided weeks of unnecessary work. So structured learning is important. Moreover, I find taking courses really fun. Rather than watching Netflix, I prefer watching a course by a knowledgeable AI instructor any day!\n\nAt the same time, taking courses alone isn’t enough. There are many lessons that you’ll gain only from hands-on practice. Learning the theory behind how an airplane works is very important to becoming a pilot, but no one has ever learned to be a pilot just by taking courses. At some point, jumping into the pilot's seat is critical! The good news is that by learning to use highly agentic coders, the process of building is the easiest it has ever been. And learning about AI building blocks might inspire you with new ideas for things to build. If I’m not feeling inspired about what projects to work on, I will usually either take courses or read research papers, and after doing this for a while, I always end up with many new ideas. Moreover, I find building really fun, and I hope you will too.\n\nFinally, not everyone has to do this, but I find that many of the strongest candidates on the job market today at least occasionally read research papers. While I find research papers much harder to digest than courses, they contain a lot of knowledge that has not yet been translated to easier-to-understand formats. I put this much lower priority than either taking courses or practicing building, but if you have an opportunity to strengthen your ability to read papers, I urge you to do so too. I find taking courses and building to be fun, and reading papers can be more of a grind, but the flashes of insight I get from reading papers are delightful.\n\nHave a wonderful winter holiday and a Happy New Year. In addition to learning and building, I hope you'll spend time with loved ones — that, too, is important!\n\n[Original text: https://t.co/MaWDs0AbzG ]",
+      "content_ko": "AI 기술 발전 속도가 빨라지면서 초보 개발자도 기회를 얻고 있지만, 기초 지식 없이 직접 개발 시 재발명 위험이 있다고 경고했습니다. AI 시스템 개발을 위해 강의 수강, 실습, 논문 읽기 3단계를 제안하며, 이론 학습과 실무 경험의 균형을 중요시했습니다. 특히 생성형 AI와 관련된 RAG, Agentic AI, LLM 컨텍스트 관리 등 기술적 개념을 언급하며, 교육과 실습의 중요성을 강조했습니다. https://t.co/MaWDs0AbzG",
+      "url": "https://x.com/AndrewYNg/status/2005702832524255475",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "AI 개발자 역량 강화를 위한 학습 전략 제시",
+      "ai_bullets": [
+        "AI 시스템 개발을 위한 학습, 실습, 논문 읽기 3단계 제안",
+        "기초 지식 없이 직접 개발 시 재발명 위험 경고",
+        "실무 경험과 이론 학습의 균형 중요성 강조"
+      ],
+      "ai_summary": "AI 개발자 역량 강화를 위한 체계적인 학습 전략과 실습 방법 제시",
+      "ai_themes": [
+        "기술발전",
+        "교육/강의",
+        "산업동향"
+      ],
+      "published_at": "2025-12-30 03:09"
+    }
+  ]
+}

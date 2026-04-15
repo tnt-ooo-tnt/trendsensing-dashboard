@@ -1,0 +1,82 @@
+{
+  "date": "2026-03-20",
+  "total": 3,
+  "ai_true": 1,
+  "ai_false": 2,
+  "source_counts": {
+    "msitminister": 1,
+    "karpathy": 2
+  },
+  "avg_confidence": 0.37,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "정책/규제",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2034893607195615261",
+      "platform": "twitter",
+      "account_handle": "msitminister",
+      "display_name": "배경훈",
+      "content": "<꿈의 기술 'BCI' 프로젝트 본격 시동! \"신체, 인지 한계 극복한다> \n\n지난 수요일 열린 생명공학종합정책심의회에서 진행된 ‘뇌 미래산업 국가 R&D 전략’ 논의 스케치 영상입니다. \n\n핵심은 K-문샷 프로젝트로 추진하는 뇌-컴퓨터 인터페이스(BCI)입니다. AI를 넘어, 인간의 뇌와 기술을 직접 연결하는 시대를 준비해야 합니다.\n\nBCI는 단순한 기술이 아니라, 의료·AI·반도체·로봇이 결합된 국가 전략 산업입니다. 사지마비 환자가 생각만으로 기기를 움직이고, 치매·파킨슨 등 뇌질환을 치료하며, 감각을 복원하는 등 국민이 체감할 수 있는 7대 프로젝트를 중심으로 본격 추진합니다. 침습형은 치료 중심으로, 비침습형은 산업과 일상으로 확산해 나갈 계획입니다.\n\n기초연구부터 임상, 사업화까지 이어지는 ‘원팀 R&D’ 체계를 구축하고, 기업·병원·연구기관이 함께하는 BCI 얼라이언스를 통해 속도를 높이겠습니다. 규제기관과도 사전 협력해 기술이 시장에 빠르게 도달할 수 있도록 하겠습니다.\n\n글로벌 경쟁은 이미 시작됐습니다. 과감한 투자와 선제적 전략으로 대한민국이 뇌-기술 융합 시대의 주도권을 확보하겠습니다. \n\n#BCI #배경훈 #과학기술정보통신부 \nhttps://t.co/ix5KhtxyWO",
+      "content_ko": "꿈의 기술 'BCI' 프로젝트 본격 시동! '신체, 인지 한계 극복한다'라는 제목으로 지난 수요일 열린 생명공학종합정책심의회에서 진행된 '뇌 미래산업 국가 R&D 전략' 논의 스케치 영상입니다. 핵심은 K-문샷 프로젝트로 추진하는 뇌-컴퓨터 인터페이스(BCI)입니다. AI를 넘어, 인간의 뇌와 기술을 직접 연결하는 시대를 준비해야 합니다. BCI는 단순한 기술이 아니라, 의료·AI·반도체·로봇이 결합된 국가 전략 산업입니다. 사지마비 환자가 생각만으로 기기를 움직이고, 치매·파킨슨 등 뇌질환을 치료하며, 감각을 복원하는 등 국민이 체감할 수 있는 7대 프로젝트를 중심으로 본격 추진합니다. 침습형은 치료 중심으로, 비침습형은 산업과 일상으로 확산해 나갈 계획입니다. 기초연구부터 임상, 사업화까지 이어지는 '원팀 R&D' 체계를 구축하고, 기업·병원·연구기관이 함께하는 BCI 얼라이언스를 통해 속도를 높이겠습니다. 규제기관과도 사전 협력해 기술이 시장에 빠르게 도달할 수 있도록 하겠습니다. 글로벌 경쟁은 이미 시작됐습니다. 과감한 투자와 선제적 전략으로 대한민국이 뇌-기술 융합 시대의 주도권을 확보하겠습니다.",
+      "url": "https://x.com/msitminister/status/2034893607195615261",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "BCI 기술 국가 전략 본격 시행, AI와 뇌 기술 융합 추진",
+      "ai_bullets": [
+        "정부가 뇌-컴퓨터 인터페이스(BCI) 기술을 국가 전략 산업으로 추진한다.",
+        "BCI는 의료·AI·반도체·로봇 분야 융합 기술로, 사지마비 환자와 뇌질환 치료에 활용된다.",
+        "기초연구부터 사업화까지 '원팀 R&D' 체계를 구축하고 기업·병원·연구소 협력 체계 확대"
+      ],
+      "ai_summary": "정부가 뇌-컴퓨터 인터페이스(BCI) 기술을 국가 전략 산업으로 본격적으로 추진하며, AI와 뇌 기술 융합을 통한 의료 혁신을 목표로 한다.",
+      "ai_themes": [
+        "기술발전",
+        "정책/규제"
+      ],
+      "published_at": "2026-03-20 16:23"
+    },
+    {
+      "post_id": "2034873049753997619",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "Andy Weir showing some of the spreadsheets underlying the calculations in the book\nhttps://t.co/3CyprVTzXX\ni mean, it's not quality scifi if it doesn't come with a supplementary whitepaper https://t.co/MsDnEoNBA7",
+      "content_ko": "앤디 웨어가 책에서 사용된 계산에 대한 스프레드시트 일부를 보여주는 중입니다. https://t.co/3CyprVTzXX i mean, 과학소설이 질이 높지 않다면 보조 백서가 동반되지 않죠. https://t.co/MsDnEoNBA7",
+      "url": "https://x.com/karpathy/status/2034873049753997619",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-20 15:01"
+    },
+    {
+      "post_id": "2034865693544604001",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "Had to go see Project Hail Mary right away (it's based on the book of Andy Weir, of also The Martian fame). Both very pleased and relieved to say that 1) the movie sticks very close to the book in both content and tone and 2) is really well executed.\n\nThe book is one of my favorites when it comes to alien portrayals because a lot of thought was clearly given to the scientific details of an alternate biochemistry, evolutionary history, sensorium, psychology, language, tech tree, etc. It's different enough that it is highly creative and plausible, but also similar enough that you get a compelling story and one of the best bromances in fiction. Not to mention the other (single-cellular) aliens. I can count fictional portrayals of aliens of this depth on one hand. A lot of these aspects are briefly featured - if you read the book you'll spot them but if you haven't, the movie can't spend the time to do them justice.\n\nI'll say that the movie inches a little too much into the superhero movie tropes with the pacing, the quips, the Bathos and such for my taste, and we get a little bit less the grand of Interstellar and a little bit less of the science of The Martian, but I think it's ok considering the tone of the original content. And it does really well where it counts - on Rocky and the bromance. Thank you to the film crew for the gem!",
+      "content_ko": "즉시 Project Hail Mary를 보러 가야 했습니다(Andy Weir의 책을 기반으로 한 영화입니다, The Martian과도 유명합니다). 영화가 책과 매우 유사한 내용과 톤으로 제작되었고, 매우 잘 제작되었다는 점에서 매우 만족하고 안심했습니다. 책은 외계인 묘사에 있어 제일 좋아하는 작품 중 하나입니다. 외계생물의 대체 생화학, 진화 역사, 감각, 심리, 언어, 기술 트리 등에 대한 많은 고려가 있었기 때문입니다. 이 작품은 충분히 창의적이고 타당한 동시에, 이야기가 매력적이며 최고의 우정 이야기를 제공합니다. 단, 영화는 원작의 톤에 맞춰서 상대적으로 슈퍼히어로 영화의 틀에 조금 더 가까이 다가가며, 인터스텔라의 위대함이나 더 링의 과학성보다는 조금 덜한 감을 줍니다. 하지만 원작의 톤을 고려하면 괜찮다고 생각합니다. 특히 루키와의 우정 부분에서 매우 잘 했습니다. 감사합니다, 영화 제작진!",
+      "url": "https://x.com/karpathy/status/2034865693544604001",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-20 14:32"
+    }
+  ]
+}

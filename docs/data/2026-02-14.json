@@ -1,0 +1,50 @@
+{
+  "date": "2026-02-14",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "산업동향",
+      1
+    ],
+    [
+      "정책/규제",
+      1
+    ],
+    [
+      "윤리/안전",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2022345770398347407",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "I recently spoke at the Sundance Film Festival on a panel about AI. Sundance is an annual gathering of filmmakers and movie buffs that serves as the premier showcase for independent films in the United States. Knowing that many people in Hollywood are extremely uncomfortable about AI, I decided to immerse myself for a day in this community to learn about their anxieties and build bridges.\n\nI’m grateful to Daniel Dae Kim @danieldaekim, an actor/producer/director I’ve come to respect deeply for his artistic and social work, for organizing the panel, which also included Daniel, Dan Kwan, Jonathan Wang, and Janet Yang. I found myself surrounded by award-winning filmmakers and definitely felt like the odd person out!\n\nFirst, Hollywood has many reasons to be uncomfortable with AI. People from the entertainment industry come from a very different culture than many who work in tech, and this drives deep differences in what we focus on and what we value. A significant subset of Hollywood is concerned that:\n- AI companies are taking their work to learn from it without consent and compensation. Whereas the software industry is used to open source and the open internet, Hollywood focuses much more on intellectual property, which underlies the core economic engines of the entertainment industry.\n- Powerful unions like SAG-AFTRA (Screen Actors Guild-American Federation of Television and Radio Artists) are deeply concerned about protecting the jobs of their members. When AI technology (or any other force) threatens the livelihoods of their members — like voice actors — they will fight mightily against potential job losses.\n- This wave of technological change feels forced on them more than previous waves, where they felt more free to adopt or reject the technology. For example, celebrities felt like it was up to them whether to use social media. In contrast, negative messaging from some AI leaders who present the technology as unstoppable, perhaps even a dangerous force that will wipe out many jobs, has not encouraged enthusiastic adoption.\n\nHaving said that, Hollywood is under no illusions that AI will change entertainment, and that if Hollywood does not adapt, perhaps some other place will become the new center for entertainment. The entertainment industry is no stranger to technology change. Radio, TV, computer graphics special effects, video streaming, and social media transformed the industry. But the path to navigating AI’s transformation is still unclear, and organizations like the new Creators Coalition on AI are trying to stake out positions. Unfortunately, Hollywood’s negative sentiment toward AI also means it will produce a lot more Terminator-like movies that portray AI as more dangerous than helpful, and this hurts beneficial AI adoption as well.\n\nThe interests of AI and Hollywood are not always aligned. (Every time I speak in a group like this as the “AI representative,” I can count on being asked very hard questions.) Most of us in tech would prefer a more open internet and more permissive use of creative works. But there is also much common ground, for example in wanting guardrails against deepfakes and a smooth transition for those whose jobs are displaced, perhaps via upskilling.\n\nStorytelling is hard. I’m optimistic that AI tools like Veo, Sora, Runway, Kling, Ray, Hailuo, and many others can make video creation easier for millions of people. I hope Hollywood and AI developers will find more opportunities to collaborate, find more common ground, and also steer our projects toward outcomes that are win-win for as many parties as possible.\n\n[Original text: https://t.co/70dgCmdxtQ ]",
+      "content_ko": "저는 최근 속드랜스 영화제에서 AI 관련 패널 토론을 진행했습니다. 속드랜스는 미국 독립 영화의 주요 전시회로, 영화 제작자와 팬들이 모이는 행사입니다. 할리우드의 많은 사람들이 AI에 대해 매우 불편함을 느끼고 있다는 것을 알고, 이 커뮤니티에 하루 동안 몰입해 그들의 불안을 배우고 연결점을 만들기로 했습니다. Daniel Dae Kim씨가 패널을 주최했으며, Daniel, Dan Kwan, Jonathan Wang, Janet Yang씨와 함께 토론했습니다. 저는 수상 영화 제작자들 사이에 있었지만, 특별히 낯선 존재처럼 느껴졌습니다. 할리우드는 AI에 대해 여러 이유로 불편함을 느끼고 있습니다. 엔터테인먼트 산업 종사자들은 기술 산업 종사자들과 문화적 배경이 매우 다릅니다. 이로 인해 집중 분야와 가치관에서 큰 차이가 발생합니다. 할리우드의 일부는 AI 기업이 작업을 배우기 위해 동의 없이 작업을 가져가고 보상하지 않는다고 우려하고 있습니다. 소프트웨어 산업은 오픈소스와 오픈 인터넷에 익숙하지만, 할리우드는 지적 재산권에 더 중점을 둡니다. 강력한 단체인 SAG-AFTRA는 일자리 보호를 위해 싸우고 있습니다. AI 기술이 일자리에 위협이 되면, 그들의 회원들은 강하게 반발할 것입니다. 이 기술 변화는 이전의 변화보다 강요감이 더 크다고 느끼고 있습니다. 예를 들어, 연예인들은 소셜 미디어 사용 여부를 스스로 결정할 수 있다고 느꼈지만, AI 리더들이 기술을 멈추게 할 수 있는 위험한 힘으로 묘사하는 메시지가 부정적인 영향을 미쳤습니다. 할리우드는 AI가 엔터테인먼트를 바꾸는 것을 인정하지만, 적응하지 않는다면 다른 지역이 중심이 될 수 있다고 생각합니다. 그러나 AI의 변화를 견뎌내는 길은 여전히 불확실하며, 새로운 크리에이터 연맹 같은 조직이 위치를 정립하고 있습니다. 할리우드의 부정적 태도는 AI를 위험한 존재로 묘사하는 영화 제작을 증가시켜 유용한 AI 도입을 방해할 수 있습니다. AI와 할리우드의 이익은 항상 일치하지 않습니다. 대부분의 기술 종사자들은 더 자유로운 인터넷과 창작물 사용을 선호하지만, 딥페이크 방지와 실업자 지원 같은 공통점도 있습니다. AI 도구는 영상 제작을 더 쉽게 만들고, 할리우드와 개발자 간 협력을 통해 이익을 공유할 수 있을 것입니다.",
+      "url": "https://x.com/AndrewYNg/status/2022345770398347407",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "하우리드 산업, AI에 대한 우려와 협력 필요성 강조",
+      "ai_bullets": [
+        "AI 기술이 영화 산업에 미치는 영향에 대한 패널 토론에서 제작자들의 우려와 경계심 강조",
+        "SAG-AFTRA 같은 단체가 AI로 인한 일자리 감소에 반발하며 규제 요구",
+        "AI와 영화 산업 간 이해관계 충돌과 협력 가능성 탐색"
+      ],
+      "ai_summary": "AI 기술이 영화 산업에 미치는 영향과 관련된 패널 토론 내용을 중심으로 산업의 우려와 협력 필요성을 다룬 글",
+      "ai_themes": [
+        "산업동향",
+        "정책/규제",
+        "윤리/안전"
+      ],
+      "published_at": "2026-02-14 01:22"
+    }
+  ]
+}

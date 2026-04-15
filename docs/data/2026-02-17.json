@@ -1,0 +1,105 @@
+{
+  "date": "2026-02-17",
+  "total": 4,
+  "ai_true": 1,
+  "ai_false": 3,
+  "source_counts": {
+    "karpathy": 1,
+    "sama": 3
+  },
+  "avg_confidence": 0.24,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "생성형AI",
+      1
+    ],
+    [
+      "오픈소스",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2023476423055601903",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "I think it must be a very interesting time to be in programming languages and formal methods because LLMs change the whole constraints landscape of software completely. Hints of this can already be seen, e.g. in the rising momentum behind porting C to Rust or the growing interest in upgrading legacy code bases in COBOL or etc. In particular, LLMs are *especially* good at translation compared to de-novo generation because 1) the original code base acts as a kind of highly detailed prompt, and 2) as a reference to write concrete tests with respect to. That said, even Rust is nowhere near optimal for LLMs as a target language. What kind of language is optimal? What concessions (if any) are still carved out for humans? Incredibly interesting new questions and opportunities. It feels likely that we'll end up re-writing large fractions of all software ever written many times over.",
+      "content_ko": "저는 프로그래밍 언어 및 형식적 방법 분야에서 매우 흥미로운 시기에 놓여 있음을 느끼고 있습니다. LLM은 소프트웨어의 제약 조건 전반을 완전히 변화시키고 있기 때문입니다. 이미 이러한 경향은 C 언어를 Rust로 이전하는 움직임이나 COBOL 코드베이스 업그레이드에 대한 관심 증가 등에서 확인할 수 있습니다. 특히 LLM은 번역 작업에 매우 효과적이며, 이는 기존 코드베이스가 상세한 프롬프트 역할을 하며, 구체적인 테스트 작성에 대한 참고 자료로 사용되기 때문입니다. 다만 Rust는 여전히 LLM에 최적화된 타겟 언어로 보이지 않습니다. 최적화된 언어는 무엇일까요? 인간의 어떤 희생을 감수해야 할까요? 이와 같은 새로운 질문과 기회가 등장하고 있으며, 이는 매우 흥미로운 방향입니다. 결국 모든 소프트웨어를 여러 번 재작성할 가능성이 높습니다.",
+      "url": "https://x.com/karpathy/status/2023476423055601903",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "LLM 기술이 소프트웨어 개발 방식 혁신 주도",
+      "ai_bullets": [
+        "LLM이 소프트웨어 제약 조건 전반을 완전히 변화시키고 있음",
+        "C 언어를 Rust로 이전하는 움직임과 COBOL 코드 개선 관심 증가 사례 제시",
+        "LLM이 번역 작업에 특히 강점이 있으며 기존 코드를 테스트 기준으로 활용 가능"
+      ],
+      "ai_summary": "LLM 기술이 소프트웨어 개발 방식을 혁신하고 있으며, 코드 번역 및 유지보수 분야에서 중요한 영향을 미치고 있음",
+      "ai_themes": [
+        "기술발전",
+        "생성형AI",
+        "오픈소스"
+      ],
+      "published_at": "2026-02-17 04:15"
+    },
+    {
+      "post_id": "2023463428892094655",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "🦞",
+      "content_ko": "🐦",
+      "url": "https://x.com/sama/status/2023463428892094655",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-02-17 03:24"
+    },
+    {
+      "post_id": "2023453150334906839",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "(Also best family ❤️)",
+      "content_ko": "(또한 가족 최고 ❤️)",
+      "url": "https://x.com/sama/status/2023453150334906839",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-02-17 02:43"
+    },
+    {
+      "post_id": "2023453083595141411",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "Best OpenAI sweatshirt ever https://t.co/PS2bSATW35",
+      "content_ko": "최고의 OpenAI 스웨트셔츠입니다 https://t.co/PS2bSATW35",
+      "url": "https://x.com/sama/status/2023453083595141411",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "산업동향"
+      ],
+      "published_at": "2026-02-17 02:43"
+    }
+  ]
+}

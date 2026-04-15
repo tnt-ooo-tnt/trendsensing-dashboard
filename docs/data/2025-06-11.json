@@ -1,0 +1,68 @@
+{
+  "date": "2025-06-11",
+  "total": 2,
+  "ai_true": 2,
+  "ai_false": 0,
+  "source_counts": {
+    "NVIDIA Blog": 2
+  },
+  "avg_confidence": 0.75,
+  "top_themes": [
+    [
+      "산업동향",
+      2
+    ],
+    [
+      "기술발전",
+      2
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "de647fb83d530809f4d3e41d",
+      "platform": "rss",
+      "account_handle": "NVIDIA Blog",
+      "display_name": "NVIDIA",
+      "content": "At GTC Paris — held alongside VivaTech, Europe’s largest tech event — NVIDIA founder and CEO Jensen Huang delivered a clear message: Europe isn’t just adopting AI — it’s building it. “We now have a new industry, an AI industry, and it’s now part of the new infrastructure, called intelligence infrastructure, that will be used [&#8230;]",
+      "content_ko": "GTC 파리 — 유럽 최대 기술 행사인 빈티테크와 함께 열린 행사 —에서 NVIDIA 설립자이자 CEO인 제니스 황은 명확한 메시지를 전달했습니다. 유럽은 단순히 AI를 도입하는 것이 아니라 AI 산업을 구축하고 있다고 강조했습니다. \"우리는 이제 새로운 산업, AI 산업을 가진 상태이며, 이는 이제 새로운 인프라인 지능 인프라로 자리 잡고 있을 것입니다. 이는 [&#8230;]",
+      "url": "https://blogs.nvidia.com/blog/gtc-paris-2025/",
+      "is_ai_trend": true,
+      "ai_confidence": 0.8,
+      "ai_title": "NVIDIA: 유럽, AI 인프라로 산업 구축 중",
+      "ai_bullets": [
+        "GTC 파리에서 유럽 최대 기술 행사인 빈티테크와 함께 열린 행사에서 제니스 황 CEO가 발언",
+        "유럽이 단순히 AI를 도입하는 것이 아니라 AI 산업을 구축 중이라고 강조",
+        "AI 인프라가 새로운 인프라로 자리 잡고 있으며, 이는 지능 인프라로 발전 중"
+      ],
+      "ai_summary": "NVIDIA가 유럽의 AI 산업 구축을 강조하며 지능 인프라로의 전환을 언급했습니다.",
+      "ai_themes": [
+        "산업동향",
+        "기술발전"
+      ],
+      "published_at": "2025-06-11 20:10"
+    },
+    {
+      "post_id": "b1b6b58fd441d17fd65f64f2",
+      "platform": "rss",
+      "account_handle": "NVIDIA Blog",
+      "display_name": "NVIDIA",
+      "content": "Autonomous vehicle (AV) stacks are evolving from many distinct models to a unified, end-to-end architecture that executes driving actions directly from sensor data. This transition to using larger models is drastically increasing the demand for high-quality, physically based sensor data for training, testing and validation. To help accelerate the development of next-generation AV architectures, NVIDIA [&#8230;]",
+      "content_ko": "자율주행(AV) 스택은 다수의 독립 모델에서 통합된 끝에서 끝까지 아키텍처로 전환 중입니다. 이 전환 과정에서 센서 데이터를 직접 운전 행동으로 연결하는 대규모 모델 사용이 급증하고 있습니다. 이로 인해 테스트 및 검증을 위한 고품질 물리 기반 센서 데이터에 대한 수요가 급증하고 있으며, NVIDIA는 [&#8230;]",
+      "url": "https://blogs.nvidia.com/blog/autonomous-vehicle-ecosystem-ai-models-developer-tools/",
+      "is_ai_trend": true,
+      "ai_confidence": 0.7,
+      "ai_title": "NVIDIA: 자율주행 기술, 대규모 모델로 통합 전환",
+      "ai_bullets": [
+        "자율주행(AV) 스택이 다수의 모델에서 통합된 끝에서 끝까지 아키텍처로 전환 중",
+        "센서 데이터를 직접 운전 행동으로 연결하는 대규모 모델 사용 증가",
+        "고품질 물리 기반 센서 데이터 수요 급증으로 테스트 및 검증 필요성 증대"
+      ],
+      "ai_summary": "NVIDIA가 자율주행 기술의 대규모 모델 통합 전환과 센서 데이터 수요 증가를 발표했습니다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2025-06-11 19:55"
+    }
+  ]
+}

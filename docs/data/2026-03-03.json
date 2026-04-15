@@ -1,0 +1,68 @@
+{
+  "date": "2026-03-03",
+  "total": 2,
+  "ai_true": 2,
+  "ai_false": 0,
+  "source_counts": {
+    "sama": 2
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "정책/규제",
+      2
+    ],
+    [
+      "윤리/안전",
+      2
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2028642231138353299",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "(I also would like to share this, which I wrote after thinking a little more.)\n\nThere is a lot we will talk about in the coming days, but since this is one of the first \"real deal\" decisions we have faced, I wanted to share a few things that have been heavily on my mind the past few days.\n\nThese are the principles I care most about for this decision: alignment, democratization, empowerment, and individual agency.\n\nThe democratic process must stay in control, and we must democratize AI. OpenAI should not decide the fate of the world; no private company should. We need to work with governments, but also we need to make sure individuals get increasing power.\n\nThings are moving so fast that we need to urgently educate the world so that the democratic process has time to catch up. I think one of our most important strategic decisions ever was the principle of iterative deployment.\n\nIn particular, the key element required for democracy, such as protection of privacy, must be defended by all of society.\n\nI believe that, as some of the creators of this new technology, we deserve to and are obligated to have a loud voice about the risks, pitfalls, and benefits we see. \n\nI think we are heading towards a world where the relationship between governments and AI efforts is critical. This will be difficult but it has to happen; I do not see any good future where we don't get there. There should not be games and fights in the press like this; drastic government action should be avoided.\n\nI think there are real dangers coming to the world, and maybe pretty soon; I tried to put myself in the mindset of how I'd feel the day after an attack on the US or a new bioweapon we could have helped prevent.",
+      "content_ko": "앞으로 많은 이야기가 있을 것이지만, 이는 우리가 처음으로 진짜 중요한 결정을 내리는 상황이라서 몇 가지 지난 며칠간 가장 많이 생각한 내용을 공유하고 싶었습니다. 이 결정에서 가장 중요하게 생각하는 원칙은 정렬(alignment), 민주화(democratization), 권력 부여(empowerment), 개인의 주체성(individual agency)입니다. 민주적 과정이 통제를 유지해야 하며, AI를 민주화해야 합니다. 오픈AI가 세계의 운명을 결정해서는 안 되며, 어떤 민간 기업도 그러해야 합니다. 정부와 협력해야 하지만, 개인이 점점 더 많은 권력을 가질 수 있도록 해야 합니다. 기술이 너무 빠르게 발전하고 있어서 민주적 과정이 따라가기 위해 세계를 교육해야 합니다. 제가 지금까지 한 가장 중요한 전략 결정 중 하나는 반복적 배포 원칙입니다. 특히 민주주의에 필수적인 요소인 프라이버시 보호와 같은 것들은 사회 전체가 지켜야 합니다. 저는 이 새로운 기술의 창조자로서, 우리가 본 위험, 함정, 이점에 대해 큰 목소리를 내고 있어야 한다고 생각합니다. 저는 정부와 AI 노력 사이의 관계가 매우 중요해질 것이라고 생각합니다. 이는 어려울 수 있지만 반드시 이루어져야 하며, 우리가 그런 상태에 도달하지 않는 미래는 좋은 결과를 보장하지 않습니다. 언론에서 이런 식의 경쟁이나 충돌이 없어야 하며, 극단적인 정부 조치는 피해야 합니다. 저는 세계에 실제 위험이 다가오고 있으며, 아마도 곧 있을 수 있다고 생각합니다. 저는 미국에 대한 공격이나 우리가 예방할 수 있었던 새로운 생물무기의 날 이후의 감정을 어떻게 느꼈을지 생각해보려고 했습니다.",
+      "url": "https://x.com/sama/status/2028642231138353299",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "오픈AI: AI 정책 결정에서 민주화와 개인 권리 강조",
+      "ai_bullets": [
+        "AI 기술의 민주화와 개인 권리 보호를 핵심 원칙으로 삼아야 한다고 강조",
+        "정부와 협력하면서도 개인의 권력을 확대해 나가야 한다고 주장",
+        "민주적 과정의 보호를 위해 프라이버시 보호 등 민주주의 핵심 요소를 사회 전체가 지켜야 한다고 밝힘"
+      ],
+      "ai_summary": "오픈AI가 AI 기술의 민주화와 개인 권리 보호를 핵심 원칙으로 삼아야 한다고 강조하며, 정부와의 협력과 민주적 과정의 보호를 주장했습니다.",
+      "ai_themes": [
+        "정책/규제",
+        "윤리/안전"
+      ],
+      "published_at": "2026-03-03 10:22"
+    },
+    {
+      "post_id": "2028640354912923739",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "Here is re-post of an internal post:\n\nWe have been working with the DoW to make some additions in our agreement to make our principles very clear.\n\n1.   We are going to amend our deal to add this language, in addition to everything else:\n\n\"• Consistent with applicable laws, including the Fourth Amendment to the United States Constitution, National Security Act of 1947, FISA Act of 1978, the AI system shall not be intentionally used for domestic surveillance of U.S. persons and nationals.\n\n• For the avoidance of doubt, the Department understands this limitation to prohibit deliberate tracking, surveillance, or monitoring of U.S. persons or nationals, including through the procurement or use of commercially acquired personal or identifiable information.\"\n\nIt’s critical to protect the civil liberties of Americans, and there was so much focus on this, that we wanted to make this point especially clear, including around commercially acquired information. Just like everything we do with iterative deployment, we will continue to learn and refine as we go.\n\nI think this is an important change; our team and the DoW team did a great job working on it.\n\n2. The Department also affirmed that our services will not be used by Department of War intelligence agencies (for example, the NSA). Any services to those agencies would require a follow-on modification to our contract.\n\n3. For extreme clarity: we want to work through democratic processes. It should be the government making the key decisions about society. We want to have a voice, and a seat at the table where we can share our expertise, and to fight for principles of liberty. But we are clear on how the system works (because a lot of people have asked, if I received what I believed was an unconstitutional order, of course I would rather go to jail than follow it). But\n\n4. There are many things the technology just isn’t ready for, and many areas we don’t yet understand the tradeoffs required for safety. We will work through these, slowly, with the DoW, with technical safeguards and other methods.\n\n5. One thing I think I did wrong: we shouldn't have rushed to get this out on Friday. The issues are super complex, and demand clear communication. We were genuinely trying to de-escalate things and avoid a much worse outcome, but I think it just looked opportunistic and sloppy. Good learning experience for me as we face higher-stakes decisions in the future.\n\nIn my conversations over the weekend, I reiterated that Anthropic should not be designated as a SCR, and that we hope the DoW offers them the same terms we’ve agreed to.\n\nWe will host an All Hands tomorrow morning to answer more questions.",
+      "content_ko": "우리는 DoW(국방부)와 협력해 우리의 계약에 우리의 원칙을 명확히 하기 위해 추가 조항을 도입할 예정입니다. 1. 우리는 계약에 다음 문장을 추가할 것입니다: '적용 가능한 법률, 특히 미국 헌법 제4조, 1947년 국가보안법, 1978년 FISA법에 따라 AI 시스템은 미국 시민 및 국적자의 국내 감시를 의도적으로 사용해서는 안 됩니다. 또한, 부정확한 추적, 감시, 또는 모니터링을 방지하기 위해, 부정확한 정보 수집 및 사용을 금지합니다.' 미국 시민의 민주적 권리 보호가 매우 중요하다고 생각하며, 이에 대한 강조가 많아서 이 점을 특히 명확히 하고자 했습니다. 모든 기술적 배포와 마찬가지로, 우리는 계속해서 학습하고 개선해 나갈 것입니다. 저는 이 변경이 중요하다고 생각하며, 우리 팀과 DoW 팀이 이에 대해 훌륭하게 협력했다고 생각합니다. 2. DoW는 우리의 서비스가 정부 기관(예: NSA)의 정보 기관에 사용되지 않도록 하겠다고 확인했습니다. 이러한 기관에 서비스를 제공하려면 계약을 추가로 수정해야 합니다. 3. 극단적인 명확성: 우리는 민주적 과정을 통해 작업할 것입니다. 사회에 대한 주요 결정은 정부가 해야 합니다. 우리는 의견을 제시하고, 전문성을 공유하며, 자유의 원칙을 위해 투쟁할 수 있는 자리에 있어야 합니다. 하지만 시스템의 작동 방식에 대해 분명히 알고 있습니다(많은 사람들이 물어봤기 때문입니다. 만약 제가 위헌 명령을 받았다고 생각했다면, 감옥에 가는 것보다 명령을 따르지 않을 것입니다). 4. 기술이 아직 준비되지 않은 많은 문제들과, 안전을 위해 필요한 거래를 이해하지 못하는 분야들이 많습니다. 우리는 DoW와 함께 점진적으로 이러한 문제들을 해결해 나갈 것입니다. 5. 제가 잘못한 일: 우리는 금요일에 너무 빨리 발표해서는 안 되었다고 생각합니다. 이 문제는 매우 복잡하고 명확한 소통이 필요합니다. 우리는 실제로 상황을 완화하고 더 나쁜 결과를 피하려고 했지만, 이는 기회주의적이고 부정확해 보였습니다. 우리는 미래의 더 높은 위험 결정을 위해 이 경험을 통해 배울 수 있습니다. 주말에 저는 앤트로피크가 SCR로 지정되지 않아야 한다고 재확인했고, DoW가 그들에게 동일한 조건을 제공해 줄 것을 기대했습니다. 우리는 내일 아침에 All Hands 회의를 열어 더 많은 질문에 답변할 예정입니다.",
+      "url": "https://x.com/sama/status/2028640354912923739",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "오픈AI, AI 시스템의 국내 감시 금지 조항 추가",
+      "ai_bullets": [
+        "미국 시민 및 국적자의 국내 감시를 의도적으로 사용하지 않도록 법적 조항 추가",
+        "정부 기관(예: NSA)의 AI 서비스 사용 금지 및 추가 계약 변경 필요",
+        "민주적 과정을 통해 기술의 안전성과 사회적 영향을 점진적으로 해결할 방침"
+      ],
+      "ai_summary": "오픈AI가 AI 시스템의 국내 감시 금지 조항을 추가하고, 정부 기관의 서비스 사용을 금지하며 민주적 과정을 통한 안전성 확보를 발표했습니다.",
+      "ai_themes": [
+        "정책/규제",
+        "윤리/안전"
+      ],
+      "published_at": "2026-03-03 10:15"
+    }
+  ]
+}

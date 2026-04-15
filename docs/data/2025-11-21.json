@@ -1,0 +1,68 @@
+{
+  "date": "2025-11-21",
+  "total": 2,
+  "ai_true": 1,
+  "ai_false": 1,
+  "source_counts": {
+    "AndrewYNg": 2
+  },
+  "avg_confidence": 0.55,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "산업동향",
+      1
+    ],
+    [
+      "윤리/안전",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "1991601165713522796",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "After listening to multiple of Harry's 20VC podcasts, it was fun to appear on it. We talked about bottlenecks in AI adoption, US/China geopolitics, what opportunities remain to build in (tldr: a lot), and more! https://t.co/O4S0TYmpDF",
+      "content_ko": "하리의 20VC 팟캐스트를 듣고 여러 번 후, 팟캐스트에 출연하는 것이 재미있었습니다. AI 도입의 병목 현상, 미국/중국 지정학적 관계, AI 기술 개발에 대한 기회 등에 대해 이야기했습니다. https://t.co/O4S0TYmpDF",
+      "url": "https://x.com/AndrewYNg/status/1991601165713522796",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2025-11-21 05:14"
+    },
+    {
+      "post_id": "1991561899088179552",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "I just got back from AI Dev x NYC, the AI developer conference where our community gathers for a day of coding, learning, and connecting. The vibe in the room was buzzing! It was at the last AI Dev in San Francisco that I met up with Kirsty Tan and started collaborating with her on what became our AI advisory firm AI Aspire. In-person meetings can spark new opportunities, and I hope the months to come will bring more stories about things that started in AI Dev x NYC!\n\nThe event was full of conversations about coding with AI, agentic AI, context engineering, governance, and building and scaling AI applications in startups and in large corporations. But the overriding impression I took away was one of near-universal optimism about our field, despite the mix of pessimism and optimism about AI in the broader world.\n\nFor example, many businesses have not yet gotten AI agents to deliver a significant ROI, and some AI skeptics are quoting an MIT study that said 95% of AI pilots are failing. (This study, by the way, has methodological flaws that make the viral headline misleading; see link in original post.) But at AI Dev were many of the teams responsible for the successful and rapidly growing set of AI applications. Speaking with fellow developers, I realized that because of AI's low penetration in businesses, it is simultaneously true that (a) many businesses do not yet have AI delivering significant ROI, and (b) many skilled AI teams are starting to deliver significant ROI and see the number of successful AI projects climbing rapidly, albeit from a low base. This is why AI developers are bullish about the growth that is to come.\n\nMultiple exhibitors told me this was the best conference they had attended in a long time, because they got to speak with real developers. One told me that many other conferences seemed like fluff, whereas participants at AI Dev had much deeper technical understanding and thus were interested in and able to understand the nuances of cutting-edge technology. Whether the discussion was on observability of agentic workflows, the nuances of context engineering for AI coding, or a debate on how long the proliferation of RL gyms for training LLMs will continue, there was deep technical expertise in the room that lets us collectively see further into the future.\n\nOne special moment for me was when Nick Thompson, moderating a panel with Miriam Vogel and me, asked about governance. I replied that the United States’ recent hostile rhetoric toward immigrants is one of the worst moves it is making, and many in the audience clapped. Nick spoke about this moment in a video (links in original post).\n\nI enjoyed meeting many people at AI Dev, and am grateful to everyone who came and to all our speakers, exhibitors, sponsors, volunteers, and event staff. My only regret is that, even though we scaled up the event 3x compared to the previous San Francisco event, we had to limit the number of tickets because the space couldn’t admit more attendees.\n\nEven though so much work is now online, in-person events are special and can be turning points for individuals and projects. We plan to make the next AI Dev in San Francisco on April 28-29, 2026 an even bigger event, and look forward to the conference helping to spark more sharing and connections in the future.\n\n[Original text: https://t.co/6jdwe6B0OJ ]",
+      "content_ko": "AI Dev x NYC 컨퍼런스에서 돌아왔습니다. 코딩, 학습, 연결을 위한 AI 개발자 커뮤니티 모임에서 분위기가 매우 활발했습니다. 이전 샌프란시스코 AI Dev에서 Kirsty Tan과 만났고 AI Aspire라는 AI 컨설팅 회사를 공동 설립했습니다. 대면 회의는 새로운 기회를 만들 수 있으며, AI Dev x NYC에서 시작된 다양한 이야기들이 앞으로 나올 것이라 기대합니다. 컨퍼런스에서는 AI 코딩, 에이전트 기반 AI, 컨텍스트 엔지니어링, 규제, 스타트업 및 대기업에서의 AI 애플리케이션 구축 등에 대한 토론이 진행되었습니다. 전반적으로 AI 분야에 대한 낙관적 분위기였습니다. 많은 기업이 AI 에이전트로 실질적인 ROI를 달성하지 못했고, MIT 연구를 인용한 AI 비관론도 있었지만, 성공적으로 성장 중인 AI 애플리케이션 개발팀들이 많았습니다. AI 개발자들은 향후 성장에 대해 낙관하고 있습니다. 전시업체들은 이전보다 더 많은 개발자들과 대화할 수 있어 이번 컨퍼런스가 가장 좋았다고 말했습니다. 기술적 이해도가 높아 최신 기술의 세부 사항을 이해할 수 있었습니다. 관객 중에서 미국의 이민자에 대한 적대적 발언을 비판하는 의견도 있었고, 이벤트에 참여한 모든 분들께 감사드립니다. 다음 AI Dev는 2026년 4월 28~29일 샌프란시스코에서 더 큰 규모로 열릴 예정입니다.",
+      "url": "https://x.com/AndrewYNg/status/1991561899088179552",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "AI 개발자 컨퍼런스 AI Dev x NYC 참석 후기 공유",
+      "ai_bullets": [
+        "AI Dev x NYC에서 AI 코딩, 에이전트 기반 AI, 컨텍스트 엔지니어링 등 기술 토론 진행",
+        "AI 도입 ROI 달성 여부에 대한 논의 및 MIT 연구 비판",
+        "AI 개발자 커뮤니티의 기술적 이해도 높아 AI 기술 전망에 대한 낙관적 분위기"
+      ],
+      "ai_summary": "AI Dev x NYC 컨퍼런스에서 AI 기술 발전과 산업 적용 전망에 대한 다양한 논의가 진행되어 AI 분야에 대한 낙관적 전망 제시",
+      "ai_themes": [
+        "기술발전",
+        "산업동향",
+        "윤리/안전"
+      ],
+      "published_at": "2025-11-21 02:38"
+    }
+  ]
+}

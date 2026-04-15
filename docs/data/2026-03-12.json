@@ -1,0 +1,165 @@
+{
+  "date": "2026-03-12",
+  "total": 6,
+  "ai_true": 5,
+  "ai_false": 1,
+  "source_counts": {
+    "demishassabis": 2,
+    "karpathy": 4
+  },
+  "avg_confidence": 0.73,
+  "top_themes": [
+    [
+      "기술발전",
+      4
+    ],
+    [
+      "생성형AI",
+      2
+    ],
+    [
+      "산업동향",
+      1
+    ],
+    [
+      "연구/논문",
+      1
+    ],
+    [
+      "윤리/안전",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2032056117983850795",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "And on the ground floor of Platform 37, we’ll be opening ‘The AI Exchange’ - a public space with exhibitions &amp; events to help people learn about AI. Looking forward to hosting our first visitors later this year! Read more on our blog: https://t.co/94RmRPlUuz",
+      "content_ko": "@demishassabis가 플랫폼 37의 'AI Exchange' 오픈을 발표하며, 런던의 플랫폼 37은 딥마인드의 알파고 승리 기념으로 명명되었다고 설명했습니다. AI 교육 공간을 통해 대중이 AI를 배울 수 있는 프로그램을 제공할 계획이라고 밝혔습니다. 관련 링크: https://t.co/94RmRPlUuz",
+      "url": "https://x.com/demishassabis/status/2032056117983850795",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "구글, 런던에 AI 교육 공간 'AI Exchange' 오픈 발표",
+      "ai_bullets": [
+        "런던 런던의 플랫폼 37에 AI 교육 공간 'AI Exchange' 오픈 계획 공개",
+        "플랫폼 37은 딥마인드의 알파고 승리 기념으로 명명된 AI 혁신 공간",
+        "올 여름 딥마인드와 구글 팀이 플랫폼 37에 입주해 AI 연구 확대 예정"
+      ],
+      "ai_summary": "구글이 런던에 AI 교육 공간 'AI Exchange'를 오픈하며, 플랫폼 37은 알파고 승리 기념으로 명명된 AI 혁신 공간으로 활용될 예정이다.",
+      "ai_themes": [
+        "산업동향"
+      ],
+      "published_at": "2026-03-12 20:28"
+    },
+    {
+      "post_id": "2032056115908039142",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "London has incredible talent &amp; entrepreneurial spirit. Thrilled to deepen @GoogleDeepMind’s roots here with our spectacular new building Platform 37 - a nod to AlphaGo’s legendary Move 37. It’s a tribute to Science &amp; AI, and an inspirational space for our next big breakthroughs! https://t.co/ZAY7bQ3OUl",
+      "content_ko": "@demishassabis 계정은 런던에서 Google DeepMind의 새로운 건물 Platform 37을 공개하며, 알파고의 유명한 37번 움직임을 기념했다고 설명했습니다. 이는 과학과 AI 연구를 위한 혁신적인 공간으로 개발 중인 프로젝트입니다. 관련 링크: https://t.co/ZAY7bQ3OUl",
+      "url": "https://x.com/demishassabis/status/2032056115908039142",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "Google DeepMind: AlphaGo 관련 새로운 건물 Platform 37 공개",
+      "ai_bullets": [
+        "런던에 위치한 Platform 37 건물은 알파고의 유명한 37번 움직임을 기념한 프로젝트",
+        "AI와 과학 연구를 위한 혁신적인 공간으로 개발 중인 건물 소개"
+      ],
+      "ai_summary": "Google DeepMind이 AI 연구를 위한 새로운 건물 Platform 37을 발표하며 알파고의 역사적 의미를 강조",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문"
+      ],
+      "published_at": "2026-03-12 20:28"
+    },
+    {
+      "post_id": "2031792523187040643",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "My autoresearch labs got wiped out in the oauth outage. Have to think through failovers. Intelligence brownouts will be interesting - the planet losing IQ points when frontier AI stutters.",
+      "content_ko": "내가 운영하는 자동 연구 실험실들이 OAuth 장애로 인해 초기화되었습니다. 시스템 복구 방안을 고민해야 합니다. 지능 저하 현상이 발생할 수 있는 AI 시스템의 장애 상황은 흥미로운 주제입니다. 행성의 지능 지수도 AI 시스템이 멈추면 감소할 수 있습니다.",
+      "url": "https://x.com/karpathy/status/2031792523187040643",
+      "is_ai_trend": true,
+      "ai_confidence": 0.6,
+      "ai_title": "AI 시스템 장애로 인한 지능 저하 현상 경고",
+      "ai_bullets": [
+        "OAuth 장애로 자동 연구 실험실이 초기화됨",
+        "AI 시스템 장애 시 지능 저하 현상 발생 가능성 제기"
+      ],
+      "ai_summary": "AI 시스템의 장애로 인한 지능 저하 현상에 대한 경고 및 시스템 복구 방안 논의",
+      "ai_themes": [
+        "기술발전",
+        "윤리/안전"
+      ],
+      "published_at": "2026-03-12 03:01"
+    },
+    {
+      "post_id": "2031774631498273005",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "Human orgs are not legible, the CEO can’t see/feel/zoom in on any activity in their company, with real time stats etc. I have no doubt that it will be possible to control orgs on mobile, with voice etc., but with this level of legibility will that be optimal? Not in principle and asymptotically but in practice and for at least the next round of play.",
+      "content_ko": "인간 조직은 가독성이 부족해 CEO가 실시간 통계 등을 통해 조직 내 활동을 파악할 수 없습니다. 이동통신을 통해 조직을 통제할 수 있을지, 이처럼 가독성이 높은 상태에서 최적화가 가능한지 논의합니다.",
+      "url": "https://x.com/karpathy/status/2031774631498273005",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-12 01:49"
+    },
+    {
+      "post_id": "2031770607466291393",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "All of these patterns as an example are just matters of “org code”. The IDE helps you build, run, manage them. You can’t fork classical orgs (eg Microsoft) but you’ll be able to fork agentic orgs. https://t.co/VBfL9ZzxKs",
+      "content_ko": "이러한 패턴들은 모두 '조직 코드'의 문제입니다. IDE는 이를 개발, 실행, 관리하는 데 도움을 줍니다. 클래식 조직(예: 마이크로소프트)은 분기할 수 없지만, 에이전트 기반 조직은 분기할 수 있습니다. https://t.co/VBfL9ZzxKs",
+      "url": "https://x.com/karpathy/status/2031770607466291393",
+      "is_ai_trend": true,
+      "ai_confidence": 0.7,
+      "ai_title": "AI 기반 조직 개발 도구의 혁신적 활용 가능성",
+      "ai_bullets": [
+        "IDE를 통해 조직 코드 개발 및 관리 가능",
+        "클래식 조직(예: 마이크로소프트)은 분기 불가능하지만 에이전트 기반 조직은 분기 가능"
+      ],
+      "ai_summary": "IDE 기반의 AI 조직 개발 도구가 기존 조직 구조를 혁신적으로 대체할 수 있는 가능성을 제시",
+      "ai_themes": [
+        "기술발전",
+        "생성형AI"
+      ],
+      "published_at": "2026-03-12 01:33"
+    },
+    {
+      "post_id": "2031767720933634100",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "Expectation: the age of the IDE is over\nReality: we’re going to need a bigger IDE\n(imo).\n\nIt just looks very different because humans now move upwards and program at a higher level - the basic unit of interest is not one file but one agent. It’s still programming. https://t.co/4YD3dzuf4d",
+      "content_ko": "기대: IDE의 시대는 끝났다. 현실: 더 큰 IDE가 필요하다(개인적으로). 인간이 이제 더 높은 수준에서 프로그래밍하고, 기본적인 관심 단위는 파일이 아닌 에이전트가 되었다. 여전히 프로그래밍이다. https://t.co/4YD3dzuf4d",
+      "url": "https://x.com/karpathy/status/2031767720933634100",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "AI 에이전트가 프로그래밍 방식 혁신 주도",
+      "ai_bullets": [
+        "인간이 고수준에서 프로그래밍하고 에이전트가 파일 단위가 아닌 핵심 단위로 작동",
+        "IDE의 시대가 끝났고 더 큰 IDE가 필요하다는 주장",
+        "AI 에이전트가 연구 자동화 및 코드 최적화 기능 제공"
+      ],
+      "ai_summary": "AI 에이전트가 프로그래밍 방식을 혁신하며 기존 IDE의 한계를 넘어선 새로운 개발 패러다임을 제시",
+      "ai_themes": [
+        "기술발전",
+        "생성형AI",
+        "오픈소스"
+      ],
+      "published_at": "2026-03-12 01:22"
+    }
+  ]
+}

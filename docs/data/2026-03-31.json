@@ -1,14 +1,174 @@
 {
   "date": "2026-03-31",
-  "total": 1,
-  "ai_true": 0,
-  "ai_false": 1,
+  "total": 8,
+  "ai_true": 3,
+  "ai_false": 5,
   "source_counts": {
+    "OpenAI Blog": 1,
+    "Jaemyung_Lee": 1,
+    "msitminister": 1,
+    "karpathy": 1,
+    "SKT Newsroom": 3,
     "sama": 1
   },
-  "avg_confidence": 0.2,
-  "top_themes": [],
+  "avg_confidence": 0.44,
+  "top_themes": [
+    [
+      "기술발전",
+      3
+    ],
+    [
+      "산업동향",
+      2
+    ],
+    [
+      "투자/시장",
+      1
+    ]
+  ],
   "posts": [
+    {
+      "post_id": "9f84e2e45d87466b2176e26e",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+      "content_ko": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI. https://openai.com/blog/openai-funding-announcement",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "오픈AI, 1220억 달러 투자로 글로벌 AI 확장",
+      "ai_bullets": [
+        "1220억 달러 규모 신규 자금 조달, 글로벌 AI 경계 확장 지원",
+        "다음 세대 컴퓨팅 투자 및 ChatGPT/Codex/엔터프라이즈 AI 수요 충족 목적"
+      ],
+      "ai_summary": "오픈AI가 대규모 투자 통해 글로벌 AI 기술 확장 및 인프라 구축에 나섰습니다.",
+      "ai_themes": [
+        "투자/시장",
+        "기술발전"
+      ],
+      "published_at": "2026-03-31 22:00"
+    },
+    {
+      "post_id": "2038948760269492565",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "미국 연방하원 아미 베라 동아태소위원회 간사님을 비롯한 코리아 스터디그룹 의원 여러분의 방한을 진심으로 환영합니다.  \n\n코리아 스터디그룹 의원들께서는 그간 한미동맹의 발전을 위해 초당적 지지를 보내주셨습니다. 오늘의 회동 역시 이러한 연속선상에서 협력을 더욱 공고히 하기 위한 자리였습니다.  \n\n우리는 대한민국 기업의 대미 투자 패키지를 비롯해 원자력의 평화적 이용, 핵추진 잠수함, 조선 등 주요 분야 협력 강화와 양국의 전략적 이익 극대화를 위해 노력해 나가자고 뜻을 모았습니다.  \n\n아울러 조지아주에서 발생한 한국인 구금 사태와 같은 일이 재발하지 않도록 해야 한다는 데 의견을 같이 하고, 미국 내 우리 노동자들의 안정적 체류 보장을 위한 제도 개선에도 긴밀히 협력하기로 했습니다.\n\n최근 중동 전쟁으로 인한 위기 대응 과정에서도 협력을 지속적으로 추진해 나갈 계획입니다. 앞으로도 한미동맹 발전을 위한 의원 여러분의 각별한 관심과 지속적인 기여를 부탁드립니다.\n\nI sincerely welcome the visit to the Republic of Korea by members of the Congressional Study Group on Korea(CSGK), including Representative Ami Bera, Ranking Member of the U.S. House Foreign Affairs Subcommittee on East Asia and the Pacific.\n\nThe members of the CSGK have long demonstrated bipartisan support for the advancement of the ROK-U.S. Alliance. Today's meeting was held in that same spirit, as a step toward further solidifying our cooperation.\n\nWe agreed to work together to strengthen cooperation in key areas —including the investment packages of Korean companies in the United States, peaceful use of nuclear energy, conventionally armed nuclear-powered submarines, and shipbuilding— and to maximize our mutual strategic interests through these efforts.\n\nWe also shared concerns that incidents such as the detention of Korean nationals in Georgia should not recur, and agreed to work closely together on improving relevant systems to ensure a stable legal status for our workers in the United States.\n\nWe also plan to continue to advance cooperation in the course of dealing with the recent crises in the Middle East. I ask you, the members, for your continued attention and contributions to the further development of the ROK-U.S. Alliance.",
+      "content_ko": "미국 연방하원 아미 베라 동아태소위원회 간사님을 비롯한 코리아 스터디그룹 의원 여러분의 방한을 진심으로 환영합니다. 코리아 스터디그룹 의원들께서는 그간 한미동맹의 발전을 위해 초당적 지지를 보내주셨습니다. 오늘의 회동 역시 이러한 연속선상에서 협력을 더욱 공고히 하기 위한 자리였습니다. 대한민국 기업의 대미 투자 패키지, 원자력의 평화적 이용, 핵추진 잠수함, 조선 등 주요 분야 협력 강화와 양국의 전략적 이익 극대화를 위해 노력해 나가자고 뜻을 모았습니다. 조지아주에서 발생한 한국인 구금 사태와 같은 일이 재발하지 않도록 해야 한다는 데 의견을 같이하고, 미국 내 우리 노동자들의 안정적 체류 보장을 위한 제도 개선에도 긴밀히 협력하기로 했습니다. 중동 전쟁으로 인한 위기 대응 과정에서도 협력을 지속적으로 추진해 나갈 계획입니다. 앞으로도 한미동맹 발전을 위한 의원 여러분의 각별한 관심과 지속적인 기여를 부탁드립니다.",
+      "url": "https://x.com/Jaemyung_Lee/status/2038948760269492565",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "정책/규제",
+        "산업동향",
+        "기타"
+      ],
+      "published_at": "2026-03-31 20:57"
+    },
+    {
+      "post_id": "2038889874108129405",
+      "platform": "twitter",
+      "account_handle": "msitminister",
+      "display_name": "배경훈",
+      "content": "<🌸벚꽃 피는 4월🌸, 과학도 함께 피어납니다>\n\n이번 주부터 벚꽃이 본격적으로 피기 시작했습니다. 계절이 바뀌는 이 시기에, 우리 일상 속에서도 또 하나의 변화가 시작됩니다.\n\n4월은 ‘과학의 달’입니다.\n\n올해는 전국 곳곳에서 과학을 직접 보고, 듣고, 체험할 수 있는 다양한 프로그램이 준비되어 있습니다. 부산, 대전, 수도권, 전주까지 4개 권역으로 확대해 더 많은 국민들께서 가까운 곳에서 과학을 만날 수 있도록 했습니다.\n\n국립과학관과 지역 과학축제 등 다양한 프로그램이 마련되어 있는데, 그중에서도 개인적으로는 국립과천과학관에서 2년에 걸쳐 준비한 ‘양자시대’ 특별전이 눈에 띄었습니다. 양자기술은 아직은 낯설지만 앞으로 우리의 산업과 일상을 바꿀 중요한 기술입니다. 아이들부터 어른들까지 쉽게 체험할 수 있도록 구성되어 있다고 하니, 저도 시간이 되면 꼭 한 번 가보고 싶습니다.\n\n과학은 더 이상 멀리 있는 지식이 아니라, 일상에서 직접 경험하는 것이 중요합니다. AI와 과학기술이 어떻게 우리의 삶을 바꾸고 있는지, 이번 기회를 통해 즐겁게 체험해 보실 수 있기를 바랍니다.\n\n가족과 함께, 아이들과 함께, 혹은 혼자서도 좋습니다. 벚꽃을 보러 나가는 길에 가까운 과학관이나 과학축제에 들러보시고, 각자 관심 있는 프로그램을 다양하게 경험해 보셨으면 합니다. 그 경험이 과학에 대한 관심을 키우고, 우리 미래를 준비하는 출발점이 될 것입니다. 🌸🌸\n\n#과학의달 #대한민국과학축제 #과학문화 #양자시대 #AI #과기정통부 #벚꽃",
+      "content_ko": "🌸 벚꽃이 피는 4월🌸, 과학도 함께 피어납니다. 이번 주부터 벚꽃이 본격적으로 피기 시작했습니다. 계절이 바뀌는 이 시기에, 우리 일상 속에서도 또 하나의 변화가 시작됩니다. 4월은 '과학의 달'입니다. 올해는 전국 곳곳에서 과학을 직접 보고, 듣고, 체험할 수 있는 다양한 프로그램이 준비되어 있습니다. 부산, 대전, 수도권, 전주까지 4개 권역으로 확대해 더 많은 국민들께서 가까운 곳에서 과학을 만날 수 있도록 했습니다. 국립과학관과 지역 과학축제 등 다양한 프로그램이 마련되어 있는데, 그중에서도 개인적으로는 국립과천과학관에서 2년에 걸쳐 준비한 '양자시대' 특별전이 눈에 띄었습니다. 양자기술은 아직은 낯설지만 앞으로 우리의 산업과 일상을 바꿀 중요한 기술입니다. 아이들부터 어른들까지 쉽게 체험할 수 있도록 구성되어 있다고 하니, 저도 시간이 되면 꼭 한 번 가보고 싶습니다. 과학은 더 이상 멀리 있는 지식이 아니라, 일상에서 직접 경험하는 것이 중요합니다. AI와 과학기술이 어떻게 우리의 삶을 바꾸고 있는지, 이번 기회를 통해 즐겁게 체험해 보실 수 있기를 바랍니다. 가족과 함께, 아이들과 함께, 혹은 혼자서도 좋습니다. 벚꽃을 보러 나가는 길에 가까운 과학관이나 과학축제에 들러보시고, 각자 관심 있는 프로그램을 다양하게 경험해 보셨으면 합니다. 그 경험이 과학에 대한 관심을 키우고, 우리 미래를 준비하는 출발점이 될 것입니다. 🌸🌸",
+      "url": "https://x.com/msitminister/status/2038889874108129405",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-31 17:03"
+    },
+    {
+      "post_id": "2038849654423798197",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "New supply chain attack this time for npm axios, the most popular HTTP client library with 300M weekly downloads.\n\nScanning my system I found a use imported from googleworkspace/cli from a few days ago when I was experimenting with gmail/gcal cli. The installed version (luckily) resolved to an unaffected 1.13.5, but the project dependency is not pinned, meaning that if I did this earlier today the code would have resolved to latest and I'd be pwned.\n\nIt's possible to personally defend against these to some extent with local settings e.g. release-age constraints, or containers or etc, but I think ultimately the defaults of package management projects (pip, npm etc) have to change so that a single infection (usually luckily fairly temporary in nature due to security scanning) does not spread through users at random and at scale via unpinned dependencies.\n\nMore comprehensive article:\nhttps://t.co/EJAZbqAPIQ",
+      "content_ko": "npm axios 패키지에 대한 공격 사례 공유. 사용자가 구글워크스페이스 CLI를 실험 중이던 시점에 악성 버전이 설치되었으나, 현재 버전은 안전한 1.13.5로 해결. 그러나 의존성이 고정되지 않아 이전에 설치하면 취약성이 발생할 수 있음. 패키지 관리자(예: npm)의 기본 설정이 보안 위험을 방지하도록 개선해야 함. 링크: https://t.co/EJAZbqAPIQ",
+      "url": "https://x.com/karpathy/status/2038849654423798197",
+      "is_ai_trend": false,
+      "ai_confidence": 0.3,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-31 14:23"
+    },
+    {
+      "post_id": "669e4744e784ba2f835f1563",
+      "platform": "rss",
+      "account_handle": "SKT Newsroom",
+      "display_name": "SK텔레콤",
+      "content": "SKT-NTT도코모, AI-RAN 백서 공동 발간",
+      "content_ko": "SK텔레콤(대표이사 정재헌)은 일본 최대 이동통신사 NTT도코모와 함께 가상화 기지국(vRAN) 및 AI-RAN 구현을 위한 핵심 기술 요건과 발전 방향을 담은 백서를 공동 발간했다고 31일 밝혔습니다. 이번 백서는 양사의 모바일 네트워크 구축 경험을 바탕으로 작성됐으며, 가상화 기지국과 AI-RAN의 고도화 가능성, 기술 요구사항, 핵심 구현 기술 등을 분석했습니다. 또한 양사는 AI-RAN 기술의 효과 극대화를 위해 HW·SW 분리, 리소스 풀링, AI 컴퓨팅 등 차세대 네트워크 기술 도입을 제안하며 5G 경쟁력 강화 및 6G 표준화를 위한 지속 협력 계획을 발표했습니다. [링크 내용]",
+      "url": "https://news.sktelecom.com/223385",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "SKT-NTT도코모, AI-RAN 기술 백서 공동 발표",
+      "ai_bullets": [
+        "가상화 기지국 및 AI-RAN 구현을 위한 핵심 기술 요건과 발전 방향 제시",
+        "HW·SW 분리, 리소스 풀링, AI 컴퓨팅 등 차세대 네트워크 기술 도입",
+        "5G 경쟁력 강화 및 6G 표준화를 위한 지속 협력 추진"
+      ],
+      "ai_summary": "SK텔레콤과 NTT도코모가 AI 기반 무선 접속망(RAN) 기술을 위한 백서를 공동 발표하며 차세대 통신 인프라 구축 전략을 제시했습니다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-03-31 09:23"
+    },
+    {
+      "post_id": "18301e18bc9f1e227795fc8d",
+      "platform": "rss",
+      "account_handle": "SKT Newsroom",
+      "display_name": "SK텔레콤",
+      "content": "<p>– 가상화 기지국 및 AI-RAN 구현을 위한 핵심 기술 요건과 발전 방향 담아 – HW·SW 분리, 리소스 풀링, AI 컴퓨팅 등 차세대 네트워크 핵심 기술 제시 – 5G 경쟁력 강화</p>\n<p>The post <a href=\"https://news.sktelecom.com/223366\">SKT-NTT도코모, AI-RAN 백서 공동 발간</a> first appeared on <a href=\"https://news.sktelecom.com\">SK텔레콤 뉴스룸</a>.</p>",
+      "content_ko": "SK텔레콤(대표이사 정재헌)은 일본 최대 이동통신사 NTT도코모와 함께 가상화 기지국(vRAN) 및 AI-RAN 구현을 위한 핵심 기술 요건과 발전 방향을 담은 백서를 공동 발간했다고 31일 밝혔습니다. 이번 백서는 양사의 모바일 네트워크 구축 경험을 바탕으로 작성됐으며, 가상화 기지국과 AI-RAN의 고도화 가능성, 기술 요구사항, 핵심 구현 기술 등을 분석했습니다. 또한 양사는 AI-RAN 기술의 효과 극대화를 위해 HW·SW 분리, 리소스 풀링, AI 컴퓨팅 등 차세대 네트워크 기술 도입을 제안하며 5G 경쟁력 강화 및 6G 표준화를 위한 지속 협력 계획을 발표했습니다. [링크 내용]",
+      "url": "https://news.sktelecom.com/223366",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "SKT-NTT도코모, AI-RAN 기술 백서 공동 발표",
+      "ai_bullets": [
+        "가상화 기지국 및 AI-RAN 구현을 위한 핵심 기술 요건과 발전 방향 제시",
+        "HW·SW 분리, 리소스 풀링, AI 컴퓨팅 등 차세대 네트워크 기술 도입",
+        "5G 경쟁력 강화 및 6G 표준화를 위한 지속 협력 추진"
+      ],
+      "ai_summary": "SK텔레콤과 NTT도코모가 AI 기반 무선 접속망(RAN) 기술을 위한 백서를 공동 발표하며 차세대 통신 인프라 구축 전략을 제시했습니다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-03-31 09:21"
+    },
+    {
+      "post_id": "bab06074d4b487f67f3fc9d0",
+      "platform": "rss",
+      "account_handle": "SKT Newsroom",
+      "display_name": "SK텔레콤",
+      "content": "<p>“처음의 마음으로 고객을 만나고, 듣겠습니다.” SK텔레콤은 창립 42주년을 맞아 ‘기념식’ 대신 고객이 있는 현장으로 향했다. 지난 27일 진행된 이번 고객 방문 행사에는 CEO와 경영진, 고객신뢰위원회 위원 등 약 80여 명이</p>\n<p>The post <a href=\"https://news.sktelecom.com/223340\">고객을 만나는 날로 바뀐 SKT 창립기념일… 현장에서 답을 찾다</a> first appeared on <a href=\"https://news.sktelecom.com\">SK텔레콤 뉴스룸</a>.</p>",
+      "content_ko": "SK텔레콤은 창립 42주년을 맞아 '기념식' 대신 고객이 있는 현장으로 향했습니다. 지난 27일 진행된 고객 방문 행사에는 CEO와 경영진, 고객신뢰위원회 위원 등 약 80여 명이 참여해 전국 각지의 고객 접점을 직접 방문해 이용 경험과 의견을 확인했습니다. 이 행사는 '고객 앞에 다시 서는 날'로 정의되며, 경영층이 직접 고객을 만나고 목소리를 경청하는 것을 통해 서비스 혁신과 디지털 접근성 강화를 다짐하는 시간이었습니다. [링크 내용]",
+      "url": "https://news.sktelecom.com/223340",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-31 08:29"
+    },
     {
       "post_id": "2038640963036626971",
       "platform": "twitter",
@@ -18,13 +178,11 @@
       "content_ko": "이것은 매우 좋은 게시물입니다: https://t.co/w4O3Pol0v3",
       "url": "https://x.com/sama/status/2038640963036626971",
       "is_ai_trend": false,
-      "ai_confidence": 0.2,
+      "ai_confidence": 0.0,
       "ai_title": "",
       "ai_bullets": [],
       "ai_summary": "",
-      "ai_themes": [
-        "기타"
-      ],
+      "ai_themes": [],
       "published_at": "2026-03-31 00:34"
     }
   ]

@@ -1,0 +1,45 @@
+{
+  "date": "2026-01-29",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "오픈소스",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2016564878098780245",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "Important new course: Agent Skills with Anthropic, built with @AnthropicAI and taught by @eschoppik!\n\nSkills are constructed as folders of instructions that equip agents with on-demand knowledge and workflows. This short course teaches you how to create them following best practices. Because skills follow an open standard format, you can build them once and deploy across any skills-compatible agent, like Claude Code.\n\nWhat you'll learn:\n- Create custom skills for code generation and review, data analysis, and research\n- Build complex workflows using Anthropic's pre-built skills (Excel, PowerPoint, skill creation) and custom skills\n- Combine skills with MCP and subagents to create agentic systems with specialized knowledge\n- Deploy the same skills across https://t.co/Ru4OXv4saV, Claude Code, the Claude API, and the Claude Agent SDK\n\nJoin and learn to equip agents with the specialized knowledge they need for reliable, repeatable workflows.\nhttps://t.co/3hq83c3q0U",
+      "content_ko": "Anthropic과 협력하여 에이전트 기술을 활용한 코드 생성 및 데이터 분석 워크플로우 개발 교육 프로그램이 발표되었다. 이 과정에서는 오픈 표준 형식을 기반으로 한 기술을 재사용할 수 있도록 하며, 클라우드 코드, API, SDK 등 다양한 플랫폼에서 배포할 수 있다. 사용자는 커스터마이징된 기술을 통해 AI 기반의 신뢰성 있는 작업 흐름을 구축할 수 있으며, 이는 기존의 수작업 프로세스를 대체하는 혁신적인 접근법이다.",
+      "url": "https://x.com/AndrewYNg/status/2016564878098780245",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "Anthropic과 협력한 에이전트 기술 교육 프로그램 발표",
+      "ai_bullets": [
+        "에이전트 기술을 활용한 코드 생성 및 데이터 분석 워크플로우 개발 교육",
+        "오픈 표준 형식 기반의 기술 재사용 가능",
+        "클라우드 코드, API, SDK 등 다양한 플랫폼에서 배포 가능"
+      ],
+      "ai_summary": "Anthropic과 협력한 에이전트 기술 교육 프로그램이 AI 워크플로우 개선을 위한 새로운 방법론을 제시한다.",
+      "ai_themes": [
+        "기술발전",
+        "오픈소스"
+      ],
+      "published_at": "2026-01-29 02:31"
+    }
+  ]
+}

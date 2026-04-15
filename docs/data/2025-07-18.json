@@ -1,0 +1,44 @@
+{
+  "date": "2025-07-18",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "NVIDIA Blog": 1
+  },
+  "avg_confidence": 1.0,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "산업동향",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "64ac1aad10fb4151553e5bba",
+      "platform": "rss",
+      "account_handle": "NVIDIA Blog",
+      "display_name": "NVIDIA",
+      "content": "The University of Bristol’s Isambard-AI, powered by NVIDIA Grace Hopper Superchips, delivers 21 exaflops of AI performance, making it the fastest system in the U.K. and among the most energy-efficient globally.",
+      "content_ko": "브리스톨 대학의 Isambard-AI는 NVIDIA Grace Hopper Superchips를 기반으로 하여 21 exaflops의 AI 성능을 제공하며, 영국에서 가장 빠른 시스템으로 전 세계적으로 에너지 효율성이 가장 높은 것으로 나타났습니다. [링크 내용]",
+      "url": "https://blogs.nvidia.com/blog/isambard-ai/",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "브리스톨 대학, NVIDIA Grace Hopper 슈퍼칩 기반 AI 시스템으로 세계 최고 성능 달성",
+      "ai_bullets": [
+        "브리스톨 대학의 Isambard-AI 시스템이 NVIDIA Grace Hopper 슈퍼칩을 기반으로 21 exaflops 성능 달성",
+        "이 시스템은 영국에서 가장 빠른 AI 시스템으로, 전 세계적으로 에너지 효율성이 가장 높음"
+      ],
+      "ai_summary": "NVIDIA Grace Hopper 슈퍼칩 기반의 Isambard-AI 시스템이 영국 최고 성능 AI 시스템으로 선정됨",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2025-07-18 02:00"
+    }
+  ]
+}

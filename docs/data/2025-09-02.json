@@ -6,7 +6,7 @@
   "source_counts": {
     "NVIDIA Blog": 1
   },
-  "avg_confidence": 0.1,
+  "avg_confidence": 0.0,
   "top_themes": [],
   "posts": [
     {
@@ -15,10 +15,10 @@
       "account_handle": "NVIDIA Blog",
       "display_name": "NVIDIA",
       "content": "For more than a century, meteorologists have chased storms with chalkboards, equations, and now, supercomputers. But for all the progress, they still stumble over one deceptively simple ingredient: water vapor. Humidity is the invisible fuel for thunderstorms, flash floods, and hurricanes. It’s the difference between a passing sprinkle and a summer downpour that sends you [&#8230;]",
-      "content_ko": "100년 이상 기간 동안 기상학자들은 캔버스, 방정식, 그리고 이제 슈퍼컴퓨터를 사용하여 폭풍을 추적해 왔다. 그러나 모든 진보에도 불구하고, 그들은 여전히 하나의 유혹적으로 간단한 성분에 당황한다: 수증기. 습도는 번개, 홍수, 허리케인에 대한 은유적인 연료이다. 이는 지나치게 빗이 내리는 것과 여름에 폭우가 내리는 것 사이의 차이이다.",
+      "content_ko": "지난 100년 이상 기상학자들은 체크보드, 방정식, 그리고 이제 초고속 컴퓨터를 통해 폭풍을 추적해 왔습니다. 하지만 모든 진보에도 불구하고 여전히 하나의 간단한 요소에 어려움을 겪고 있습니다: 수증기. 습도는 번개가 치는 폭우, 홍수, 허리케인의 가짜 연료입니다. 이는 가벼운 비와 여름철 폭우 사이의 차이를 만드는 요소입니다. [링크 내용]",
       "url": "https://blogs.nvidia.com/blog/humidity/",
       "is_ai_trend": false,
-      "ai_confidence": 0.1,
+      "ai_confidence": 0.0,
       "ai_title": "",
       "ai_bullets": [],
       "ai_summary": "",

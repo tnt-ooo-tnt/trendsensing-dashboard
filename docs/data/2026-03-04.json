@@ -1,0 +1,44 @@
+{
+  "date": "2026-03-04",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "demishassabis": 1
+  },
+  "avg_confidence": 1.0,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "생성형AI",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2029047252275060895",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "small but mighty 💪 - our new Gemini 3.1 Flash-Lite model is incredibly fast and cost-efficient for its performance https://t.co/rD33f5qTiV",
+      "content_ko": "작은 크기지만 강력한 성능을 자랑하는 우리의 새 Gemini 3.1 Flash-Lite 모델은 속도와 성능 효율성에서 뛰어난 결과를 보여줍니다. https://t.co/rD33f5qTiV",
+      "url": "https://x.com/demishassabis/status/2029047252275060895",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "Gemini 3.1 Flash-Lite, 속도와 성능 효율성 높아",
+      "ai_bullets": [
+        "새로운 Gemini 3.1 Flash-Lite 모델 발표",
+        "속도와 성능 효율성에서 우수한 성능 보여"
+      ],
+      "ai_summary": "Gemini 3.1 Flash-Lite 모델이 속도와 성능 효율성에서 뛰어난 성능을 자랑하며 발표됨",
+      "ai_themes": [
+        "기술발전",
+        "생성형AI"
+      ],
+      "published_at": "2026-03-04 13:12"
+    }
+  ]
+}

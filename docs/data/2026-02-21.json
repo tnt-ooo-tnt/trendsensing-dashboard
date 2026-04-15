@@ -1,0 +1,68 @@
+{
+  "date": "2026-02-21",
+  "total": 2,
+  "ai_true": 1,
+  "ai_false": 1,
+  "source_counts": {
+    "karpathy": 2
+  },
+  "avg_confidence": 0.53,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "생성형AI",
+      1
+    ],
+    [
+      "윤리/안전",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2024997757757653224",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "First there was chat, then there was code, now there is claw. Ez",
+      "content_ko": "처음에는 채팅이 있었고, 그 다음에는 코드가 있었고, 이제는 클라우( Claw )가 있다. 쉬운 것 같아요.",
+      "url": "https://x.com/karpathy/status/2024997757757653224",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-02-21 09:01"
+    },
+    {
+      "post_id": "2024987174077432126",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "Bought a new Mac mini to properly tinker with claws over the weekend. The apple store person told me they are selling like hotcakes and everyone is confused :)\n\nI'm definitely a bit sus'd to run OpenClaw specifically - giving my private data/keys to 400K lines of vibe coded monster that is being actively attacked at scale is not very appealing at all. Already seeing reports of exposed instances, RCE vulnerabilities, supply chain poisoning, malicious or compromised skills in the registry, it feels like a complete wild west and a security nightmare. But I do love the concept and I think that just like LLM agents were a new layer on top of LLMs, Claws are now a new layer on top of LLM agents, taking the orchestration, scheduling, context, tool calls and a kind of persistence to a next level.\n\nLooking around, and given that the high level idea is clear, there are a lot of smaller Claws starting to pop out. For example, on a quick skim NanoClaw looks really interesting in that the core engine is ~4000 lines of code (fits into both my head and that of AI agents, so it feels manageable, auditable, flexible, etc.) and runs everything in containers by default. I also love their approach to configurability - it's not done via config files it's done via skills! For example, /add-telegram instructs your AI agent how to modify the actual code to integrate Telegram. I haven't come across this yet and it slightly blew my mind earlier today as a new, AI-enabled approach to preventing config mess and if-then-else monsters. Basically - the implied new meta is to write the most maximally forkable repo and then have skills that fork it into any desired more exotic configuration. Very cool.\n\nAnyway there are many others - e.g. nanobot, zeroclaw, ironclaw, picoclaw (lol @ prefixes). There are also cloud-hosted alternatives but tbh I don't love these because it feels much harder to tinker with. In particular, local setup allows easy connection to home automation gadgets on the local network. And I don't know, there is something aesthetically pleasing about there being a physical device 'possessed' by a little ghost of a personal digital house elf.\n\nNot 100% sure what my setup ends up looking like just yet but Claws are an awesome, exciting new layer of the AI stack.",
+      "content_ko": "새로운 매킨토시 미니를 구입해 Claws 작업을 위해 주말에 조립했습니다. 애플 스토어 직원은 이 제품이 빠르게 판매되고 있으며 모두 혼란스러운 상황이라고 말했습니다. OpenClaw을 구동시키는 것에 대해 의심스러운 점이 있습니다. 개인 데이터/키를 40만 줄의 vibe 코드로 구성된 몬스터에 전달하는 것은 매우 부적절합니다. 이미 공개된 인스턴스, 원격 코드 실행 취약점, 공급망 오염, 악성 또는 해킹된 스킬 등 보안 위험에 대한 보고가 있습니다. 하지만 개념은 좋아요. LLM 에이전트가 LLM 위에 새로운 레이어로 등장했듯이, Claws는 LLM 에이전트 위에 새로운 레이어로 등장하며 오케스트레이션, 스케줄링, 컨텍스트, 도구 호출 및 일정한 지속성 기능을 다음 단계로 확장하고 있습니다. 다양한 작은 Claws가 등장하고 있습니다. 예를 들어, NanoClaw는 코어 엔진이 약 4,000 줄로 구성되어 있으며, 컨테이너에서 실행되며, 스킬 기반 구성 방식을 사용합니다. /add-telegram은 AI 에이전트가 Telegram을 통합하는 코드를 수정하도록 지시합니다. 이는 기존의 if-then-else 구조를 방지하는 새로운 AI 기반 접근법입니다. 다양한 Claws 사례(zeroclaw, ironclaw 등)와 클라우드 호스팅 대안에 대한 언급, 로컬 설정의 장점 강조",
+      "url": "https://x.com/karpathy/status/2024987174077432126",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "OpenClaw 보안 우려와 AI 에이전트 생태계 진화",
+      "ai_bullets": [
+        "OpenClaw 프로젝트의 보안 취약점(공개된 인스턴스, 원격 코드 실행 취약점, 공급망 오염)에 대한 우려",
+        "LLM 에이전트 위에 새로운 레이어인 Claws가 등장하며, 오케스트레이션, 스케줄링, 도구 호출 기능 확장",
+        "NanoClaw 등 소형 Claws 사례 소개 및 컨테이너 기반 실행, 스킬 기반 구성 가능성 강조"
+      ],
+      "ai_summary": "OpenClaw의 보안 문제와 AI 에이전트 위에 새로운 레이어인 Claws의 등장, 소형 Claws 사례 소개",
+      "ai_themes": [
+        "기술발전",
+        "생성형AI",
+        "윤리/안전"
+      ],
+      "published_at": "2026-02-21 08:18"
+    }
+  ]
+}

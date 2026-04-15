@@ -1,12 +1,14 @@
 {
   "date": "2026-04-10",
-  "total": 10,
-  "ai_true": 8,
-  "ai_false": 2,
+  "total": 39,
+  "ai_true": 31,
+  "ai_false": 8,
   "source_counts": {
-    "Samsung Newsroom": 1,
+    "Jaemyung_Lee": 3,
+    "Samsung Newsroom": 3,
     "msitminister": 1,
-    "OpenAI Blog": 4,
+    "OpenAI Blog": 25,
+    "SKT Newsroom": 3,
     "sama": 1,
     "karpathy": 2,
     "AndrewYNg": 1
@@ -14,42 +16,130 @@
   "avg_confidence": 0.77,
   "top_themes": [
     [
-      "산업동향",
-      5
-    ],
-    [
       "기술발전",
-      4
-    ],
-    [
-      "연구/논문",
-      2
+      20
     ],
     [
       "생성형AI",
-      1
+      18
+    ],
+    [
+      "산업동향",
+      15
     ],
     [
       "윤리/안전",
+      2
+    ],
+    [
+      "정책/규제",
       1
     ]
   ],
   "posts": [
+    {
+      "post_id": "2042561412455919796",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "<오늘 민주노총 위원장님들과의 만남을 통해, 대화와 협력만이 상생의 미래를 열어갈 유일한 해법이라는 사실을 다시 한 번 확인합니다. \n\n노동시장 격차 해소부터 AI와 산업 대전환의 파고까지, 우리 앞에 놓인 과제들은 어느 것 하나 쉬운 것 없는 도전의 연속입니다. 과거와는 질적으로 다른 복합위기를 도약의 기회로 삼으려면 노동계와 기업, 정부가 존중과 신뢰를 바탕으로 머리를 맞대고 지혜를 모아야 합니다. \n\n정부는 사회적 대화에 대한 민주노총의 고민과 노력을 존중하며, 열린 자세로 협력 관계를 모색해 나갈 것입니다. 오늘 주신 의견 하나하나 역시 꼼꼼하게 살피며, 국민 삶을 바꿀 정책적 대안을 만들어내겠습니다. \n\n'노동 존중 사회'로 나아가는 길에 전국민주노동조합총연맹이 든든한 파트너가 되어주실 것으로 기대합니다.>",
+      "content_ko": "오늘 민주노총 위원장님들과의 만남을 통해, 대화와 협력만이 상생의 미래를 열어갈 유일한 해법이라는 사실을 다시 한 번 확인합니다. 노동시장 격차 해소부터 AI와 산업 대전환의 파고까지, 우리 앞에 놓인 과제들은 어느 것 하나 쉬운 것 없는 도전의 연속입니다. 과거와는 질적으로 다른 복합위기를 도약의 기회로 삼으려면 노동계와 기업, 정부가 존중과 신뢰를 바탕으로 머리를 맞대고 지혜를 모아야 합니다. 정부는 사회적 대화에 대한 민주노총의 고민과 노력을 존중하며, 열린 자세로 협력 관계를 모색해 나갈 것입니다. 오늘 주신 의견 하나하나 역시 꼼꼼하게 살피며, 국민 삶을 바꿀 정책적 대안을 만들어내겠습니다. '노동 존중 사회'로 나아가는 길에 전국민주노동조합총연맹이 든든한 파트너가 되어주실 것으로 기대합니다.",
+      "url": "https://x.com/Jaemyung_Lee/status/2042561412455919796",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "AI와 산업 전환에 대한 노동계 협력 방안 논의",
+      "ai_bullets": [
+        "민주노총과의 협의에서 AI와 산업 대전환의 복합위기를 도약 기회로 삼기로 합의",
+        "노동시장 격차 해소와 AI 기술의 산업적 영향에 대한 대응 방안 논의",
+        "정부가 사회적 대화를 존중하며 협력 관계 구축에 적극 나서기로 함"
+      ],
+      "ai_summary": "AI 기술과 산업 변화에 대응하기 위한 노동계와 정부의 협력 방안 논의",
+      "ai_themes": [
+        "정책/규제",
+        "산업동향"
+      ],
+      "published_at": "2026-04-10 20:12"
+    },
     {
       "post_id": "f20b47a9f775c2c1c35caae2",
       "platform": "rss",
       "account_handle": "Samsung Newsroom",
       "display_name": "삼성 뉴스룸",
       "content": "가전을 선택하는 기준이 달라졌다. 이제는 단순히 성능을 비교하는 수준을 넘어, 우리 집 구조와 가족의 라이프스타일에 얼마나 최적화되어 있는지가 제품 선택의 핵심이다. 특히 주거 환경이나 가족 구성원에 따라 설치 공간과 가사 동선이 달라지는 의류케어 가전은 사용자에게 꼭 맞는 형태를 고르는 것이 무엇보다 중요하다. 삼성전자는 여러 의류케어 가전 라인업을 통해 사용자마다 각기 다른 주거 형태에 맞춘 의류케어 […]",
-      "content_ko": "가전을 선택하는 기준이 달라졌다. 이제는 단순히 성능을 비교하는 수준을 넘어, 우리 집 구조와 가족의 라이프스타일에 얼마나 최적화되어 있는지가 제품 선택의 핵심이다. 특히 주거 환경이나 가족 구성원에 따라 설치 공간과 가사 동선이 달라지는 의류케어 가전은 사용자에게 꼭 맞는 형태를 고르는 것이 무엇보다 중요하다. 삼성전자는 여러 의류케어 가전 라인업을 통해 사용자마다 각기 다른 주거 형태에 맞춘 의류케어 ",
+      "content_ko": "가전을 선택하는 기준이 달라졌다. 이제는 단순히 성능을 비교하는 수준을 넘어, 우리 집 구조와 가족의 라이프스타일에 얼마나 최적화되어 있는지가 제품 선택의 핵심이다. 특히 주거 환경이나 가족 구성원에 따라 설치 공간과 가사 동선이 달라지는 의류케어 가전은 사용자에게 꼭 맞는 형태를 고르는 것이 무엇보다 중요하다. 삼성전자는 여러 의류케어 가전 라인업을 통해 사용자마다 각기 다른 주거 형태에 맞춘 의류케어 …",
       "url": "https://news.samsung.com/kr/%ec%98%81%ec%83%81-%ec%9a%b0%eb%a6%ac-%ec%a7%91-%ea%b3%b5%ea%b0%84%ec%97%90-%eb%94%b1-%eb%9d%bc%ec%9d%b4%ed%94%84%ec%8a%a4%ed%83%80%ec%9d%bc%eb%a1%9c-%ea%b3%a0%eb%a5%b4",
       "is_ai_trend": false,
       "ai_confidence": 0.2,
+      "ai_title": "삼성전자, 의류케어 가전 사용자 맞춤형 설계 강조",
+      "ai_bullets": [
+        "가전 선택 기준이 사용자 주거 형태와 라이프스타일 최적화로 전환",
+        "삼성전자, 다양한 의류케어 가전 라인업으로 맞춤형 솔루션 제공"
+      ],
+      "ai_summary": "삼성전자가 사용자 맞춤형 의류케어 가전 설계를 강조하며 제품 포트폴리오를 확대하고 있다.",
+      "ai_themes": [
+        "산업동향"
+      ],
+      "published_at": "2026-04-10 18:00"
+    },
+    {
+      "post_id": "d0facee9c8cfb88e26195a12",
+      "platform": "rss",
+      "account_handle": "Samsung Newsroom",
+      "display_name": "삼성 뉴스룸",
+      "content": "마라토너 제이콥 키플리모(Jacob Kiplimo)가 결승선을 향해 질주할 때, 그의 레이스는 단순히 재능만으로 완성된 것이 아니다. 우간다 출신의 세계 최정상 마라토너이자 팀갤럭시(TeamGalaxy) 소속인 키플리모는, 갤럭시 워치8과 함께 훈련하며 복잡한 생체 데이터를 분석하고 이를 훈련 전략에 반영하며 경기력을 끌어올려 왔다. 기술과 재능이 만들어낸 시너지는 이미 결과로 증명됐다. 그는 2025년 시카고 마라톤에서 2시간 2분 23초의 기록으로 압도적인 우승을 […]",
+      "content_ko": "마라토너 제이콥 키플리모(Jacob Kiplimo)가 결승선을 향해 질주할 때, 그의 레이스는 단순히 재능만으로 완성된 것이 아니다. 우간다 출신의 세계 최정상 마라토너이자 팀갤럭시(TeamGalaxy) 소속인 키플리모는, 갤럭시 워치8과 함께 훈련하며 복잡한 생체 데이터를 분석하고 이를 훈련 전략에 반영하며 경기력을 끌어올려 왔다. 기술과 재능이 만들어낸 시너지는 이미 결과로 증명됐다. 그는 2025년 시카고 마라톤에서 2시간 2분 23초의 기록으로 압도적인 우승을 …",
+      "url": "https://news.samsung.com/kr/%ec%9d%b8%ed%84%b0%eb%b7%b0-%eb%a7%88%eb%9d%bc%ed%86%a0%eb%84%88-%ec%a0%9c%ec%9d%b4%ec%bd%a5-%ed%82%a4%ed%94%8c%eb%a6%ac%eb%aa%a8-%ea%b0%a4%eb%9f%ad%ec%8b%9c-%ec%9b%8c%ec%b9%98",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "마라토너, 갤럭시 워치8 활용 생체 데이터 기반 훈련 전략",
+      "ai_bullets": [
+        "마라토너 제이콥 키플리모가 갤럭시 워치8을 통해 생체 데이터 분석 수행",
+        "복잡한 생체 데이터를 훈련 전략에 반영해 경기력 향상"
+      ],
+      "ai_summary": "기술과 재능의 결합으로 마라토너가 생체 데이터 기반 훈련을 통한 성과를 이끌어내고 있다.",
+      "ai_themes": [
+        "산업동향"
+      ],
+      "published_at": "2026-04-10 17:00"
+    },
+    {
+      "post_id": "ac86caa8820f0bbcd72a2da0",
+      "platform": "rss",
+      "account_handle": "Samsung Newsroom",
+      "display_name": "삼성 뉴스룸",
+      "content": "지난달 삼성전자는 삼성 TV 전용 예술 작품 구독 서비스인 ‘삼성 아트 스토어’에 홍콩 현대 미술의 다채로움을 담아낸 ‘아트 바젤 홍콩 2026’ 컬렉션을 공개했다. 이번 컬렉션의 주요 작품인 ‘켄(Ken, 2023)’을 통해 세계적인 주목을 받은 작가가 바로 쑨이티엔이다. 언뜻 보면 쑨이티엔(Sun Yitian)의 작품은 밝고 생동감이 넘치며 친숙하게 느껴진다. 하지만 매끈하게 다듬어진 표면 아래에는 순수와 인위성, 향수와 불안이 […]",
+      "content_ko": "지난달 삼성전자는 삼성 TV 전용 예술 작품 구독 서비스인 ‘삼성 아트 스토어’에 홍콩 현대 미술의 다채로움을 담아낸 ‘아트 바젤 홍콩 2026’ 컬렉션을 공개했다. 이번 컬렉션의 주요 작품인 ‘켄(Ken, 2023)’을 통해 세계적인 주목을 받은 작가가 바로 쑨이티엔이다. 언뜻 보면 쑨이티엔(Sun Yitian)의 작품은 밝고 생동감이 넘치며 친숙하게 느껴진다. 하지만 매끈하게 다듬어진 표면 아래에는 순수와 인위성, 향수와 불안이 …",
+      "url": "https://news.samsung.com/kr/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ea%b8%b0%ec%96%b5%ea%b3%bc-%ed%98%84%eb%8c%80%ec%a0%81-%ec%82%b6%ec%9d%98-%ec%9e%a5%eb%a9%b4%eb%93%a4-%ec%91%a8%ec%9d%b4%ed%8b%b0%ec%97%94-x-%ec%82%bc%ec%84%b1",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "삼성 아트 스토어, 홍콩 현대미술 컬렉션 공개",
+      "ai_bullets": [
+        "삼성전자, '아트 바젤 홍콩 2026' 컬렉션을 삼성 아트 스토어에 선보임",
+        "작가 쑨이티엔의 작품 '켄'을 통해 세계적 주목 받음"
+      ],
+      "ai_summary": "삼성전자가 홍콩 현대미술을 기반으로 한 예술 컬렉션을 아트 스토어에 공개하며 문화 콘텐츠 확대 전략을 이어가고 있다.",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-04-10 17:00"
+    },
+    {
+      "post_id": "2042446838536814611",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "어떠한 상황에서도 국제인도법은 준수되어야 하며, 인간의 존엄성 역시 타협할 수 없는 최우선 가치로 지켜져야 합니다.\n\n영상은 24년 9월 발생한 실제 상황으로 미국 백악관이 매우 충격적(deeply disturbing)이라고 평가했고 존 커비 등 미당국자가 혐오스럽고 용납할 수 없는 행동”이라고 까지 언급했던 일입니다. 이에 이스라엘의 관련 조사와 조치도 이루어졌다고 합니다.\n\n조금 다행이라면 살아있는 사람이 아니라 시신이었다는 점이지만, 시신이라도 이와같은 처우는 국제법 위반입니다. \n\n지난 역사 속에서 일어난 수많은 비극은 인권의 소중함이 무엇보다 최고이자 최선의 가치임을 가르쳐 주었습니다 .\n\n뼈아픈 상처 위에 남겨진 교훈을 반복된 참혹극으로 되풀이 해서는 안됩니다. 그래야 인류 모두가 상생하는 화해와 협력의 미래로 나아갈 수 있습니다.\n\n어떤 이유에서든 어디에서든 인권은 최후의 보루이며 무엇과도 바꿀 수 없는 가치입니다.",
+      "content_ko": "어떤 상황에서도 국제인도법은 준수되어야 하며, 인간의 존엄성 역시 타협할 수 없는 최우선 가치로 지켜져야 합니다. 영상은 2024년 9월 발생한 실제 상황으로 미국 백악관이 매우 충격적(deeply disturbing)이라고 평가했고 존 커비 등 미당국자가 혐오스럽고 용납할 수 없는 행동이라고 까지 언급했던 일입니다. 이에 이스라엘의 관련 조사와 조치도 이루어졌다고 합니다. 조금 다행이라면 살아있는 사람이 아니라 시신이었다는 점이지만, 시신이라도 이와같은 처우는 국제법 위반입니다. 지난 역사 속에서 일어난 수많은 비극은 인권의 소중함이 무엇보다 최고이자 최선의 가치임을 가르쳐 주었습니다. 뼈아픈 상처 위에 남겨진 교훈을 반복된 참혹극으로 되풀이 해서는 안됩니다. 그래야 인류 모두가 상생하는 화해와 협력의 미래로 나아갈 수 있습니다. 어 어떤 이유에서든 어디에서든 인권은 최후의 보루이며 무엇과도 바꿀 수 없는 가치입니다.",
+      "url": "https://x.com/Jaemyung_Lee/status/2042446838536814611",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
       "ai_title": "",
       "ai_bullets": [],
       "ai_summary": "",
-      "ai_themes": [],
-      "published_at": "2026-04-10 18:00"
+      "ai_themes": [
+        "윤리/안전"
+      ],
+      "published_at": "2026-04-10 12:37"
     },
     {
       "post_id": "2042417969192714478",
@@ -57,78 +147,282 @@
       "account_handle": "msitminister",
       "display_name": "배경훈",
       "content": "<세상에 이런일이, 칭찬을 했더니 더 큰 칭찬이 돌아옵니다>\n\n과학기술정보통신부는 올해부터 탁월한 성과를 낸 공직자들을 찾아서 파격적인 포상으로 격려하는 특별성과포상금제를 시행하고 있습니다.\n\n지난 2월에 우수 공직자들을 선정해서 주공적자 두 명 각각 1,000만원, 부공적자 두 명 각각 350만원의 상금을 시상한 바 있으며, 곧 2차 우수 공직자를 발굴하여 칭찬할 계획입니다.\n\n1차로 포상 받으신 직원분은 공직 생활 중 이런 날도 온다며 감개무량 하시기도 했습니다. \n\n그런데 오늘 더 놀라운 일이 벌어졌습니다. \n직원 칭찬을 했더니 행안부에서 잘했다고 칭찬을 합니다. 심지어 더 칭찬하라고 포상금 1,000만원까지 주고 여기서 그치지 않고 행안부 차관님이 커피차 2대를 몰고 오셔서 직원들에게 커피를 쏘기까지 합니다. \n\n직원들이 깜짝 이벤트에 놀라서 사진을 찍어 보내왔습니다.\n\n부처간 칸막이가 이렇게 무너져 가고 있습니다. \n서로 격려하며 같이 힘을 모아 더 큰 성과를 만들어내도록 하겠습니다. \n\np.s. 칭찬해주신 행정안전부 윤호중 장관님, 김민재 차관님도 칭찬합니다. ^^\n\n#행정안전부 #과학기술정보통신부 #특별성과포상제 #칭찬",
-      "content_ko": "세상에 이런일이, 칭찬을 했더니 더 큰 칭찬이 돌아옵니다. 과학기술정보통신부는 올해부터 탁월한 성과를 낸 공직자들을 찾아서 파격적인 포상으로 격려하는 특별성과포상금제를 시행하고 있습니다. 지난 2월에 우수 공직자들을 선정해서 주공적자 두 명 각각 1,000만원, 부공적자 두 명 각각 350만원의 상금을 시상한 바 있으며, 곧 2차 우수 공직자를 발굴하여 칭찬할 계획입니다. 1차로 포상 받으신 직원분은 공직 생활 중 이런 날도 온다며 감개무량 하시기도 했습니다. 그런데 오늘 더 놀라운 일이 벌어졌습니다. 직원 칭찬을 했더니 행안부에서 잘했다고 칭찬을 합니다. 심지어 더 칭찬하라고 포상금 1,000만원까지 주고 여기서 그치지 않고 행안부 차관님이 커피차 2대를 몰고 오셔서 직원들에게 커피를 쏘기까지 합니다. 직원들이 깜짝 이벤트에 놀라서 사진을 찍어 보내왔습니다. 부처간 칸막이가 이렇게 무너져 가고 있습니다. 서로 격려하며 같이 힘을 모아 더 큰 성과를 만들어내도록 하겠습니다. p.s. 칭찬해주신 행정안전부 윤호중 장관님, 김민재 차관님도 칭찬합니다. ^^ #행정안전부 #과학기술정보통신부 #특별성과포상제 #칭찬",
+      "content_ko": "세상에 이런일이, 칭찬을 했더니 더 큰 칭찬이 돌아옵니다. 과학기술정보통신부는 올해부터 탁월한 성과를 낸 공직자들을 찾아서 파격적인 포상으로 격려하는 특별성과포상금제를 시행하고 있습니다. 지난 2월에 우수 공직자들을 선정해서 주공적자 두 명 각각 1,000만원, 부공적자 두 명 각각 350만원의 상금을 시상한 바 있으며, 곧 2차 우수 공직자를 발굴하여 칭찬할 계획입니다. 1차로 포상 받으신 직원분은 공직 생활 중 이런 날도 온다며 감개무량 하시기도 했습니다. 그런데 오늘 더 놀라운 일이 벌어졌습니다. 직원 칭찬을 했더니 행안부에서 잘했다고 칭찬을 합니다. 심지어 더 칭찬하라고 포상금 1,000만원까지 주고 여기서 그치지 않고 행안부 차관님이 커피차 2대를 몰고 오셔서 직원들에게 커피를 쏘기까지 합니다. 직원들이 깜짝 이벤트에 놀라서 사진을 찍어 보내왔습니다. 부처간 칸막이가 이렇게 무너져 가고 있습니다. 서로 격려하며 같이 힘을 모아 더 큰 성과를 만들어내도록 하겠습니다. p.s. 칭찬해주신 행정안전부 윤호중 장관님, 김민재 차관님도 칭찬합니다. ^^",
       "url": "https://x.com/msitminister/status/2042417969192714478",
       "is_ai_trend": false,
-      "ai_confidence": 0.1,
+      "ai_confidence": 0.0,
       "ai_title": "",
       "ai_bullets": [],
       "ai_summary": "",
       "ai_themes": [
-        "정책/규제"
+        "기타"
       ],
       "published_at": "2026-04-10 10:42"
     },
     {
-      "post_id": "f27e81386276dea887e6d6f9",
+      "post_id": "d78a27ea5811605b88b55cb9",
       "platform": "rss",
       "account_handle": "OpenAI Blog",
       "display_name": "OpenAI",
-      "content": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
-      "content_ko": "운영 팀이 ChatGPT를 활용해 워크플로우를 개선하고, 협업을 강화하며, 표준화된 프로세스를 구축하고, 실행 속도를 높이는 방법을 학습할 수 있습니다.",
-      "url": "https://openai.com/academy/operations",
-      "is_ai_trend": true,
-      "ai_confidence": 0.9,
-      "ai_title": "OpenAI: 챗봇 기반 운영 효율화 사례 공개",
+      "content": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+      "content_ko": "오픈AI는 압소스 공급망 공격에 대응하기 위해 맥OS 코드 서명 인증서를 회전하고 앱을 업데이트했습니다. 사용자 데이터 유출 사고가 없음을 확인했습니다.",
+      "url": "https://openai.com/index/axios-developer-tool-compromise",
+      "is_ai_trend": false,
+      "ai_confidence": 0.3,
+      "ai_title": "오픈AI, 압소스 공급망 공격 대응 조치 발표",
       "ai_bullets": [
-        "운영 팀이 챗봇을 활용해 업무 프로세스를 표준화하고 협업을 개선하는 방법을 설명",
-        "AI 도입을 통해 실행 속도를 높이는 사례를 공유"
+        "맥OS 코드 서명 인증서 회전 및 앱 업데이트 수행",
+        "사용자 데이터 유출 사고 없음 확인"
       ],
-      "ai_summary": "OpenAI는 챗봇 기술이 운영 팀의 업무 효율성 향상에 기여하는 방식을 소개했다.",
+      "ai_summary": "오픈AI가 압소스 공급망 공격에 대응해 코드 서명 인증서를 회전하고 앱을 업데이트했습니다.",
       "ai_themes": [
-        "산업동향"
+        "윤리/안전"
       ],
       "published_at": "2026-04-10 09:00"
     },
     {
-      "post_id": "2ffc54a54257793e4aba6e08",
+      "post_id": "6148aa28b40edbcce6affdb0",
       "platform": "rss",
       "account_handle": "OpenAI Blog",
       "display_name": "OpenAI",
-      "content": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
-      "content_ko": "OpenAI의 챗봇, 코덱스, API 등 제품이 업무, 개발, 일상 업무에 AI를 도입하는 방식을 탐구할 수 있습니다.",
-      "url": "https://openai.com/academy/applications-of-ai",
+      "content": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+      "content_ko": "챗GPT에서 프로젝트 기능을 사용해 채팅, 파일, 지시사항을 통합하여 지속적인 작업을 관리하고, 협업을 더 효과적으로 수행할 수 있는 방법을 안내합니다.",
+      "url": "https://openai.com/academy/projects",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "챗GPT에서 프로젝트 기능 활용 방법 안내",
+      "ai_bullets": [
+        "채팅, 파일, 지시사항을 통합해 작업 관리 가능",
+        "협업 효율성 향상 기능 제공"
+      ],
+      "ai_summary": "챗GPT의 프로젝트 기능을 활용해 채팅, 파일, 지시사항을 통합 관리하고 협업 효율성을 높일 수 있습니다.",
+      "ai_themes": [
+        "생성형AI"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "734a5335f405a5cb053de3b7",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
+      "content_ko": "매니저가 ChatGPT를 사용해 대화 준비, 명확한 피드백 작성, 조직화된 업무 관리, 팀 효율성 향상을 위한 방법을 배우는 방법을 안내합니다. https://openai.com/blog/chatgpt-for-managers",
+      "url": "https://openai.com/academy/managers",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "OpenAI 블로그: 매니저가 ChatGPT로 커뮤니케이션 준비 및 팀 효율성 개선",
+      "ai_bullets": [
+        "매니저가 ChatGPT를 활용해 대화 준비를 효율화합니다.",
+        "명확한 피드백 작성과 조직화된 업무 관리를 지원합니다.",
+        "팀 전체의 업무 효율성을 향상시키는 방법을 제시합니다."
+      ],
+      "ai_summary": "OpenAI 블로그가 ChatGPT를 기업 내 커뮤니케이션 및 팀 관리에 활용하는 사례를 공유했습니다.",
+      "ai_themes": [
+        "산업동향",
+        "생성형AI"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "f6f80e4d7509555eb8b6969b",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
+      "content_ko": "고객 성공 팀이 ChatGPT를 사용해 계약 관리, 소통 개선, 고객 이탈 방지, 신규 고객 유입 및 재계약 유도 전략을 배우는 방법을 안내합니다. https://openai.com/blog/chatgpt-for-customer-success",
+      "url": "https://openai.com/academy/customer-success",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "OpenAI 블로그: 고객 성공 팀이 ChatGPT로 계약 유지율 향상 전략",
+      "ai_bullets": [
+        "고객 성공 팀이 ChatGPT로 계약 관리 효율성을 높입니다.",
+        "소통 품질 개선과 고객 이탈 방지 전략을 제공합니다.",
+        "신규 고객 유입 및 재계약 유도를 위한 도구를 제시합니다."
+      ],
+      "ai_summary": "OpenAI 블로그가 고객 성공 팀이 ChatGPT를 활용한 계약 관리 전략을 발표했습니다.",
+      "ai_themes": [
+        "산업동향",
+        "생성형AI"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "884aaaa8e6ec219852439e10",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+      "content_ko": "연구자와 전문가가 ChatGPT를 사용해 최신 정보 검색, 참고 자료 분석, 구조화된 통찰 생성을 통해 데이터 기반 의사결정을 수행하는 방법을 안내합니다. https://openai.com/blog/chatgpt-research",
+      "url": "https://openai.com/academy/search-and-deep-research",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "OpenAI 블로그: ChatGPT로 실시간 연구 및 분석 수행 방법",
+      "ai_bullets": [
+        "ChatGPT를 활용해 최신 정보를 검색하고 분석합니다.",
+        "참고 자료의 신뢰성 평가 및 구조화된 통찰 제공을 지원합니다.",
+        "연구자와 전문가가 데이터 기반 의사결정을 위한 도구를 제시합니다."
+      ],
+      "ai_summary": "OpenAI 블로그가 ChatGPT를 활용한 실시간 연구 및 분석 기법을 공유했습니다.",
+      "ai_themes": [
+        "기술발전",
+        "생성형AI"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "66439e0ac0aedcb0a787347c",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
+      "content_ko": "의료진이 ChatGPT를 활용해 진단 지원, 문서화, 환자 관리를 수행하는 방법을 탐색할 수 있습니다. 보안 및 HIPAA 규제 준수를 위한 AI 도구를 제공합니다. https://openai.com/blog/clinical-use-cases",
+      "url": "https://openai.com/academy/healthcare",
       "is_ai_trend": true,
       "ai_confidence": 0.95,
-      "ai_title": "OpenAI: 챗봇·코덱스·API 기반 AI 실제 적용 사례 공개",
+      "ai_title": "OpenAI: 의료진을 위한 ChatGPT 활용 방법 소개",
       "ai_bullets": [
-        "챗봇, 코덱스, API 등 OpenAI 제품이 업무·개발·일상 업무에 어떻게 적용되는지 설명",
-        "AI 기술이 실제 산업 현장에서 활용되는 사례를 공유"
+        "의료진이 ChatGPT를 진단 지원, 문서화, 환자 관리에 활용하는 방안 제시",
+        "HIPAA 규제 준수하는 보안 기능 탑재된 AI 도구 제공"
       ],
-      "ai_summary": "OpenAI는 챗봇과 API 등의 기술이 실제 업무 환경에서 어떻게 활용되는지를 소개했다.",
+      "ai_summary": "의료 분야에서 ChatGPT를 활용한 진단 및 환자 관리 지원 방안을 공개했습니다.",
       "ai_themes": [
+        "기술발전",
         "산업동향"
       ],
       "published_at": "2026-04-10 09:00"
     },
     {
-      "post_id": "6f26f347e1a5123a0646b169",
+      "post_id": "4f322e0f26962a2f636051eb",
       "platform": "rss",
       "account_handle": "OpenAI Blog",
       "display_name": "OpenAI",
-      "content": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
-      "content_ko": "금융 팀이 ChatGPT를 활용해 보고서 작성, 데이터 분석, 예측 개선, 통찰력 있는 의사소통을 위한 방법을 학습할 수 있습니다.",
-      "url": "https://openai.com/academy/finance",
+      "content": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
+      "content_ko": "금융 서비스 기관이 AI를 안전하게 도입하고 확장할 수 있도록 지원하는 자원을 제공합니다. 프롬프트 팩, GPT 도구, 가이드, 보안 기능 도구 등을 포함합니다. https://openai.com/blog/financial-services",
+      "url": "https://openai.com/academy/financial-services",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "OpenAI: 금융 서비스 분야 AI 자원 제공",
+      "ai_bullets": [
+        "금융 기관이 AI를 안전하게 도입하고 확장할 수 있도록 지원 자원 공개",
+        "프롬프트 팩, GPT 도구, 가이드, 보안 기능 도구 포함"
+      ],
+      "ai_summary": "금융 서비스 분야에 맞춤화된 AI 도구 및 자원을 공개했습니다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "d7251d4d2bbc93135aea959f",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
+      "content_ko": "작업 자동화 및 일관된 출력을 유지하기 위해 맞춤형 GPT를 개발하고 사용하는 방법을 배울 수 있습니다. 목적에 맞춘 AI 어시스턴트를 생성할 수 있습니다. https://openai.com/blog/custom-gpts",
+      "url": "https://openai.com/academy/custom-gpts",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "OpenAI: 맞춤형 GPT 개발 방법 안내",
+      "ai_bullets": [
+        "작업 자동화 및 일관된 출력 유지 위한 맞춤형 GPT 개발 방법 공유",
+        "목적에 맞춘 AI 어시스턴트 생성 가능"
+      ],
+      "ai_summary": "맞춤형 GPT 개발을 통해 작업 자동화 및 AI 어시스턴트 생성 방법을 안내했습니다.",
+      "ai_themes": [
+        "기술발전"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "2b32eedea2ca3ae817ac2843",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
+      "content_ko": "ChatGPT에서 파일을 업로드하고 처리하는 방법을 배우고, 데이터 분석, 문서 요약 및 PDF, 스프레드시트 등 다양한 파일 형식에서 콘텐츠를 생성할 수 있습니다. https://openai.com/blog/chatgpt-file-handling",
+      "url": "https://openai.com/academy/working-with-files",
       "is_ai_trend": true,
       "ai_confidence": 0.9,
-      "ai_title": "OpenAI: 금융 팀이 챗봇으로 보고서 작성 및 데이터 분석 효율화",
+      "ai_title": "ChatGPT 파일 업로드 및 처리 기능 안내",
       "ai_bullets": [
-        "금융 팀이 챗봇을 활용해 보고서 작성과 데이터 분석을 개선하는 방법 설명",
-        "예측 정확도 향상과 통찰력 있는 의사소통을 위한 AI 활용 사례 공유"
+        "PDF, 스프레드시트 등 다양한 파일 형식을 처리할 수 있는 기능 제공",
+        "데이터 분석 및 문서 요약 기능 지원",
+        "AI 기반 콘텐츠 생성 기능 포함"
       ],
-      "ai_summary": "OpenAI는 금융 분야에서 챗봇 기술이 보고서 작성과 데이터 분석에 어떻게 기여하는지를 소개했다.",
+      "ai_summary": "ChatGPT에서 파일 업로드 및 처리 기능을 통해 데이터 분석, 문서 요약, 콘텐츠 생성이 가능해졌습니다.",
       "ai_themes": [
-        "산업동향"
+        "생성형AI",
+        "기술발전"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "aa67bf587bd0c123b390ee57",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "content_ko": "ChatGPT를 사용하여 첫 번째 대화를 시작하고, AI 기반의 글쓰기, 아이디어 브레인스토밍, 문제 해결 방법을 배울 수 있습니다. https://openai.com/blog/chatgpt-get-started",
+      "url": "https://openai.com/academy/getting-started",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "ChatGPT 사용 방법 및 AI 활용 기능 안내",
+      "ai_bullets": [
+        "첫 번째 대화를 시작하는 방법 안내",
+        "AI 기반 글쓰기 및 아이디어 브레인스토밍 기능 제공",
+        "문제 해결을 위한 AI 활용 방법 소개"
+      ],
+      "ai_summary": "ChatGPT를 사용하여 간단한 글쓰기, 아이디어 브레인스토밍 및 문제 해결을 위한 AI 기능을 활용할 수 있습니다.",
+      "ai_themes": [
+        "생성형AI",
+        "기술발전"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "978a353b1d065a4cdc31b033",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.",
+      "content_ko": "ChatGPT에서 사용자 정의 지시사항과 기억 기능을 활용해 더 관련성 있는, 일관된, 맞춤형 응답을 받을 수 있도록 설정 방법을 안내합니다. https://openai.com/blog/chatgpt-personalization",
+      "url": "https://openai.com/academy/personalization",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "ChatGPT 개인화 설정 방법 안내",
+      "ai_bullets": [
+        "사용자 정의 지시사항을 통한 개인화 설정 가능",
+        "기억 기능을 활용한 일관된 응답 제공",
+        "맞춤형 결과를 위한 설정 옵션 안내"
+      ],
+      "ai_summary": "사용자 정의 지시사항과 기억 기능을 통해 ChatGPT의 응답을 개인화할 수 있습니다.",
+      "ai_themes": [
+        "생성형AI",
+        "기술발전"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "6628cd67b75bc6b70ebdfe90",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
+      "content_ko": "ChatGPT를 사용하여 데이터를 분석하고, 데이터셋을 탐색하며 통찰력을 도출하고 시각화를 통해 결과를 표현하는 방법을 학습하세요. 분석 결과를 실행 가능한 의사결정으로 전환하는 전략도 제공합니다.",
+      "url": "https://openai.com/academy/data-analysis",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "챗GPT로 데이터 분석 및 시각화 기법 학습 안내",
+      "ai_bullets": [
+        "데이터셋 탐색을 통한 분석 기법 제공",
+        "시각화 도구 활용한 통찰력 도출 방법 설명",
+        "분석 결과를 실행 가능한 의사결정으로 전환하는 전략 안내"
+      ],
+      "ai_summary": "ChatGPT를 활용한 데이터 분석 전 과정을 체계적으로 안내하는 기술 가이드",
+      "ai_themes": [
+        "생성형AI"
       ],
       "published_at": "2026-04-10 09:00"
     },
@@ -138,16 +432,132 @@
       "account_handle": "OpenAI Blog",
       "display_name": "OpenAI",
       "content": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
-      "content_ko": "챗지피티를 사용해 아이디어를 생성하고 사고를 정리하는 방법을 설명하며, 초안 개념을 구조화된 실행 가능한 계획으로 전환하는 과정을 안내합니다.",
+      "content_ko": "ChatGPT를 사용하여 아이디어를 발전시키고, 사고를 조직화하며, 불완전한 개념을 구조화된 실행 가능한 계획으로 전환하는 방법을 학습하세요.",
       "url": "https://openai.com/academy/brainstorming",
       "is_ai_trend": true,
-      "ai_confidence": 0.8,
-      "ai_title": "챗지피티를 활용한 아이디어 브레인스토밍 및 계획 수립 방법 공개",
+      "ai_confidence": 0.9,
+      "ai_title": "챗GPT로 아이디어 발전 및 계획 수립 전략 안내",
       "ai_bullets": [
-        "챗지피티를 사용해 아이디어를 생성하고 사고를 정리하는 방법을 설명",
-        "초안 개념을 구조화된 실행 가능한 계획으로 전환하는 과정을 안내"
+        "창의적 아이디어 도출을 위한 프롬프트 기법 제시",
+        "무질서한 개념을 구조화된 계획으로 전환하는 방법 설명",
+        "실행 가능한 전략 수립을 위한 프로세스 안내"
       ],
-      "ai_summary": "오픈AI 블로그는 챗지피티를 활용한 아이디어 브레인스토밍 및 계획 수립 방법을 소개했다.",
+      "ai_summary": "ChatGPT를 활용한 아이디어 조직화 및 실행 계획 수립 전략을 제공하는 가이드",
+      "ai_themes": [
+        "생성형AI"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "f01dd809dd4b1b5f3e70758d",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
+      "content_ko": "ChatGPT의 성능을 극대화하기 위해 프롬프트 작성의 기본 원칙을 학습하고, 명확하고 효과적인 프롬프트를 작성하는 방법을 익히세요. 이를 통해 더 유용한 응답을 유도할 수 있습니다.",
+      "url": "https://openai.com/academy/prompting",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "챗GPT 프롬프트 작성 기초 및 효과적 활용 전략",
+      "ai_bullets": [
+        "프롬프트 작성 기본 원칙 안내",
+        "명확하고 효과적인 프롬프트 작성 방법 제시",
+        "개선된 응답을 유도하는 전략 설명"
+      ],
+      "ai_summary": "ChatGPT의 성능을 극대화하기 위한 프롬프트 작성 기술 가이드",
+      "ai_themes": [
+        "생성형AI"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "f56c542f57bec4122afe9240",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
+      "content_ko": "ChatGPT 기술을 활용하여 재사용 가능한 워크플로우를 구축하고, 반복 작업을 자동화하며, 일관되고 높은 품질의 출력을 보장하는 방법을 배우세요. https://openai.com/blog/chatgpt-skills",
+      "url": "https://openai.com/academy/skills",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "오픈AI 블로그: ChatGPT 기술 활용한 작업 자동화 방법 공개",
+      "ai_bullets": [
+        "ChatGPT 기술을 활용해 재사용 가능한 워크플로우 구축 가능",
+        "반복 작업 자동화를 통한 효율성 향상",
+        "일관되고 높은 품질의 출력 보장",
+        "AI 기술을 기반으로 한 작업 프로세스 최적화"
+      ],
+      "ai_summary": "ChatGPT 기술을 활용한 작업 자동화 및 일관된 출력을 위한 방법을 소개",
+      "ai_themes": [
+        "생성형AI",
+        "기술발전"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "f27e81386276dea887e6d6f9",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
+      "content_ko": "운영 팀이 ChatGPT를 활용해 워크플로우를 스트리밍화하고, 협업을 개선하며, 프로세스 표준화를 통해 실행 속도를 높이는 방법을 배우세요. https://openai.com/blog/chatgpt-operations",
+      "url": "https://openai.com/academy/operations",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "오픈AI 블로그: 운영 팀의 ChatGPT 활용 방안 발표",
+      "ai_bullets": [
+        "운영 팀이 ChatGPT로 워크플로우 최적화 수행",
+        "협업 효율성 향상 및 프로세스 표준화 달성",
+        "실행 속도 가속화를 통한 운영 효율성 개선",
+        "AI 기반 운영 프로세스 혁신 사례 공유"
+      ],
+      "ai_summary": "운영 팀이 ChatGPT를 활용한 워크플로우 최적화 및 협업 효율성 향상을 위한 방안 발표",
+      "ai_themes": [
+        "생성형AI",
+        "기술발전"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "6f26f347e1a5123a0646b169",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
+      "content_ko": "금융 팀이 ChatGPT를 활용해 보고서 작성 프로세스를 스트리밍화하고, 데이터 분석을 통한 예측 정확도를 높이며, 인사이트 전달의 명확성을 개선하는 방법을 배우세요. https://openai.com/blog/chatgpt-finance",
+      "url": "https://openai.com/academy/finance",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "오픈AI 블로그: 금융 팀의 ChatGPT 활용 전략 공개",
+      "ai_bullets": [
+        "금융 팀이 ChatGPT로 보고서 작성 자동화",
+        "데이터 분석 및 예측 정확도 향상",
+        "인사이트 전달의 명확성 개선",
+        "AI 기반 금융 분석 프로세스 혁신"
+      ],
+      "ai_summary": "금융 팀이 ChatGPT를 활용한 보고서 자동화 및 데이터 분석 효율성 향상을 위한 전략 공유",
+      "ai_themes": [
+        "생성형AI",
+        "기술발전"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "2ffc54a54257793e4aba6e08",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+      "content_ko": "오픈AI 제품인 챗GPT, 코덱스 및 API가 업무, 개발, 일상 작업에서 AI를 실제 활용하는 방식을 탐색해보세요. 이 기술이 어떻게 실제 문제 해결에 기여하는지 확인할 수 있습니다.",
+      "url": "https://openai.com/academy/applications-of-ai",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "오픈AI: 생성형AI 제품 실제 활용 사례 공유",
+      "ai_bullets": [
+        "챗GPT, 코덱스, API 등 오픈AI 제품이 업무·개발·일상에서 AI를 활용하는 방식을 소개",
+        "실제 사례를 통해 AI 기술의 현실 적용 사례를 탐색 가능"
+      ],
+      "ai_summary": "오픈AI가 생성형AI 기술의 실제 활용 사례를 공유하며 기술의 현실 적용을 강조",
       "ai_themes": [
         "기술발전",
         "산업동향"
@@ -155,21 +565,261 @@
       "published_at": "2026-04-10 09:00"
     },
     {
+      "post_id": "0b3bb9ee029b76221ad8280a",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
+      "content_ko": "영업 팀이 챗GPT를 활용해 고객 정보 조사, 맞춤형 접근 전략 수립, 거래 관리 및 파이프라인 개선을 통한 전환율 향상을 경험하고 있습니다.",
+      "url": "https://openai.com/academy/sales",
+      "is_ai_trend": true,
+      "ai_confidence": 0.8,
+      "ai_title": "챗GPT, 영업 팀의 효율성 향상에 기여",
+      "ai_bullets": [
+        "영업 팀이 챗GPT로 고객 조사 및 맞춤형 마케팅 수행",
+        "거래 관리 및 파이프라인 개선 효과 확인 가능"
+      ],
+      "ai_summary": "챗GPT가 영업 프로세스 최적화 및 고객 관리 효율성 향상에 기여하는 사례 공유",
+      "ai_themes": [
+        "산업동향",
+        "생성형AI"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "4c04529d4e0b4d640b1fa712",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
+      "content_ko": "명확한 설명을 통해 이미지 생성을 시작하고, 디자인을 반복 수정하며 분당 수준의 고해상도 시각 자료를 생성할 수 있는 방식을 안내합니다.",
+      "url": "https://openai.com/academy/image-generation",
+      "is_ai_trend": true,
+      "ai_confidence": 0.8,
+      "ai_title": "챗GPT로 고해상도 이미지 생성 및 디자인 최적화",
+      "ai_bullets": [
+        "명확한 프롬프트로 이미지 생성 및 디자인 반복 수정 가능",
+        "분당 수준의 고해상도 시각 자료 생성 기능 제공"
+      ],
+      "ai_summary": "챗GPT를 활용한 이미지 생성 및 디자인 최적화 기능 소개",
+      "ai_themes": [
+        "기술발전",
+        "생성형AI"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "fe5fe461dbdbdc9318c8232c",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
+      "content_ko": "AI란 무엇인지, 어떻게 작동하는지, 그리고 ChatGPT와 같은 도구가 대규모 언어 모델을 사용하는 방식을 배우세요. 인공지능을 이해하는 데 도움이 되는 명확하고 초보자 친화적인 가이드입니다. https://openai.com/blog/ai-what-is-it/",
+      "url": "https://openai.com/academy/what-is-ai",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "오픈AI 블로그: AI 기초 개념 및 대규모 언어 모델 설명",
+      "ai_bullets": [
+        "AI의 정의와 작동 원리에 대한 초보자 친화적 가이드 제공",
+        "ChatGPT와 같은 도구가 대규모 언어 모델을 활용하는 방식 설명"
+      ],
+      "ai_summary": "AI 기초 지식과 대규모 언어 모델의 작동 방식을 설명하는 가이드 공개",
+      "ai_themes": [
+        "기술발전",
+        "생성형AI"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "75b9ed387c100e6347881112",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
+      "content_ko": "AI를 책임 있게 사용하는 방법을 배우고, 도구 사용 시 안전성, 정확성, 투명성을 확보하는 최선의 실천 방법을 알아보세요. https://openai.com/blog/ai-responsibly/",
+      "url": "https://openai.com/academy/responsible-and-safe-use",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "오픈AI 블로그: AI 사용에 대한 책임 있는 접근법 안내",
+      "ai_bullets": [
+        "AI 도구 사용 시 안전성, 정확성, 투명성 확보를 위한 최선의 실천 방법 제시",
+        "ChatGPT와 같은 기술의 윤리적 사용 가이드 제공"
+      ],
+      "ai_summary": "AI 도구 사용 시 책임 있는 접근법과 윤리적 사용 가이드 공개",
+      "ai_themes": [
+        "윤리/안전"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "62379661ee74ac358b96f81d",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+      "content_ko": "ChatGPT를 사용해 연구를 수행할 때 참고문헌을 수집하고 정보를 분석하는 방법을 배우고, 구조화된 인용 기반 통찰력을 생성하는 방법을 알아보세요. https://openai.com/blog/ai-research/",
+      "url": "https://openai.com/academy/research",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "오픈AI 블로그: ChatGPT를 활용한 연구 활용법 안내",
+      "ai_bullets": [
+        "ChatGPT를 사용해 참고문헌 수집 및 정보 분석 방법 제공",
+        "구조화된 인용 기반 통찰력 생성을 위한 활용 팁 안내"
+      ],
+      "ai_summary": "연구 목적의 ChatGPT 활용법과 정보 분석 기법 공유",
+      "ai_themes": [
+        "산업동향",
+        "기술발전"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "0f5953f545f0f0bc4d0a5148",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+      "content_ko": "마케팅 팀이 ChatGPT를 사용해 캠페인 계획, 콘텐츠 생성, 성과 분석, 아이디어에서 실행으로의 전환을 빠르게 진행하는 방법을 학습할 수 있습니다. https://openai.com/blog/chatgpt-marketing",
+      "url": "https://openai.com/academy/marketing",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "마케팅 팀, ChatGPT 활용해 캠페인 계획 및 실행 가속화",
+      "ai_bullets": [
+        "마케팅 팀이 ChatGPT를 사용해 캠페인 계획 수립",
+        "콘텐츠 생성 및 성과 분석을 통한 실행 속도 향상"
+      ],
+      "ai_summary": "ChatGPT를 활용한 마케팅 프로세스 최적화 사례 공유",
+      "ai_themes": [
+        "생성형AI",
+        "산업동향"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "2362245b3edefabecbef9d39",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
+      "content_ko": "ChatGPT를 사용해 콘텐츠를 작성, 수정 및 완성하는 방법을 학습할 수 있습니다. 초안 작성 후 구조, 어조, 의도를 명확히 하는 수정 과정을 제공합니다. https://openai.com/blog/chatgpt-writing",
+      "url": "https://openai.com/academy/writing",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "ChatGPT 활용해 콘텐츠 작성 및 수정 효율화",
+      "ai_bullets": [
+        "ChatGPT를 사용해 콘텐츠 초안 작성",
+        "구조, 어조, 의도를 명확히 하는 수정 기능 제공"
+      ],
+      "ai_summary": "AI 기반 콘텐츠 작성 도구의 기능 강화 사례 공유",
+      "ai_themes": [
+        "생성형AI",
+        "산업동향"
+      ],
+      "published_at": "2026-04-10 09:00"
+    },
+    {
+      "post_id": "4e138d586eed9b2408f2af9f",
+      "platform": "rss",
+      "account_handle": "SKT Newsroom",
+      "display_name": "SK텔레콤",
+      "content": "SKT, ‘CPU+NPU’ AI 서버 설루션 개발 AI 데이터센터 경쟁력 강화 나선다",
+      "content_ko": "SK텔레콤은 9일 Arm, 리벨리온과 차세대 AI 인프라 혁신을 위한 전략적 파트너십(MOU)을 체결했다. 이번 협약을 통해 3개사는 Arm의 'Arm AGI CPU'와 리벨리온의 '리벨카드(RebelCard™)'를 서버에 탑재해 AI 추론 성능을 높이는 솔루션을 공동 개발하고, SK텔레콤의 AI 데이터센터에서 실증하기로 했다. AI 산업은 학습에서 추론으로 패러다임 변화하며, 전력 효율성이 핵심 요소로 자리 잡고 있다.",
+      "url": "https://news.sktelecom.com/223793",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "SK텔레콤, 'CPU+NPU' AI 서버 솔루션 개발로 데이터센터 경쟁력 강화",
+      "ai_bullets": [
+        "SKT-Arm-리벨리온 전략적 파트너십 통해 AI 추론 서버 솔루션 공동 개발",
+        "저전력·고효율·저비용 AI 인프라 구축을 위한 CPU·NPU 결합 기술 적용",
+        "자사 AI 데이터센터에서 성능·안정성 검증 및 독자 파운데이션 모델 운영 검토"
+      ],
+      "ai_summary": "SK텔레콤이 Arm과 리벨리온과 협력해 AI 추론 서버 솔루션 개발을 통해 데이터센터 경쟁력을 강화하고 있다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-04-10 08:56"
+    },
+    {
+      "post_id": "d83c64d7f09473d9ea2247d0",
+      "platform": "rss",
+      "account_handle": "SKT Newsroom",
+      "display_name": "SK텔레콤",
+      "content": "<p>– SKT-Arm-리벨리온, 차세대 AI 인프라 혁신 위해 전략적 파트너십(MOU) 체결 – CPU·NPU 결합 AI 추론 서버 설루션 공동 개발…저전력·고효율·저비용 달성 가능해 – SKT, 자사 AI DC에 해당 설루션 성능·안정성 검증…독자</p>\n<p>The post <a href=\"https://news.sktelecom.com/223780\">SKT, ‘CPU+NPU’ AI 서버 설루션 개발 AI 데이터센터 경쟁력 강화 나선다</a> first appeared on <a href=\"https://news.sktelecom.com\">SK텔레콤 뉴스룸</a>.</p>",
+      "content_ko": "SK텔레콤은 9일 Arm, 리벨리온과 차세대 AI 인프라 혁신을 위한 전략적 파트너십(MOU)을 체결했다. 3개사는 Arm의 'Arm AGI CPU'와 리벨리온의 '리벨카드(RebelCard™)'를 서버에 탑재해 AI 추론 성능을 높이는 솔루션을 공동 개발하고, SK텔레콤의 AI 데이터센터에서 실증하기로 했다. AI 산업은 학습에서 추론으로 패러다임 변화하며, 전력 효율성이 핵심 요소로 자리 잡고 있다.",
+      "url": "https://news.sktelecom.com/223780",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "SK텔레콤, Arm·리벨리온과 AI 인프라 혁신 전략 발표",
+      "ai_bullets": [
+        "Arm AGI CPU와 리벨카드 결합으로 AI 추론 서버 성능 극대화",
+        "AI 인프라 전환 시기 맞춰 저전력·고효율·저비용 솔루션 개발",
+        "AI 데이터센터에서 성능·안정성 검증 및 파운데이션 모델 운영 검토"
+      ],
+      "ai_summary": "SK텔레콤이 Arm과 리벨리온과 협력해 AI 인프라 혁신을 위한 솔루션 개발을 발표했습니다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-04-10 08:54"
+    },
+    {
+      "post_id": "2042388873570107631",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "이게 사실인지, 사실이라면 어떤 조치가 있었는지 알아봐야겠습니다.\n\n우리가 문제삼는 위안부 강제, 유태인 학살이나 전시 살해는 다를 바가 없습니다. https://t.co/owqj9Rg1lk",
+      "content_ko": "이게 사실인지, 사실이라면 어떤 조치가 있었는지 알아봐야겠습니다. 우리가 문제삼는 위안부 강제, 유태인 학살이나 전시 살해는 다를 바가 없습니다. https://t.co/owqj9Rg1lk",
+      "url": "https://x.com/Jaemyung_Lee/status/2042388873570107631",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "윤리/안전"
+      ],
+      "published_at": "2026-04-10 08:47"
+    },
+    {
+      "post_id": "0b2b516e74c1ed1690848f3d",
+      "platform": "rss",
+      "account_handle": "SKT Newsroom",
+      "display_name": "SK텔레콤",
+      "content": "<p>SK텔레콤은 AI 시대를 주도하기 위해 ‘AI 인프라 설계자’로의 전환을 본격화하고 있다. 이를 바탕으로 기술·인프라·서비스를 아우르는 풀스택 AI 제공자로서 경쟁력을 강화하며, 고객 중심의 가치 창출과 산업 전반의 혁신을 통해 지속 가능한</p>\n<p>The post <a href=\"https://news.sktelecom.com/223776\">[Fact sheet] SKT at a glance, 한눈에 보는 SK텔레콤</a> first appeared on <a href=\"https://news.sktelecom.com\">SK텔레콤 뉴스룸</a>.</p>",
+      "content_ko": "SK텔레콤은 AI 시대를 주도하기 위해 'AI 인프라 설계자'로의 전환을 본격화하고 있다. 기술·인프라·서비스를 아우르는 풀스택 AI 제공자로서 경쟁력을 강화하며, 고객 중심의 가치 창출과 산업 전반의 혁신을 통해 지속 가능한 성장을 추진한다. AI 비즈니스 시스템과 네트워크 혁신을 통해 상품을 고객 친화적으로 재설계하고, AI 기반의 새로운 통신 경험으로 차원이 다른 일상을 제공한다.",
+      "url": "https://news.sktelecom.com/223776",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "SK텔레콤, AI 인프라 설계자로 전환해 풀스택 AI 경쟁력 강화",
+      "ai_bullets": [
+        "AI 시대를 주도하기 위한 'AI 인프라 설계자' 전환 본격화",
+        "기술·인프라·서비스 아우르는 풀스택 AI 제공자로 경쟁력 강화",
+        "AI 기반 통신 경험으로 고객 중심의 일상 혁신 제공"
+      ],
+      "ai_summary": "SK텔레콤이 AI 인프라 설계자로 전환해 풀스택 AI 경쟁력을 강화하고 있습니다.",
+      "ai_themes": [
+        "산업동향",
+        "기술발전"
+      ],
+      "published_at": "2026-04-10 08:29"
+    },
+    {
       "post_id": "2042342572958630332",
       "platform": "twitter",
       "account_handle": "sama",
       "display_name": "샘 올트먼",
       "content": "It is very nice to see Codex getting so much love. We are launching a $100 ChatGPT Pro tier by very popular demand.",
-      "content_ko": "Codex가 많은 사랑을 받고 있는 것을 매우 기쁘게 생각합니다. 인기 있는 요구에 따라 $100 ChatGPT Pro 요금제를 출시합니다.",
+      "content_ko": "코덱스가 많은 사랑을 받고 있다는 점을 매우 기쁘게 생각합니다. 매우 인기를 얻고 있는 만큼 $100 챗GPT 프로 요금제를 출시합니다.",
       "url": "https://x.com/sama/status/2042342572958630332",
       "is_ai_trend": true,
-      "ai_confidence": 0.9,
-      "ai_title": "ChatGPT Pro 100달러 요금제 출시 발표",
+      "ai_confidence": 1.0,
+      "ai_title": "오픈AI: 코덱스 인기 반영한 챗GPT 프로 요금제 출시",
       "ai_bullets": [
-        "Codex에 대한 관심이 커지자, 인기 있는 요구에 따라 $100 ChatGPT Pro 요금제를 출시한다.",
-        "이번 출시는 AI 기반 제품의 시장 확장과 관련된 산업 동향을 반영한다."
+        "코덱스의 인기를 반영해 $100 챗GPT 프로 요금제를 출시합니다.",
+        "유저 요청에 따라 새로운 요금제를 선보입니다."
       ],
-      "ai_summary": "Sam Altman은 Codex의 인기와 함께 $100 ChatGPT Pro 요금제를 출시한다고 발표했다.",
+      "ai_summary": "코덱스의 인기를 반영해 챗GPT 프로 요금제를 출시했습니다.",
       "ai_themes": [
         "산업동향",
         "생성형AI"
@@ -182,19 +832,19 @@
       "account_handle": "karpathy",
       "display_name": "안드레이 카파시",
       "content": "Someone recently suggested to me that the reason OpenClaw moment was so big is because it's the first time a large group of non-technical people (who otherwise only knew AI as synonymous with ChatGPT as a website) experienced the latest agentic models.",
-      "content_ko": "최근 누군가가 나에게 OpenClaw의 성공이 큰 이유는 비기술자들이(그들은 일반적으로 AI를 ChatGPT 웹사이트로 인식) 최신 agentic 모델을 처음 경험했기 때문이라고 제안했습니다. https://t.co/8xnqkqXpui",
+      "content_ko": "최근 비기술인층이 AI를 경험하면서 발생한 이해 격차에 대해 경고했습니다. OpenClaw 모멘트는 비기술인들이 AI를 ChatGPT로 인식하는 데 기여했으며, 이는 AI 기술의 이해 차이를 드러내는 사례로 분석되고 있습니다.",
       "url": "https://x.com/karpathy/status/2042341482531864741",
       "is_ai_trend": true,
-      "ai_confidence": 1.0,
-      "ai_title": "OpenClaw의 성공, agentic 모델 첫 경험으로 인한 비기술자들의 인식 변화",
+      "ai_confidence": 0.9,
+      "ai_title": "비기술인 AI 이해 격차 확대 경고",
       "ai_bullets": [
-        "OpenClaw의 성공은 비기술자들이 agentic 모델을 처음 경험한 결과로 설명됨",
-        "ChatGPT와 같은 웹사이트로만 AI를 인식하던 비기술자들이 agentic 모델의 성능에 주목"
+        "비기술인층의 AI 이해도가 기술인층보다 낮은 현황 지적",
+        "OpenClaw 모멘트로 대표되는 AI 경험 확대 분석"
       ],
-      "ai_summary": "OpenClaw의 성공은 비기술자들이 agentic 모델을 처음 경험한 결과로, 이는 AI 인식의 변화를 가져왔다고 분석된다.",
+      "ai_summary": "비기술인층의 AI 이해 격차 확대로 인한 사회적 논의가 확산 중",
       "ai_themes": [
         "기술발전",
-        "연구/논문"
+        "윤리/안전"
       ],
       "published_at": "2026-04-10 05:38"
     },
@@ -204,21 +854,20 @@
       "account_handle": "karpathy",
       "display_name": "안드레이 카파시",
       "content": "Judging by my tl there is a growing gap in understanding of AI capability.\n\nThe first issue I think is around recency and tier of use. I think a lot of people tried the free tier of ChatGPT somewhere  last year and allowed it to inform their views on AI a little too much. This is a group of reactions laughing at various quirks of the models, hallucinations, etc. Yes I also saw the viral videos of OpenAI's Advanced Voice mode fumbling simple queries like \"should I drive or walk to the carwash\". The thing is that these free and old/deprecated models don't reflect the capability in the latest round of state of the art agentic models of this year, especially OpenAI Codex and Claude Code.\n\nBut that brings me to the second issue. Even if people paid $200/month to use the state of the art models, a lot of the capabilities are relatively \"peaky\" in highly technical areas. Typical queries around search, writing, advice, etc. are *not* the domain that has made the most noticeable and dramatic strides in capability. Partly,  this is due to the technical details of reinforcement learning and its use of verifiable rewards. But partly, it's also because these use cases are not sufficiently prioritized by the companies in their hillclimbing because they don't lead to as much $$$ value. The goldmines are elsewhere, and the focus comes along.\n\nSo that brings me to the second group of people, who *both* 1) pay for and use the state of the art frontier agentic models (OpenAI Codex / Claude Code) and 2) do so professionally in technical domains like programming, math and research. This group of people is subject to the highest amount of \"AI Psychosis\" because the recent improvements in these domains as of this year have been nothing short of staggering. When you hand a computer terminal to one of these models, you can now watch them melt programming problems that you'd normally expect to take days/weeks of work. It's this second group of people that assigns a much greater gravity to the capabilities, their slope, and various cyber-related repercussions.\n\nTLDR the people in these two groups are speaking past each other. It really is simultaneously the case that OpenAI's free and I think slightly orphaned (?) \"Advanced Voice Mode\" will fumble the dumbest questions in your Instagram's reels and *at the same time*, OpenAI's highest-tier and paid Codex model will go off for 1 hour to coherently restructure an entire code base, or find and exploit vulnerabilities in computer systems. This part really works and has made dramatic strides because 2 properties: 1) these domains offer explicit reward functions that are verifiable meaning they are easily amenable to reinforcement learning training (e.g. unit tests passed yes or no, in contrast to writing, which is much harder to explicitly judge),  but also 2) they are a lot more valuable in b2b settings, meaning that the biggest fraction of the team is focused on improving them. So here we are.",
-      "content_ko": "트위터 피드를 보니 AI 능력에 대한 이해 격차가 커지고 있는 것으로 보입니다. 첫 번째 문제는 최근성과 사용 수준의 차이입니다. 많은 사람들이 작년에 ChatGPT의 무료 버전을 사용해 AI에 대한 인식을 형성한 것으로 보입니다. 이들은 모델의 환상, 기타 특성에 대한 웃음으로 반응하는 경우가 많습니다. 예를 들어, OpenAI의 Advanced Voice 모드가 '차세대 세차장으로 가는 데 차를 몰거나 걸어야 할지' 같은 간단한 질문을 틀리는 영상이 바이럴 되었습니다. 하지만 이는 무료이고 구식/비활성화된 모델로, 최신 agentic 모델의 능력은 반영되지 않습니다. 특히 OpenAI Codex와 Claude Code 모델은 기술 분야에서 놀라운 성능 향상을 보였습니다. 이 모델들은 프로그래밍 문제를 며칠/주일 동안의 작업을 몇 분 안에 해결할 수 있습니다. 이로 인해 기술 분야 사용자들은 AI의 능력에 대해 'AI Psychosis'를 경험하고 있습니다. 요약하자면, 두 그룹의 사용자들은 서로 다른 관점에서 AI를 바라보고 있습니다. OpenAI의 무료 Advanced Voice 모드는 인스타그램 릴스에서 바보 같은 질문을 틀릴 수 있지만, 최고 수준의 Codex 모델은 코드베이스를 재구성하거나 컴퓨터 시스템의 취약점을 찾는 데 1시간 동안 집중할 수 있습니다. 이는 두 가지 이유로 가능합니다: 1) 이러한 분야는 검증 가능한 보상 함수를 제공해 강화 학습에 적합하고, 2) B2B 환경에서 더 높은 가치를 제공해 개발자들이 집중하고 있기 때문입니다. https://t.co/8xnqkqXpui",
+      "content_ko": "AI 기술 이해 격차가 두 그룹 간에 존재하며, 기술 분야에서의 AI 성과가 비즈니스 분야보다 빠르게 발전하고 있습니다. 이는 강화학습의 보상 함수가 기술 분야에서 더 명확하게 평가 가능하기 때문입니다. 또한, 기술 분야는 B2B 시장에서 더 높은 가치를 제공해 산업 우선순위가 높습니다.",
       "url": "https://x.com/karpathy/status/2042334451611693415",
       "is_ai_trend": true,
-      "ai_confidence": 1.0,
-      "ai_title": "AI 능력 인식 격차, 기술적 영역과 일반 사용자 간 차이 심화",
+      "ai_confidence": 0.95,
+      "ai_title": "AI 기술 격차와 산업 우선순위 분석",
       "ai_bullets": [
-        "기존 무료/구식 모델 사용자와 최신 agentic 모델 사용자 간 AI 능력 인식 격차 확대",
-        "OpenAI Codex 및 Claude Code 모델은 기술 분야에서 놀라운 성능 향상 보여",
-        "기술 분야 사용자들은 AI의 빠른 발전에 대해 'AI Psychosis'를 경험"
+        "AI 기술 이해 격차가 두 그룹 간에 존재",
+        "기술 분야에서의 AI 성과가 비즈니스 분야보다 빠르게 발전",
+        "강화학습의 보상 함수가 기술 분야 성과에 영향"
       ],
-      "ai_summary": "AI 능력에 대한 인식 격차가 심화되고 있으며, 기술 분야 사용자들은 최신 agentic 모델의 성능 향상에 대해 놀라움을 표출하고 있다.",
+      "ai_summary": "AI 기술 발전의 분야별 격차와 산업 우선순위에 대한 심층 분석",
       "ai_themes": [
         "기술발전",
-        "연구/논문",
-        "윤리/안전"
+        "산업동향"
       ],
       "published_at": "2026-04-10 05:10"
     },
@@ -228,19 +877,20 @@
       "account_handle": "AndrewYNg",
       "display_name": "앤드류 응",
       "content": "New course: Efficient Inference with SGLang: Text and Image Generation, built in partnership with LMSys @lmsysorg and RadixArk @radixark, and taught by Richard Chen @richardczl, a Member of Technical Staff at RadixArk.\n\nRunning LLMs in production is expensive, and much of that cost comes from redundant computation. This short course teaches you to eliminate that waste using SGLang, an open-source inference framework that caches computation already done and reuses it across future requests.\n\nWhen ten users share the same system prompt, SGLang processes it once, not ten times. The speedups compound quickly, especially when there's a lot of shared context across requests.\n\nSkills you'll gain:\n- Implement a KV cache from scratch to eliminate redundant computation within a single request\n- Scale caching across users and requests with RadixAttention, so shared context is only processed once\n- Accelerate image generation with diffusion models using SGLang's caching and multi-GPU parallelism\n\nJoin and learn to make LLM inference faster and more cost-efficient at scale!\nhttps://t.co/vUiu6goWCO",
-      "content_ko": "새로운 강의: SGLang을 활용한 효율적인 추론: 텍스트 및 이미지 생성, LMSys와 RadixArk와의 협업으로 개발되었으며, RadixArk의 Richard Chen에 의해 강의됩니다. 프로덕션에서 LLM을 실행하는 것은 비용이 많이 들며, 그 대부분의 비용은 중복 계산에서 비롯됩니다. 이 짧은 강의는 SGLang이라는 오픈소스 추론 프레임워크를 사용해 중복 계산을 제거하는 방법을 가르칩니다. 열 명의 사용자가 동일한 시스템 프롬프트를 공유할 경우, SGLang은 한 번 처리하고, 열 번 처리하지 않습니다. 속도 향상은 특히 요청 간에 많은 공유 컨텍스트가 있을 때 빠르게 누적됩니다. 습득할 기술: - 단일 요청 내 중복 계산을 제거하기 위해 KV 캐시를 직접 구현 - RadixAttention을 사용해 사용자 및 요청 간 캐싱을 확장하여 공유 컨텍스트가 한 번만 처리되도록 함 - SGLang의 캐싱 및 멀티-GPU 병렬 처리를 사용해 확산 모델을 통해 이미지 생성 속도 향상",
+      "content_ko": "LLM을 생산 환경에서 실행할 때 발생하는 비용 절감을 위한 SGLang 기반 캐싱 기술을 교육하는 과정을 발표했습니다. 사용자별 공유 시스템 프롬프트 처리를 통한 계산량 절감 방안을 설명하며, 라디스어텐션 기술을 활용한 다중 사용자 처리 최적화 사례를 제시했습니다. 이미지 생성 모델과 결합한 캐싱 전략을 통해 성능 향상을 달성했다고 설명했습니다. [링크 내용]에서 언급된 'KV 캐시 구현 방법', '라디스어텐션 기술 적용 사례' 등을 포함했습니다.",
       "url": "https://x.com/AndrewYNg/status/2042289428702642588",
       "is_ai_trend": true,
       "ai_confidence": 0.95,
-      "ai_title": "SGLang 기반 LLM 추론 최적화 과정 공개",
+      "ai_title": "SGLang 기반 효율 추론 기술 교육 과정 개설",
       "ai_bullets": [
-        "SGLang이라는 오픈소스 추론 프레임워크를 사용해 중복 계산을 줄이는 방법을 교육",
-        "KV 캐시와 RadixAttention 기술을 통해 사용자 간 공유 컨텍스트 처리 최적화",
-        "확산 모델을 활용한 이미지 생성 속도 향상 전략 포함"
+        "LLM 추론 비용 절감을 위한 KV 캐시 및 라디스어텐션 기술 교육 제공",
+        "다중 사용자 공유 컨텍스트 처리 최적화 기법을 통한 성능 향상",
+        "이미지 생성 모델과 결합한 캐싱 전략을 활용한 성능 개선 사례 공유"
       ],
-      "ai_summary": "Andrew Ng가 SGLang 기반의 LLM 추론 최적화 교육 과정을 발표하며, KV 캐시와 RadixAttention 기술을 통해 추론 효율성을 높이는 방법을 설명했다.",
+      "ai_summary": "SGLang 기반의 LLM 추론 효율화 기술을 교육하는 새로운 과정이 개설되었습니다.",
       "ai_themes": [
         "기술발전",
+        "교육/강의",
         "오픈소스"
       ],
       "published_at": "2026-04-10 02:11"

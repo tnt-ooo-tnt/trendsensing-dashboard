@@ -1,0 +1,45 @@
+{
+  "date": "2026-02-10",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "demishassabis": 1
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "연구/논문",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2021223548744822972",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "The drug design engine we’re building at @IsomorphicLabs is extending the SOTA further across key benchmarks, showing huge progress in accuracy and capabilities critical for in-silico drug discovery. Incredible work from @maxjaderberg and the entire team at Isomorphic Labs! https://t.co/cnnNhjTFtX",
+      "content_ko": "IsomorphicLabs에서 개발 중인 약물 설계 엔진이 주요 벤치마크에서 최신 기술 수준을 넘어설 만큼 성능 향상을 보이고 있으며, 이는 약물 발견 분야에서 정확도와 기능성 측면에서 큰 진보를 의미함. 이 기술은 인-실로 약물 발견 과정에서 중요한 역할을 할 것으로 기대되고 있음.",
+      "url": "https://x.com/demishassabis/status/2021223548744822972",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "IsomorphicLabs, AI 약물 설계 엔진 성능 개선",
+      "ai_bullets": [
+        "약물 설계 엔진이 주요 벤치마크에서 최신 기술 수준 달성",
+        "약물 발견 분야에서 정확도와 기능성 크게 향상",
+        "팀의 기술 혁신을 통한 인-실로 약물 발견 기여"
+      ],
+      "ai_summary": "AI 기반 약물 설계 엔진이 주요 벤치마크에서 성능 개선 중",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문"
+      ],
+      "published_at": "2026-02-10 23:03"
+    }
+  ]
+}

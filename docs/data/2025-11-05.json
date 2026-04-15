@@ -1,0 +1,31 @@
+{
+  "date": "2025-11-05",
+  "total": 1,
+  "ai_true": 0,
+  "ai_false": 1,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.1,
+  "top_themes": [],
+  "posts": [
+    {
+      "post_id": "1985918956377681998",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": ".@roelofbotha is one of the investors I've come to most respect, and I learned something new every time I spoke with him. Even beyond his leadership of @sequoia, his influence on how investors think is hard to overstate. His passing on the baton is the end of an era!",
+      "content_ko": "@roelofbotha를 매우 존중해 왔는데, 매번 대화할 때마다 새로운 것을 배웠다. 그의 @sequoia 경영을 넘어, 투자자들의 사고방식에 미친 영향은 과소평가할 수 없다. 그의 지도권 이양은 시대의 끝이 되었다!",
+      "url": "https://x.com/AndrewYNg/status/1985918956377681998",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2025-11-05 12:55"
+    }
+  ]
+}

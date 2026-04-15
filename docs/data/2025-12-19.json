@@ -1,0 +1,71 @@
+{
+  "date": "2025-12-19",
+  "total": 2,
+  "ai_true": 2,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 2
+  },
+  "avg_confidence": 0.85,
+  "top_themes": [
+    [
+      "오픈소스",
+      2
+    ],
+    [
+      "연구/논문",
+      1
+    ],
+    [
+      "기술발전",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2001842857070743613",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "OpenReview is one of the most important pillars supporting AI research and knowledge sharing, through open peer review and publishing. But as a non-profit, it needs our community’s support. Please consider making a donation to this great institution! \n\nhttps://t.co/TBYB1cCKyI https://t.co/8hKY4dACdb",
+      "content_ko": "OpenReview는 AI 연구와 지식 공유를 지원하는 중요한 플랫폼입니다. 하지만 비영리 단체로 운영되므로 커뮤니티의 지원이 필요합니다. 이 great institution에 기부를 고려해 주시길 바랍니다. https://t.co/TBYB1cCKyI https://t.co/8hKY4dACdb",
+      "url": "https://x.com/AndrewYNg/status/2001842857070743613",
+      "is_ai_trend": true,
+      "ai_confidence": 0.75,
+      "ai_title": "AI 연구 지원을 위한 OpenReview 기부 요청",
+      "ai_bullets": [
+        "AI 연구 및 지식 공유 플랫폼 OpenReview 지원 요청",
+        "비영리 단체로서 기부를 통한 커뮤니티 지원 필요성 강조"
+      ],
+      "ai_summary": "AI 연구를 지원하는 OpenReview 플랫폼의 기부 요청",
+      "ai_themes": [
+        "연구/논문",
+        "오픈소스"
+      ],
+      "published_at": "2025-12-19 11:31"
+    },
+    {
+      "post_id": "2001728276289704213",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "New course: Nvidia's NeMo Agent Toolkit: Making Agents Reliable, taught by @Pr_Brian from @NVIDIA.\n\nMany teams struggle to turn agent demos into reliable systems that are ready for production. This short course teaches you to harden agentic workflows into reliable systems using Nvidia's open-source NeMo Agent Toolkit (NAT). Whether you built your agent in raw Python or using a framework like LangGraph, or CrewAI, NAT provides building blocks for observability, evaluation, and deployment that turn proofs-of-concept into production-ready systems.\n\nNAT makes it easy to troubleshoot and optimize agent performance with execution traces, systematic evaluations, and CI/CD integration.\n\nSkills you'll gain:\n- Build configuration-driven agent workflows with REST APIs and minimal code\n- Add observability with tracing to visualize agent reasoning and debug performance bottlenecks\n- Create systematic evaluations using gold-standard datasets to measure and improve agent reliability\n- Deploy multi-agent systems with authentication, rate limiting, and professional web interfaces\n- Orchestrate agents from different frameworks to collaborate on complex tasks\n\nJoin and learn how to turn agent demos into reliable systems!\nhttps://t.co/9rBcBteq4b",
+      "content_ko": "새로운 강의: NVIDIA의 뉴모 에이전트 툴킷(NeMo Agent Toolkit)을 활용한 에이전트 신뢰성 강화 교육. 많은 팀이 에이전트 데모를 생산용 시스템으로 전환하는 데 어려움을 겪고 있으나, 이 강의는 NVIDIA의 오픈소스 뉴모 에이전트 툴킷(NAT)을 통해 워크플로우를 신뢰성 있는 시스템으로 강화하는 방법을 가르침. NAT는 원시 파이썬 또는 LangGraph, CrewAI와 같은 프레임워크를 사용해 에이전트를 개발한 경우에도 관측성, 평가, 배포를 위한 빌딩 블록을 제공함. NAT는 실행 추적, 시스템적 평가, CI/CD 통합을 통해 에이전트 성능을 트러블슈팅 및 최적화하는 데 유용함. 스킬로는 REST API와 최소 코드로 구성 기반 에이전트 워크플로우 구축, 추적을 통한 관측성 추가, 금준기 데이터셋을 활용한 시스템적 평가, 인증 및 레이트 제한을 통한 멀티 에이전트 시스템 배포, 다양한 프레임워크 에이전트 협업 등이 포함됨. https://t.co/9rBcBteq4b",
+      "url": "https://x.com/AndrewYNg/status/2001728276289704213",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "NVIDIA 뉴모 에이전트 툴킷, 에이전트 신뢰성 강화 교육 프로그램 공개",
+      "ai_bullets": [
+        "NVIDIA의 오픈소스 뉴모 에이전트 툴킷(NAT)을 활용해 에이전트 시스템을 생산용으로 전환하는 방법을 학습",
+        "실행 추적, 시스템적 평가, CI/CD 통합을 통해 에이전트 성능 트러블슈팅 및 최적화 지원",
+        "REST API와 최소 코드로 구성 기반 에이전트 워크플로우 구축 가능"
+      ],
+      "ai_summary": "NVIDIA의 뉴모 에이전트 툴킷을 활용한 에이전트 신뢰성 강화 교육 프로그램이 공개됨",
+      "ai_themes": [
+        "기술발전",
+        "오픈소스"
+      ],
+      "published_at": "2025-12-19 03:56"
+    }
+  ]
+}

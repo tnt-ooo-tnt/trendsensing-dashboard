@@ -1,0 +1,574 @@
+{
+  "date": "2026-04-15",
+  "total": 26,
+  "ai_true": 13,
+  "ai_false": 13,
+  "source_counts": {
+    "Meta AI Blog": 5,
+    "Anthropic News": 5,
+    "Upstage Blog": 5,
+    "Samsung Newsroom": 2,
+    "Jaemyung_Lee": 2,
+    "msitminister": 1,
+    "SKT Newsroom": 2,
+    "demishassabis": 2,
+    "Google AI Blog": 1,
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.57,
+  "top_themes": [
+    [
+      "기술발전",
+      12
+    ],
+    [
+      "산업동향",
+      7
+    ],
+    [
+      "윤리/안전",
+      3
+    ],
+    [
+      "연구/논문",
+      2
+    ],
+    [
+      "오픈소스",
+      2
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "1ee4ff978d2edba93c211203",
+      "platform": "press_release",
+      "account_handle": "Meta AI Blog",
+      "display_name": "Meta AI",
+      "content": "How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet\n\nHow Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet Products AI Research The Latest About Get Llama Try Meta AI Computer Vision How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet April 6, 2026 • 5 minute read Most people wear only an estimated 20% of the clothes in their closets, but the rest isn’t useless. It's untapped potential: combinations that never quite come together because remembering what you own, let alone imagining how it all fits together, is harder than it sounds. The AI fashion app Alta Daily was built on exactly that insight. Launched in 2025, the Alta Daily app lets users photograph and digitize their entire wardrobe. Using natural language prompts, the app pulls from a person’s digitized closet to recommend the perfect outfit for any occasion and shows them what it looks like on their personal Alta avatar. It also tracks what a person wears each day, making it easy to avoid repeating outfits. A month’s worth of outfits on Alta’s Head of Engineering Joon Kim’s avatar, segmented by SAM 3. At the heart of Alta is Meta’s Segment Anything Model (SAM), which has been used to segment and digitize millions of outfits. From the beginning, Jenny Wang, founder and CEO of Alta Daily, knew she wanted to build an app that had a “clean aesthetic,” laying out the pieces people own as though they were on the pages of a fashion magazine. This meant re",
+      "content_ko": "메타 AI 블로그는 '알타 데일리'가 메타의 세그먼트 어니싱 모델을 활용해 디지털 캐주얼을 재구상하고 있다고 발표했습니다. 알타 데일리는 사용자가 옷장을 사진으로 디지털화하고, 자연어 명령으로 옷 조합을 추천해주는 AI 패션 앱입니다. 사용자는 자신의 옷장을 사진으로 스캔해 앱에 등록하고, 특정 상황에 맞는 옷차림을 추천받을 수 있습니다. 또한, 사용자의 착용 패턴을 분석해 중복 옷차림을 방지하는 기능도 제공합니다. 이 앱은 2025년에 출시되었으며, 메타의 세그먼트 어니싱 모델을 통해 수백만 개의 옷을 세분화하고 디지털화하는 데 기여하고 있습니다. 앱의 헤드 오브 엔지니어인 김 주운은 '알타'의 헤드에 옷을 세분화해 가상 피팅을 가능하게 했다고 설명했습니다. 이 앱은 '청결한 시각'을 강조해 패션 잡지 페이지처럼 옷을 배열해 보여주는 것이 특징입니다.",
+      "url": "https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything/",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "메타 AI 모델 '세그먼트 어니싱' 활용, 디지털 캐주얼 앱 '알타 데일리' 출시",
+      "ai_bullets": [
+        "알타 데일리 앱은 사용자의 옷장을 사진으로 디지털화해 옷 조합을 추천",
+        "메타의 세그먼트 어니싱 모델을 활용해 옷을 세분화하고 가상 피팅 기능 제공",
+        "AI 기반으로 사용자의 착용 패턴 분석해 중복 옷차림 방지 기능 추가"
+      ],
+      "ai_summary": "메타의 AI 모델을 활용한 옷장 디지털화 앱이 출시되어 개인 맞춤형 옷차림 추천 기능 제공",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-04-15 20:02"
+    },
+    {
+      "post_id": "091b61caa9d6ad3b4714b898",
+      "platform": "press_release",
+      "account_handle": "Anthropic News",
+      "display_name": "Anthropic",
+      "content": "Claude is a space to think | Anthropic\n\nAnnouncements Claude is a space to think Feb 4, 2026 There are many good places for advertising. A conversation with Claude is not one of them. Advertising drives competition, helps people discover new products, and allows services like email and social media to be offered for free. We’ve run our own ad campaigns , and our AI models have, in turn, helped many of our customers in the advertising industry. But including ads in conversations with Claude would be incompatible with what we want Claude to be: a genuinely helpful assistant for work and for deep thinking. We want Claude to act unambiguously in our users’ interests. So we’ve made a choice: Claude will remain ad-free. Our users won’t see “sponsored” links adjacent to their conversations with Claude; nor will Claude’s responses be influenced by advertisers or include third-party product placements our users did not ask for. The nature of AI conversations When people use search engines or social media, they’ve come to expect a mixture of organic and sponsored content. Filtering signal from noise is part of the interaction. Conversations with AI assistants are meaningfully different. The format is open-ended; users often share context and reveal more than they would in a search query. This openness is part of what makes conversations with AI valuable, but it’s also what makes them susceptible to influence in ways that other digital products are not. Our analysis of conversations wit",
+      "content_ko": "Anthropic은 2026년 2월 4일 'Claude는 생각하는 공간입니다'라는 제목으로, 광고가 AI 대화에 적절하지 않다고 발표했습니다. 사용자들이 Claude와의 대화에서 광고를 보지 않도록 결정했습니다. AI 모델이 광고를 포함하면 사용자에게 도움이 되는 어시스턴트로서의 역할을 수행하지 못할 수 있기 때문입니다. 사용자들이 Claude와의 대화에서 '지원' 링크를 보지 않도록 하며, 광고주나 제3자 제품 배치가 사용자 요청 없이 포함되지 않도록 했습니다. AI 대화의 특성은 검색 엔진이나 소셜 미디어와 달리, 사용자가 더 많은 맥락을 공유하고 의미 있는 대화를 나누는 방식이 다르기 때문에, 광고가 영향을 미치기 쉬운 구조입니다. 이에 따라 Claude는 광고가 없는 상태로 유지됩니다.",
+      "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-04-15 20:02"
+    },
+    {
+      "post_id": "350cc9107a36541f0e4e49d8",
+      "platform": "press_release",
+      "account_handle": "Meta AI Blog",
+      "display_name": "Meta AI",
+      "content": "Scaling How We Build and Test Our Most Advanced AI\n\nScaling How We Build and Test Our Most Advanced AI Products AI Research The Latest About Get Llama Try Meta AI FEATURED Scaling How We Build and Test Our Most Advanced AI April 8, 2026 • 8 minute read As we build more capable and more personalized AI, reliability, security, and user protections are more important than ever. Advanced models require an advanced approach to safety — one that scales with the technology. Today, we’re detailing that work: our updated Advanced AI Scaling Framework , our Safety & Preparedness Report for Muse Spark, and new advances in how our models reason about safety from the ground up, so that as our AI becomes more capable, our protections keep pace. Advanced AI Scaling Framework Today, we’re building on our original Frontier AI Framework and publishing a significantly updated and more rigorous version: the Advanced AI Scaling Framework. This update broadens the types of risks we evaluate, strengthens how we make deployment decisions, and introduces new Safety & Preparedness Reports. More specifically, this Framework outlines how we identify and assess the most severe and emerging risks, including chemical and biological, cybersecurity, and a new section to evaluate risks around loss of control. As models become more advanced, we’re evaluating how they perform when given greater autonomy and whether the controls around that behavior work as intended. These standards apply across our frontier dep",
+      "content_ko": "메타 AI 블로그: 확장 어떻게 우리는 최첨단 AI를 구축하고 테스트하나요? 제품 AI 연구 최신 정보 Get Llama 시도 메타 AI 특징 확장 어떻게 우리는 최첨단 AI를 구축하고 테스트하나요? 2026년 4월 8일 • 8분 읽기 더 능력이 뛰어난 AI를 구축하고 더 개인화된 AI를 제공하면서 신뢰성, 보안, 사용자 보호가 더욱 중요해졌습니다. 고급 모델은 고급 접근 방식을 요구하며, 기술과 동일한 속도로 안전성을 확장해야 합니다. 오늘은 이 작업에 대한 세부 내용을 공유합니다: 우리의 업데이트된 고급 AI 확장 프레임워크, Muse Spark에 대한 안전 및 준비 보고서, 그리고 모델이 지구에서부터 안전성을 고려하는 방식에 대한 새로운 진보입니다. 고급 AI 확장 프레임워크 오늘은 원래 프런티어 AI 프레임워크를 기반으로 한 업데이트된 더 엄격한 버전인 고급 AI 확장 프레임워크를 발표합니다. 이 업데이트는 평가하는 위험 유형을 넓히고, 배포 결정을 내리는 방식을 강화하며, 새로운 안전 및 준비 보고서를 도입합니다. 더 구체적으로 이 프레임워크는 가장 심각하고 새로운 위험을 식별하고 평가하는 방법을 설명합니다. 이는 화학 및 생물학적, 사이버 보안, 그리고 새로운 제어 손실 위험 평가 섹션을 포함합니다. 모델이 더 많은 자율성을 가지면서 그 행동에 대한 제어가 어떻게 작동하는지 평가하고 있습니다. 이러한 기준은 우리의 프런티어 배포에 걸쳐 적용됩니다.",
+      "url": "https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai/",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "메타, 최첨단 AI 개발 및 테스트 확장 전략 공개",
+      "ai_bullets": [
+        "최첨단 AI 개발에 대한 신규 확장 프레임워크 및 안전 보고서 발표",
+        "모델이 더 많은 자율성을 가질수록 안전성 보호 수준도 동일하게 강화",
+        "화학/생물학적 위험, 사이버 보안 등 새로운 위험 평가 항목 추가"
+      ],
+      "ai_summary": "메타가 최첨단 AI 개발 및 테스트에 대한 확장 전략과 안전성 보고서를 공개하며 기술 발전과 안전성 강화를 동시에 추진하고 있습니다.",
+      "ai_themes": [
+        "기술발전",
+        "윤리/안전"
+      ],
+      "published_at": "2026-04-15 20:02"
+    },
+    {
+      "post_id": "6c20810f6d90adf92db32ee2",
+      "platform": "press_release",
+      "account_handle": "Anthropic News",
+      "display_name": "Anthropic",
+      "content": "Claude Opus 4.6\n\nAnnouncements Introducing Claude Opus 4.6 Feb 5, 2026 We’re upgrading our smartest model. The new Claude Opus 4.6 improves on its predecessor’s coding skills. It plans more carefully, sustains agentic tasks for longer, can operate more reliably in larger codebases, and has better code review and debugging skills to catch its own mistakes. And, in a first for our Opus-class models, Opus 4.6 features a 1M token context window in beta 1 . Opus 4.6 can also apply its improved abilities to a range of everyday work tasks: running financial analyses, doing research, and using and creating documents, spreadsheets, and presentations. Within Cowork , where Claude can multitask autonomously, Opus 4.6 can put all these skills to work on your behalf. The model’s performance is state-of-the-art on several evaluations. For example, it achieves the highest score on the agentic coding evaluation Terminal-Bench 2.0 and leads all other frontier models on Humanity’s Last Exam , a complex multidisciplinary reasoning test. On GDPval-AA —an evaluation of performance on economically valuable knowledge work tasks in finance, legal, and other domains 2 —Opus 4.6 outperforms the industry’s next-best model (OpenAI’s GPT-5.2) by around 144 Elo points, 3 and its own predecessor (Claude Opus 4.5) by 190 points. Opus 4.6 also performs better than any other model on BrowseComp , which measures a model’s ability to locate hard-to-find information online. As we show in our extensive system car",
+      "content_ko": "Anthropic은 2026년 2월 5일 Claude Opus 4.6 업데이트를 발표했습니다. 이 새로운 모델은 이전 버전보다 코드 분석 능력이 향상되었으며, 더 신중하게 계획을 세우고 장시간의 에이전트 작업을 수행할 수 있습니다. 대규모 코드베이스에서 더 신뢰성 있게 작동하며, 자체 오류를 수정하는 코드 검토 및 디버깅 능력도 개선되었습니다. Opus 4.6은 Opus 클래스 모델 중 처음으로 1M 토큰 컨텍스트 윈도우를 지원하는 베타 1 버전을 제공합니다. 또한, 금융 분석, 연구, 문서 및 프레젠테이션 작성 등 일상 업무에 적용할 수 있는 기능을 추가했습니다. Cowork에서 자동화된 멀티태스킹을 통해 사용자의 대신 다양한 작업을 수행할 수 있습니다. 모델은 Terminal-Bench 2.0에서 최고 점수를 기록했으며, Humanity’s Last Exam이라는 복잡한 다학제적 추론 테스트에서 다른 최첨단 모델들보다 우수한 성능을 보입니다. GDPval-AA 평가에서 OpenAI의 GPT-5.2 대비 약 144 Elo 포인트, 이전 버전 Claude Opus 4.5 대비 190 포인트 우수한 성적을 기록했습니다. 또한, BrowseComp라는 온라인에서 어려운 정보를 찾는 능력을 평가하는 테스트에서도 다른 모델들보다 우수한 성능을 보입니다.",
+      "url": "https://www.anthropic.com/news/claude-opus-4-6",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "Anthropic: Claude Opus 4.6 업데이트 발표, 코드 분석 및 멀티태스킹 성능 강화",
+      "ai_bullets": [
+        "Claude Opus 4.6은 이전 버전보다 코드 분석 및 디버깅 능력이 향상됨",
+        "1M 토큰 컨텍스트 윈도우를 지원하는 베타 버전 출시",
+        "Terminal-Bench 2.0에서 최고 성적 기록, GDPval-AA 평가에서 GPT-5.2 대비 144 Elo 포인트 우위"
+      ],
+      "ai_summary": "Anthropic이 Claude Opus 4.6을 발표하며 코드 처리 및 멀티태스킹 능력 향상을 강조",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문"
+      ],
+      "published_at": "2026-04-15 20:02"
+    },
+    {
+      "post_id": "a8336fe361e14b12e02159f9",
+      "platform": "press_release",
+      "account_handle": "Meta AI Blog",
+      "display_name": "Meta AI",
+      "content": "Introducing Muse Spark: Scaling Towards Personal Superintelligence\n\nIntroducing Muse Spark: Scaling Towards Personal Superintelligence Products AI Research The Latest About Get Llama Try Meta AI FEATURED Introducing Muse Spark: Scaling Towards Personal Superintelligence April 8, 2026 • 15 minute read Today, we’re excited to introduce Muse Spark, the first in the Muse family of models developed by Meta Superintelligence Labs. Muse Spark is a natively multimodal reasoning model with support for tool-use, visual chain of thought, and multi-agent orchestration. Muse Spark is the first step on our scaling ladder and the first product of a ground-up overhaul of our AI efforts. To support further scaling, we are making strategic investments across the entire stack — from research and model training to infrastructure, including the Hyperion data center. In this post, we'll first explore Muse Spark's new capabilities and applications. After these results, we’ll look behind the curtain at the scaling axes driving our progress toward personal superintelligence. Muse Spark is available today at meta.ai and the Meta AI app. We’re opening a private API preview to select users. Capabilities for Personal Superintelligence Muse Spark offers competitive performance in multimodal perception, reasoning, health, and agentic tasks. We continue to invest in areas with current performance gaps, such as long-horizon agentic systems and coding workflows. With larger models in development, these result",
+      "content_ko": "메타 AI 블로그: 인트로딩 Muse Spark: 개인 초지능 달성 위한 확장 전략\n인트로딩 Muse Spark: 개인 초지능 달성 위한 확장 전략 제품 AI 연구 최신 정보 Get Llama 시도 메타 AI 특징 인트로딩 Muse Spark: 개인 초지능 달성 위한 확장 전략 2026년 4월 8일 • 15분 읽기 오늘, 메타 슈퍼인тел리전스 랩스에서 개발한 Muse 가족 모델의 첫 번째 제품인 Muse Spark를 발표합니다. Muse Spark는 네이티브 다모달 추론 모델로 도구 사용, 시각 사고 체인, 다 에이전트 협업을 지원합니다. Muse Spark는 기술 확장 계단의 첫 단계이며, AI 노력의 근본적인 개편을 위한 첫 제품입니다. 기술 확장을 지원하기 위해 연구 및 모델 훈련부터 인프라까지 전 영역 전략적 투자 중입니다. 이 글에서는 먼저 Muse Spark의 새로운 기능과 응용 사례를 탐구하고, 이후 기술 확장 축을 통해 개인 초지능 달성에 대한 진행 상황을 살펴보겠습니다. Muse Spark는 meta.ai 및 메타 AI 앱에서 오늘부터 이용 가능하며, 선택된 사용자에게는 프라이빗 API 미리보기 제공합니다. 개인 초지능 기능 Muse Spark는 다모달 인식, 추론, 건강, 에이전트 작업에서 경쟁적인 성능을 제공합니다. 현재 성능 격차가 있는 분야인 장기적 에이전트 시스템 및 코드 작업에 대한 투자 계속 중입니다. 더 큰 모델 개발을 통해 이러한 결과를 이어갈 예정입니다.",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "메타, Muse Spark 발표… 개인 초지능 달성 위한 확장 전략",
+      "ai_bullets": [
+        "Muse Spark는 다모달 추론 모델로 도구 사용, 시각 사고 체인, 다 에이전트 협업 지원",
+        "Hyperion 데이터센터 등 인프라 투자 통해 기술 확장 전략 강화",
+        "개인 초지능 달성을 위한 안전성 및 준비성 보고서 공개"
+      ],
+      "ai_summary": "메타가 Muse Spark 모델을 발표하며 개인 초지능 달성을 위한 기술 확장 전략과 안전성 프레임워크를 공개했습니다.",
+      "ai_themes": [
+        "기술발전",
+        "윤리/안전"
+      ],
+      "published_at": "2026-04-15 20:02"
+    },
+    {
+      "post_id": "c4a45eed67ee9087aae3c9b9",
+      "platform": "press_release",
+      "account_handle": "Anthropic News",
+      "display_name": "Anthropic",
+      "content": "Introducing Sonnet 4.6\n\nProduct Introducing Claude Sonnet 4.6 Feb 17, 2026 Claude Sonnet 4.6 is our most capable Sonnet model yet . It’s a full upgrade of the model’s skills across coding, computer use, long-context reasoning, agent planning, knowledge work, and design. Sonnet 4.6 also features a 1M token context window in beta. For those on our Free and Pro plans , Claude Sonnet 4.6 is now the default model in claude.ai and Claude Cowork . Pricing remains the same as Sonnet 4.5, starting at $3/$15 per million tokens. Sonnet 4.6 brings much-improved coding skills to more of our users. Improvements in consistency, instruction following, and more have made developers with early access prefer Sonnet 4.6 to its predecessor by a wide margin. They often even prefer it to our smartest model from November 2025, Claude Opus 4.5. Performance that would have previously required reaching for an Opus-class model—including on real-world, economically valuable office tasks —is now available with Sonnet 4.6. The model also shows a major improvement in computer use skills compared to prior Sonnet models. As with every new Claude model, we’ve run extensive safety evaluations of Sonnet 4.6, which overall showed it to be as safe as, or safer than, our other recent Claude models. Our safety researchers concluded that Sonnet 4.6 has “a broadly warm, honest, prosocial, and at times funny character, very strong safety behaviors, and no signs of major concerns around high-stakes forms of misalignment",
+      "content_ko": "Anthropic이 Claude Sonnet 4.6 모델을 출시하며, 코드 작성, 컴퓨터 사용, 장문 추론, 에이전트 계획, 지식 작업, 디자인 분야에서 기능을 전면 개선한 모델이라고 발표했습니다. 1M 토큰 컨텍스트 윈도우 베타 지원 및 프리/프로 플랜 사용자 대상 기본 모델로 제공됩니다. 개발자들은 이전 모델 대비 성능 향상으로 사무실 업무 자동화 기능을 확대할 수 있다고 기대하고 있으며, 안전성 검토 결과 기존 모델 대비 안전성이 높다고 평가받고 있습니다.",
+      "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "Anthropic, Claude Sonnet 4.6 모델 출시 및 기능 개선 발표",
+      "ai_bullets": [
+        "Sonnet 4.6은 코드 작성, 컴퓨터 사용, 장문 추론 등 기능을 전면 개선한 최신 모델",
+        "1M 토큰 컨텍스트 윈도우 베타 지원 및 프리/프로 플랜 사용자 대상 기본 모델로 제공",
+        "기존 Opus 4.5 모델 대비 성능 향상으로 사무실 업무 자동화 기능 확대"
+      ],
+      "ai_summary": "AI 모델 Claude Sonnet 4.6의 기능 개선 및 사용자 대상 출시 발표",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-04-15 20:02"
+    },
+    {
+      "post_id": "278254c1e0630e9d39c63c30",
+      "platform": "press_release",
+      "account_handle": "Meta AI Blog",
+      "display_name": "Meta AI",
+      "content": "AI at Meta: Meta AI Products, Models and Research | AI at Meta\n\nAI at Meta: Meta AI Products, Models and Research | AI at Meta",
+      "content_ko": "메타 AI 블로그: 메타 AI 제품, 모델 및 연구 | 메타 AI 블로그\n메타 AI 블로그: 메타 AI 제품, 모델 및 연구 | 메타 AI 블로그",
+      "url": "https://ai.meta.com/",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-04-15 20:02"
+    },
+    {
+      "post_id": "191cc99ce0bbb92f58b8dd69",
+      "platform": "press_release",
+      "account_handle": "Meta AI Blog",
+      "display_name": "Meta AI",
+      "content": "Blog Posts\n\nAI at Meta Blog Products AI Research The Latest About Get Llama Try Meta AI The latest AI news from Meta FEATURED Introducing Muse Spark: Scaling Towards Personal Superintelligence April 8, 2026 Latest News FEATURED Research Scaling How We Build and Test Our Most Advanced AI Apr 8, 2026 Computer Vision How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet Apr 6, 2026 FEATURED Computer Vision SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning Mar 27, 2026 FEATURED Four MTIA Chips in Two Years: Scaling AI Experiences for Billions Mar 11, 2026 Get the latest from AI at Meta in your inbox Sign up Blog Posts Blog April 08, 2026 Scaling How We Build and Test Our Most Advanced AI As we build more capable, personalized AI, reliability, security, and user protections are more important than ever. April 08, 2026 Learn More Blog April 08, 2026 Introducing Muse Spark: Scaling Towards Personal Superintelligence April 08, 2026 Learn More Blog March 26, 2026 Research Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli March 26, 2026 Learn More Blog March 10, 2026 Open Source Mapping the World's Forests with Greater Precision: Introducing Canopy Height Maps v2 In partnership with the World Resources Institute, today we’re announcing Canopy Height Maps v2 (CHMv2), an open source model, along with world-scale maps generated with th",
+      "content_ko": "메타 AI 블로그는 2026년 4월 8일 'Muse Spark: 개인 초지능을 위한 체계적 확장'을 발표했습니다. 이는 AI의 능력을 개인화하고 확장하는 데 초점을 맞춘 기술입니다. 또한, 'TRIBE v2: 인간 뇌가 복잡한 자극을 처리하는 방식을 이해하는 예측 기반 기반 모델'을 발표하며, 컴퓨터 비전 분야에서의 혁신을 강조했습니다. 'Canopy Height Maps v2'는 세계적인 나무 높이 지도를 오픈소스로 공개하며, 세계자원연구소와 협력하여 생성된 모델입니다. 메타는 AI의 신뢰성, 보안, 사용자 보호를 강조하며, 더 나은 AI 경험을 위해 지속적인 연구와 개발을 진행하고 있습니다.",
+      "url": "https://ai.meta.com/blog/",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "메타 AI 블로그: Muse Spark 및 TRIBE v2 등 AI 연구 성과 발표",
+      "ai_bullets": [
+        "Muse Spark는 개인 맞춤형 초지능을 위한 체계적 확장 기술",
+        "TRIBE v2는 인간 뇌가 복잡한 자극을 처리하는 방식을 이해하는 예측 기반 기반 모델",
+        "Canopy Height Maps v2는 세계 정밀 나무 높이 지도를 오픈소스로 공개"
+      ],
+      "ai_summary": "메타 AI 블로그가 Muse Spark, TRIBE v2, Canopy Height Maps v2 등 AI 연구 성과를 발표",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문",
+        "오픈소스"
+      ],
+      "published_at": "2026-04-15 20:02"
+    },
+    {
+      "post_id": "67d16e332bbd5c7438ae5e5f",
+      "platform": "press_release",
+      "account_handle": "Anthropic News",
+      "display_name": "Anthropic",
+      "content": "What 81,000 people want from AI\n\nWhat 81,000 people want from AI Last December, tens of thousands of Claude users around the world had a conversation with our AI interviewer to share how they use AI, what they dream it could make possible, and what they fear it might do. Each dot represents 4 respondents Jump to story For the first time, AI has enabled us to collect rich, open‑ended interviews at extraordinary scale. We heard from people across 159 countries in 70 languages. We believe this is the largest and most multilingual qualitative study ever conducted. AI is already helping people, and inspiring hope … “ Claude put the historical pieces together, leading to my proper diagnosis after being misdiagnosed for over 9 years. Freelancer, UNITED STATES “ I live hand to mouth, zero savings. If I use AI smarter, it may help me craft solutions to that cycle. It still depends on me. Entrepreneur, NIGERIA But it’s also costing people, and raising alarm … “ I got laid off from my job in May because my company wanted to replace me with an AI system. Technical Support Specialist, UNITED STATES “ Humanity has never dealt with something smarter than itself. We need to reflect on how to prepare for the AI age. SOFTWARE ENGINEER, SOUTH KOREA Across interviews, hope and alarm didn’t divide people into camps, so much as coexist as tensions within each person. “ I use AI to review contracts, save time... and at the same time I fear: am I losing my ability to read by myself? Thinking was the",
+      "content_ko": "AI 사용자 8만 1천 명의 기대와 우려를 조사한 결과, AI가 진단 도구로 활용되거나 경제적 기회를 제공하는 사례도 있음. 그러나 AI로 인한 실업 및 인간성 상실에 대한 우려도 제기됨. 설문 응답자 중 일부는 AI가 자신을 대체할 수 있는 위험에 대해 불안을 표현했으며, 다른 이들은 AI를 통해 문제 해결을 기대하고 있음. 이 조사 결과는 AI 기술의 사회적 영향에 대한 다양한 시각을 보여주는 사례로 분석됨.",
+      "url": "https://www.anthropic.com/81k-interviews",
+      "is_ai_trend": false,
+      "ai_confidence": 0.3,
+      "ai_title": "AI 사용자 8만 1천 명의 기대와 우려 조사 결과",
+      "ai_bullets": [
+        "159개국 70개 언어로 진행된 AI 사용자 설문 조사 결과 공개",
+        "AI가 진단 도구로 활용되거나 경제적 기회를 제공하는 사례도 있음",
+        "AI로 인한 실업 및 인간성 상실에 대한 우려도 제기됨"
+      ],
+      "ai_summary": "AI 사용자 8만 1천 명의 기대와 우려를 반영한 설문 조사 결과 요약",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-04-15 20:02"
+    },
+    {
+      "post_id": "04f7ade1f893b1d06fd5160e",
+      "platform": "press_release",
+      "account_handle": "Upstage Blog",
+      "display_name": "업스테이지",
+      "content": "Insurance Document Automation with Upstage Studio\n\nNew New Insurance teams waste hours daily on manual document work—sorting submissions, entering Loss Run data, validating ACORD forms. Upstage Studio automates the entire workflow through Parse, Classify, and Extract, turning any insurance document into system-ready structured data in under 3 minutes. Highlights Get Started Contact us Insurance teams spend a significant amount of time daily doing manual work with documents. They spend whole workdays doing Loss Run data entry, ACORD form validation, and sorting of underwriting submissions. While you're organizing that 50-page broker package, complex cases that need real underwriting attention get pushed aside. Upstage Studio takes the entire process through automation. You can upload any insurance document of any format and receive structured data that is ready for your systems. 👉 Explore Insurance Automation Agents in Studio ‍ Why Insurance Documents Are Hard to Automate Carrier-Specific Formats Even the same document type looks completely different across carriers. Loss Run reports from Aurora, Aegis, and Travelers use different field names, table structures, and layouts. 'Incurred Amount', 'Total Incurred', 'Loss Amount'these are different names for the same thing, but each carrier employs different terminologies. Complex Tables Documents may be loaded with policy information, claim details, and payment history dividing them into numerous nested tables. The layout of tables",
+      "content_ko": "Insurance Document Automation with Upstage Studio\n\nNew New Insurance teams waste hours daily on manual document work—sorting submissions, entering Loss Run data, validating ACORD forms. Upstage Studio automates the entire workflow through Parse, Classify, and Extract, turning any insurance document into system-ready structured data in under 3 minutes. Highlights Get Started Contact us Insurance teams spend a significant amount of time daily doing manual work with documents. They spend whole workdays doing Loss Run data entry, ACORD form validation, and sorting of underwriting submissions. While you're organizing that 50-page broker package, complex cases that need real underwriting attention get pushed aside. Upstage Studio takes the entire process through automation. You can upload any insurance document of any format and receive structured data that is ready for your systems. 👉 Explore Insurance Automation Agents in Studio ‍ Why Insurance Documents Are Hard to Automate Carrier-Specific Formats Even the same document type looks completely different across carriers. Loss Run reports from Aurora, Aegis, and Travelers use different field names, table structures, and layouts. 'Incurred Amount', 'Total Incurred', 'Loss Amount'these are different names for the same thing, but each carrier employs different terminologies. Complex Tables Documents may be loaded with policy information, claim details, and payment history dividing them into numerous nested tables. The layout of tables",
+      "url": "https://www.upstage.ai/blog/en/studio-insurance",
+      "is_ai_trend": false,
+      "ai_confidence": 0.3,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "산업동향"
+      ],
+      "published_at": "2026-04-15 20:02"
+    },
+    {
+      "post_id": "febb1c8e47eeeba5c1a79dbe",
+      "platform": "press_release",
+      "account_handle": "Upstage Blog",
+      "display_name": "업스테이지",
+      "content": "Logistics Document Automation with Upstage Studio\n\nNew New Logistics teams waste hours daily processing invoices from multiple carriers—sorting Fedex, UPS, DHL formats, verifying line items, and manual data entry. Upstage Studio automates the entire workflow through Parse, Classify, and Extract, converting any carrier invoice into standardized, system-ready data in seconds. Highlights Get Started Contact us Logistics teams spend hours daily processing invoices from multiple carriers. Sorting Fedex, UPS, and DHL invoices, verifying line items, and entering data into accounting systems consumes entire workdays. Small forwarding teams handle hundreds of invoices across different formats while time-sensitive shipments wait for payment approval. Upstage Studio automates the entire process. Upload any logistics invoice in any format and receive structured data ready for your systems. 👉 Explore Logistics Automation Agents in Studio ‍ Why Logistics Invoices Are Hard to Automate Carrier-Specific Formats Even the same document type looks completely different across carriers. Logistics invoices from Fedex, UPS, and DHL use different field names, table structures, and layouts. 'Total Charges', 'Amount Due', 'Invoice Total'—these are different names for the same thing, but each carrier employs different terminologies and formats line items differently. Complex Line Itemization A single logistics invoice contains base freight charges plus multiple surcharges—fuel surcharges, accessorial fe",
+      "content_ko": "Logistics Document Automation with Upstage Studio\n\nNew New Logistics teams waste hours daily processing invoices from multiple carriers—sorting Fedex, UPS, DHL formats, verifying line items, and manual data entry. Upstage Studio automates the entire workflow through Parse, Classify, and Extract, converting any carrier invoice into standardized, system-ready data in seconds. Highlights Get Started Contact us Logistics teams spend hours daily processing invoices from multiple carriers. Sorting Fedex, UPS, and DHL invoices, verifying line items, and entering data into accounting systems consumes entire workdays. Small forwarding teams handle hundreds of invoices across different formats while time-sensitive shipments wait for payment approval. Upstage Studio automates the entire process. Upload any logistics invoice in any format and receive structured data ready for your systems. 👉 Explore Logistics Automation Agents in Studio ‍ Why Logistics Invoices Are Hard to Automate Carrier-Specific Formats Even the same document type looks completely different across carriers. Logistics invoices from Fedex, UPS, and DHL use different field names, table structures, and layouts. 'Total Charges', 'Amount Due', 'Invoice Total'—these are different names for the same thing, but each carrier employs different terminologies and formats line items differently. Complex Line Itemization A single logistics invoice contains base freight charges plus multiple surcharges—fuel surcharges, accessorial fe",
+      "url": "https://www.upstage.ai/blog/en/studio-logistics",
+      "is_ai_trend": false,
+      "ai_confidence": 0.3,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "산업동향"
+      ],
+      "published_at": "2026-04-15 20:02"
+    },
+    {
+      "post_id": "05bcfe872a892ea45f2b767c",
+      "platform": "press_release",
+      "account_handle": "Upstage Blog",
+      "display_name": "업스테이지",
+      "content": "Solar Pro 3: 2× Agentic Performance — What Changed\n\nNew New Solar Pro 3 is Upstage's 102B Mixture-of-Experts large language model, activating only 12B parameters per token. 2× agentic performance, stronger reasoning and Korean — same API, same cost. Highlights Get Started Contact us Solar Pro 3 is the latest update to Solar Pro, Upstage's large language model.Updated in March 2026, Solar Pro 3 delivers meaningful gains across every category compared to Solar Pro 2 — roughly doubling agentic benchmark scores , advancing deep reasoning and instruction following, and raising Korean-language performance to reasoning-level quality. At the core of these improvements is SnapPO, Upstage's proprietary reinforcement learning technique. All gains are delivered at the same API interface and processing speed. 2× Agentic Performance On Tau2-all, the comprehensive agentic evaluation, Solar Pro 3 reaches 72.3 — well above Solar Pro 2's 36.0. Code agents (SWE Bench) and terminal workflows (Terminal Bench 2) show the same direction of improvement. 2× Agentic benchmark improvement over Solar Pro 2: Tau2-all 72.3 (vs 36.0) · SWE Bench 28.6 (vs 14.5) · Terminal Bench 2 10.1 (vs 2.2) These improvements are not the result of optimizing for any single benchmark. They reflect design decisions informed by limitations repeatedly observed in production — individual tool calls succeed but end-to-end workflows fail to complete. What Reasoning Changed Improving agentic performance is not just about tuning ",
+      "content_ko": "Solar Pro 3: 2× Agentic Performance — What Changed\n\nNew New Solar Pro 3 is Upstage's 102B Mixture-of-Experts large language model, activating only 12B parameters per token. 2× agentic performance, stronger reasoning and Korean — same API, same cost. Highlights Get Started Contact us Solar Pro 3 is the latest update to Solar Pro, Upstage's large language model.Updated in March 2026, Solar Pro 3 delivers meaningful gains across every category compared to Solar Pro 2 — roughly doubling agentic benchmark scores , advancing deep reasoning and instruction following, and raising Korean-language performance to reasoning-level quality. At the core of these improvements is SnapPO, Upstage's proprietary reinforcement learning technique. All gains are delivered at the same API interface and processing speed. 2× Agentic Performance On Tau2-all, the comprehensive agentic evaluation, Solar Pro 3 reaches 72.3 — well above Solar Pro 2's 36.0. Code agents (SWE Bench) and terminal workflows (Terminal Bench 2) show the same direction of improvement. 2× Agentic benchmark improvement over Solar Pro 2: Tau2-all 72.3 (vs 36.0) · SWE Bench 28.6 (vs 14.5) · Terminal Bench 2 10.1 (vs 2.2) These improvements are not the result of optimizing for any single benchmark. They reflect design decisions informed by limitations repeatedly observed in production — individual tool calls succeed but end-to-end workflows fail to complete. What Reasoning Changed Improving agentic performance is not just about tuning",
+      "url": "https://www.upstage.ai/blog/en/solar-pro-3-0323",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "Upstage, 102B 파라미터 대규모 언어 모델 Solar Pro 3 출시",
+      "ai_bullets": [
+        "Solar Pro 3는 Upstage의 102B 파라미터 혼합 전문가 대규모 언어 모델로, 12B 파라미터만 활성화해 처리",
+        "아게틱 성능 2배 향상, 강화된 추론 능력 및 한국어 처리 능력 향상",
+        "SnapPO 기술을 기반으로 한 강화학습 기법으로 성능 개선"
+      ],
+      "ai_summary": "Upstage가 102B 파라미터 대규모 언어 모델 Solar Pro 3를 출시하며 아게틱 성능과 추론 능력을 2배 향상시켰다.",
+      "ai_themes": [
+        "기술발전",
+        "생성형AI"
+      ],
+      "published_at": "2026-04-15 20:02"
+    },
+    {
+      "post_id": "edb93288eeb5302b259994d7",
+      "platform": "press_release",
+      "account_handle": "Upstage Blog",
+      "display_name": "업스테이지",
+      "content": "Upstage AI Named to Fast Company's Annual List of the World's Most Innovative Companies of 2026\n\nNew New Highlights Get Started Contact us Related posts Browse all articles No items found.",
+      "content_ko": "Upstage AI는 2026년도 Fast Company가 선정한 세계 최고의 혁신 기업에 선정되었습니다. 이는 Upstage AI의 기술 혁신성과 시장 경쟁력에 대한 높은 평가를 반영합니다. 이 성과는 Upstage AI가 글로벌 시장에서의 영향력을 확대하고, 지속적인 기술 개발을 이어가고 있음을 보여주는 중요한 마커입니다.",
+      "url": "https://www.upstage.ai/blog/en/upstage-ai-named-to-fast-companys-annual-list-of-the-worlds-most-innovative-companies-of-2026",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-04-15 20:02"
+    },
+    {
+      "post_id": "b0e284183065467e6e466efc",
+      "platform": "press_release",
+      "account_handle": "Anthropic News",
+      "display_name": "Anthropic",
+      "content": "Project Glasswing: Securing critical software for the AI era\n\nProject Glasswing Securing critical software for the AI era Continue reading Introduction Today we’re announcing Project Glasswing 1 , a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure the world’s most critical software. We formed Project Glasswing because of capabilities we’ve observed in a new frontier model trained by Anthropic that we believe could reshape cybersecurity. Claude Mythos 2 Preview is a general-purpose, unreleased frontier model that reveals a stark fact: AI models have reached a level of coding capability where they can surpass all but the most skilled humans at finding and exploiting software vulnerabilities. Mythos Preview has already found thousands of high-severity vulnerabilities, including some in every major operating system and web browser . Given the rate of AI progress, it will not be long before such capabilities proliferate, potentially beyond actors who are committed to deploying them safely. The fallout—for economies, public safety, and national security—could be severe. Project Glasswing is an urgent attempt to put these capabilities to work for defensive purposes. As part of Project Glasswing, the launch partners listed above will use Mythos Preview as part of their defensive security work; Anthropic will share what w",
+      "content_ko": "프로젝트 글라스윙: AI 시대 소프트웨어 보안 강화를 위한 협력 프로젝트. AWS, 애플, 구글, NVIDIA 등 10개 기업 및 기관이 참여한 프로젝트로, Anthropic이 개발한 신규 AI 모델 Claude Mythos 2 Preview의 보안 취약점 탐지 능력이 인간 수준을 넘어서는 것으로 분석됨. 이 모델은 주요 운영체제 및 웹 브라우저에서 수천 개의 고위험 취약점을 발견했으며, AI 기술 발전으로 보안 위협이 확산될 수 있어 방어적 활용을 위한 협력 프로젝트 진행.",
+      "url": "https://www.anthropic.com/glasswing",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "Anthropic, AWS 등 10개 기업, AI 시대 소프트웨어 보안 프로젝트 '글라스윙' 발표",
+      "ai_bullets": [
+        "AI 모델 Claude Mythos 2 Preview가 소프트웨어 취약점 탐지 능력으로 인간 수준을 넘어서는 것으로 확인됨",
+        "프로젝트 글라스윙 참여 기업은 AWS, 애플, 구글, NVIDIA 등 10개 기업 및 기관",
+        "AI 기술 발전으로 보안 위협이 확산될 수 있어 방어적 활용을 위한 협력 프로젝트 진행"
+      ],
+      "ai_summary": "AI 모델의 보안 취약점 탐지 능력에 대응하기 위한 글라스윙 프로젝트 발표",
+      "ai_themes": [
+        "기술발전",
+        "산업동향",
+        "윤리/안전"
+      ],
+      "published_at": "2026-04-15 20:02"
+    },
+    {
+      "post_id": "d4ceb9959a9e056eb4b5e327",
+      "platform": "press_release",
+      "account_handle": "Upstage Blog",
+      "display_name": "업스테이지",
+      "content": "Upstage AI Launches AI-Powered Agentic Workflow Solution for Document-Heavy Processes\n\nNew New Highlights Get Started Contact us Related posts Browse all articles No items found.",
+      "content_ko": "Upstage AI는 문서 중심 프로세스 자동화를 위한 AI 기반 에이전트 워크플로우 솔루션을 발표했습니다. 이 솔루션은 복잡한 문서 처리 작업을 자동화하여 효율성을 높이는 데 초점을 맞추고 있습니다. 기존의 문서 처리 방식을 혁신적으로 개선하여 사용자 경험을 향상시키는 것이 목표입니다. 이 솔루션은 다양한 산업 분야에서 활용될 수 있으며, 특히 문서 처리가 많은 업무에 큰 영향을 미칠 것으로 기대됩니다.",
+      "url": "https://www.upstage.ai/blog/en/upstage-ai-launches-ai-powered-agentic-workflow-solution-for-document-heavy-processes",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "Upstage AI, 문서 중심 프로세스 자동화 솔루션 출시",
+      "ai_bullets": [
+        "Upstage AI, AI 기반 에이전트 워크플로우 솔루션 'AI-Powered Agentic Workflow Solution' 발표",
+        "문서 처리 자동화를 위한 새로운 기술 기반 솔루션 제공"
+      ],
+      "ai_summary": "AI 기반 에이전트 워크플로우 솔루션 출시로 문서 처리 자동화 기술 확장",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-04-15 20:02"
+    },
+    {
+      "post_id": "03561c8c0a70c478a67762e6",
+      "platform": "rss",
+      "account_handle": "Samsung Newsroom",
+      "display_name": "삼성 뉴스룸",
+      "content": "삼성전자가 혁신적인 AI 기능을 탑재한 2026년형 TV 신제품을 출시하며 AI TV 대중화 시대를 이끈다. 삼성전자는 15일 신제품 출시 행사 ‘더 퍼스트룩 서울 2026(The First Look Seoul 2026)’을 열고 이날 출시되는 2026년 TV 라인업과 스피커 신제품을 소개했다. 2026년 신제품은 ▲마이크로 RGB·OLED·네오 QLED·미니 LED·UHD등 TV 라인업 ▲라이프스타일 TV ‘더 프레임 프로·더 프레임’ ▲이동형 스크린 ‘무빙스타일’ ▲와이파이 스피커 […]",
+      "content_ko": "삼성전자는 혁신적인 AI 기능을 탑재한 2026년형 TV 신제품을 출시하며 AI TV 대중화 시대를 이끈다. 15일 신제품 출시 행사 ‘더 퍼스트룩 서울 2026’을 열고 이날 출시되는 2026년 TV 라인업과 스피커 신제품을 소개했다. 2026년 신제품은 마이크로 RGB·OLED·네오 QLED·미니 LED·UHD 등 TV 라인업과 라이프스타일 TV ‘더 프레임 프로·더 프레임’, 이동형 스크린 ‘무빙스타일’, 와이파이 스피커 등 다양한 제품을 포함한다. [링크 내용]",
+      "url": "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-2026%eb%85%84%ed%98%95-tv-%ec%8b%a0%ec%a0%9c%ed%92%88-%ec%b6%9c%ec%8b%9cai-tv-%eb%8c%80%ec%a4%91%ed%99%94-%ec%8b%9c%eb%8c%80-%ec%97%b0%eb%8b%a4",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "삼성전자, AI 기능 탑재한 2026년형 TV 신제품 출시",
+      "ai_bullets": [
+        "2026년형 TV 라인업에 마이크로 RGB·OLED·네오 QLED·미니 LED·UHD 등 다양한 기술 적용",
+        "라이프스타일 TV '더 프레임 프로·더 프레임'과 이동형 스크린 '무빙스타일' 출시",
+        "AI 기술을 활용한 스마트 홈 기기 연동 기능 강화"
+      ],
+      "ai_summary": "삼성전자가 AI 기능을 탑재한 2026년형 TV 신제품을 출시하며 스마트 홈 시장 확대에 나선다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-04-15 20:00"
+    },
+    {
+      "post_id": "2044349570193457588",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "<지금 대한민국의 가장 시급한 과제는 성장 잠재력을 회복하는 것입니다. 이를 위해 우리 기업들의 혁신과 도전을 가로막는 장벽을 걷어내는 일, ‘규제 합리화’는 더 이상 미룰 수 없는 숙제입니다.\n\n과거 대한민국은 관료 중심으로 산업 정책을 기획하고 설계했습니다. 하지만 눈 깜짝할 사이에 페이지가 넘어가는 기술 경쟁의 파고를 넘어서려면 정부의 역할도 바뀌어야 합니다. 핵심은 ‘네거티브 규제’로 전환하여 창의적이고 능동적인 기업 활동을 뒷받침하는 것입니다.\n\n‘규제 강화냐 폐지냐’는 이분법 자체가 이미 낡은 논쟁입니다. 공정한 시장 질서와 국민의 생명을 지키는 규제는 더욱 강화하면서도 기술 발전과 성장의 발목을 잡는 낡은 규제는 과감히 정비해야 합니다.\n\n오늘 모인 규제합리화위원회 위원님들께서 머리를 맞대어 사회적 합의를 도출하고, 성장 잠재력을 회복할 실질적 해법을 만들어주실 것으로 기대합니다.  규제합리화가 대도약의 마중물이 될 수 있도록, 정부도 있는 힘껏 지원하겠습니다. >",
+      "content_ko": "지금 대한민국의 가장 시급한 과제는 성장 잠재력을 회복하는 것입니다. 이를 위해 우리 기업들의 혁신과 도전을 가로막는 장벽을 걷어내는 일, '규제 합리화'는 더 이상 미룰 수 없는 숙제입니다. 과거 대한민국은 관료 중심으로 산업 정책을 기획하고 설계했습니다. 하지만 눈 깜짝할 사이에 페이지가 넘어가는 기술 경쟁의 파고를 넘어서려면 정부의 역할도 바뀌어야 합니다. 핵심은 '네거티브 규제'로 전환하여 창의적이고 능동적인 기업 활동을 뒷받침하는 것입니다. '규제 강화냐 폐지냐'는 이분법 자체가 이미 낡은 논쟁입니다. 공정한 시장 질서와 국민의 생명을 지키는 규제는 더욱 강화하면서도 기술 발전과 성장의 발목을 잡는 낡은 규제는 과감히 정비해야 합니다. 오늘 모인 규제합리화위원회 위원님들께서 머리를 맞대어 사회적 합의를 도출하고, 성장 잠재력을 회복할 실질적 해법을 만들어주실 것으로 기대합니다. 규제합리화가 대도약의 마중물이 될 수 있도록, 정부도 있는 힘껏 지원하겠습니다.",
+      "url": "https://x.com/Jaemyung_Lee/status/2044349570193457588",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-04-15 18:38"
+    },
+    {
+      "post_id": "2044332761717387552",
+      "platform": "twitter",
+      "account_handle": "msitminister",
+      "display_name": "배경훈",
+      "content": "<국민성장펀드 AI 2호, AI 인프라 구축을 지원합니다>\n\n오늘 금융위원회 국민성장펀드 기금운용심의회에서 네이버의 AI 데이터센터 증설에 총 4,000억 원 규모의 저리대출을 지원하기로 결정했습니다. 이번 투자는 국민성장펀드의 AI 분야 두 번째 투자입니다.\n\n이번 지원을 통해 네이버는 자체 거대언어모델을 고도화하고, 국민들이 많이 사용하는 검색 서비스에 AI를 본격적으로 확대 적용할 계획입니다. 세종 데이터센터 증설과 최신 GPU 도입도 함께 추진됩니다.\n\n이번 지원은 단순한 기업 투자를 넘어, 국내 AI 생태계를 강화하고 소버린 AI 역량을 한 단계 끌어올리는 중요한 계기라고 생각합니다.\n\n지난 3월 AI 반도체 기업 리벨리온에 대한 2,500억 원 투자에 이어, 이번 네이버 데이터센터 지원 4,000억 원까지 합쳐 총 6,500억 원 규모의 마중물이 AI 분야에 투입되었습니다. AI 인프라와 반도체를 잇는 투자 흐름이 본격화되고 있습니다.\n\n이제는 방향을 더 분명히 해야 합니다. AI 반도체와 데이터센터를 넘어, AI 모델, 서비스, 그리고 피지컬 AI까지 이어지는 ‘AI 풀스택’ 전반에 대한 투자를 확대해야 합니다. 특히 제조업 기반이 강한 우리나라는 피지컬 AI 분야에서 충분히 앞서 나갈 수 있는 잠재력을 가지고 있습니다. 지금이 바로 그 기회를 잡아야 할 시점입니다.\n\n과기정통부도 AI 주무부처로서 이 흐름을 확실하게 이어가겠습니다. 대규모 후속 메가 프로젝트를 지속적으로 발굴하고, 실제 투자와 성과로 이어질 수 있도록 관계부처와 긴밀히 협업하겠습니다.\n\nAI 3강을 위한 투자는 이제 시작입니다.\n\n#K_AI #AI_3강 #AI고속도로 #AI투자 #국민성장펀드 #금융위원회 #과기정통부\n\nhttps://t.co/35HdHH8NQg",
+      "content_ko": "금융위원회 국민성장펀드 기금운용심의회에서 네이버의 AI 데이터센터 증설 및 GPU 서버 도입에 4000억 원 규모의 저리대출을 지원하기로 결정했습니다. 이번 투자는 국민성장펀드의 AI 분야 두 번째 투자로, 네이버는 자체 거대언어모델(LLM) 고도화와 검색 서비스에 AI를 본격적으로 확대 적용할 계획입니다. 세종 데이터센터 증설과 최신 GPU 도입을 통해 소버린 AI 역량 강화를 목표로 합니다. 이는 AI 반도체와 데이터센터를 넘어 AI 모델, 서비스, 피지컬 AI까지 포함하는 'AI 풀스택' 전반에 대한 투자 확대를 위한 첫 발입니다. 과기정통부는 이 흐름을 이어가며 대규모 후속 메가 프로젝트를 발굴할 계획입니다.",
+      "url": "https://x.com/msitminister/status/2044332761717387552",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "정부, 네이버 AI 데이터센터 및 GPU 도입에 4000억 저리대출 지원",
+      "ai_bullets": [
+        "금융위원회 국민성장펀드가 네이버의 AI 데이터센터 증설 및 최신 GPU 서버 도입에 4000억 원 저리대출 지원",
+        "네이버는 자체 거대언어모델(LLM) 고도화와 검색 서비스 AI 확대를 위해 세종 데이터센터 증설 및 GPU 도입 추진",
+        "국민성장펀드 AI 분야 두 번째 투자로 총 6500억 원 규모의 AI 인프라 투자 흐름 본격화"
+      ],
+      "ai_summary": "정부가 네이버의 AI 인프라 구축에 4000억 원을 지원하며, AI 생태계 강화를 위한 투자 확대를 선언했습니다.",
+      "ai_themes": [
+        "투자/시장",
+        "산업동향",
+        "정책/규제"
+      ],
+      "published_at": "2026-04-15 17:31"
+    },
+    {
+      "post_id": "95c4b77ed57407e4dcb14013",
+      "platform": "rss",
+      "account_handle": "Samsung Newsroom",
+      "display_name": "삼성 뉴스룸",
+      "content": "모바일폰 하나로 영화를 찍는 시대 요즘은 누구나 손안의 모바일폰으로 영화 같은 일상을 기록합니다. 여행지에서의 생생한 풍경이나 아이의 웃음소리를 고화질 영상으로 담아 전 세계 사람들과 공유하곤 하죠. 이제 사용자들은 단순히 ‘찍히는 것’을 넘어, 영화 제작자처럼 정교한 색감을 입히고 세밀한 편집까지 할 수 있는 경험을 원하고 있습니다. 삼성전자는 이러한 사용자의 기대를 현실로 만들기 위해, 영상 기술의 핵심인 […]",
+      "content_ko": "모바일폰 하나로 영화를 찍는 시대, 누구나 손안의 모바일폰으로 영화 같은 일상을 기록합니다. 여행지에서의 생생한 풍경이나 아이의 웃음소리를 고화질 영상으로 담아 전 세계 사람들과 공유하곤 하죠. 이제 사용자들은 단순히 ‘찍히는 것’을 넘어, 영화 제작자처럼 정교한 색감을 입히고 세밀한 편집까지 할 수 있는 경험을 원하고 있습니다. 삼성전자는 이러한 사용자의 기대를 현실로 만들기 위해, 영상 기술의 핵심인 [링크 내용]",
+      "url": "https://news.samsung.com/kr/%ea%b8%b0%ea%b3%a0%eb%ac%b8-%eb%8b%b9%ec%8b%a0%ec%9d%98-%eb%aa%a8%eb%b0%94%ec%9d%bc%ed%8f%b0-%ec%98%81%ec%83%81%ec%9d%b4-%ec%98%81%ed%99%94%ea%b0%80-%eb%90%98%eb%8a%94-%ec%88%9c",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "산업동향"
+      ],
+      "published_at": "2026-04-15 17:00"
+    },
+    {
+      "post_id": "2044300957765513593",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "<국힘은 조폭설 조작유포 사과 안하십니까?\n\n어린 아이들도 잘못한게 드러나면 사과합니다. 또 그렇게 가르칩니다. 공당인 국힘도 큰 잘못이 백일하에 드러났으니 이제 사과해야 합니다.\n\n국힘당 소속 장모씨가 이재명 조폭연루 주장하고, 당 차원에서 지속적으로 이재명조폭설 퍼트려 질 대선을 이겼는데, \n\n장모씨 유죄확정 판결로 조폭설 거짓말이 드러났으니 최소한 유감 표명이라도 해야 하는 것 아닐까요?\n\n이미 지난 이야기지만, 조폭설만 아니었어도, 대장동 부패 조작만 아니었어도 대선 결과는 완전히 달랐을 것입니다. 차이는 0.73%, 100명 중 한명도 안되었습니다. \n\n국힘이 조폭설 유포로 대선 훔칠 수 있게 한 공로자들에게 돈이든 자리든 뭔가 보상했을 거로 추측했었는데.. 이 사건의 실체가 언젠가는 드러나겠지요.\n\n허무맹랑한 조폭연루설 유포로 대선결과를 바꾼 국힘의 진지한 공식사과를 기다립니다.>\n\n‘이재명 허위 폭로’ 조폭 가족, 윤석열 당선 직후 시의원 공천 https://t.co/099CbZqaDo",
+      "content_ko": "국힘은 조폭설 조작유포 사과 안하십니까? 어린 아이들도 잘못한게 드러나면 사과합니다. 또 그렇게 가르칩니다. 공당인 국힘도 큰 잘못이 백일하에 드러났으니 이제 사과해야 합니다. 국힘당 소속 장모씨가 이재명 조폭연루 주장하고, 당 차원에서 지속적으로 이재명조폭설 퍼트려 질 대선을 이겼는데, 장모씨 유죄확정 판결로 조폭설 거짓말이 드러났으니 최소한 유감 표명이라도 해야 하는 것 아닐까요? 이미 지난 이야기지만, 조폭설만 아니었어도, 대장동 부패 조작만 아니었어도 대선 결과는 완전히 달랐을 것입니다. 차이는 0.73%, 100명 중 한명도 안되었습니다. 국힘이 조폭설 유포로 대선 훔칠 수 있게 한 공로자들에게 돈이든 자리든 뭔가 보상했을 거로 추측했었는데.. 이 사건의 실체가 언젠가는 드러나겠지요. 허무맹랑한 조폭연루설 유포로 대선결과를 바꾼 국힘의 진지한 공식사과를 기다립니다.",
+      "url": "https://x.com/Jaemyung_Lee/status/2044300957765513593",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-04-15 15:25"
+    },
+    {
+      "post_id": "2d4eeefef5c85e3a6c15a1a5",
+      "platform": "rss",
+      "account_handle": "SKT Newsroom",
+      "display_name": "SK텔레콤",
+      "content": "<p> </p>\n<p>The post <a href=\"https://news.sktelecom.com/223909\">고객이 있는 곳이라면 전국 어디라도! ‘고객님께 가는 길’에서 얻은 깨달음</a> first appeared on <a href=\"https://news.sktelecom.com\">SK텔레콤 뉴스룸</a>.</p>",
+      "content_ko": "SK텔레콤이 공식 유튜브 채널에 로드 다큐 '고객님께 가는 길'을 공개했습니다. 노홍철과 SKT 구성원이 전국 고객을 찾아가 통신 경험을 듣고, 고객의 삶과 행복을 이해하는 여정을 담았습니다. 다양한 세대와 환경의 고객 의견을 통해 고객 중심 경영의 방향성을 모색하며, 고객 접점 확대 및 변화 의지를 담았습니다.",
+      "url": "https://news.sktelecom.com/223909",
+      "is_ai_trend": false,
+      "ai_confidence": 0.3,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-04-15 09:19"
+    },
+    {
+      "post_id": "f9295626dbbb6feee7636de3",
+      "platform": "rss",
+      "account_handle": "SKT Newsroom",
+      "display_name": "SK텔레콤",
+      "content": "<p>SK텔레콤이 고객을 직접 찾아가는 로드 다큐 영상 ‘고객님께 가는 길’을 공식 유튜브 채널에 공개했다. 업의 본질인 고객을 다시 바라보고 초심을 되짚는 데서 출발한 이번 콘텐츠는 고객의 삶 속으로 들어가 이야기를</p>\n<p>The post <a href=\"https://news.sktelecom.com/223878\">고객이 있는 곳이라면 전국 어디라도! ‘고객님께 가는 길’에서 얻은 깨달음</a> first appeared on <a href=\"https://news.sktelecom.com\">SK텔레콤 뉴스룸</a>.</p>",
+      "content_ko": "SK텔레콤이 고객을 직접 찾아가는 로드 다큐 영상 ‘고객님께 가는 길’을 공식 유튜브 채널에 공개했다. 업의 본질인 고객을 다시 바라보고 초심을 되짚는 데서 출발한 이번 콘텐츠는 고객의 삶 속으로 들어가 이야기를 듣고 그 안에서 답을 찾아가는 여정을 담았다. 고객의 시간 속으로 들어가는 로드 다큐 ‘고객님께 가는 길’은 정해진 인터뷰 형식 대신, 길 위에서 자연스럽게 대화를 이어가는 형식으로 제작되었다. 방송인 노홍철과 SKT 구성원이 오토바이를 타고 전국 각지의 고객을 찾아 현장에서 묻고, 듣고, 깨닫는 순간들을 담아냈다. 단순한 만남을 넘어 한 사람의 삶 속으로 들어가는 경험은 SKT가 고객 중심 기업으로 나아가기 위한 방향과 깨달음을 얻는 과정으로 이어진다.",
+      "url": "https://news.sktelecom.com/223878",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "산업동향"
+      ],
+      "published_at": "2026-04-15 08:29"
+    },
+    {
+      "post_id": "2044176200889696284",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "Developers can try it in @GoogleAIStudio: https://t.co/7xbm3QaJa4",
+      "content_ko": "개발자들은 @GoogleAIStudio에서 시도해 볼 수 있습니다. https://t.co/7xbm3QaJa4",
+      "url": "https://x.com/demishassabis/status/2044176200889696284",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-04-15 07:09"
+    },
+    {
+      "post_id": "2044176198914146499",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "Great to see our collaboration w/ @BostonDynamics unlocking new capabilities! Gemini Robotics-ER 1.6 enables robots like Spot to read complex industrial gauges autonomously. Exciting step toward robots that can understand &amp; operate usefully in the physical world https://t.co/PzAoo5vXj6",
+      "content_ko": "보스턴 다이내믹스와의 협업을 통해 새로운 기능을 개방하는 것이 흥미롭습니다! Gemini Robotics-ER 1.6은 Spot과 같은 로봇이 산업용 계기판을 자동으로 읽는 능력을 제공합니다. 로봇이 물리 세계에서 유용하게 작동할 수 있는 방향으로 발전하는 중요한 단계입니다. https://t.co/PzAoo5vXj6",
+      "url": "https://x.com/demishassabis/status/2044176198914146499",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "데미스 하사비스: 보스턴 다이내믹스와 협업 통해 로봇 능력 확장",
+      "ai_bullets": [
+        "보스턴 다이내믹스와의 협업을 통해 새로운 기능을 개방",
+        "Gemini Robotics-ER 1.6이 Spot 로봇이 산업용 계기판을 자동으로 읽는 능력을 제공"
+      ],
+      "ai_summary": "로봇이 물리 세계에서 유용하게 작동할 수 있는 방향으로 발전하는 중요한 단계",
+      "ai_themes": [
+        "로봇공학",
+        "기술발전"
+      ],
+      "published_at": "2026-04-15 07:09"
+    },
+    {
+      "post_id": "28a3447b4d7808bf8cdb7ff9",
+      "platform": "rss",
+      "account_handle": "Google AI Blog",
+      "display_name": "Google AI",
+      "content": "Video showing Skills in Chrome",
+      "content_ko": "크롬에서 기술을 보여주는 비디오",
+      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+      "is_ai_trend": false,
+      "ai_confidence": 0.3,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-04-15 02:00"
+    },
+    {
+      "post_id": "2044088884989177991",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "I'm excited about voice as a UI layer for existing visual applications — where speech and screen update together. This goes well beyond voice-only use cases like call center automation.\n\nThe barrier has been a hard technical tradeoff: low-latency voice models lack reliability, while agentic pipelines (speech-to-text → LLM → text-to-speech) are intelligent but too slow for conversation. Ashwyn Sharma and team at Vocal Bridge (an AI Fund portfolio company) address this with a dual-agent architecture: a foreground agent for real-time conversation, a background agent for reasoning, guardrails, and tool calls.\n\nI used Vocal Bridge to add voice to a math-quiz app I'd built for my daughter; this took less than an hour with Claude Code. She speaks her answers, the app responds verbally and updates the questions and animations on screen.\n\nOnly a tiny fraction of developers have ever built a voice app. If you'd like to try building one, check out Vocal Bridge for free: https://t.co/nGrFznAMLh",
+      "content_ko": "음성 인터페이스를 기존 시각 애플리케이션에 통합하는 기술 개발에 대한 기대를 밝혔습니다. 실시간 대화 처리와 추론을 위한 이중 에이전트 아키텍처를 통해 저지연 모델의 신뢰성 문제와 대화 처리 속도 문제를 해결했습니다. Vocal Bridge를 활용해 수학 퀴즈 앱에 음성 인터페이스를 통합한 사례를 공유하며, Claude Code를 사용해 앱 개발을 1시간 이내 완료했다고 설명했습니다. 개발자 수요 확대를 위해 무료 플랫폼을 제공하고, 4단계로 구성된 빠른 개발 가이드를 제공합니다. [링크 내용]에서 언급된 '4단계 개발 가이드'와 'AI 코드 어시스턴트 활용' 등의 구체적 기능도 포함했습니다.",
+      "url": "https://x.com/AndrewYNg/status/2044088884989177991",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "Vocal Bridge, 생성형 AI 기반 음성 UI 개발 플랫폼 출시",
+      "ai_bullets": [
+        "LLM과 에이전트 기술을 결합한 이중 에이전트 아키텍처로 실시간 대화 및 추론 처리 효율성 향상",
+        "Claude Code를 활용해 수분 내 음성 앱 개발 가능하며, 수학 퀴즈 앱에 음성 인터페이스 통합 사례 공개",
+        "개발자 수요 확대를 위한 무료 플랫폼 제공 및 4단계 빠른 개발 가이드 제공"
+      ],
+      "ai_summary": "Vocal Bridge가 생성형 AI 기반 음성 UI 개발을 위한 플랫폼을 출시하며, 이중 에이전트 아키텍처를 통해 실시간 대화 처리 효율성을 높였습니다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향",
+        "오픈소스"
+      ],
+      "published_at": "2026-04-15 01:22"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "date": "2025-03-20",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "NVIDIA Blog": 1
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "연구/논문",
+      1
+    ],
+    [
+      "로봇공학",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2ab8866bb2dd8523282f4937",
+      "platform": "rss",
+      "account_handle": "NVIDIA Blog",
+      "display_name": "NVIDIA",
+      "content": "The roots of many of NVIDIA’s landmark innovations — the foundational technology that powers AI, accelerated computing, real-time ray tracing and seamlessly connected data centers — can be found in the company’s research organization, a global team of around 400 experts in fields including computer architecture, generative AI, graphics and robotics. Established in 2006 and [&#8230;]",
+      "content_ko": "NVIDIA의 주요 혁신 기반 기술인 AI, 가속 컴퓨팅, 실시간 레이 트레이싱 및 데이터센터 연결 기술은 회사의 연구 조직에서 출발했습니다. 이 연구 조직은 컴퓨터 아키텍처, 생성형 AI, 그래픽스 및 로봇 분야 전문가 약 400명으로 구성된 글로벌 팀입니다. 2006년에 설립된 이 팀은 NVIDIA의 주요 기술 혁신을 이끌고 있습니다. [링크 내용]",
+      "url": "https://blogs.nvidia.com/blog/nvidia-research-ai-graphics/",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "NVIDIA: 생성형 AI 기반 기술 혁신 기반이 된 연구 조직 공개",
+      "ai_bullets": [
+        "AI, 가속 컴퓨팅, 실시간 레이 트레이싱, 데이터센터 연결 기술의 기반이 되는 연구 조직 소개",
+        "컴퓨터 아키텍처, 생성형 AI, 그래픽스, 로봇 분야 전문가 400명이 참여한 글로벌 팀 운영",
+        "2006년 설립된 연구 조직이 NVIDIA의 주요 혁신 기반이 되고 있음"
+      ],
+      "ai_summary": "NVIDIA가 생성형 AI 기반 기술 혁신의 핵심인 연구 조직을 공개하며, 400명의 전문가가 참여한 글로벌 팀의 역할을 설명했습니다.",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문",
+        "로봇공학"
+      ],
+      "published_at": "2025-03-20 09:00"
+    }
+  ]
+}

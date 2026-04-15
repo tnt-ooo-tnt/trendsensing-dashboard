@@ -1,0 +1,31 @@
+{
+  "date": "2025-07-11",
+  "total": 1,
+  "ai_true": 0,
+  "ai_false": 1,
+  "source_counts": {
+    "NVIDIA Blog": 1
+  },
+  "avg_confidence": 0.1,
+  "top_themes": [],
+  "posts": [
+    {
+      "post_id": "94a085b0e0e5ee431d03c8cc",
+      "platform": "rss",
+      "account_handle": "NVIDIA Blog",
+      "display_name": "NVIDIA",
+      "content": "Ceramics — the humble mix of earth, fire and artistry — have been part of a global conversation for millennia. From Tang Dynasty trade routes to Renaissance palaces, from museum vitrines to high-stakes auction floors, they’ve carried culture across borders, evolving into status symbols, commodities and pieces of contested history. Their value has been shaped [&#8230;]",
+      "content_ko": "세라믹스 — 흙, 불, 예술의 겸비 —는 수천 년 동안 글로벌 대화의 일부였습니다. 당대 무역로에서 르네상스 궁전, 박물관 유리 케이스에서 고위험 경매 장까지, 문화를 국경을 넘나들며 지위 상징, 상품, 분쟁 역사의 일부가 되었습니다. 그 가치는 [&#8230;]",
+      "url": "https://blogs.nvidia.com/blog/gaming-gpu-ceramics/",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2025-07-11 22:00"
+    }
+  ]
+}

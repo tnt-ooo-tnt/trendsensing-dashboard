@@ -1,0 +1,46 @@
+{
+  "date": "2025-11-29",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "투자/시장",
+      1
+    ],
+    [
+      "기술발전",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "1994476515975909386",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "Is there an AI bubble? With the massive number of dollars going into AI infrastructure such as OpenAI’s $1.4 trillion plan and Nvidia briefly reaching a $5 trillion market cap, many have asked if speculation and hype have driven the values of AI investments above sustainable values. However, AI isn’t monolithic, and different areas look bubbly to different degrees.\n- AI application layer: There is underinvestment. The potential is still much greater than most realize.\n- AI infrastructure for inference: This still needs significant investment.\n- AI infrastructure for model training: I’m still cautiously optimistic about this sector, but there could also be a bubble.\n\nCaveat: I am absolutely not giving investment advice!\n\nAI application layer. There are many applications yet to be built over the coming decade using new AI technology. Almost by definition, applications that are built on top of AI infrastructure/technology (such as LLM APIs) have to be more valuable than the infrastructure, since we need them to be able to pay the infrastructure and technology providers.\n\nI am seeing many green shoots across many businesses that are applying agentic workflows, and am confident this will grow. I have also spoken with many Venture Capital investors who hesitate to invest in AI applications because they feel they don’t know how to pick winners, whereas the recipe for deploying $1B to build AI infrastructure is better understood. Some have also bought into the hype that almost all AI applications will be wiped out merely by frontier LLM companies improving their foundation models. Overall, I believe there is significant underinvestment in AI applications. This area remains a huge focus for my venture studio, AI Fund.\n\nAI infrastructure for inference. Despite AI’s low penetration today, infrastructure providers are already struggling to fulfill demand for processing power to generate tokens. Several of my teams are worried about whether we can get enough inference capacity, and both cost and inference throughput are limiting our ability to use even more. It is a good problem to have that businesses are supply-constrained rather than demand-constrained. The latter is a much more common problem, when not enough people want your product. But insufficient supply is nonetheless a problem, which is why I am glad our industry is investing significantly in scaling up inference capacity.\n\nAs one concrete example of high demand for token generation, highly agentic coders are progressing rapidly. I’ve long been a fan of Claude Code; OpenAI Codex also improved dramatically with the release of GPT-5; and Gemini 3 has made Google CLI very competitive. As these tools improve, their adoption will grow. At the same time, overall market penetration is still low, and many developers are still using older generations of coding tools (and some aren’t even using any agentic coding tools). As market penetration grows —  I’m confident it will, given how useful these tools are — aggregate demand for token generation will grow.\n\nI predicted early last year that we’d need more inference capacity, partly because of agentic workflows. Since then, the need has become more acute. As a society, we need more capacity for AI inference. \n\nHaving said that, I’m not saying it’s impossible to lose money investing in this sector. If we end up overbuilding — and I don’t currently know if we will — then providers may end up having to sell capacity at a loss or at low returns. I hope investors in this space do well financially. The good news, however, is that even if we overbuild, this capacity will get used, and it will be good for application builders!\n\nAI infrastructure for model training. I am happy to see the investments going into training bigger models. But, of the three buckets of investments, this seems the riskiest. If open-source/open-weight models continue to grow in market share, then some companies that are pouring billions into training models might not see an attractive financial return on their investment.\n\nAdditionally, algorithmic and hardware improvements are making it cheaper each year to train models of a given level of capability, so the “technology moat” for training frontier models is weak. (That said, ChatGPT has become a strong consumer brand, and so it enjoys a strong brand moat, while Gemini, assisted by Google's massive distribution advantage, is also making a strong showing.)\n\nI remain bullish about AI investments broadly. But what is the downside scenario — that is, is there a bubble that will pop? One scenario that worries me: If part of the AI stack (perhaps in training infra) suffers from overinvestment and collapses, it could lead to negative market sentiment around AI more broadly and an irrational outflow of interest away from investing in AI, despite the field overall having strong fundamentals. I don’t think this will happen, but if it does, it would be unfortunate since there’s still a lot of work in AI that I consider highly deserving of much more investment.\n\nWarren Buffett popularized Benjamin Graham’s quote, “In the short run, the market is a voting machine, but in the long run, it is a weighing machine.” He meant that in the short term, stock prices are driven by investor sentiment and speculation; but in the long term, they are driven by fundamental, intrinsic value. I find it hard to forecast sentiment and speculation, but am very confident about the long-term health of AI’s fundamentals. So my plan is just to keep building!\n\n[Original text: https://t.co/psPlIFRJsi ]",
+      "content_ko": "AI에 대한 투자 시장이 과열되었는지에 대한 분석입니다. 오픈AI의 1.4조 달러 계획과 니코니아가 잠시 5조 달러 시가총액을 기록한 점을 고려할 때, 많은 사람들이 AI 투자 가치가 지속 가능 수준을 넘어섰다고 생각합니다. 그러나 AI는 단일한 기술이 아니라, 각 분야별로 상황이 다릅니다. AI 응용 분야에서는 투자 부족이 있으며, 잠재력은 여전히 큽니다. 추론 인프라에 대한 투자도 여전히 필요합니다. 모델 훈련 인프라 분야에서는 여전히 주의 깊게 낙관적이지만, 투자 위험도 존재합니다. 참고로, 저는 절대 투자 조언을 제공하지 않습니다. AI 응용 분야에서는 많은 응용 프로그램이 앞으로 10년 내에 새로운 AI 기술을 기반으로 개발될 수 있으며, 이는 인프라/기술 제공업체에게 지불할 수 있는 가치가 더 높아야 합니다. 저는 많은 기업이 agentic 워크플로우를 적용하는 것을 보고 있으며, 이는 성장할 것이라고 확신합니다. 그러나 일부 벤처 캐피탈 투자자들은 AI 응용 프로그램을 선택하는 데 어려움을 겪고 있으며, AI 인프라 구축에 대한 투자 전략이 더 잘 이해됩니다. 일부 투자자들은 모든 AI 응용 프로그램이 최전선 LLM 회사들이 기초 모델을 개선함으로써 사라질 것이라고 믿고 있습니다. 그러나 저는 AI 응용 분야에 대한 과소 투자 상태가 지속될 것이라고 생각합니다. 이 분야는 여전히 제 벤처 스튜디오인 AI 펀드의 주요 초점입니다. 추론 인프라 분야에서는 AI의 낮은 침투율에도 불구하고 인프라 제공업체들이 처리 능력 수요를 충족하기 위해 어려움을 겪고 있습니다. 몇몇 팀들은 추론 용량이 충분하지 않다는 우려를 표명하고 있으며, 비용과 추론 처리량이 더 많은 사용을 제한하고 있습니다. 공급 부족이 아닌 수요 부족이 더 흔한 문제입니다. 그러나 공급 부족은 여전히 문제가 되므로, 우리 산업이 추론 용량 확대에 투자하고 있다는 점에서 다행스럽습니다. 고급 agentic 코더들이 빠르게 진보하고 있음을 보여주는 구체적인 예로, 클라우드 코드는 오랫동안 제 팬이었고, 오픈AI 코덱스는 GPT-5 출시로 크게 개선되었으며, 지미니 3는 구글 CLI를 매우 경쟁적으로 만들었습니다. 이러한 도구들이 개선되면서 채택도 증가할 것입니다. 그러나 전체 시장 침투율은 여전히 낮으며, 많은 개발자들이 이전 세대의 코딩 도구를 사용하거나 전혀 사용하지 않습니다. 시장 침투율이 증가하면, 이 도구들의 전체 수요가 증가할 것입니다. 저는 지난해 초에 추론 용량이 필요하다고 예측했고, 이후로 필요성이 더욱 급해졌습니다. 사회적으로 AI 추론 용량이 더 필요합니다. 다만, 이 분야에서 투자자가 과도하게 투자해 결과적으로 제공업체가 용량을 손실이나 저수익으로 판매해야 할 경우가 있을 수 있습니다. 이 분야 투자자들이 재정적으로 잘 될 수 있기를 바랍니다. 그러나, 과도한 투자로 인해 용량이 과도하게 확대된다 해도, 이 용량은 응용 프로그램 개발자들에게 사용될 것이므로, 이는 좋은 일입니다. 모델 훈련 인프라 분야에서는 훈련 모델에 대한 투자 증가를 기쁘게 생각하지만, 이 세 가지 투자 분야 중 가장 위험한 분야라고 생각합니다. 만약 오픈소스/오픈웨이트 모델이 시장 점유율을 계속 확대한다면, 몇몇 회사들이 수십억 달러를 투자해 모델을 훈련시키더라도 매력적인 재정적 수익을 얻지 못할 수 있습니다. 또한, 알고리즘 및 하드웨어 개선이 매년 모델 훈련 비용을 점점 낮추고 있어, 훈련 최전선 모델의 기술 장벽은 약합니다. (그러나, 챗GPT는 소비자 브랜드로 성장했고, 강한 브랜드 장벽을 가지고 있으며, 지미니는 구글의 거대한 유통 우위를 통해 강한 성적을 보이고 있습니다.) 저는 AI 투자에 대한 전체적인 긍정적인 시각을 유지하지만, 하락 시나리오가 있을 수 있나요? 걱정되는 시나리오는, AI 스택의 일부(예: 훈련 인프라)에서 과도한 투자로 인해 붕괴되면, AI에 대한 전체적인 시장 심리가 악화되고, 투자자들이 AI에 대한 투자에서 이탈할 수 있습니다. 이는 AI 분야가 강력한 기초가 있음에도 불구하고 불길한 일이 될 수 있습니다. 저는 이 일이 일어나지 않을 것이라고 생각하지만, 만약 일어난다면 불행한 일일 것입니다. AI 분야에 여전히 많은 연구가 있으며, 이는 투자에 매우 적절합니다. 워렌 버핏이 벤자민 그레함의 인용구를 인용했듯이, 단기적으로 시장은 투표 기계이지만, 장기적으로는 무게 기계입니다. 그는 단기적으로 주가가 투자자 감정과 스펙ulation에 의해 결정되지만, 장기적으로는 기초 가치에 의해 결정된다고 말했습니다. 저는 감정과 스펙ulation을 예측하기 어렵지만, AI의 장기적인 기초 가치에 대한 확신을 가지고 있습니다. 따라서 저는 계속해서 구축할 계획입니다.",
+      "url": "https://x.com/AndrewYNg/status/1994476515975909386",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "AI 투자 시장 분석, 인프라 투자와 응용 분야 평가",
+      "ai_bullets": [
+        "AI 인프라 투자에 대한 시장 분석 및 투자 위험 평가",
+        "AI 응용 분야는 과소 투자 상태로 잠재력이 높음",
+        "추론 인프라에 대한 투자 필요성 강조",
+        "모델 훈련 인프라 분야는 투자 위험 가능성 있음"
+      ],
+      "ai_summary": "AI 인프라 및 응용 분야의 투자 동향과 시장 분석이 발표됐다.",
+      "ai_themes": [
+        "투자/시장",
+        "기술발전"
+      ],
+      "published_at": "2025-11-29 03:40"
+    }
+  ]
+}

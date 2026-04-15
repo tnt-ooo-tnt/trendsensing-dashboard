@@ -1,0 +1,45 @@
+{
+  "date": "2025-11-25",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "연구/논문",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "1993001922773893273",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "Releasing a new \"Agentic Reviewer\" for research papers. I started coding this as a weekend project, and @jyx_su made it much better.\n\nI was inspired by a student who had a paper rejected 6 times over 3 years. Their feedback loop -- waiting ~6 months for feedback each time -- was painfully slow. We wanted to see if an agentic workflow can help researchers iterate faster.\n\nWhen we trained the system on ICLR 2025 reviews and measured Spearman correlation (higher is better) on the test set:\n- Correlation between two human reviewers: 0.41\n- Correlation between AI and a human reviewer: 0.42\n\nThis suggests agentic reviewing is approaching human-level performance.\n\nThe agent grounds its feedback by searching arXiv, so it works best in fields like AI where research is freely published there. It’s an experimental tool, but I hope it helps you with your research.\n\nCheck it out here: https://t.co/n7ctnDilJJ",
+      "content_ko": "연구 논문 검토를 위한 새로운 'Agentic Reviewer' 도구를 발표했습니다. 주말 프로젝트로 시작해 @jyx_su가 개선해 주었습니다. 학생이 3년간 6회 거절당한 논문 피드백 프로세스를 개선하려는 목적으로 개발했습니다. ICLR 2025 리뷰 데이터로 훈련시켜 테스트 세트에서 스피어만 상관관계를 측정한 결과, 인간 검토자 간 상관관계는 0.41, AI 검토자와 인간 간 상관관계는 0.42로 인간 수준에 가까워졌습니다. 도구는 arXiv에서 논문 검색을 통해 피드백을 제공하므로 AI 분야 연구에 최적화되어 있습니다. 실험적 도구이지만 연구에 도움을 줄 수 있기를 바랍니다. 자세한 내용은 https://t.co/n7ctnDilJJ에서 확인할 수 있습니다.",
+      "url": "https://x.com/AndrewYNg/status/1993001922773893273",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "스탠퍼드 AI 연구용 Agentic Reviewer 도구 공개",
+      "ai_bullets": [
+        "AI 연구 논문 검토 도구 'Agentic Reviewer' 개발 및 공개",
+        "인간 검토자와 AI 검토자 간 상관관계 0.42로 인간 수준에 접근",
+        "arXiv에서 논문 검색 기반 피드백 제공, AI 분야에 최적화"
+      ],
+      "ai_summary": "AI 연구 생산성을 높이기 위한 Agentic Reviewer 도구가 공개되어 AI 분야 연구자들에게 활용 가능",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문"
+      ],
+      "published_at": "2025-11-25 02:01"
+    }
+  ]
+}

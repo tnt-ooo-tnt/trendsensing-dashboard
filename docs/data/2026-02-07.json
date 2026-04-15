@@ -1,0 +1,31 @@
+{
+  "date": "2026-02-07",
+  "total": 1,
+  "ai_true": 0,
+  "ai_false": 1,
+  "source_counts": {
+    "demishassabis": 1
+  },
+  "avg_confidence": 0.2,
+  "top_themes": [],
+  "posts": [
+    {
+      "post_id": "2019827916385972517",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "Super cool use case of Genie 3 simulations! https://t.co/9Ktole5FSe",
+      "content_ko": "디미스 하사비스(@demishassabis)가 'Genie 3 시뮬레이션'의 흥미로운 활용 사례를 공유하며 관련 링크를 제공했습니다. [링크 내용]은 제공되지 않았습니다.",
+      "url": "https://x.com/demishassabis/status/2019827916385972517",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-02-07 02:37"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "date": "2026-01-08",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "교육/강의",
+      1
+    ],
+    [
+      "생성형AI",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2008956639894786402",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "If you’ve never written code before, this is for you. I’ve just launched a course that shows you, in less than 30 minutes, how to describe an idea for an app and build it with AI.\n\nIn this course, you'll build a working web application - a funny interactive birthday message generator that runs in your browser and can be shared with friends. You'll customize it by telling AI how you want it changed, and tweak it until it works the way you want. By the end, you'll have a repeatable process you can apply to build a wide variety of applications.\n\nIf you want to try vibe coding, this will be the best place to start! Further, you'll be able to use these techniques with whatever tool you're most comfortable with (like ChatGPT, Gemini, Claude, or others) -- we're vendor neutral. \n\nSkills you'll gain:\n- How to build web apps with AI - zero coding skills needed\n- How to fix and improve your creations by chatting with AI\n- A simple process you can use to build other things you can dream up\n\nBuilding with AI is one of the most fun things in the world. Please join me and take your first step! I think you will be surprised at what you can build. And if you're an experienced engineer, please share this with someone in your life who's been curious about building with AI.\n\nCome build with me! https://t.co/q6gyzlxWFS",
+      "content_ko": "코드 작성 경험이 없는 사람을 대상으로 AI를 활용한 앱 개발 방법을 30분 내 전달하는 교육 프로그램을 시작했습니다. 이 과정에서는 웹 앱을 직접 구축할 수 있으며, AI와 협업해 앱을 수정하고 최적화하는 실습을 통해 반복 가능한 개발 프로세스를 익히게 됩니다. 생성형 AI 도구(예: ChatGPT, Gemini 등)를 사용해 앱을 개발할 수 있으며, 도구에 구애받지 않는 중립적인 접근을 추구합니다. https://t.co/q6gyzlxWFS",
+      "url": "https://x.com/AndrewYNg/status/2008956639894786402",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "Andrew Ng, AI 기반 웹 앱 개발 교육 프로그램 출시",
+      "ai_bullets": [
+        "AI를 활용해 30분 내 앱 개발 기술을 습득할 수 있는 교육 프로그램 제공",
+        "AI 도구(예: ChatGPT, Gemini 등)를 사용해 웹 앱을 직접 구축할 수 있음",
+        "생성형 AI와 협업해 앱을 수정하고 최적화하는 실습 과정 포함"
+      ],
+      "ai_summary": "AI 기반 앱 개발을 위한 초보자 맞춤형 교육 프로그램이 출시됨",
+      "ai_themes": [
+        "기술발전",
+        "교육/강의",
+        "생성형AI"
+      ],
+      "published_at": "2026-01-08 02:39"
+    }
+  ]
+}

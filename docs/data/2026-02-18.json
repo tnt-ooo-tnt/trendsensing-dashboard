@@ -1,0 +1,64 @@
+{
+  "date": "2026-02-18",
+  "total": 3,
+  "ai_true": 0,
+  "ai_false": 3,
+  "source_counts": {
+    "demishassabis": 1,
+    "sama": 2
+  },
+  "avg_confidence": 0.13,
+  "top_themes": [],
+  "posts": [
+    {
+      "post_id": "2024006452487086579",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "Thanks for hosting me @iiscbangalore! Really enjoyed talking with Prof. Rangarajan &amp; Varun Mayya @waitin4agi_ about AI for Science. Impressed by the energy and enthusiasm for AI in India, especially from the young. Great to see the statue of Ramanujan, one of my all-time heroes! https://t.co/sL6nieP1VQ",
+      "content_ko": "저를 초대해 주셔서 감사합니다 @iiscbangalore! 교수님과의 대화를 정말 즐겼습니다. AI를 과학에 활용하는 것에 대해 Prof. Rangarajan & Varun Mayya @waitin4agi_와 논의했습니다. 인도에서 AI에 대한 열정과 특히 젊은 세대의 관심이 인상적이었습니다. 라만루잔의 동상을 보고 정말 감동했습니다. https://t.co/sL6nieP1VQ",
+      "url": "https://x.com/demishassabis/status/2024006452487086579",
+      "is_ai_trend": false,
+      "ai_confidence": 0.3,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-02-18 15:21"
+    },
+    {
+      "post_id": "2023839310764802349",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "Happy for my brother.\n\nAn absolute triumph for Benchmark. https://t.co/Ohpm2rDeHW",
+      "content_ko": "형님을 위한 기쁨입니다. Benchmark에 대한 절대적 성공입니다. https://t.co/Ohpm2rDeHW",
+      "url": "https://x.com/sama/status/2023839310764802349",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-02-18 04:17"
+    },
+    {
+      "post_id": "2023838999341920283",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "Extremely grateful to work with Josh. No one could ask for a more committed, more thoughtful, or harder-working investor. https://t.co/h5nLtkg45g",
+      "content_ko": "조시와 함께 일할 수 있는 절대적인 감사함. 더 이상 요구할 수 없는 헌신적인, 더 깊이 생각하는, 더 열심히 일하는 투자자입니다. https://t.co/h5nLtkg45g",
+      "url": "https://x.com/sama/status/2023838999341920283",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-02-18 04:16"
+    }
+  ]
+}

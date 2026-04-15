@@ -1,16 +1,31 @@
 {
   "date": "2026-03-17",
-  "total": 1,
-  "ai_true": 1,
-  "ai_false": 0,
+  "total": 9,
+  "ai_true": 8,
+  "ai_false": 1,
   "source_counts": {
+    "msitminister": 2,
+    "OpenAI Blog": 3,
+    "sama": 3,
     "AndrewYNg": 1
   },
-  "avg_confidence": 0.95,
+  "avg_confidence": 0.8,
   "top_themes": [
     [
       "기술발전",
-      1
+      6
+    ],
+    [
+      "산업동향",
+      5
+    ],
+    [
+      "정책/규제",
+      2
+    ],
+    [
+      "투자/시장",
+      2
     ],
     [
       "오픈소스",
@@ -19,22 +34,195 @@
   ],
   "posts": [
     {
+      "post_id": "2033853411150729464",
+      "platform": "twitter",
+      "account_handle": "msitminister",
+      "display_name": "배경훈",
+      "content": "<K-엔비디아, 국민성장펀드로 함께 만들기>\n\n오늘 AI 반도체 기업들과 금융권, 정부가 함께 모였습니다.\n\n국민성장펀드를 기반으로 한 ‘K-엔비디아 프로젝트’ 간담회였고, 금융위원장과 함께 투자와 산업 전략을 논의했습니다.\n\nK-엔비디아로 성장할 AI 반도체 유니콘을 만들기 위해서는 이제 국민, 정부, 기업이 원팀으로 움직여야 합니다.\n\n지금 글로벌 AI 시장은 GPU를 중심으로 자원과 경쟁력이 쏠려 있습니다. 이 구조를 넘지 못하면 우리는 결국 뒤따라갈 수밖에 없습니다.\n\n그래서 정부는 GPU 기반 인프라와 함께 저전력·고성능 국산 NPU를 확산하는 투트랙 전략을 추진하고 있습니다.\n\n국민성장펀드는 그 실행 수단입니다. 민관이 함께 5년간 150조를 조성하고, 그중 AI·반도체 분야에 50조를 집중 투자합니다. 국민이 투자에 참여하고, 그 성과가 다시 국민께 돌아가는 구조입니다. 단순한 지원이 아니라 정부가 기업과 함께 투자하고, 함께 책임지는 구조입니다.\n\n현장에서는 AI 반도체 산업의 현실적인 어려움도 확인했습니다. 수천억 원 단위의 투자, 그리고 글로벌 시장 진출의 필요성입니다.\n\n이제는 행사에서 만나는 관계를 넘어 정기적으로 만나고, 문제를 함께 풀고, 실행까지 같이 가져가는 ‘원팀 구조’가 필요합니다.\n\n앞으로 2~3년, 지금의 투자와 실행이 대한민국 AI 산업의 방향을 결정할 것입니다. 국민성장펀드를 중심으로 과감하게 투자하고 끝까지 함께하겠습니다. 국민기업을 넘어 세계적인 수준의 K-엔비디아가 반드시 나올 수 있도록 하겠습니다.\n\n#국민성장펀드 #K엔비디아 #AI반도체 #AI투자 #민관협력 #AI3대강국 #과기정통부 #딥엑스 #모빌린트 #리벨리온 #하이퍼엑셀 #퓨리오사AI\n\nhttps://t.co/VCVTJiZ2By",
+      "content_ko": "정부는 'K-엔비디아 프로젝트'를 통해 AI 반도체 산업 육성을 위해 민관합동 투자 전략을 발표했습니다. 과학기술정보통신부와 금융위원회는 5년간 150조 원 규모의 국민성장펀드를 기반으로 AI 및 반도체 분야에 50조 원을 집중 투자할 계획입니다. 이는 글로벌 AI 시장에서 GPU 의존도를 줄이고 저전력·고성능 국산 NPU 확산을 위한 투트랙 전략으로, 리벨리온·퓨리오사AI·하이퍼엑셀·딥엑스·모빌린트 등 5개 AI 반도체 기업과 협력해 유니콘 기업 육성에 나섭니다. 현장에서는 AI 반도체 산업의 글로벌 시장 진출 필요성과 대규모 투자 필요성을 강조했습니다.",
+      "url": "https://x.com/msitminister/status/2033853411150729464",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "정부, 'K-엔비디아'에 50조 지원…AI 반도체 유니콘 5곳 육성",
+      "ai_bullets": [
+        "과기정통부와 금융위가 민관합동으로 AI 반도체 산업 육성 전략 논의",
+        "국민성장펀드를 통해 5년간 50조 원 규모 AI·반도체 분야 투자 확대",
+        "저전력·고성능 국산 NPU 개발로 글로벌 AI 경쟁력 강화 전략 발표"
+      ],
+      "ai_summary": "정부가 AI 반도체 유니콘 기업 육성을 위해 50조 원 규모 투자 확대 및 국산 NPU 개발 전략 발표",
+      "ai_themes": [
+        "정책/규제",
+        "산업동향",
+        "투자/시장"
+      ],
+      "published_at": "2026-03-17 19:30"
+    },
+    {
+      "post_id": "4e32c322a73701baea229c22",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+      "content_ko": "오픈AI 일본본부는 일본 청소년을 대상으로 한 생성형 AI 사용 안전성 강화를 위한 '일본 청소년 안전 블루프린트'를 발표했습니다. 이는 연령 제한 강화, 부모 제어 기능 추가 및 정신 건강 보호 시스템 도입을 포함합니다. https://openai.com/blog/japan-teen-safety",
+      "url": "https://openai.com/index/japan-teen-safety-blueprint",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "오픈AI 일본: 청소년 보호 강화, 생성형 AI 사용 안전성 확보",
+      "ai_bullets": [
+        "일본 청소년을 위한 안전 가이드라인 공식 발표",
+        "연령 제한 강화 및 부모 제어 기능 추가",
+        "정신 건강 보호 시스템 도입"
+      ],
+      "ai_summary": "오픈AI 일본본부, 생성형 AI 사용 시 청소년 보호 강화 정책 발표",
+      "ai_themes": [
+        "정책/규제"
+      ],
+      "published_at": "2026-03-17 19:00"
+    },
+    {
+      "post_id": "8afdb503cc5635992639a265",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+      "content_ko": "GPT-5.4 미니 및 나노 버전이 출시되었습니다. 이는 코드 처리, 툴 사용, 다모달 추론 및 고부하 API 및 서브 에이전트 작업을 위한 성능 최적화를 목표로 합니다. https://openai.com/blog/gpt-5.4-mini-nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "오픈AI: GPT-5.4 미니 및 나노 버전 출시, 성능 최적화",
+      "ai_bullets": [
+        "GPT-5.4 미니 및 나노 버전, 코드 처리 및 다모달 추론 최적화",
+        "고부하 API 및 서브 에이전트 작업 대응 성능 향상"
+      ],
+      "ai_summary": "오픈AI, GPT-5.4 미니/나노 버전으로 개발자 작업 효율성 강화",
+      "ai_themes": [
+        "기술발전"
+      ],
+      "published_at": "2026-03-17 19:00"
+    },
+    {
+      "post_id": "1ba2801c79e44bbc5741d73e",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
+      "content_ko": "새로운 연구는 미국인들이 하루에 거의 300만 건의 메시지를 ChatGPT에 보내어 급여 및 수입 관련 정보를 요청하고 있으며, 이는 임금 정보 격차를 줄이는 데 기여하고 있음을 보여줍니다. https://openai.com/blog/chatgpt-usage-study",
+      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "오픈AI: ChatGPT 사용으로 임금 정보 격차 해소",
+      "ai_bullets": [
+        "미국인들이 하루 평균 300만 건 이상 ChatGPT에 급여 관련 질문을 보내고 있음",
+        "AI 기반 정보 접근성 향상으로 임금 정보 격차 닫는 효과 확인"
+      ],
+      "ai_summary": "ChatGPT 사용량 증가가 임금 정보 격차 해소에 기여하고 있음",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-03-17 09:00"
+    },
+    {
+      "post_id": "2033660522961502288",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "It is also very smart, but...I generally agree with this, and really feel it myself on the 5.3 -&gt; 5.4 upgrade. https://t.co/5SPEZNYxpt",
+      "content_ko": "이것도 매우 똑똑하지만... 일반적으로 이에 동의하며, 5.3에서 5.4로 업그레이드할 때 실제로 느끼고 있다. https://t.co/5SPEZNYxpt",
+      "url": "https://x.com/sama/status/2033660522961502288",
+      "is_ai_trend": true,
+      "ai_confidence": 0.5,
+      "ai_title": "Codex 업그레이드로 개발자 반응 긍정적",
+      "ai_bullets": [
+        "5.3에서 5.4로의 업그레이드로 Codex의 성능 향상이 강조됨",
+        "Codex 사용량이 빠르게 증가하고 있음"
+      ],
+      "ai_summary": "Codex의 업그레이드가 개발자들에게 긍정적인 반응을 얻고 있으며 사용량이 급증하고 있다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-03-17 06:43"
+    },
+    {
+      "post_id": "2033659889843913000",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "Great first week for 5.4 in the API.\n\nBuilders building fast. https://t.co/x7ajH6hS2r",
+      "content_ko": "5.4 API의 첫 주가 매우 좋았다. 개발자들이 빠르게 작업하고 있다. https://t.co/x7ajH6hS2r",
+      "url": "https://x.com/sama/status/2033659889843913000",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-03-17 06:41"
+    },
+    {
+      "post_id": "2033658565043622183",
+      "platform": "twitter",
+      "account_handle": "msitminister",
+      "display_name": "배경훈",
+      "content": "<첨단 GPU 지원 사업, 그리고 벌어지고 있는 일들 (3)>\n\n이번에는 의료 AI 스타트업 이야기입니다.\n\n“아이디어는 많은데 GPU가 없어 연구 속도가 늘 답답했습니다.”\n\n의료 AI 기업들이 자주 하는 이야기입니다. 의료 영상 데이터는 용량이 매우 커 학습 속도와 스토리지 확보가 늘 큰 과제였습니다.\n\n이번 GPU 지원을 통해 의료 영상 생성형 AI를 개발하는 ‘숨빗AI’는 한 달 걸리던 모델 학습을 3일로 단축했습니다. GPU와 함께 대용량 스토리지까지 확보하면서 연구 속도가 크게 달라졌다고 합니다.\n\n이 경험을 이렇게 표현하셨네요. \n“경차를 타고 가던 연구가 고성능 스포츠카를 타고 달리는 느낌입니다.”\n\n우리나라의 우수한 의료 데이터와 도전적인 스타트업이 만나면 의료 영상 분야에서도 세계 수준의 AI 모델이 나올 수 있다고 생각합니다.\n\n현재 GPU 인프라 확충을 계속 추진하고 있습니다. 지난번 4천장에 이어 이번에도 산업계·학계·연구계에 GPU 2천장 이상을 추가로 공급할 계획입니다. 관련 공고는 3월 30일까지 약 2주간 진행됩니다. \n\n연구자와 스타트업이 인프라 때문에 도전을 멈추지 않도록 AI 인프라 확충을 계속 추진하겠습니다.\n\n숨빗AI의 현장 이야기를 영상으로 한번 보시죠.\n\nhttps://t.co/G9714tULun\n\n#첨단GPU #AI인프라 #AI스타트업 #의료AI #숨빗ai #과기정통부",
+      "content_ko": "정부가 의료 AI 스타트업에 첨단 GPU 인프라 지원을 통해 연구 속도를 가속화하고 있습니다. 의료 영상 생성형 AI 개발 기업 '숨빗AI'는 GPU 지원으로 모델 학습 기간을 1개월에서 3일로 단축하며, 대용량 스토리지와 GPU 인프라의 결합이 연구 효율성 향상에 기여했다고 밝혔습니다. 이에 따라 정부는 산업계·학계·연구계에 추가로 GPU 2천장 이상을 공급할 계획이며, 관련 공고는 3월 30일까지 진행됩니다. 이는 AI 인프라 확충을 통한 연구자와 스타트업의 도전 기회 확대를 목표로 합니다.",
+      "url": "https://x.com/msitminister/status/2033658565043622183",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "GPU 지원 통해 의료 AI 스타트업 연구 속도 3일로 단축",
+      "ai_bullets": [
+        "GPU 지원으로 의료 영상 생성형 AI 개발 기간 1개월→3일로 단축",
+        "의료 AI 기업 '숨빗AI'가 대용량 스토리지와 GPU 인프라 활용",
+        "정부, 산업계·학계·연구계에 추가 GPU 2천장 공급 계획 발표"
+      ],
+      "ai_summary": "GPU 인프라 지원으로 의료 AI 연구 속도 급증, 정부가 추가 GPU 공급 확대",
+      "ai_themes": [
+        "기술발전",
+        "산업동향",
+        "투자/시장"
+      ],
+      "published_at": "2026-03-17 06:36"
+    },
+    {
+      "post_id": "2033599375256207820",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "The Codex team are hardcore builders and it really comes through in what they create. No surprise all the hardcore builders I know have switched to Codex.\n\nUsage of Codex is growing very fast: https://t.co/lRKcNJDY8n",
+      "content_ko": "Codex 팀은 강력한 개발자들이며, 생성한 제품의 품질이 매우 높다. 내가 아는 모든 강력한 개발자들이 Codex로 전환했다. Codex 사용량이 매우 빠르게 증가하고 있다: https://t.co/lRKcNJDY8n",
+      "url": "https://x.com/sama/status/2033599375256207820",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "Codex 사용량 급증, 개발자 이전 확대",
+      "ai_bullets": [
+        "Codex 팀이 강력한 개발자로 알려져 있으며, 생성한 제품의 품질이 높음",
+        "Codex 사용량이 매우 빠르게 증가하고 있음"
+      ],
+      "ai_summary": "Codex 사용량이 급증하며, 강력한 개발자들이 이 제품으로 전환하고 있다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-03-17 02:40"
+    },
+    {
       "post_id": "2033577583200354812",
       "platform": "twitter",
       "account_handle": "AndrewYNg",
       "display_name": "앤드류 응",
       "content": "Should there be a Stack Overflow for AI coding agents to share learnings with each other?\n\nLast week I announced Context Hub (chub), an open CLI tool that gives coding agents up-to-date API documentation. Since then, our GitHub repo has gained over 6K stars, and we've scaled from under 100 to over 1000 API documents, thanks to community contributions and a new agentic document writer. Thank you to everyone supporting Context Hub!\n\nOpenClaw and Moltbook showed that agents can use social media built for them to share information. In our new chub release, agents can share feedback on documentation — what worked, what didn't, what's missing. This feedback helps refine the docs for everyone, with safeguards for privacy and security.\n\nWe're still early in building this out. You can find details and configuration options in the GitHub repo. Install chub as follows, and prompt your coding agent to use it:\n\nnpm install -g @aisuite/chub\n\nGitHub: https://t.co/OCkyxXQMCq",
-      "content_ko": "AI 코드 에이전트 간 학습을 공유할 수 있는 Stack Overflow가 필요할까? 지난주에 Context Hub(chub)를 발표했는데, 이는 코드 에이전트가 최신 API 문서를 제공하는 오픈소스 CLI 도구이다. 이후 GitHub 저장소는 6,000개 이상의 스타를 받았고, 커뮤니티 기여와 새로운 에이전트 문서 작성기 덕분에 API 문서 수는 100개 미만에서 1,000개 이상으로 확장되었다. Context Hub의 새 릴리스에서는 에이전트가 문서에 피드백을 공유할 수 있다. 이 피드백은 모든 사용자에게 문서를 개선하는 데 도움이 되며, 개인정보 보호 기능이 포함되어 있다. 아직 초기 단계이지만, GitHub 저장소에서 자세한 내용과 설정 옵션을 확인할 수 있다. 다음 명령어로 chub를 설치하고 코드 에이전트에게 사용하도록 지시할 수 있다: npm install -g @aisuite/chub. GitHub: https://t.co/OCkyxXQMCq",
+      "content_ko": "AI 코드 에이전트가 최신 API 문서를 사용할 수 있는 CLI 도구 Context Hub를 공개함. 커뮤니티 기여로 API 문서 수가 1000개 이상 확대되었으며, 문서 피드백을 통해 문서 정확도 향상을 도모함. 오픈소스 마크다운 형식으로 문서 관리 및 기여가 가능하며, 도구 사용법은 npm install -g @aisuite/chub 명령어로 설치 가능함. https://t.co/OCkyxXQMCq",
       "url": "https://x.com/AndrewYNg/status/2033577583200354812",
       "is_ai_trend": true,
       "ai_confidence": 0.95,
-      "ai_title": "Andrew Ng(앤드류 응): 코드 에이전트를 위한 API 문서 공유 도구 Context Hub 발표",
+      "ai_title": "AI 코드 에이전트용 문서 공유 플랫폼 Context Hub 발표",
       "ai_bullets": [
-        "Context Hub는 코드 에이전트가 최신 API 문서를 사용하도록 지원하는 오픈소스 CLI 도구로, GitHub에서 6,000개 이상의 스타를 받았다.",
-        "에이전트 간 문서 피드백을 통해 문서를 지속적으로 개선하고, 개인정보 보호 기능을 포함했다.",
-        "사용자는 npm을 통해 설치하고 에이전트에게 CLI 명령어를 사용하도록 지시할 수 있다."
+        "코드 에이전트가 API 문서를 공유하고 피드백을 받을 수 있는 Context Hub 도구 공개",
+        "커뮤니티 기여로 API 문서 수가 1000개 이상 확대됨",
+        "개방형 마크다운 형식으로 문서 관리 및 기여 가능"
       ],
-      "ai_summary": "앤드류 응(Andrew Ng)은 코드 에이전트가 최신 API 문서를 사용하도록 지원하는 Context Hub 도구를 발표하며, 오픈소스로 제공하고 커뮤니티 기여를 통해 문서를 지속적으로 개선하고 있다고 설명했다.",
+      "ai_summary": "AI 코드 에이전트가 최신 API 문서를 공유하고 피드백을 받을 수 있는 오픈소스 플랫폼 Context Hub를 발표",
       "ai_themes": [
         "기술발전",
         "오픈소스"

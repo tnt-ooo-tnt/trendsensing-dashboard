@@ -1,0 +1,31 @@
+{
+  "date": "2025-11-03",
+  "total": 1,
+  "ai_true": 0,
+  "ai_false": 1,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.1,
+  "top_themes": [],
+  "posts": [
+    {
+      "post_id": "1985131115938722008",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "Haha! Good one. https://t.co/R7dtxnr3in",
+      "content_ko": "하하! 좋은 말이야. https://t.co/R7dtxnr3in",
+      "url": "https://x.com/AndrewYNg/status/1985131115938722008",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2025-11-03 08:45"
+    }
+  ]
+}

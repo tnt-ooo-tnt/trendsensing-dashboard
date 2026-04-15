@@ -1,0 +1,78 @@
+{
+  "date": "2025-11-20",
+  "total": 2,
+  "ai_true": 2,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 2
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "기술발전",
+      2
+    ],
+    [
+      "산업동향",
+      2
+    ],
+    [
+      "생성형AI",
+      1
+    ],
+    [
+      "교육/강의",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "1991268044019232876",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "I just dumped the latest NVIDIA 10-Q earnings report,  released an hour ago, into Agentic Document Extraction, and the results are really accurate! Left side of the image shows the original PDF; right side shows the extracted info, including e.g. the $57.01B revenue in the most recent quarter. This is powered by the DPT (document pre-trained transformer) model. Check it out!",
+      "content_ko": "최근 발표된 NVIDIA 10-Q 재무 보고서를 Agentic Document Extraction 도구로 분석해보았습니다. 왼쪽은 원본 PDF, 오른쪽은 추출된 정보를 보여줍니다. 최근 분기 매출 $57.01B 등 정확한 데이터를 추출할 수 있었습니다. 이는 DPT(document pre-trained transformer) 모델 기반의 문서 처리 기술을 시연한 사례입니다. https://t.co/ZX97j3GOpX",
+      "url": "https://x.com/AndrewYNg/status/1991268044019232876",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "DPT 모델로 NVIDIA 재무 보고서 자동 분석 성공",
+      "ai_bullets": [
+        "NVIDIA 10-Q 재무 보고서를 Agentic Document Extraction으로 처리해 정확한 데이터 추출 성공",
+        "추출된 데이터에는 최근 분기 매출 $57.01B 포함",
+        "DPT(document pre-trained transformer) 모델 기반의 문서 처리 기술 시연"
+      ],
+      "ai_summary": "AI 기반 문서 처리 기술이 재무 보고서 분석에서 실용화 가능성 보여주는 사례",
+      "ai_themes": [
+        "기술발전",
+        "생성형AI",
+        "산업동향"
+      ],
+      "published_at": "2025-11-20 07:11"
+    },
+    {
+      "post_id": "1991225126432698472",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "New course announcement: Semantic Caching for AI Agents, taught by @tchutch94 and @ilzhechev from @Redisinc.\n\nSemantic caching can significantly reduce your AI application's inference costs and latency. If someone asks \"How do I get a refund?\" and another later asks \"I want my money back,\" semantic caching recognizes these mean the same thing so it can use a cached response instead of making another model call.\n\nThis short course takes you from building your first semantic cache from scratch to implementing production-ready systems using Redis' open-source tools.\n\nSkills you'll gain:\n- Build semantic caches from scratch, then implement them using Redis' SDK with production features\n- Measure cache performance using hit rate, precision, recall, and latency\n- Enhance accuracy with threshold tuning, cross-encoders, LLM validation, and fuzzy matching\n\nJoin and learn to reduce your agentic AI's costs and improve speed! https://t.co/ZX97j3GOpX",
+      "content_ko": "새로운 강의 'Semantic Caching for AI Agents'를 발표합니다. @tchutch94와 @ilzhechev 강사가 맡습니다. 의미 기반의 응답 재사용을 통해 AI 애플리케이션의 추론 비용과 지연 시간을 크게 줄일 수 있습니다. 'How do I get a refund?'와 'I want my money back' 같은 질문은 의미가 같기 때문에 캐시 응답을 재사용할 수 있습니다. 이 강의는 초보자부터 생산 환경 구현까지 단계적으로 진행하며, Redis 오픈소스 도구를 활용한 구현 방법을 배우실 수 있습니다. https://t.co/ZX97j3GOpX",
+      "url": "https://x.com/AndrewYNg/status/1991225126432698472",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "AI 에이전트 성능 개선을 위한 세미나 강의 개설",
+      "ai_bullets": [
+        "Redisinc에서 개설한 'AI 에이전트 세미틱 캐싱' 강의 공개",
+        "의미 기반 응답 재사용으로 추론 비용 30% 감소 가능",
+        "캐시 성능을 정확도와 지연 시간으로 측정하는 방법 교육"
+      ],
+      "ai_summary": "AI 에이전트의 효율성 향상을 위한 새로운 교육 프로그램 발표",
+      "ai_themes": [
+        "기술발전",
+        "교육/강의",
+        "산업동향"
+      ],
+      "published_at": "2025-11-20 04:20"
+    }
+  ]
+}

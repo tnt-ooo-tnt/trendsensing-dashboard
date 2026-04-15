@@ -1,0 +1,39 @@
+{
+  "date": "2026-03-15",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "demishassabis": 1
+  },
+  "avg_confidence": 0.7,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2033010713413754987",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "Cool use case of AlphaFold, this is just the beginning of digital biology! https://t.co/EdWEL2r33Z",
+      "content_ko": "AlphaFold의 멋진 활용 사례를 공유합니다! 이는 디지털 생물학의 시작일 뿐입니다. https://t.co/EdWEL2r33Z",
+      "url": "https://x.com/demishassabis/status/2033010713413754987",
+      "is_ai_trend": true,
+      "ai_confidence": 0.7,
+      "ai_title": "알파폴드 활용 생물학적 응용 사례 공유",
+      "ai_bullets": [
+        "AlphaFold를 활용한 혁신적인 생물학적 활용 사례 공유",
+        "디지털 생물학의 시작을 알리는 사례로 평가"
+      ],
+      "ai_summary": "AI 기반 생물학 연구 도구인 알파폴드의 새로운 응용 사례가 공유됨",
+      "ai_themes": [
+        "기술발전"
+      ],
+      "published_at": "2026-03-15 11:41"
+    }
+  ]
+}

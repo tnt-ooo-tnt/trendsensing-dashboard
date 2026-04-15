@@ -1,0 +1,44 @@
+{
+  "date": "2025-12-02",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "연구/논문",
+      1
+    ],
+    [
+      "기술발전",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "1995633795027079495",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "NeurIPS received 21,575 paper submissions this year. Our Agentic Reviewer, released last week, just surpassed this in number of papers submitted and reviewed. It's clear agentic paper reviewing is here to stay and will be impactful! https://t.co/v4ZjnCgskN",
+      "content_ko": "이번년도 NeurIPS에 제출된 논문 수는 21,575개입니다. 지난주에 발표된 Agentic Reviewer 시스템은 이미 이 수치를 넘어섰습니다. AI 기반 논문 검토 프로세스가 지속적으로 확장되고 있으며, 이는 학계에 큰 영향을 미칠 것으로 보입니다. https://t.co/v4ZjnCgskN",
+      "url": "https://x.com/AndrewYNg/status/1995633795027079495",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "AI 논문 검토 시스템, NeurIPS 논문 제출 수 넘어",
+      "ai_bullets": [
+        "NeurIPS에 제출된 논문 수 21,575개를 넘어서는 Agentic Reviewer 시스템 도입",
+        "AI 기반 논문 검토 프로세스의 확장성과 영향력 강조"
+      ],
+      "ai_summary": "AI 기반 논문 검토 시스템이 학계에서 주목받고 있다.",
+      "ai_themes": [
+        "연구/논문",
+        "기술발전"
+      ],
+      "published_at": "2025-12-02 08:19"
+    }
+  ]
+}

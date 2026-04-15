@@ -1,0 +1,127 @@
+{
+  "date": "2026-03-30",
+  "total": 5,
+  "ai_true": 2,
+  "ai_false": 3,
+  "source_counts": {
+    "Jaemyung_Lee": 3,
+    "SKT Newsroom": 1,
+    "OpenAI Blog": 1
+  },
+  "avg_confidence": 0.4,
+  "top_themes": [
+    [
+      "산업동향",
+      2
+    ],
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "정책/규제",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2038535461346345422",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "<제20회 사회복지사의 날을 맞아, 전국 각지에서 헌신하며 이웃의 삶을 지켜주고 계신 모든 사회복지사 분들께 깊은 존경과 감사를 전합니다.\n\n급변하는 시대 속에서 사회안전망의 중요성은 날로 커지고 있습니다. 돌봄과 연대의 가치를 몸소 실천해 주신 덕분에, 대한민국은 한층 더 따뜻하고 살기 좋은 사회로 나아가고 있습니다.\n\n여러분께서 보다 자긍심을 가지고 일하실 수 있도록 처우 개선과 권익 보호를 비롯한 정책적 노력을 앞으로도 꾸준히 강화해 나가겠습니다. \n\n우리 사회의 든든한 버팀목이 되어 주시는 모든 사회복지사 여러분께 다시 한번 진심으로 감사드립니다.>",
+      "content_ko": "제20회 사회복지사의 날을 맞아, 전국 각지에서 헌신하며 이웃의 삶을 지켜주고 계신 모든 사회복지사 분들께 깊은 존경과 감사를 전합니다. 급변하는 시대 속에서 사회안전망의 중요성은 날로 커지고 있습니다. 돌봄과 연대의 가치를 몸소 실천해 주신 덕분에, 대한민국은 한층 더 따뜻하고 살기 좋은 사회로 나아가고 있습니다. 여러분께서 보다 자긍심을 가지고 일하실 수 있도록 처우 개선과 권익 보호를 비롯한 정책적 노력을 앞으로도 꾸준히 강화해 나가겠습니다. 우리 사회의 든든한 버팀목이 되어 주시는 모든 사회복지사 여러분께 다시 한번 진심으로 감사드립니다.",
+      "url": "https://x.com/Jaemyung_Lee/status/2038535461346345422",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-30 17:35"
+    },
+    {
+      "post_id": "2038442103223865472",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "혜인 어린이는 더 착한 어린이같습니다.\n고마워요. 박혜인어린이.\n행복한 하루 되세요. https://t.co/Oft9IvQUkd",
+      "content_ko": "혜인 어린이는 더 착한 어린이같습니다. 고마워요. 박혜인어린이. 행복한 하루 되세요. https://t.co/Oft9IvQUkd",
+      "url": "https://x.com/Jaemyung_Lee/status/2038442103223865472",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-30 11:24"
+    },
+    {
+      "post_id": "2038438732710478248",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "이룸과 시온 어린이에게.\n대통령 할아버지도 대한민국 모든 어린이들처럼 이룸, 시온 어린이를 사랑합니다.\n\n이 글이 두 어린이에게 닿을 수 있을 지 모르겠습니다만, 꼭 전달되기를 바랍니다.\n\n그리고..\n앞으로는 가급적 아저씨라고 불러주면 더 좋겠습니다 ^^; https://t.co/jgW9XTqd6I",
+      "content_ko": "이룸과 시온 어린이에게. 대통령 할아버지도 대한민국 모든 어린이들처럼 이룸, 시온 어린이를 사랑합니다. 이 글이 두 어린이에게 닿을 수 있을 지 모르겠습니다만, 꼭 전달되기를 바랍니다. 그리고.. 앞으로는 가급적 아저씨라고 불러주면 더 좋겠습니다 ^^; https://t.co/jgW9XTqd6I",
+      "url": "https://x.com/Jaemyung_Lee/status/2038438732710478248",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-30 11:10"
+    },
+    {
+      "post_id": "97313dad6afc8364c2aec926",
+      "platform": "rss",
+      "account_handle": "SKT Newsroom",
+      "display_name": "SK텔레콤",
+      "content": "<p>2026년, 일하는 풍경이 다시 한번 빠르게 바뀌고 있다. 보고서를 정리하고, 이메일 초안을 작성하는 데 AI를 활용하는 것은 흔한 일이 됐지만, 여전히 많은 경우 AI는 ‘물어보면 답해주는 도구’에 머물러 있다. 그런데</p>\n<p>The post <a href=\"https://news.sktelecom.com/223253\">‘1인 1 AI 에이전트’ 전략, 에이전틱 AI 시대가 바꾸는 일하는 방식</a> first appeared on <a href=\"https://news.sktelecom.com\">SK텔레콤 뉴스룸</a>.</p>",
+      "content_ko": "2026년, 일하는 풍경이 다시 한번 빠르게 바뀌고 있다. 보고서를 정리하고, 이메일 초안을 작성하는 데 AI를 활용하는 것은 흔한 일이 됐지만, 여전히 많은 경우 AI는 '물어보면 답해주는 도구'에 머물러 있다. 그런데 최근 이 흐름에 변화가 나타나고 있다. AI가 단순히 답을 제시하는 것을 넘어, 업무의 과정을 스스로 수행하는 방향으로 진화하고 있다. 이제는 완성된 AI 서비스를 사용하는 데 그치지 않고, 자연어로 지시하거나 기능을 조합해 자신만의 업무용 AI를 직접 설계하는 흐름이 확산되고 있다. 단순한 업무 자동화를 넘어, 기업의 일하는 방식 자체를 다시 설계하는 변화가 시작된 것이다. 질문에 답하던 챗봇에서 스스로 실행하고 점검하는 에이전트로 최근 AI 업계에서 가장 주목받는 흐름은 단연 ‘에이전틱 AI(Agentic AI)’다. AI는 단순히 질문에 답하는 도구를 넘어, 목표를 달성하기 위해 스스로 단계를 나누고 실행하는 시스템으로 진화하고 있다.",
+      "url": "https://news.sktelecom.com/223253",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "1인 1 AI 에이전트 전략, 에이전틱 AI 시대가 바꾸는 일하는 방식",
+      "ai_bullets": [
+        "2026년 AI는 단순한 답변 도구에서 업무를 스스로 수행하는 에이전트로 진화 중",
+        "SK텔레콤은 구성원이 AI 에이전트를 직접 설계해 업무에 적용하는 문화 조성",
+        "에이전틱 AI는 목표 달성에 필요한 절차를 계획하고 실행하는 시스템으로 발전"
+      ],
+      "ai_summary": "에이전틱 AI가 업무 자동화를 넘어 기업의 일하는 방식을 혁신하고 있다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-03-30 08:29"
+    },
+    {
+      "post_id": "c720bf728da92d557f52c1ea",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+      "content_ko": "AI를 활용한 재난 대응을 위한 OpenAI 워크숍이 아시아 지역에서 진행되었습니다. 이 워크숍은 게이츠 재단과 협력하여 AI 기술이 재난 대응에 어떻게 기여할 수 있는지에 대한 방안을 논의했습니다.",
+      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "오픈AI, 아시아 재난 대응을 위한 워크숍 개최",
+      "ai_bullets": [
+        "AI 기술을 재난 대응에 활용하는 방안 논의",
+        "게이츠 재단과 협력한 워크숍 진행"
+      ],
+      "ai_summary": "오픈AI가 아시아 지역 재난 대응을 위한 AI 기술 활용 방안을 논의하는 워크숍을 개최했다.",
+      "ai_themes": [
+        "정책/규제",
+        "산업동향"
+      ],
+      "published_at": "2026-03-30 07:15"
+    }
+  ]
+}

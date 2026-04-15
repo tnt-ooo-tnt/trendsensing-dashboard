@@ -1,41 +1,202 @@
 {
   "date": "2026-04-03",
-  "total": 3,
-  "ai_true": 1,
-  "ai_false": 2,
+  "total": 10,
+  "ai_true": 6,
+  "ai_false": 4,
   "source_counts": {
+    "demishassabis": 4,
+    "Jaemyung_Lee": 2,
+    "karpathy": 1,
     "sama": 1,
     "Google AI Blog": 2
   },
-  "avg_confidence": 0.42,
+  "avg_confidence": 0.59,
   "top_themes": [
     [
       "기술발전",
-      1
+      6
+    ],
+    [
+      "오픈소스",
+      4
     ],
     [
       "생성형AI",
+      3
+    ],
+    [
+      "연구/논문",
       1
     ]
   ],
   "posts": [
     {
-      "post_id": "2039773740586918137",
+      "post_id": "2040067247146770714",
       "platform": "twitter",
-      "account_handle": "sama",
-      "display_name": "샘 올트먼",
-      "content": "TBPN is my favorite tech show.\n\nWe want them to keep that going and for them to do what they do so well.\n\nI don't expect them to go any easier on us, am sure I'll do my part to help enable that with occasional stupid decisions.",
-      "content_ko": "TBPN은 내가 가장 좋아하는 기술 쇼입니다. 그들이 계속해서 그 일을 하기를 원하며, 그들이 잘하는 일을 계속하기를 바랍니다. 그들이 우리에게 더 쉽게 대할 것이라고 기대하지 않으며, 내가 가끔 바보 같은 결정을 내리더라도 그들을 도와줄 부분을 할 것이라고 확신합니다.",
-      "url": "https://x.com/sama/status/2039773740586918137",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "Gemma 4 has incredible capabilities for such small models. Follow @googlegemma for the latest information. https://t.co/Dj3FRkdiqg",
+      "content_ko": "Gemma 4는 같은 크기의 모델 중에서도 놀라운 능력을 보여줍니다. 최신 정보는 @googlegemma를 팔로우하여 확인할 수 있습니다. https://t.co/Dj3FRkdiqg",
+      "url": "https://x.com/demishassabis/status/2040067247146770714",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "구글 Gemma 4: 소형 모델의 놀라운 기능 발표",
+      "ai_bullets": [
+        "Gemma 4가 소형 모델 중에서도 뛰어난 기능을 제공하는 것으로 평가",
+        "구글 Gemma 계열 최신 정보는 @googlegemma 계정에서 확인 가능"
+      ],
+      "ai_summary": "소형 모델로서도 뛰어난 능력을 갖춘 Gemma 4 발표",
+      "ai_themes": [
+        "기술발전",
+        "오픈소스"
+      ],
+      "published_at": "2026-04-03 23:01"
+    },
+    {
+      "post_id": "2040067244349063326",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "Gemma 4 outperforms models over 10x their size! (note the x-axis is log scale!) https://t.co/an8LPYYBP2",
+      "content_ko": "Gemma 4가 10배 이상 크기의 모델을 능가하는 성능을 보여주며, x축은 로그 스케일로 표시되었습니다. https://t.co/an8LPYYBP2",
+      "url": "https://x.com/demishassabis/status/2040067244349063326",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "Gemma 4, 10배 이상 크기의 모델을 능가해 성능 기록",
+      "ai_bullets": [
+        "Gemma 4가 10배 이상 크기의 모델을 능가하는 성능을 보여줘",
+        "x축은 로그 스케일로 표시되어 성능 차이를 명확히 보여줘"
+      ],
+      "ai_summary": "Gemma 4가 대규모 모델을 능가하는 성능을 기록하며 주목받고 있다.",
+      "ai_themes": [
+        "기술발전",
+        "생성형AI"
+      ],
+      "published_at": "2026-04-03 23:01"
+    },
+    {
+      "post_id": "2039990363986026808",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "한불 수교 140주년, Félicitations! \n\n홍보대사로 함께해주시는 #전지현 님 그리고 #StrayKids #필릭스 용복 님\n\n두 분 덕에 참 든든합니다 ^^\n\n140년 우정과 신뢰를 기반으로 \n더욱 빛날 양국의 미래를 기대합니다. 🇰🇷🇫🇷\n\n#한불수교140주년 #coréefrance140 https://t.co/EK4wc3YZbR",
+      "content_ko": "한불 수교 140주년을 축하드립니다. 홍보대사로 함께해주시는 #전지현 님과 #StrayKids #필릭스 용복 님께 감사드립니다. 두 분 덕에 참 든든합니다 ^^ 140년 우정과 신뢰를 기반으로 더욱 빛날 양국의 미래를 기대합니다. 🇰🇷🇫🇷 #한불수교140주년 #coréefrance140 https://t.co/EK4wc3YZbR",
+      "url": "https://x.com/Jaemyung_Lee/status/2039990363986026808",
       "is_ai_trend": false,
-      "ai_confidence": 0.1,
+      "ai_confidence": 0.0,
       "ai_title": "",
       "ai_bullets": [],
       "ai_summary": "",
       "ai_themes": [
         "기타"
       ],
+      "published_at": "2026-04-03 17:56"
+    },
+    {
+      "post_id": "2039848079499878504",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "\"Au nom du peuple coréen, nous souhaitons la plus chaleureuse bienvenue au Président Emmanuel Macron pour sa visite d'État en Corée.\"\n\n엠마뉴엘 마크롱 프랑스 대통령님의 국빈방문을 대한민국 국민들과 함께 환영합니다. https://t.co/UrZ4rtjnCO",
+      "content_ko": "프랑스 대통령님의 국빈방문을 대한민국 국민들과 함께 환영합니다. https://t.co/UrZ4rtjnCO",
+      "url": "https://x.com/Jaemyung_Lee/status/2039848079499878504",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-04-03 08:30"
+    },
+    {
+      "post_id": "2039805659525644595",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "LLM Knowledge Bases\n\nSomething I'm finding very useful recently: using LLMs to build personal knowledge bases for various topics of research interest. In this way, a large fraction of my recent token throughput is going less into manipulating code, and more into manipulating knowledge (stored as markdown and images). The latest LLMs are quite good at it. So:\n\nData ingest:\nI index source documents (articles, papers, repos, datasets, images, etc.) into a raw/ directory, then I use an LLM to incrementally \"compile\" a wiki, which is just a collection of .md files in a directory structure. The wiki includes summaries of all the data in raw/, backlinks, and then it categorizes data into concepts, writes articles for them, and links them all. To convert web articles into .md files I like to use the Obsidian Web Clipper extension, and then I also use a hotkey to download all the related images to local so that my LLM can easily reference them.\n\nIDE:\nI use Obsidian as the IDE \"frontend\" where I can view the raw data, the the compiled wiki, and the derived visualizations. Important to note that the LLM writes and maintains all of the data of the wiki, I rarely touch it directly. I've played with a few Obsidian plugins to render and view data in other ways (e.g. Marp for slides).\n\nQ&A:\nWhere things get interesting is that once your wiki is big enough (e.g. mine on some recent research is ~100 articles and ~400K words), you can ask your LLM agent all kinds of complex questions against the wiki, and it will go off, research the answers, etc. I thought I had to reach for fancy RAG, but the LLM has been pretty good about auto-maintaining index files and brief summaries of all the documents and it reads all the important related data fairly easily at this ~small scale.\n\nOutput:\nInstead of getting answers in text/terminal, I like to have it render markdown files for me, or slide shows (Marp format), or matplotlib images, all of which I then view again in Obsidian. You can imagine many other visual output formats depending on the query. Often, I end up \"filing\" the outputs back into the wiki to enhance it for further queries. So my own explorations and queries always \"add up\" in the knowledge base.\n\nLinting:\nI've run some LLM \"health checks\" over the wiki to e.g. find inconsistent data, impute missing data (with web searchers), find interesting connections for new article candidates, etc., to incrementally clean up the wiki and enhance its overall data integrity. The LLMs are quite good at suggesting further questions to ask and look into.\n\nExtra tools:\nI find myself developing additional tools to process the data, e.g. I vibe coded a small and naive search engine over the wiki, which I both use directly (in a web ui), but more often I want to hand it off to an LLM via CLI as a tool for larger queries. \n\nFurther explorations:\nAs the repo grows, the natural desire is to also think about synthetic data generation + finetuning to have your LLM \"know\" the data in its weights instead of just context windows.\n\nTLDR: raw data from a given number of sources is collected, then compiled by an LLM into a .md wiki, then operated on by various CLIs by the LLM to do Q&A and to incrementally enhance the wiki, and all of it viewable in Obsidian. You rarely ever write or edit the wiki manually, it's the domain of the LLM. I think there is room here for an incredible new product instead of a hacky collection of scripts.",
+      "content_ko": "연구용 지식베이스를 위해 원본 문서를 .md 파일로 변환해 누적 학습 시스템 구축. Obsidian을 IDE로 활용해 데이터 시각화 및 자동화된 지식 관리 시스템 운영. LLM이 위키 데이터를 자동으로 유지보수하며, 질문에 따라 관련 정보를 자동으로 조합해 답변하는 방식을 설명. 출력 형식으로 마크다운, 슬라이드, 이미지 등 다양한 형식 지원. 링크: https://t.co/NlAfEJjtJV",
+      "url": "https://x.com/karpathy/status/2039805659525644595",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "LLM 기반 개인 지식베이스 구축 전략 공유",
+      "ai_bullets": [
+        "LLM을 활용한 연구용 개인 지식베이스 구축 방법 설명",
+        "원본 데이터를 .md 위키로 변환해 지속적 학습 구조 설계",
+        "Obsidian을 IDE로 활용해 시각화된 지식 관리 시스템 구축"
+      ],
+      "ai_summary": "LLM을 이용한 지식베이스 구축 프로세스와 Q&A 시스템 운영 방법 공유",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문",
+        "오픈소스"
+      ],
+      "published_at": "2026-04-03 05:42"
+    },
+    {
+      "post_id": "2039773740586918137",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "TBPN is my favorite tech show.\n\nWe want them to keep that going and for them to do what they do so well.\n\nI don't expect them to go any easier on us, am sure I'll do my part to help enable that with occasional stupid decisions.",
+      "content_ko": "TBPN은 제 가장 좋아하는 기술 쇼입니다. 그들이 계속해서 그 일을 하고 잘하는 방식을 유지해 줄 것을 바랍니다. 그들이 우리에게 더 쉽게 다가오지 않을 것이라고 기대하지 않으며, 가끔 바보 같은 결정을 통해 도움을 드릴 준비가 되어 있습니다.",
+      "url": "https://x.com/sama/status/2039773740586918137",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
       "published_at": "2026-04-03 03:35"
+    },
+    {
+      "post_id": "2039736630454497468",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "Available now under Apache 2.0 license in @GoogleAIStudio or download the model weights from @HuggingFace, @Kaggle and @Ollama. 400M downloads and 100K variants to date, Gemma goes from strength to strength. More info: https://t.co/hCHFTpoQJ9",
+      "content_ko": "현재 Apache 2.0 라이선스로 @GoogleAIStudio 또는 @HuggingFace, @Kaggle 및 @Ollama에서 다운로드 가능합니다. 현재까지 4억 건 이상의 다운로드와 1만 개 이상의 변형 모델이 출시되어 Gemma는 지속적으로 성장하고 있습니다. 더 많은 정보는 https://t.co/hCHFTpoQJ9에서 확인할 수 있습니다.",
+      "url": "https://x.com/demishassabis/status/2039736630454497468",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "Gemma 4, 오픈소스 AI 모델 시장에서 주목받는 신규 버전 출시",
+      "ai_bullets": [
+        "Gemma 4가 Apache 2.0 라이선스로 @GoogleAIStudio 등에서 제공 중",
+        "4억 다운로드 및 1만 개 이상의 변형 모델로 개발자 커뮤니티 확장",
+        "고급 추론 및 에이전트 워크플로우 최적화 기능 제공"
+      ],
+      "ai_summary": "Gemma 4가 오픈소스 AI 모델 시장에서 주목받는 신규 버전으로 출시되어 개발자 커뮤니티를 확장 중이다.",
+      "ai_themes": [
+        "기술발전",
+        "오픈소스",
+        "생성형AI"
+      ],
+      "published_at": "2026-04-03 01:08"
+    },
+    {
+      "post_id": "2039736628659269901",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "Excited to launch Gemma 4: the best open models in the world for their respective sizes. Available in 4 sizes that can be fine-tuned for your specific task: 31B dense for great raw performance, 26B MoE for low latency, and effective 2B &amp; 4B for edge device use - happy building! https://t.co/Sjbe3ph8xr",
+      "content_ko": "Gemma 4를 출시해 각 크기별로 특정 작업에 최적화된 모델을 제공합니다. 31B 밀도 모델은 원시 성능이 매우 우수하며, 26B MoE 모델은 저지연 성능을 제공합니다. 또한, 효과적인 2B 및 4B 크기 모델은 엣지 기기 사용에 적합합니다. https://t.co/Sjbe3ph8xr",
+      "url": "https://x.com/demishassabis/status/2039736628659269901",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "Gemma 4, 다양한 크기로 제공해 특정 작업에 최적화",
+      "ai_bullets": [
+        "Gemma 4가 4가지 크기로 제공되어 특정 작업에 맞춤형 최적화",
+        "31B 밀도 모델은 원시 성능 최고, 26B MoE 모델은 저지연 성능 제공",
+        "2B 및 4B 크기 모델은 엣지 기기 사용에 적합"
+      ],
+      "ai_summary": "Gemma 4가 다양한 크기로 제공되어 특정 작업에 맞춤형 최적화를 제공하며 개발자들의 주목을 받고 있다.",
+      "ai_themes": [
+        "기술발전",
+        "오픈소스",
+        "생성형AI"
+      ],
+      "published_at": "2026-04-03 01:08"
     },
     {
       "post_id": "85e9d1a6753c6801cac7c0fd",
@@ -43,19 +204,18 @@
       "account_handle": "Google AI Blog",
       "display_name": "Google AI",
       "content": "Gemini API Dials",
-      "content_ko": "Gemini API Dials이라는 제목의 이미지가 공유되었다.",
+      "content_ko": "Google AI 블로그는 Gemini API의 새로운 기능을 발표했습니다. 이 API는 생성형 AI 모델을 기반으로 한 다양한 애플리케이션을 지원합니다. [링크 내용]",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
       "is_ai_trend": true,
-      "ai_confidence": 0.95,
-      "ai_title": "Gemini API 관련 이미지 공유",
+      "ai_confidence": 0.9,
+      "ai_title": "Gemini API 출시 및 기능 소개",
       "ai_bullets": [
-        "Gemini API Dials이라는 제목의 이미지 공유",
-        "구글의 AI 모델인 Gemini과 관련된 콘텐츠"
+        "Google AI 블로그가 Gemini API의 새로운 기능을 발표했습니다.",
+        "API는 생성형 AI 모델을 기반으로 한 다양한 애플리케이션을 지원합니다."
       ],
-      "ai_summary": "구글 AI 블로그가 Gemini API 관련 이미지를 공유하며, AI 모델과 연관된 콘텐츠를 포함하고 있다.",
+      "ai_summary": "Google이 Gemini API의 새로운 기능을 발표하며 생성형 AI 기술 발전을 강조했습니다.",
       "ai_themes": [
-        "기술발전",
-        "생성형AI"
+        "기술발전"
       ],
       "published_at": "2026-04-03 01:00"
     },
@@ -65,14 +225,16 @@
       "account_handle": "Google AI Blog",
       "display_name": "Google AI",
       "content": "Google Vids logo surrounded by various video editing UI",
-      "content_ko": "구글 Vids 로고가 다양한 영상 편집 UI로 둘러싸인 이미지가 공유되었다.",
+      "content_ko": "Google Vids 로고가 다양한 영상 편집 UI를 둘러싼 모습입니다. [링크 내용]",
       "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
       "is_ai_trend": false,
       "ai_confidence": 0.2,
       "ai_title": "",
       "ai_bullets": [],
       "ai_summary": "",
-      "ai_themes": [],
+      "ai_themes": [
+        "기타"
+      ],
       "published_at": "2026-04-03 01:00"
     }
   ]

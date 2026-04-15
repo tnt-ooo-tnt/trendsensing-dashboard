@@ -1,0 +1,44 @@
+{
+  "date": "2025-02-07",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "NVIDIA Blog": 1
+  },
+  "avg_confidence": 0.9,
+  "top_themes": [
+    [
+      "산업동향",
+      1
+    ],
+    [
+      "연구/논문",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "8145f13ebc06f1a65b7ef75d",
+      "platform": "rss",
+      "account_handle": "NVIDIA Blog",
+      "display_name": "NVIDIA",
+      "content": "AI-driven medicine could deliver life-saving snakebite treatments to the world’s most vulnerable.",
+      "content_ko": "AI 기반 의학은 세계에서 가장 취약한 계층에게 생명을 구하는 스네이크비트 치료법을 제공할 수 있음",
+      "url": "https://blogs.nvidia.com/blog/ai-designed-proteins-snake-venom/",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "AI 기반 의학, 세계 취약 계층을 구하는 생명 구제 치료제 개발",
+      "ai_bullets": [
+        "AI 기술이 의학 분야에서 혁신적인 응용을 통해 생명을 구하는 치료법 개발에 기여하고 있음",
+        "특히 긴급한 독성 물질 중독 치료에 대한 해결책을 제시하고 있음"
+      ],
+      "ai_summary": "AI 기술이 의학 분야에서 생명 구제를 위한 혁신적 치료법 개발에 기여하고 있음",
+      "ai_themes": [
+        "산업동향",
+        "연구/논문"
+      ],
+      "published_at": "2025-02-07 23:00"
+    }
+  ]
+}

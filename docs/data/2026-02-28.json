@@ -1,0 +1,152 @@
+{
+  "date": "2026-02-28",
+  "total": 5,
+  "ai_true": 5,
+  "ai_false": 0,
+  "source_counts": {
+    "sama": 3,
+    "karpathy": 2
+  },
+  "avg_confidence": 0.93,
+  "top_themes": [
+    [
+      "정책/규제",
+      3
+    ],
+    [
+      "윤리/안전",
+      3
+    ],
+    [
+      "기술발전",
+      2
+    ],
+    [
+      "산업동향",
+      1
+    ],
+    [
+      "생성형AI",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2027578652477821175",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "Tonight, we reached an agreement with the Department of War to deploy our models in their classified network.\n\nIn all of our interactions, the DoW displayed a deep respect for safety and a desire to partner to achieve the best possible outcome.\n\nAI safety and wide distribution of benefits are the core of our mission. Two of our most important safety principles are prohibitions on domestic mass surveillance and human responsibility for the use of force, including for autonomous weapon systems.  The DoW agrees with these principles, reflects them in law and policy, and we put them into our agreement.\n\nWe also will build technical safeguards to ensure our models behave as they should, which the DoW also wanted. We will deploy FDEs to help with our models and to ensure their safety, we will deploy on cloud networks only.\n\nWe are asking the DoW to offer these same terms to all AI companies, which in our opinion we think everyone should be willing to accept. We have expressed our strong desire to see things de-escalate away from legal and governmental actions and towards reasonable agreements.\n\nWe remain committed to serve all of humanity as best we can. The world is a complicated, messy, and sometimes dangerous place.",
+      "content_ko": "오늘 밤, 전쟁부와 모델 배포에 대한 협약을 체결했습니다. 모든 상호작용에서 전쟁부는 안전에 대한 깊은 존중과 최선의 결과 달성에 대한 협력 의지를 보여주었습니다. AI 안전과 혜택의 넓은 분배는 우리의 핵심 사명입니다. 두 가지 가장 중요한 안전 원칙은 국내 대규모 감시 금지와 자동화 무기 시스템 사용 시 인류의 책임입니다. 전쟁부는 이 원칙에 동의하며 법률과 정책에 반영하고, 우리는 이를 협약에 포함했습니다. 또한 기술적 보안 조치를 통해 모델이 올바르게 작동하도록 하며, 전쟁부도 이 점을 원했습니다. 모델 보안을 위해 FDE(전체 디스크 암호화)를 도입하고, 클라우드 네트워크에만 배포할 계획입니다. 전쟁부에 모든 AI 기업에 동일한 조건을 제공해 줄 것을 요청하며, 우리에게는 모든 기업이 이를 수용해야 한다고 생각합니다. 법적 및 정부 조치 대신 합리적인 협의로 갈등 완화를 원합니다. 모든 인류를 최선으로 phục무하는 데 계속 노력할 것입니다. 세상은 복잡하고 혼란스러우며 때로는 위험한 곳입니다.",
+      "url": "https://x.com/sama/status/2027578652477821175",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "AI 안전 원칙과 정부 협력 방안 발표",
+      "ai_bullets": [
+        "전쟁부와 모델 배포에 대한 협약 체결, 분류된 네트워크에만 배포",
+        "AI 안전 원칙으로 국내 대규모 감시 금지 및 자동화 무기 시스템 사용 책임 강조",
+        "기술적 보안 조치 도입, FDE(전체 디스크 암호화) 및 클라우드 네트워크 배포 전략",
+        "모든 AI 기업에 동일한 협약 조건 제안, 법적 조치 대신 합리적 협의 추구"
+      ],
+      "ai_summary": "AI 안전 원칙과 정부 협력 방안을 발표하며, 기술적 보안 조치와 배포 전략을 공개했습니다.",
+      "ai_themes": [
+        "정책/규제",
+        "윤리/안전"
+      ],
+      "published_at": "2026-02-28 11:56"
+    },
+    {
+      "post_id": "2027578580159631610",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "Tonight, we reached an agreement with the Department of War to deploy our models in their classified network.\n\nIn all of our interactions, the DoW displayed a deep respect for safety and a desire to partner to achieve the best possible outcome.\n\nAI safety and wide distribution of benefits are the core of our mission. Two of our most important safety principles are prohibitions on domestic mass surveillance and human responsibility for the use of force, including for autonomous weapon systems.  The DoW agrees with these principles, reflects them in law and policy, and we put them into our agreement.\n\nWe also will build technical safeguards to ensure our models behave as they should, which the DoW also wanted. We will deploy FDEs to help with our models and to ensure their safety, we will deploy on cloud networks only.\n\nWe are asking the DoW to offer these same terms to all AI companies, which in our opinion we think everyone should be willing to accept. We have expressed our strong desire to see things de-escalate away from legal and governmental actions and towards reasonable agreements.\n\nWe remain committed to serve all of humanity as best we can. The world is a complicated, messy, and sometimes dangerous place.",
+      "content_ko": "오늘 밤, 전쟁부와 모델 배포에 대한 협약을 체결했습니다. 모든 상호작용에서 전쟁부는 안전에 대한 깊은 존중과 최선의 결과 달성에 대한 협력 의지를 보여주었습니다. AI 안전과 혜택의 넓은 분배는 우리의 핵심 사명입니다. 두 가지 가장 중요한 안전 원칙은 국내 대규모 감시 금지와 자동화 무기 시스템 사용 시 인류의 책임입니다. 전쟁부는 이 원칙에 동의하며 법률과 정책에 반영하고, 우리는 이를 협약에 포함했습니다. 또한 기술적 보안 조치를 통해 모델이 올바르게 작동하도록 하며, 전쟁부도 이 점을 원했습니다. 모델 보안을 위해 FDE(전체 디스크 암호화)를 도입하고, 클라우드 네트워크에만 배포할 계획입니다. 전쟁부에 모든 AI 기업에 동일한 조건을 제공해 줄 것을 요청하며, 우리에게는 모든 기업이 이를 수용해야 한다고 생각합니다. 법적 및 정부 조치 대신 합리적인 협의로 갈등 완화를 원합니다. 모든 인류를 최선으로 phục무하는 데 계속 노력할 것입니다. 세상은 복잡하고 혼란스러우며 때로는 위험한 곳입니다.",
+      "url": "https://x.com/sama/status/2027578580159631610",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "AI 안전 원칙과 정부 협력 방안 발표",
+      "ai_bullets": [
+        "전쟁부와 모델 배포에 대한 협약 체결, 분류된 네트워크에만 배포",
+        "AI 안전 원칙으로 국내 대규모 감시 금지 및 자동화 무기 시스템 사용 책임 강조",
+        "기술적 보안 조치 도입, FDE(전체 디스크 암호화) 및 클라우드 네트워크 배포 전략",
+        "모든 AI 기업에 동일한 협약 조건 제안, 법적 조치 대신 합리적 협의 추구"
+      ],
+      "ai_summary": "AI 안전 원칙과 정부 협력 방안을 발표하며, 기술적 보안 조치와 배포 전략을 공개했습니다.",
+      "ai_themes": [
+        "정책/규제",
+        "윤리/안전"
+      ],
+      "published_at": "2026-02-28 11:56"
+    },
+    {
+      "post_id": "2027578508042723599",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "Tonight, we reached an agreement with the Department of War to deploy our models in their classified network.\n\nIn all of our interactions, the DoW displayed a deep respect for safety and a desire to partner to achieve the best possible outcome.\n\nAI safety and wide distribution of benefits are the core of our mission. Two of our most important safety principles are prohibitions on domestic mass surveillance and human responsibility for the use of force, including for autonomous weapon systems.  The DoW agrees with these principles, reflects them in law and policy, and we put them into our agreement.\n\nWe also will build technical safeguards to ensure our models behave as they should, which the DoW also wanted. We will deploy FDEs to help with our models and to ensure their safety, we will deploy on cloud networks only.\n\nWe are asking the DoW to offer these same terms to all AI companies, which in our opinion we think everyone should be willing to accept. We have expressed our strong desire to see things de-escalate away from legal and governmental actions and towards reasonable agreements.\n\nWe remain committed to serve all of humanity as best we can. The world is a complicated, messy, and sometimes dangerous place.",
+      "content_ko": "오늘 밤, 우리는 국방부와 분류망에 모델을 배포하는 협약에 도달했습니다. 모든 상호작용에서 국방부는 안전에 대한 깊은 존중과 최선의 결과 달성에 대한 파트너십을 보여주었습니다. AI 안전과 혜택의 넓은 분배가 우리의 사명 중심입니다. 두 가지 가장 중요한 안전 원칙은 국내 대규모 감시 금지와 인류 책임을 위한 힘의 사용, 자율 무기 시스템 포함입니다. 국방부는 이 원칙에 동의하며 법률과 정책에 반영하고 있으며, 우리는 이 원칙을 협약에 반영했습니다. 또한 기술 보안 장치를 구축하여 모델이 올바르게 행동하도록 보장할 것이며, 이는 국방부도 원했습니다. 모델 보안을 위해 클라우드 네트워크만 배포할 계획입니다. 우리는 국방부가 모든 AI 기업에 동일한 조건을 제공하도록 요청하며, 우리 의견에선 모든 기업이 수용해야 할 사항이라고 생각합니다. 우리는 법적 및 정부 조치에서 벗어나 합리적인 협약으로 갈등을 완화하고자 강한 열망을 가지고 있습니다. 우리는 인류를 최선으로 phục무할 것을 계속 유지합니다. 세계는 복잡하고 혼란스러우며 때로는 위험한 곳입니다.",
+      "url": "https://x.com/sama/status/2027578508042723599",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "오픈AI, 군사 기관과 AI 안전 협약 체결",
+      "ai_bullets": [
+        "미국 국방부와 AI 모델 배포에 대한 분류망 사용 협약 체결",
+        "AI 안전 원칙에 대한 공동 합의 및 기술 보안 조치 도입",
+        "자율 무기 시스템 사용에 대한 인류 책임 원칙 반영"
+      ],
+      "ai_summary": "오픈AI가 군사 기관과 AI 안전 협약을 체결하며 기술 보안 및 윤리적 원칙을 강조",
+      "ai_themes": [
+        "정책/규제",
+        "윤리/안전"
+      ],
+      "published_at": "2026-02-28 11:56"
+    },
+    {
+      "post_id": "2027521323275325622",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "I had the same thought so I've been playing with it in nanochat. E.g. here's 8 agents (4 claude, 4 codex), with 1 GPU each running nanochat experiments (trying to delete logit softcap without regression). The TLDR is that it doesn't work and it's a mess... but it's still very pretty to look at :)\n\nI tried a few setups: 8 independent solo researchers, 1 chief scientist giving work to 8 junior researchers, etc. Each research program is a git branch, each scientist forks it into a feature branch, git worktrees for isolation, simple files for comms, skip Docker/VMs for simplicity atm (I find that instructions are enough to prevent interference). Research org runs in tmux window grids of interactive sessions (like Teams) so that it's pretty to look at, see their individual work, and \"take over\" if needed, i.e. no -p.\n\nBut ok the reason it doesn't work so far is that the agents' ideas are just pretty bad out of the box, even at highest intelligence. They don't think carefully though experiment design, they run a bit non-sensical variations, they don't create strong baselines and ablate things properly, they don't carefully control for runtime or flops. (just as an example, an agent yesterday \"discovered\" that increasing the hidden size of the network improves the validation loss, which is a totally spurious result given that a bigger network will have a lower validation loss in the infinite data regime, but then it also trains for a lot longer, it's not clear why I had to come in to point that out). They are very good at implementing any given well-scoped and described idea but they don't creatively generate them.\n\nBut the goal is that you are now programming an organization (e.g. a \"research org\") and its individual agents, so the \"source code\" is the collection of prompts, skills, tools, etc. and processes that make it up. E.g. a daily standup in the morning is now part of the \"org code\". And optimizing nanochat pretraining is just one of the many tasks (almost like an eval). Then - given an arbitrary task, how quickly does your research org generate progress on it?",
+      "content_ko": "nanochat 플랫폼에서 8개의 에이전트(4개 Claude, 4개 Codex)를 활용한 실험을 진행 중이다. 각 에이전트는 GPU 1개씩으로 운영되며, 로그릿 소프트캡 제거 실험을 시도 중이다. 그러나 에이전트들의 아이디어는 부족하며, 실험 설계 능력이 부족해 비논리적인 변형을 내놓는 문제가 있다. 또한 강력한 기준선 설정이나 정밀한 실험 제어 능력이 부족하다. 연구 조직의 '소스코드'는 프롬프트, 기술, 도구 등으로 구성되며, 하루 회의 등도 조직 코드에 포함된다. 이 실험을 통해 임의의 작업에 대한 연구 조직의 진행 속도를 측정하고자 한다.",
+      "url": "https://x.com/karpathy/status/2027521323275325622",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "AI 에이전트 기반 연구 조직 구조 실험 진행",
+      "ai_bullets": [
+        "Claude와 Codex 에이전트를 활용한 연구 조직 구조 실험 수행",
+        "에이전트의 실험 설계 능력 부족 및 비논리적 접근 방식 지적",
+        "연구 조직의 '소스코드'로 프롬프트 및 프로세스 정의 제안"
+      ],
+      "ai_summary": "AI 에이전트를 활용한 연구 조직 구조 실험 및 개선 방향 제시",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-02-28 08:08"
+    },
+    {
+      "post_id": "2027501331125239822",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "Cool chart showing the ratio of Tab complete requests to Agent requests in Cursor. With improving capability, every point in time has an optimal setup that keeps changing and evolving and the community average tracks the point. None -> Tab -> Agent -> Parallel agents -> Agent Teams (?) -> ???\n\nIf you're too conservative, you're leaving leverage on the table. If you're too aggressive, you're net creating more chaos than doing useful work.\n\nThe art of the process is spending 80% of the time getting work done in the setup you're comfortable with and that actually works, and 20% exploration of what might be the next step up even if it doesn't work yet.",
+      "content_ko": "Cursor 플랫폼에서 탭 완성 요청과 에이전트 요청의 비율 변화를 보여주는 차트를 공유했다. 기능 개선에 따라 각 시점에서 최적 설정이 변화하며, 커뮤니티 평균이 이에 따라 진화하고 있다. 너무 보수적인 접근은 기회 상실을, 과도한 혁신은 유용한 작업보다 더 많은 혼란을 초래할 수 있다고 경고했다. 프로세스의 예술은 80% 시간을 현재의 안정된 설정으로 작업하고, 20%는 다음 단계로의 탐색을 진행하는 것이 중요하다.",
+      "url": "https://x.com/karpathy/status/2027501331125239822",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "Cursor에서 탭 완성 요청 대비 에이전트 요청 비율 분석",
+      "ai_bullets": [
+        "Cursor 플랫폼에서 탭 완성 요청 대비 에이전트 요청 비율 추이 시각화",
+        "기능 개선에 따른 최적 설정 변화 및 커뮤니티 평균 추적 현황 설명",
+        "보수적 접근은 기회 상실, 과도한 접근은 혼란 유발 경고"
+      ],
+      "ai_summary": "AI 도구 Cursor의 사용 패턴 변화 및 최적화 전략 분석",
+      "ai_themes": [
+        "기술발전",
+        "생성형AI"
+      ],
+      "published_at": "2026-02-28 06:49"
+    }
+  ]
+}

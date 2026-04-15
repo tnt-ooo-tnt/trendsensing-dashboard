@@ -1,0 +1,66 @@
+{
+  "date": "2026-02-05",
+  "total": 2,
+  "ai_true": 1,
+  "ai_false": 1,
+  "source_counts": {
+    "karpathy": 2
+  },
+  "avg_confidence": 0.5,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "산업동향",
+      1
+    ],
+    [
+      "윤리/안전",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2019203959404347851",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "Anyone else approved for a loan every single day 20 times or so? Overcome with joy, really https://t.co/zInPQDur5h",
+      "content_ko": "매일 20번 정도 대출 승인을 받으며 기쁨에 젖은 상황을 공유. https://t.co/zInPQDur5h",
+      "url": "https://x.com/karpathy/status/2019203959404347851",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [],
+      "published_at": "2026-02-05 09:18"
+    },
+    {
+      "post_id": "2019137879310836075",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "A lot of people quote tweeted this as 1 year anniversary of vibe coding. Some retrospective -\n\nI've had a Twitter account for 17 years now (omg) and I still can't predict my tweet engagement basically at all. This was a shower of thoughts throwaway tweet that I just fired off without thinking but somehow it minted a fitting name at the right moment for something that a lot of people were feeling at the same time, so here we are: vibe coding is now mentioned on my Wikipedia as a major memetic \"contribution\" and even its article is longer. lol\n\nThe one thing I'd add is that at the time, LLM capability was low enough that you'd mostly use vibe coding for fun throwaway projects, demos and explorations. It was good fun and it almost worked. Today (1 year later), programming via LLM agents is increasingly becoming a default workflow for professionals, except with more oversight and scrutiny. The goal is to claim the leverage from the use of agents but without any compromise on the quality of the software. Many people have tried to come up with a better name for this to differentiate it from vibe coding, personally my current favorite \"agentic engineering\":\n\n- \"agentic\" because the new default is that you are not writing the code directly 99% of the time, you are orchestrating agents who do and acting as oversight.\n- \"engineering\" to emphasize that there is an art & science and expertise to it. It's something you can learn and become better at, with its own depth of a different kind.\n\nIn 2026, we're likely to see continued improvements on both the model layer and the new agent layer. I feel excited about the product of the two and another year of progress.",
+      "content_ko": "vibe coding에서 LLM 에이전트 기반 개발로 전환되며 '아게닉 엔지니어링'이라는 신규 용어 제안. 에이전트가 코드 작성 대신 오케스트레이션 역할 수행하며 품질 보장이 핵심 목표로 설정. 2026년까지 모델 및 에이전트 기술 개선으로 소프트웨어 개발 혁신 지속 예상. '아게닉'은 에이전트 중심 개발 방식을, '엔지니어링'은 전문성 강조로 명명. LLM 능력 향상으로 전문가들 사이에서 에이전트 기반 개발이 표준화되고 있음을 설명. https://t.co/zInPQDur5h",
+      "url": "https://x.com/karpathy/status/2019137879310836075",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "LLM 에이전트 기반 소프트웨어 개발 방식 '아게닉 엔지니어링'으로 진화 중",
+      "ai_bullets": [
+        "vibe coding에서 LLM 에이전트 기반 개발로 전환되며 '아게닉 엔지니어링'이라는 신규 용어 제안",
+        "에이전트가 코드 작성 대신 오케스트레이션 역할 수행하며 품질 보장이 핵심 목표로 설정",
+        "2026년까지 모델 및 에이전트 기술 개선으로 소프트웨어 개발 혁신 지속 예상"
+      ],
+      "ai_summary": "LLM 에이전트 기반 개발 방식이 '아게닉 엔지니어링'으로 진화하며, 소프트웨어 개발 혁신이 지속될 전망",
+      "ai_themes": [
+        "기술발전",
+        "산업동향",
+        "윤리/안전"
+      ],
+      "published_at": "2026-02-05 04:55"
+    }
+  ]
+}

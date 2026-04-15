@@ -1,0 +1,51 @@
+{
+  "date": "2026-02-24",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.9,
+  "top_themes": [
+    [
+      "산업동향",
+      1
+    ],
+    [
+      "윤리/안전",
+      1
+    ],
+    [
+      "기술발전",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2025973459843715185",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "Will AI create new job opportunities? My daughter Nova loves cats, and her favorite color is yellow. For her 7th birthday, we got a cat-themed cake in yellow by first using Gemini’s Nano Banana to design it, and then asking a baker to create it using delicious sponge cake and icing. My daughter was delighted by this unique creation, and the process created additional work for the baker (which I feel privileged to have been able to afford).\n\nMany people are worried about AI taking peoples’ jobs. As a society we have a moral responsibility to take care of people whose livelihoods are harmed. At the same time, I see many opportunities for people to take on new jobs and grow their areas of responsibility.\n\nWe are still early on the path of AI generating a lot of new jobs. I don't know if baking AI-designed cakes will grow into a large business. (AI Fund is not pursuing this opportunity, because if we do, I will gain a lot of weight.) But throughout history, when people have invented tools that unleashed human creativity, large amounts of new and meaningful work have resulted. For instance, according to one study, over the past 150 years, falling employment in agriculture and manufacturing has been “more than offset by rapid growth in the caring, creative, technology, and business services sectors.”\n\nAI is also growing the demand for many digital services, which can translate into more work for people creating, maintaining, selling, and expanding upon these services. For example, I used to carry out a limited number of web searches every day. Today, my agents carry out dramatically more web searches. For example, the Agentic Reviewer, which I started as a weekend project and Yixing Jiang then helped make much better, automatically reviews research articles. It uses a web search API to search for related work, and this generates a vastly larger number of web search queries a day than I have ever entered by hand.\n\nThe evolution of AI and software continues to accelerate, and the set of opportunities for things we can build still grows every day. I’ve stopped writing code by hand. More controversially, I’ve long stopped reading generated code. I realize I’m in the minority here, but I feel like I can get built most of what I want without having to look directly at coding syntax, and I operate at a higher level of abstraction using coding agents to manipulate code for me. Will conventional programming languages like Python and TypeScript go the way of assembly — where it gets generated and used, but without direct examination by a human developer — or will models compile directly from English prompts to byte code?\n\nEither way, if every developer becomes 10x more productive, I don't think we’ll end up with 1/10th as many developers, because the demand for custom software has no practical ceiling. Instead, the number of people who develop software will grow massively. In fact, I’m seeing early signs of “X Engineer” jobs, such as Recruiting Engineer or Marketing Engineer, which are people who sit in a certain business function X to create software for that function.\n\nOne thing I’m convinced of based on my experience with Nova’s birthday cake: AI will allow us to have a batter life!\n\n[Original text: https://t.co/yws8drSTfO ]",
+      "content_ko": "AI가 새로운 일자리 창출을 할 수 있을까요? 제 딸 노바는 고양이를 좋아하고, 가장 좋아하는 색은 노랑입니다. 7살 생일을 맞아 고양이 테마의 노랑 케이크를 만들기 위해 먼저 Gemini의 Nano Banana로 디자인하고, 베이커에게 맛있고 부드러운 케이크와 크림으로 제작을 요청했습니다. 딸이 이 독특한 창작물을 매우 좋아했고, 이 과정은 베이커에게 추가적인 작업 기회를 제공했습니다(이를 감당할 수 있는 기회에 감사함). 많은 사람들이 AI가 사람들의 일자리를 빼앗을 것이라고 걱정하지만, 사회는 피해를 입은 사람들의 생계를 책임지는 도덕적 의무가 있습니다. 동시에, 많은 사람들이 새로운 일자리에 참여하고 책임 범위를 확장할 기회가 있다고 보고 있습니다. AI가 새로운 일자리를 생성하는 길은 아직 초기 단계입니다. 저는 AI 설계 케이크가 대규모 사업으로 성장할지 모를지 모르지만, AI 펀드는 이 기회를 추구하지 않고 있습니다(만약 추구한다면, 제가 무거워질 수 있으므로). 역사적으로, 사람들이 창의성을 해방하는 도구를 발명할 때, 많은 새로운 의미 있는 일자리가 발생했습니다. 예를 들어, 한 연구에 따르면 지난 150년간 농업과 제조업의 고용 감소는 돌봄, 창의, 기술, 비즈니스 서비스 분야의 급격한 성장으로 상쇄되었습니다. AI는 또한 많은 디지털 서비스 수요를 증가시켜, 이러한 서비스를 만들고 유지하며 판매하고 확장하는 사람들에게 더 많은 일자리 기회를 제공합니다. 예를 들어, 저는 과거 하루에 제한된 수의 웹 검색을 수행했지만, 지금은 에이전트가 극적으로 더 많은 웹 검색을 수행합니다. 예를 들어, 저는 주말 프로젝트로 시작한 Agentic Reviewer를 Yixing Jiang이 개선해 주었고, 이는 연구 논문을 자동으로 검토합니다. 이는 웹 검색 API를 사용해 관련 작업을 검색하고, 이는 제가 손으로 입력한 것보다 훨씬 많은 웹 검색 쿼리를 매일 생성합니다. AI와 소프트웨어의 진화는 계속 가속화되고 있으며, 우리가 구축할 수 있는 기회는 매일 커지고 있습니다. 저는 이제 더 이상 코드를 직접 작성하지 않습니다. 더 논쟁적으로, 저는 오랫동안 생성된 코드를 읽지 않습니다. 저는 코드를 직접 보지 않고도 대부분의 것을 구축할 수 있다고 느끼며, 코딩 에이전트를 사용해 코드를 조작하는 높은 수준의 추상화 수준에서 운영합니다. 전통적인 프로그래밍 언어인 Python과 TypeScript는 어셈블리어처럼 생성되고 사용되지만 개발자에 의해 직접 검토되지 않을지, 아니면 모델이 영어 프롬프트에서 바이트 코드로 직접 컴파일할지 궁금합니다. 어쨌든, 개발자가 10배 더 생산성 있게 되면, 저는 개발자 수가 1/10로 줄어들지 않을 것이라고 생각합니다. 왜냐하면 맞춤형 소프트웨어 수요는 실용적인 한계가 없기 때문입니다. 대신, 소프트웨어를 개발하는 사람 수는 대폭 증가할 것입니다. 실제로, 저는 'X 엔지니어' 직업의 초기 징후를 보고 있습니다. 예를 들어, 채용 엔지니어나 마케팅 엔지니어처럼 특정 비즈니스 기능 X에 앉아 해당 기능을 위한 소프트웨어를 만드는 직업입니다. 노바의 생일 케이크 경험을 바탕으로 저는 AI가 우리에게 더 많은 생활 기회를 제공할 것이라고 확신합니다.",
+      "url": "https://x.com/AndrewYNg/status/2025973459843715185",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "AI 기술이 새로운 일자리 창출 가능성 탐구",
+      "ai_bullets": [
+        "AI가 새로운 일자리 창출 가능성에 대한 논의 제기",
+        "Gemini Nano Banana로 케이크 디자인 후 베이커에게 제작 요청",
+        "AI 기술이 디지털 서비스 수요 증가로 일자리 창출 가능성 제시",
+        "코딩 에이전트 활용해 소프트웨어 개발 생산성 향상 주장"
+      ],
+      "ai_summary": "AI 기술이 새로운 일자리 창출을 이끌고 있으며, 디지털 서비스 수요 증가와 코딩 에이전트 활용을 통해 소프트웨어 개발 생산성 향상이 기대됨.",
+      "ai_themes": [
+        "산업동향",
+        "윤리/안전",
+        "기술발전"
+      ],
+      "published_at": "2026-02-24 01:38"
+    }
+  ]
+}

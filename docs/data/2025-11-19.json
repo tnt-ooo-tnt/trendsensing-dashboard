@@ -1,0 +1,45 @@
+{
+  "date": "2025-11-19",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.85,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "산업동향",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "1990937235840196853",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "Really proud of the DeepLearningAI team. When Cloudflare went down, our engineers used AI coding to quickly implement a clone of basic Cloudflare capabilities to run our site on. So we came back up long before even major websites!",
+      "content_ko": "DeepLearningAI 팀이 클라우드 플레어 장애 시 AI 코드 작성으로 기본 기능을 복제해 사이트 재개방을 빠르게 이뤄냈습니다. 주요 웹사이트보다 먼저 복구에 성공했습니다. 이는 AI 기반 솔루션이 실제 인프라 문제 해결에 어떻게 활용되는지 보여주는 사례입니다.",
+      "url": "https://x.com/AndrewYNg/status/1990937235840196853",
+      "is_ai_trend": true,
+      "ai_confidence": 0.85,
+      "ai_title": "AI 코드 작성으로 클라우드 플레어 장애 대응 성공",
+      "ai_bullets": [
+        "클라우드 플레어 장애 시 AI 코드로 기본 기능 복제 성공",
+        "AI 기반 솔루션으로 사이트 재개방 시간 단축",
+        "실시간 문제 해결을 위한 AI 기술 적용 사례"
+      ],
+      "ai_summary": "AI 기술이 인프라 장애 대응에 실용화되는 사례 발표",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2025-11-19 09:16"
+    }
+  ]
+}

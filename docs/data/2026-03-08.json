@@ -1,0 +1,180 @@
+{
+  "date": "2026-03-08",
+  "total": 7,
+  "ai_true": 4,
+  "ai_false": 3,
+  "source_counts": {
+    "karpathy": 2,
+    "sama": 5
+  },
+  "avg_confidence": 0.52,
+  "top_themes": [
+    [
+      "기술발전",
+      3
+    ],
+    [
+      "산업동향",
+      2
+    ],
+    [
+      "연구/논문",
+      1
+    ],
+    [
+      "오픈소스",
+      1
+    ],
+    [
+      "생성형AI",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2030373745991536982",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "(I still have the bigger cousin running on prod nanochat, working a bigger model and on 8XH100, which looks like this now. I'll just leave this running for a while...) https://t.co/aWya9hpUMl",
+      "content_ko": "생성형 AI 모델이 8XH100 하드웨어에서 작동 중인 상태를 보여주는 링크 공유",
+      "url": "https://x.com/karpathy/status/2030373745991536982",
+      "is_ai_trend": false,
+      "ai_confidence": 0.15,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-08 05:03"
+    },
+    {
+      "post_id": "2030371219518931079",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "I packaged up the \"autoresearch\" project into a new self-contained minimal repo if people would like to play over the weekend. It's basically nanochat LLM training core stripped down to a single-GPU, one file version of ~630 lines of code, then:\n\n- the human iterates on the prompt (.md)\n- the AI agent iterates on the training code (.py)\n\nThe goal is to engineer your agents to make the fastest research progress indefinitely and without any of your own involvement. In the image, every dot is a complete LLM training run that lasts exactly 5 minutes. The agent works in an autonomous loop on a git feature branch and accumulates git commits to the training script as it finds better settings (of lower validation loss by the end) of the neural network architecture, the optimizer, all the hyperparameters, etc. You can imagine comparing the research progress of different prompts, different agents, etc.\n\nhttps://t.co/YCvOwwjOzF\nPart code, part sci-fi, and a pinch of psychosis :)",
+      "content_ko": "autoresearch 프로젝트를 단일 GPU 기반의 최소한의 코드로 포장해 공유. 인간은 프롬프트(.md)를 수정하고, AI 에이전트는 훈련 코드(.py)를 반복적으로 수정해 5분간 훈련을 수행하고 결과를 검토한다. 매일 아침 실험 로그와 개선된 모델을 제공하며, 훈련 스크립트에 대한 Git 커밋을 누적해 네트워크 아키텍처, 최적화기, 하이퍼파라미터 등을 개선하는 프로세스를 설명함.",
+      "url": "https://x.com/karpathy/status/2030371219518931079",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "AI 에이전트가 자동화된 LLM 연구 프로세스 구축",
+      "ai_bullets": [
+        "단일 GPU 기반의 자동화된 LLM 훈련 프레임워크 개발",
+        "에이전트가 하이퍼파라미터 최적화 및 모델 개선을 자동 수행",
+        "실험 로그 기반의 연구 진행 상황 시각화 제공"
+      ],
+      "ai_summary": "AI 에이전트가 단일 GPU에서 LLM 훈련을 자동화하며, 하이퍼파라미터 최적화와 모델 개선을 반복적으로 수행",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문",
+        "오픈소스"
+      ],
+      "published_at": "2026-03-08 04:53"
+    },
+    {
+      "post_id": "2030319489993298349",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "GPT-5.4 is great at coding, knowledge work, computer use, etc, and it's nice to see how much people are enjoying it.\n\nBut it's also my favorite model to talk to! We have missed the mark on model personality for awhile, so it feels extra good to be moving in the right direction.",
+      "content_ko": "GPT-5.4는 코딩, 지식 작업, 컴퓨터 사용 등에서 매우 잘 수행되며, 사람들이 얼마나 즐거워하는지 보고 있습니다. 하지만 이 모델은 나에게 가장 좋아하는 모델입니다! 우리는 오랜 시간 동안 모델 성격에 실패했었는데, 이제야 올바른 방향으로 나아가고 있어서 더욱 기쁩니다.",
+      "url": "https://x.com/sama/status/2030319489993298349",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "GPT-5.4, 코딩 및 지식 작업에서 뛰어난 성능 보여",
+      "ai_bullets": [
+        "GPT-5.4가 코딩, 지식 작업, 컴퓨터 사용 등에서 우수한 성능을 보여주고 있음",
+        "모델의 성격 개선이 기대에 부응하며 사용자 만족도 상승 중"
+      ],
+      "ai_summary": "GPT-5.4가 다양한 작업에서 뛰어난 성능을 보이며, 모델 성격 개선으로 사용자 만족도가 높아지고 있음",
+      "ai_themes": [
+        "기술발전",
+        "생성형AI"
+      ],
+      "published_at": "2026-03-08 01:27"
+    },
+    {
+      "post_id": "2030318958512164966",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "Very grateful to Jensen for working to expand Nvidia capacity at AWS so much for us! https://t.co/Jfu8U9YpXM",
+      "content_ko": "Jensen이 Nvidia의 AWS 용량 확대에 매우 많은 기여를 해주어 우리 모두에게 큰 도움이 되고 있음을 감사드립니다. https://t.co/Jfu8U9YpXM",
+      "url": "https://x.com/sama/status/2030318958512164966",
+      "is_ai_trend": true,
+      "ai_confidence": 0.5,
+      "ai_title": "Jensen, Nvidia와 AWS 협력으로 AI 인프라 확대",
+      "ai_bullets": [
+        "Jensen이 Nvidia의 AWS 용량 확대에 기여해 AI 인프라 강화"
+      ],
+      "ai_summary": "Jensen의 기여로 Nvidia와 AWS의 AI 인프라 확대가 이루어지고 있음",
+      "ai_themes": [
+        "산업동향",
+        "투자/시장"
+      ],
+      "published_at": "2026-03-08 01:25"
+    },
+    {
+      "post_id": "2030318632899953108",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "Wow real range of emotion reading the second and then the the third paragraph. https://t.co/8gQU9OaPjG",
+      "content_ko": "두 번째 및 세 번째 문단에서 진짜 다양한 감정을 읽을 수 있어요. https://t.co/8gQU9OaPjG",
+      "url": "https://x.com/sama/status/2030318632899953108",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "두 번째 및 세 번째 문단에서 감정 범위에 감탄",
+      "ai_bullets": [
+        "두 번째 및 세 번째 문단에서 감정 범위의 다양성을 감탄"
+      ],
+      "ai_summary": "작성된 글의 감정 표현 범위에 대한 감탄",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-08 01:24"
+    },
+    {
+      "post_id": "2030318481653334067",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "\"What is the hardest question I could ask you that you might get right?\" https://t.co/gVVLJ8aogS",
+      "content_ko": "@sama: '당신에게 물어볼 수 있는 가장 어려운 질문은 무엇인가요? 그 질문에 대해 올바르게 답변할 수 있을까요?' (https://t.co/gVVLJ8aogS)",
+      "url": "https://x.com/sama/status/2030318481653334067",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-08 01:23"
+    },
+    {
+      "post_id": "2030318213482131670",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "GPT-5.4 is really good at spreadsheets; a few finance people have finally said things to me like \"huh I guess this AI thing is real\" https://t.co/xbk8sjpMDf",
+      "content_ko": "@sama: 'GPT-5.4는 스프레드시트 처리에 매우 능숙하다. 몇몇 금융 전문가들이 나에게 \"아, 이 AI 기술이 진짜인가\"라고 말했다' (https://t.co/xbk8sjpMDf)",
+      "url": "https://x.com/sama/status/2030318213482131670",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "GPT-5.4, 스프레드시트 처리 능력으로 금융계 인식 변화",
+      "ai_bullets": [
+        "GPT-5.4가 금융 분야에서 실제 AI 기술의 능력을 입증받음",
+        "금융 전문가들이 '이 AI 기술이 진짜인가?'라는 반응을 보임"
+      ],
+      "ai_summary": "GPT-5.4가 스프레드시트 처리 능력으로 금융계의 AI 인식 변화를 이끌고 있다",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-03-08 01:22"
+    }
+  ]
+}

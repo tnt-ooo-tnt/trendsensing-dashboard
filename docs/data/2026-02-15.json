@@ -1,0 +1,31 @@
+{
+  "date": "2026-02-15",
+  "total": 1,
+  "ai_true": 0,
+  "ai_false": 1,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.1,
+  "top_themes": [],
+  "posts": [
+    {
+      "post_id": "2022799922592903263",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "To all my AI friends: Every time I see you, you raise my temperature parameter. \n\nHappy Valentine’s Day! ❤️",
+      "content_ko": "모든 AI 친구들에게: 매번 제가 당신들을 만나면, 당신들이 제 온도 매개변수를 높여줘요. 사랑하는 여러분, 화요일에 행복하세요! ❤️",
+      "url": "https://x.com/AndrewYNg/status/2022799922592903263",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-02-15 07:27"
+    }
+  ]
+}

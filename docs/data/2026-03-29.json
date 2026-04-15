@@ -1,0 +1,161 @@
+{
+  "date": "2026-03-29",
+  "total": 7,
+  "ai_true": 1,
+  "ai_false": 6,
+  "source_counts": {
+    "Jaemyung_Lee": 4,
+    "msitminister": 1,
+    "SKT Newsroom": 1,
+    "karpathy": 1
+  },
+  "avg_confidence": 0.26,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "연구/논문",
+      1
+    ],
+    [
+      "생성형AI",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2038241393098055805",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "&lt;나의 하GPT, 봤습니다&gt;\n\n\"이재명 대통령이 꼭 보셨으면 좋겠네요\" 하정우 수석의 '쇼츠 요청' #shorts #오마이tv #하정우 https://t.co/7ZlX95NrJh - @YouTube",
+      "content_ko": "『나의 하GPT, 봤습니다』 \"이재명 대통령이 꼭 보셨으면 좋겠네요\" 하정우 수석의 '쇼츠 요청' #shorts #오마이tv #하정우 https://t.co/7ZlX95NrJh - @YouTube",
+      "url": "https://x.com/Jaemyung_Lee/status/2038241393098055805",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-29 22:06"
+    },
+    {
+      "post_id": "2038195370866716833",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "&lt;모두 잘 하고 계십니다. 감사합니다.\n\n그러나 아직 갈 길이 멉니다. 조금만 더 힘을 냅시다.&gt;\n\n부처간 벽 허물자…보이스피싱 범죄 31% 급감 https://t.co/3oAWtFaO90",
+      "content_ko": "모두 잘 하고 계십니다. 감사합니다. 그러나 아직 갈 길이 멉니다. 조금만 더 힘을 냅시다. 부처간 벽 허물자…보이스피싱 범죄 31% 급감 https://t.co/3oAWtFaO90",
+      "url": "https://x.com/Jaemyung_Lee/status/2038195370866716833",
+      "is_ai_trend": false,
+      "ai_confidence": 0.3,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-29 19:03"
+    },
+    {
+      "post_id": "2038168242833756261",
+      "platform": "twitter",
+      "account_handle": "msitminister",
+      "display_name": "배경훈",
+      "content": "<청년 연구자가 걱정없이 기초연구에 몰두했던 이유!>\n\n 이번 영상은 청년 연구자들이 왜 다시 기초연구에 몰두할 수 있게 되었는지를 잘 보여주고 있습니다.\n\n그동안 많은 젊은 연구자들이 연구비의 불확실성, 짧은 지원 기간, 그리고 미래에 대한 불안 때문에 연구에 온전히 집중하기 어려웠습니다.\n\n그래서 정부는 방향을 분명히 바꿨습니다.\n연구자가 행정이 아니라 연구 자체에 몰입할 수 있도록, 지원 규모를 확대하고 기간을 늘렸습니다. 특히 신진 연구자와 박사후 연구자를 위한 지원을 대폭 강화했습니다.  \n\n단순히 과제를 늘리는 것이 아니라, ‘연구에 집중할 수 있는 환경’을 만드는 데 초점을 맞췄습니다.\n\n이제 청년 연구자들이 보다 안정적인 기반 위에서 도전적인 기초연구에 뛰어들고 있습니다. 이들의 작은 질문 하나, 새로운 시도 하나가 결국 대한민국의 미래 기술로 이어질 것이라고 믿습니다.\n\n앞으로도 과기정통부는 청년 연구자들이 연구에만 집중할 수 있도록 든든한 기반을 계속 만들어 나가겠습니다.\n\n#과기정통부 #청년연구자 #신진연구자\n\nhttps://t.co/viG7Bzbs29 - @YouTube",
+      "content_ko": "이번 영상은 청년 연구자들이 왜 다시 기초연구에 몰두할 수 있게 되었는지를 잘 보여주고 있습니다. 그동안 많은 젊은 연구자들이 연구비의 불확실성, 짧은 지원 기간, 그리고 미래에 대한 불안 때문에 연구에 온전히 집중하기 어려웠습니다. 그래서 정부는 방향을 분명히 바꿨습니다. 연구자가 행정이 아니라 연구 자체에 몰입할 수 있도록, 지원 규모를 확대하고 기간을 늘렸습니다. 특히 신진 연구자와 박사후 연구자를 위한 지원을 대폭 강화했습니다. 단순히 과제를 늘리는 것이 아니라, '연구에 집중할 수 있는 환경'을 만드는 데 초점을 맞췄습니다. 이제 청년 연구자들이 보다 안정적인 기반 위에서 도전적인 기초연구에 뛰어들고 있습니다. 이들의 작은 질문 하나, 새로운 시도 하나가 결국 대한민국의 미래 기술로 이어질 것이라고 믿습니다. 앞으로도 과기정통부는 청년 연구자들이 연구에만 집중할 수 있도록 든든한 기반을 계속 만들어 나가겠습니다.",
+      "url": "https://x.com/msitminister/status/2038168242833756261",
+      "is_ai_trend": false,
+      "ai_confidence": 0.2,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "정책/규제"
+      ],
+      "published_at": "2026-03-29 17:15"
+    },
+    {
+      "post_id": "2038118609093116144",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "또 한 분의 일본군 ‘위안부’ 피해자께서 우리 곁을 떠나셨습니다. 비통한 마음으로, 삼가 고인의 명복을 빕니다.\n\n고인께서는 인간의 존엄이 철저히 유린된 시대를 온몸으로 견뎌내셨으며, 참혹한 고통을 딛고 세상에 나와 진실을 증언하셨습니다.\n\n우리 모두에게 결코 역사를 잊어서는 안 된다는 사실을 일깨워 주셨고, 다음 세대가 보다 정의롭고 평화로운 세상에서 살아갈 수 있도록 해야 한다는 과제를 남겨주셨습니다. \n\n고인의 숭고한 뜻과 용기를 오래도록 기억하겠습니다.\n\n정부는 일본군 '위안부' 피해자분들의 명예와 존엄 회복을 위해 할 수 있는 모든 것을 다하겠습니다. 다시는 이러한 비극이 반복되지 않도록 인권과 평화의 가치를 굳건히 세워 나갈 것입니다.\n\n이제 모든 짐을 내려놓으시고, 부디 평안하시길 온 마음으로 기원합니다. 다시 한번 머리 숙여 깊은 애도를 표합니다.",
+      "content_ko": "또 한 분의 일본군 '위안부' 피해자께서 우리 곁을 떠나셨습니다. 비통한 마음으로, 삼가 고인의 명복을 빕니다. 고인께서는 인간의 존엄이 철저히 유린된 시대를 온몸으로 견뎌내셨으며, 참혹한 고통을 딛고 세상에 나와 진실을 증언하셨습니다. 우리 모두에게 결코 역사를 잊어서는 안 된다는 사실을 일깨워 주셨고, 다음 세대가 보다 정의롭고 평화로운 세상에서 살아갈 수 있도록 해야 한다는 과제를 남겨주셨습니다. 고인의 숭고한 뜻과 용기를 오래도록 기억하겠습니다. 정부는 일본군 '위안부' 피해자분들의 명예와 존엄 회복을 위해 할 수 있는 모든 것을 다하겠습니다. 다시는 이러한 비극이 반복되지 않도록 인권과 평화의 가치를 굳건히 세워 나갈 것입니다. 이제 모든 짐을 내려놓으시고, 부디 평안하시길 온 마음으로 기원합니다. 다시 한번 머리 숙여 깊은 애도를 표합니다.",
+      "url": "https://x.com/Jaemyung_Lee/status/2038118609093116144",
+      "is_ai_trend": false,
+      "ai_confidence": 0.0,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-29 13:58"
+    },
+    {
+      "post_id": "3488bfc6ed3e98d91503ea09",
+      "platform": "rss",
+      "account_handle": "SKT Newsroom",
+      "display_name": "SK텔레콤",
+      "content": "창립기념일 고객 찾아간 SKT, “자축 대신 ‘다시 듣는 날’로”",
+      "content_ko": "창립기념일 고객 찾아간 SKT, \"자축 대신 ‘다시 듣는 날’로\"",
+      "url": "https://news.sktelecom.com/223286",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-29 09:01"
+    },
+    {
+      "post_id": "2038024783141728280",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "<고문과 사건조작 사법살인 같은 최악의 국가폭력 범죄자들에게 준 훈포장 박탈은 만시지탄이나  당연한 조치입니다. \n\n국가폭력범죄의 형사 공소시효와 민사소멸시효 배제법도 꼭 추진하겠습니다. \n\n오늘 최악의 국가폭력 사건인 제주 4.3 참배를 갑니다. 영문도 모른채 이유 없이 죽창에 찔리고 카빈 총에 맞고 생매장당해 죽은 원혼들의 명복을 빕니다. \n\n다시는 대한민국에 이런 비극이 발생하지 않게 하겠습니다. \n\n#비정상의정상화 #국가폭력범죄시효배제 >\n\n남영동 절규어린 '금빛 훈장' 박탈되나…경찰, 7만개 전수조사 https://t.co/Y45SAA8VOc",
+      "content_ko": "고문과 사건조작 사법살인 같은 최악의 국가폭력 범죄자들에게 준 훈포장 박탈은 만시지탄이나 당연한 조치입니다. 국가폭력범죄의 형사 공소시효와 민사소멸시효 배제법도 꼭 추진하겠습니다. 오늘 최악의 국가폭력 사건인 제주 4.3 참배를 갑니다. 영문도 모른채 이유 없이 죽창에 찔리고 카빈 총에 맞고 생매장당해 죽은 원혼들의 명복을 빕니다. 다시는 대한민국에 이런 비극이 발생하지 않게 하겠습니다. #비정상의정상화 #국가폭력범죄시효배제 남영동 절규어린 '금빛 훈장' 박탈되나…경찰, 7만개 전수조사 https://t.co/Y45SAA8VOc",
+      "url": "https://x.com/Jaemyung_Lee/status/2038024783141728280",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "정책/규제"
+      ],
+      "published_at": "2026-03-29 07:45"
+    },
+    {
+      "post_id": "2037921699824607591",
+      "platform": "twitter",
+      "account_handle": "karpathy",
+      "display_name": "안드레이 카파시",
+      "content": "- Drafted a blog post\n- Used an LLM to meticulously improve the argument over 4 hours.\n- Wow, feeling great, it’s so convincing!\n- Fun idea let’s ask it to argue the opposite. \n- LLM demolishes the entire argument and convinces me that the opposite is in fact true.\n- lol\n\nThe LLMs may elicit an opinion when asked but are extremely competent in arguing almost any direction. This is actually super useful as a tool for forming your own opinions, just make sure to ask different directions and be careful with the sycophancy.",
+      "content_ko": "블로그 글을 작성하면서 LLM을 사용해 논리를 4시간 동안 세심하게 개선했습니다. 결과적으로 LLM이 제시한 반론이 원래 논리를 근본적으로 재검토하게 만드는 것을 느꼈습니다. 이는 AI 도구를 활용해 자신의 견해를 형성하는 데 매우 유용한 방식이지만, 다양한 방향을 물어보고 편향을 주의해야 한다는 점을 강조합니다.",
+      "url": "https://x.com/karpathy/status/2037921699824607591",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "LLM을 활용한 논리 강화 및 반론 검증 기능 탐구",
+      "ai_bullets": [
+        "LLM을 4시간 동안 논리적 인수를 개선하는 데 사용",
+        "LLM이 반대 주장을 제시해 원래 논리를 근본적으로 재검토",
+        "AI 도구를 통한 주관적 견해 형성 방식에 대한 분석"
+      ],
+      "ai_summary": "LLM이 논리적 인수를 개선하고 반론을 통해 주관적 견해를 형성하는 방식에 대한 탐구",
+      "ai_themes": [
+        "기술발전",
+        "연구/논문",
+        "생성형AI"
+      ],
+      "published_at": "2026-03-29 00:56"
+    }
+  ]
+}

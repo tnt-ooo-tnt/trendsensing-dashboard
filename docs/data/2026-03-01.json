@@ -1,0 +1,117 @@
+{
+  "date": "2026-03-01",
+  "total": 5,
+  "ai_true": 1,
+  "ai_false": 4,
+  "source_counts": {
+    "sama": 5
+  },
+  "avg_confidence": 0.26,
+  "top_themes": [
+    [
+      "정책/규제",
+      1
+    ],
+    [
+      "윤리/안전",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2027924720558215542",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "I have to go do something for awhile but can answer more questions tonight.",
+      "content_ko": "잠시 다른 일에 있어야 하지만, 오늘 밤에 더 많은 질문에 답변할 수 있습니다.",
+      "url": "https://x.com/sama/status/2027924720558215542",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-01 10:51"
+    },
+    {
+      "post_id": "2027921762319827330",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "Three general things from this AMA:\n\n1. There is more open debate than I thought ther ewould be, at least in this part of Twitter, about whether we should prefer a democratically elected government or unelected private companies to have more power. I guess this is something people disagree on, but…I don’t. This seems like an important area for more discussion.\n\n2. I think the is a question behind a lot of the questions but I haven’t seen quite articulated: What happens if the government tries to nationalize OpenAI or other AI efforts? I obviously don’t know; I have thought about it of course (it has seemed to me for a long time it might be be better if building AGI were a government project) but it doesn’t seem super likely on the current trajectory. That said, I do think a close partnership between governments and the companies building this technology is super important.\n\n3. People take their safety (in the national security sense) more for granted than I realized, which I think is a good thing on balance but I don’t think shows enough respect to the tremendous work it takes for that to happen.\n\nAlso, I am on the whole very grateful for the level of reasonable and good-faith engagement here. It was not what I expected.",
+      "content_ko": "이 AMA에서 세 가지 주요 주제를 다루고 있습니다: 1. 트위터에서 AI 관련 정부 통제와 민간 기업 권한에 대한 논의가 더 활발하다는 점, 2. 정부가 오픈AI나 다른 AI 프로젝트를 국가화하려는 경우에 대한 고려, 3. 국가 안보에 대한 안전성 인식이 과소평가되고 있음을 지적함. 이 AMA에서의 합리적이고 진정한 대화에 감사함을 전합니다. 예상치 못한 수준이었습니다.",
+      "url": "https://x.com/sama/status/2027921762319827330",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "오픈AI: 정부와 기업의 AI 협력 필요성 강조",
+      "ai_bullets": [
+        "AI 정부 통제 vs 민간 기업 권한 논의가 활발한 것으로 나타남",
+        "AI 국가화 가능성에 대한 논의 필요성 제기, 현재 경로에서는 낮은 가능성",
+        "국가 안보에 대한 안전성 인식이 과소평가되고 있음"
+      ],
+      "ai_summary": "AI 정책 논의에서 정부와 기업의 협력 필요성과 국가화 가능성에 대한 논의가 제기됨",
+      "ai_themes": [
+        "정책/규제",
+        "윤리/안전"
+      ],
+      "published_at": "2026-03-01 10:39"
+    },
+    {
+      "post_id": "2027909609323958710",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "@boazbaraktcs is also going to help out with answers!",
+      "content_ko": "@boazbaraktcs도 답변을 도와줄 예정입니다!",
+      "url": "https://x.com/sama/status/2027909609323958710",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-01 09:51"
+    },
+    {
+      "post_id": "2027905510578761820",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "@natseckatrina who leads some of our national security work is going to jump in to answer some of your questions",
+      "content_ko": "@natseckatrina가 우리 국가 안보 작업을 이끌고 있으며, 질문에 답변할 예정입니다.",
+      "url": "https://x.com/sama/status/2027905510578761820",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-01 09:35"
+    },
+    {
+      "post_id": "2027900042720498089",
+      "platform": "twitter",
+      "account_handle": "sama",
+      "display_name": "샘 올트먼",
+      "content": "I'd like to answer questions about our work with the DoW and our thinking over the past few days. Please AMA.",
+      "content_ko": "저는 최근 몇일간 DoW(전쟁부)와의 협업 및 사고에 대해 질문을 받고자 합니다. AMA(Ask Me Anything)를 부탁드립니다.",
+      "url": "https://x.com/sama/status/2027900042720498089",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-01 09:13"
+    }
+  ]
+}

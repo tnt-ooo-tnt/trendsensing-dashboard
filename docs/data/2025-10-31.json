@@ -1,0 +1,45 @@
+{
+  "date": "2025-10-31",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "산업동향",
+      1
+    ],
+    [
+      "교육",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "1983946706564563171",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "https://t.co/zpIxRStMIw Pro is now generally available -- this is the one membership that keeps you at the forefront of AI. Please join! \n\nThere has never been a moment when the distance between having an idea and building it has been smaller. Things that required months of work for teams can now be built by individuals using AI, in days. This is why we built https://t.co/zpIxRStMIw Pro. I'm personally working hard on this membership program to help you to build applications that can launch or accelerate your career, and shape the future of AI.\n\nhttps://t.co/zpIxRStMIw Pro gives you full access to 150+ programs, including my recently launched Agentic AI course, the new Post-Training and PyTorch courses by Sharon Zhou and Laurence Moroney (just released this week), and all of https://t.co/zpIxRStMIw's top courses and professional certificates.\n\nAll course videos remain free. Pro membership adds hands-on learning: labs to build working systems, practice questions to hone your understanding, and certificates to share your skills.\n\nI'm also building new tools to help you create AI applications and grow your career (and have fun doing so!). Many will be available first to Pro members.\n\nTry out https://t.co/zpIxRStMIw Pro free, and let me know what you build!\n\nJoin here: https://t.co/SmHogm1Whn",
+      "content_ko": "https://t.co/zpIxRStMIw 프로는 이제 일반 사용 가능 -- 이 멤버십은 AI 분야 선도자로 발전하는 데 도움을 줍니다. 가입해 주세요! 아이디어를 구현하는 데 필요한 시간이 과거에 비해 훨씬 짧아졌습니다. 팀이 수개월에 걸쳐 작업하던 일도 개인이 AI를 활용해 며칠 만에 구현할 수 있습니다. 이것이 바로 https://t.co/zpIxRStMIw 프로를 개발한 이유입니다. 저는 이 멤버십 프로그램을 통해 여러분이 AI 애플리케이션을 개발하거나 경력을 가속화하고, AI의 미래를 형성할 수 있도록 도와야 합니다. 프로 멤버십은 150개 이상의 프로그램에 대한 전체 접근 권한을 제공하며, 최근에 출시한 안드류 앤그의 에이전트 AI 강의, 쇼런 주와 라우렌스 모레니의 신규 포스트 트레이닝 및 파이토치 강의(이번 주에 출시됨), 그리고 https://t.co/zpIxRStMIw의 최상위 강의 및 전문 인증 과정을 포함합니다. 모든 강의 영상은 무료로 제공되며, 프로 멤버십은 실습 학습을 추가합니다: 작동하는 시스템을 구축할 수 있는 랩, 이해도를 높이는 실전 문제, 기술을 공유할 수 있는 인증서 등을 제공합니다. 저는 또한 여러분이 AI 애플리케이션을 만들고 경력을 성장시키고 즐거운 경험을 할 수 있도록 새로운 도구를 개발하고 있습니다. 많은 도구는 프로 멤버십을 통해 먼저 제공될 예정입니다. https://t.co/zpIxRStMIw 프로를 무료로 체험해 보고, 여러분이 개발한 것을 알려주세요! 가입하기: https://t.co/SmHogm1Whn",
+      "url": "https://x.com/AndrewYNg/status/1983946706564563171",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "딥러닝.AI 프로: AI 개발자 양성 프로그램 출시",
+      "ai_bullets": [
+        "딥러닝.AI 프로는 150개 이상의 프로그램에 대한 전액 접근 권한 제공",
+        "안드류 앤그의 최신 에이전트 AI 강의 및 쇼런 주와 라우렌스 모레니의 신규 강의 포함",
+        "실습 랩, 실전 문제, 인증서 등 실무 중심 학습 자료 제공"
+      ],
+      "ai_summary": "AI 개발자 양성 프로그램 및 실습 자료를 통한 교육 서비스 출시",
+      "ai_themes": [
+        "산업동향",
+        "교육"
+      ],
+      "published_at": "2025-10-31 02:18"
+    }
+  ]
+}

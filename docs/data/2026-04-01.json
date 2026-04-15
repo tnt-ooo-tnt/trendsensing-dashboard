@@ -1,17 +1,21 @@
 {
   "date": "2026-04-01",
-  "total": 3,
-  "ai_true": 2,
-  "ai_false": 1,
+  "total": 11,
+  "ai_true": 3,
+  "ai_false": 8,
   "source_counts": {
-    "Google AI Blog": 2,
+    "Google AI Blog": 3,
+    "Jaemyung_Lee": 2,
+    "OpenAI Blog": 1,
+    "msitminister": 1,
+    "SKT Newsroom": 3,
     "AndrewYNg": 1
   },
-  "avg_confidence": 0.6,
+  "avg_confidence": 0.37,
   "top_themes": [
     [
       "기술발전",
-      1
+      2
     ],
     [
       "산업동향",
@@ -33,14 +37,16 @@
       "account_handle": "Google AI Blog",
       "display_name": "Google AI",
       "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp\" />Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests.",
-      "content_ko": "구글은 브라질 정부와 협력하여 국가의 숲 보호를 위해 위성 이미지 지도를 개발하는 프로젝트에 참여했다. 이미지 링크: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp",
+      "content_ko": "구글은 브라질 정부와 위성 영상 지도를 협력하여 국가의 숲을 보호하는 데 도움을 제공하기 위해 협력했습니다. [링크 내용]",
       "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
       "is_ai_trend": false,
-      "ai_confidence": 0.2,
+      "ai_confidence": 0.3,
       "ai_title": "",
       "ai_bullets": [],
       "ai_summary": "",
-      "ai_themes": [],
+      "ai_themes": [
+        "정책/규제"
+      ],
       "published_at": "2026-04-01 22:30"
     },
     {
@@ -49,21 +55,150 @@
       "account_handle": "Google AI Blog",
       "display_name": "Google AI",
       "content": "March 2026 AI Recap showing new updates",
-      "content_ko": "2026년 AI 분야의 주요 업데이트를 정리한 리캡 게시물입니다.",
+      "content_ko": "March 2026 AI Recap showing new updates",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
       "is_ai_trend": true,
-      "ai_confidence": 0.7,
-      "ai_title": "구글 AI 블로그: 2026년 AI 업데이트 요약 발표",
+      "ai_confidence": 0.9,
+      "ai_title": "2026년 AI 업데이트 요약 발표",
       "ai_bullets": [
-        "2026년 AI 분야의 주요 업데이트를 정리한 리캡 게시물",
-        "구글 AI 블로그에서 발표한 내용"
+        "2026년 AI 기술 업데이트 현황을 정리한 리뷰 공개",
+        "최신 AI 기술 동향 및 개선 사항을 포함한 내용 제공"
       ],
-      "ai_summary": "구글 AI 블로그는 2026년 AI 분야의 주요 업데이트를 정리한 리캡을 발표했다.",
+      "ai_summary": "Google AI 블로그가 2026년 AI 기술 업데이트를 요약한 내용을 공유했습니다.",
+      "ai_themes": [
+        "기술발전"
+      ],
+      "published_at": "2026-04-01 22:00"
+    },
+    {
+      "post_id": "2039325928808169959",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "<기획예산처 공무원 여러분, 정말로 애 많이 쓰셨습니다.\n\n워낙 긴급한 상황이라 무리하게 추경예산안 조기 편성을 지시했는데 코삐까지 흘리며 훌륭하게 잘 해내 주셨습니다. \n\n흘리신 코피는 꼭 보상하겠습니다. 혹 필요한 거 있으면 박홍근 장관님 통해 얘기해 주세요.\n\n미안하고 감사하며 사랑합니다.>\n\n17일 만에 ‘최단기 추경’…밤새고 코피 쏟으며 만든 ‘민생 방파제’ https://t.co/JSxswNjaDP",
+      "content_ko": "기획예산처 직원들이 중동전쟁 위기 대응을 위해 17일 만에 최단기 추경안을 만든 사연. 정부세종청사 기획예산처 예산실 직원들이 밤을 지새며 코피를 쏟아가며 숫자에 매달린 사투를 기록한 기사. 박홍근 장관의 특명에 따라 전 직원이 비상 근무 체제를 운영하며 추경안을 신속히 처리한 내용. #추경 #정부정책",
+      "url": "https://x.com/Jaemyung_Lee/status/2039325928808169959",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "정책/규제"
+      ],
+      "published_at": "2026-04-01 21:56"
+    },
+    {
+      "post_id": "a0904673d8e83392bf0846c7",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
+      "content_ko": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability. https://gradientlabs.com/blog/gpt-agents-banking",
+      "url": "https://openai.com/index/gradient-labs",
+      "is_ai_trend": true,
+      "ai_confidence": 1.0,
+      "ai_title": "Gradient Labs, GPT 기반 AI 에이전트로 은행 지원 자동화",
+      "ai_bullets": [
+        "GPT-4.1 및 GPT-5.4 미니/나노 모델로 AI 에이전트 구축",
+        "은행 지원 워크플로우 자동화에 저지연 및 고신뢰성 제공"
+      ],
+      "ai_summary": "Gradient Labs이 GPT 기반 AI 에이전트를 통해 금융 서비스 자동화 솔루션을 제공하고 있습니다.",
       "ai_themes": [
         "기술발전",
         "산업동향"
       ],
-      "published_at": "2026-04-01 22:00"
+      "published_at": "2026-04-01 11:00"
+    },
+    {
+      "post_id": "2039139420553777661",
+      "platform": "twitter",
+      "account_handle": "msitminister",
+      "display_name": "배경훈",
+      "content": "<별을 노래하는 가수, 과학의 미래를 응원합니다>\n\n가수 윤하님께 과학기술 부총리 표창을 드렸습니다.\n\n물리, 천문 전공 대학생들을 위한 장학금을 기탁해 주신 따뜻한 마음에 깊이 감사드립니다.\n\n팬들에게 받은 사랑을 미래의 과학자들과 나누고 싶었다는 말씀처럼, 이번 기부는 단순한 나눔을 넘어 우리 과학기술 인재들에게 큰 응원이 되고 있습니다.\n\n연구자가 경제적 걱정 없이 연구에 몰두할 수 있는 환경, 결국 그 기반이 더 큰 성과로 이어집니다. 정부도 그런 환경을 만드는 데 최선을 다하겠습니다.\n\n또한, 대표곡인 ‘사건의 지평선’은 다소 낯설 수 있는 천문학 개념을 감성적인 언어로 풀어내며 많은 국민들이 자연스럽게 과학에 관심을 갖게 만들었습니다. \n\n과학은 때로 어렵고 멀게 느껴지지만, 이렇게 문화와 결합할 때 훨씬 친근하게 다가갈 수 있습니다.\n\n4월 과학의 달을 맞아 윤하님이 전한 메시지처럼, 우리 모두 과학의 미래를 함께 응원해 주시길 바랍니다.\n\n(영상으로 인사도 전해주셨습니다)\nhttps://t.co/2xlbfEn8F1\n\n#윤하 #과학의달 #과학기술인재 #사건의지평선 #과기정통부",
+      "content_ko": "가수 윤하님께 과학기술 부총리 표창 수여. 물리, 천문 전공 대학생 장학금 기탁에 감사 표명. 팬 사랑을 미래 과학자들과 나누고자 기부 의미 강조. 연구자 경제적 걱정 없이 연구 활동 지원을 위한 환경 조성 필요성 언급. 대표곡 '사건의 지평선'을 통해 천문학 개념 대중화 기여. 4월 과학의 달을 맞아 과학기술 인재 양성에 대한 사회적 관심 유도.",
+      "url": "https://x.com/msitminister/status/2039139420553777661",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-04-01 09:34"
+    },
+    {
+      "post_id": "dfe7878f3fdd12d70656c53c",
+      "platform": "rss",
+      "account_handle": "SKT Newsroom",
+      "display_name": "SK텔레콤",
+      "content": "SKT, T멤버십 새단장해 고객 혜택·이용 편의성 강화한다",
+      "content_ko": "SKT, T멤버십 새단장해 고객 혜택·이용 편의성 강화한다. '0 day'를 '0 week'로 확대해 이용 기간과 혜택을 늘리고, 한 눈에 확인 가능하도록 개편했다. 'T day'와 '해피아워'에 VIP 전용 혜택 'VIP 찬스', 'VIP only'를 신설하고, 갤럭시 S26 개통 고객 대상 '클럽 갤럭시 S26' 운영 등 맞춤형 멤버십 혜택을 확대했다.",
+      "url": "https://news.sktelecom.com/223442",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "산업동향"
+      ],
+      "published_at": "2026-04-01 09:00"
+    },
+    {
+      "post_id": "6078254ff2d320ae6eacd1e8",
+      "platform": "rss",
+      "account_handle": "SKT Newsroom",
+      "display_name": "SK텔레콤",
+      "content": "<p>– ‘0 day’를 ‘0 week’로 확대… 이용 기간 · 혜택 늘리고 한 눈에 확인 가능하도록 개편 – ‘T day’와 ‘해피아워’에는 VIP 전용 혜택 ‘VIP 찬스’, ‘VIP only’ 신설 – 갤럭시</p>\n<p>The post <a href=\"https://news.sktelecom.com/223425\">SKT, T멤버십 새단장해 고객 혜택·이용 편의성 강화한다</a> first appeared on <a href=\"https://news.sktelecom.com\">SK텔레콤 뉴스룸</a>.</p>",
+      "content_ko": "SKT, T멤버십 새단장해 고객 혜택·이용 편의성 강화한다. '0 day'를 '0 week'로 확대해 이용 기간과 혜택을 늘리고, 한 눈에 확인 가능하도록 개편했다. 'T day'와 '해피아워'에 VIP 전용 혜택 'VIP 찬스', 'VIP only'를 신설하고, 갤럭시 S26 개통 고객 대상 '클럽 갤럭시 S26' 운영 등 맞춤형 멤버십 혜택을 확대했다. [링크 내용] SKT, T멤버십 새단장해 고객 혜택·이용 편의성 강화한다 - SK텔레콤 뉴스룸",
+      "url": "https://news.sktelecom.com/223425",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "산업동향"
+      ],
+      "published_at": "2026-04-01 08:58"
+    },
+    {
+      "post_id": "32e015e1230d3396a50bbd45",
+      "platform": "rss",
+      "account_handle": "SKT Newsroom",
+      "display_name": "SK텔레콤",
+      "content": "<p>포근한 봄바람이 일상에 스며드는 4월, 가벼워진 옷차림만큼 T 멤버십 혜택도 한층 더 산뜻하게 찾아왔다. 0 day에서 0 week로 업그레이드 이번 달 T 멤버십은 기존 ‘0 day’가 ‘0 week’로 새롭게 변화했다.</p>\n<p>The post <a href=\"https://news.sktelecom.com/223388\">봄바람 타고 온 산뜻한 4월 T 멤버십 혜택 총정리</a> first appeared on <a href=\"https://news.sktelecom.com\">SK텔레콤 뉴스룸</a>.</p>",
+      "content_ko": "봄바람 타고 온 산뜻한 4월, T 멤버십 혜택이 한층 더 산뜻하게 바뀌었다. '0 day'에서 '0 week'로 업그레이드되어 매월 첫째 주 5일간 다양한 멤버십 혜택을 한꺼번에 즐길 수 있다. 4월에는 뚜레쥬르 리얼 브라우니 쿠폰, 공차 인기 음료 50% 할인, 노브랜드 버거 1+1, 서울재즈 페스티벌 초청 등 다양한 혜택을 제공한다. [링크 내용] 봄바람 타고 온 산뜻한 4월 T 멤버십 혜택 총정리 - SK텔레콤 뉴스룸",
+      "url": "https://news.sktelecom.com/223388",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "산업동향"
+      ],
+      "published_at": "2026-04-01 08:35"
+    },
+    {
+      "post_id": "2039120143360671865",
+      "platform": "twitter",
+      "account_handle": "Jaemyung_Lee",
+      "display_name": "이재명",
+      "content": "< “비거주 1주택도 주거용이 아닌 투자·투기용이라면 장기 보유에 따른 세금 감면은 타당하지 않다”, \n\n아래 기사 분문에서 인용한 제가 한 이 말에 의하면, 갭투자용이 아니라 주거용인데 직장 등 불가피한 사유로 일시 비거주하는 경우는 제외됨이 명백합니다.\n\n그런데 동일한 \"심층기획\" 기사에서 투기용 아니고 직장 자녀교육 등으로 일시 거주하지 못하는 사람은 어쩌란 말이냐고 쓰는 건 몰라서일까요? 알면서 그러는 걸까요?\n\n명백히 모순되는 기사이니, 조금만 더 심층분석해서 기사를 정정해 주시기 바랍니다.>\n\n투기용 아닌데… 집 팔기도, 세 놓기도, 직접 살기도 어렵다 [심층기획-비거주 1주택자의 하소연] https://t.co/Bx5oCCm1KD",
+      "content_ko": "비거주 1주택자 세제 혜택 관련 논란. 투자·투기용이 아닌 주거용으로 일시 비거주한 경우 세제 혜택이 적용된다고 주장하며, 기사의 모순점을 지적한 내용. 대통령이 불가피한 사유로 비거주 1주택자 세제 혜택 유지 시사를 언급한 심층기획 기사 링크. #세제개편 #부동산정책",
+      "url": "https://x.com/Jaemyung_Lee/status/2039120143360671865",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "정책/규제"
+      ],
+      "published_at": "2026-04-01 08:18"
     },
     {
       "post_id": "2039051446084153834",
@@ -71,22 +206,40 @@
       "account_handle": "AndrewYNg",
       "display_name": "앤드류 응",
       "content": "The anti-AI coalition continues to maneuver to find arguments to slow down AI progress. If someone has a sincere concern about a specific effect of AI, for instance that it may lead to human extinction, I respect their intellectual honesty, even if I deeply disagree with their position. However, I am concerned about organizations that are surveying the public to find whatever messages will turn people against AI, and how the public reacts as these messages are spread by lobbyists or by politicians seeking to alarm constituents, companies pursuing regulatory capture or seeking to promote the power of their technology, and individuals seeking to gain attention or to profit by being provocative.\n\nA large study (link in original article below; h/t to the AI Panic blog) by a UK group tested different messages that are designed to raise alarm about AI. Their study found that saying AI will cause human extinction has largely failed. Doomsayers were pushing this argument a couple of years ago, and fortunately our community beat it back. But AI-enabled warfare and environmental concerns resonate better. We should be prepared for a flood of messages (which is already underway) arguing against AI on these grounds. Further, job loss and harm to children are messages that motivate people to act.\n\nTo be clear, I find AI-enabled warfare alarming; we need to continue serious efforts to monitor and mitigate the environmental impact of AI; any job losses are tragic and hurt individuals and families; and as a father, I hold dearly the importance of every child’s welfare. Each of these topics deserves serious attention and treatment with the greatest of care.\n\nBut when anti-AI propagandists take a one-sided view of complex issues to benefit their own organizations at the expense of the public at large — for instance, when big AI companies argue that AI is dangerous to block the free distribution of open source projects that compete with their offerings — then we all lose.\n\nFor example, public perception of data centers’ environmental impact is already far worse than the reality — data centers are incredibly efficient for the work they do, and hampering their buildout will hurt rather than help the environment. While job loss is a real problem, the “AI washing” of layoffs — in which businesses that had over-hired during the pandemic blame AI for recent layoffs, although AI hasn’t yet affected their operations — has led to overblown fears about the impact of AI on employment.\n\nUnfortunately, this sort of propaganda easily leads to regulations that create worse outcomes for everyone. For example, oil companies worked for years to create fear of nuclear energy. The result is that overblown concerns about the safety of nuclear power plants has stifled nuclear power development, leading to millions of premature deaths from air pollution that was caused by other energy sources and a massive increase in CO2 emissions. Let’s make sure overblown concerns about AI do not lead to a similar fate for the many people that would benefit from faster AI development.\n\nLast week, the White House proposed a national legislative framework for AI. A key component is a federal preemption framework to prevent a patchwork of state regulations that hamper AI development. I support this. \n\nAfter failing to gain traction at the federal level, a lot of anti-AI propaganda has shifted to the state level. If just one of the 50 states passes a law that limits AI in an unproductive way, it could lead to stifling AI development across all the states and potentially across the globe. The White House proposal rightfully respects each state’s rights to control its own zoning, how it enforces general laws to protect consumers, and how it uses AI. But if a state were to pass laws that limit AI development, federal rules would preempt the state law.\n\nThe White House proposal remains a proposal for now. However, if the U.S. Congress enacts it, it will clear the way for ongoing efforts to develop AI in beneficial ways.\n\nWhere do we go from here? Let’s support limiting applications — those that use AI, and those that don’t — that harm people. When the anti-AI coalition argues against AI, in addition to considering the merits of the argument, I consider whether their position is consistent and persuasive, or if they are just promoting whatever concerns they think will sway the public at a given moment. And, let’s also keep using a scientific approach to weighing AI’s benefits against likely harms, so we don’t end up with overblown concerns that limit the benefits that AI can bring everyone.\n\n[Original text with links: https://t.co/kfZY7mo0Mi ]",
-      "content_ko": "AI 반대 세력은 AI 발전을 늦추기 위한 논점을 계속 모색하고 있다. 누군가가 AI가 인류 멸망을 초래할 수 있다는 구체적인 우려를 진심으로 가진다면, 그들의 지적 정직성을 존중한다. 그러나 AI를 사용해 전쟁을 가능하게 하고 환경 문제에 대한 우려는 더 효과적으로 공명한다. 우리는 이러한 근거로 AI에 반대하는 메시지의 홍수(이미 시작됨)에 대비해야 한다. 또한, 일자리 상실과 어린이에 대한 해가 사람들의 행동을 유도하는 메시지가 있다. 분명히, AI를 사용한 전쟁은 경고할 만하다. 우리는 AI의 환경 영향을 모니터링하고 완화하기 위한 진지한 노력이 필요하다. 일자리 상실은 비극이며 개인과 가족에 해를 끼친다. 그리고 아버지로서, 모든 아이의 복지를 소중히 여긴다. 이 모든 주제는 최대한의 신중을 기해 다루어야 한다. 그러나 AI 반대 선전가들이 복잡한 문제에 대해 일방적인 시각을 취해 자신의 조직의 이익을 위해 대중을 희생하는 경우, 모두가 손해를 본다. 예를 들어, 데이터 센터의 환경 영향에 대한 대중의 인식은 현실보다 훨씬 악화되어 있다. 데이터 센터는 수행하는 작업에 대해 매우 효율적이며, 그 확장에 장애가 되면 환경에 해가 될 뿐 아니라 도움이 되지 않는다. 일자리 상실은 실제 문제이지만, 'AI 세탁'된 해고 - 팬데믹 기간에 과도하게 채용한 기업들이 AI를 최근 해고의 원인으로 돌리지만, AI는 아직 그들의 운영에 영향을 주지 않았다 -는 AI가 고용에 미치는 영향에 대한 과장된 두려움을 초래했다. 불행히도, 이러한 선전은 모든 사람에게 악영향을 미치는 규제로 이어질 수 있다. 예를 들어, 석유 회사들은 수년간 원자력 에너지에 대한 두려움을 조성해 왔다. 그 결과, 원자력 발전소의 안전성에 대한 과장된 우려는 원자력 발전을 억제했고, 다른 에너지 원천으로 인한 대기 오염으로 인한 수백만 명의 조기 사망과 CO2 배출량의 급증을 초래했다. AI에 대한 과장된 우려가 AI 발전의 혜택을 받을 수 있는 많은 사람들에게 유사한 운명을 가져오지 않도록 해야 한다. 지난주, 백악관은 AI에 대한 국가적 규제 프레임워크를 제안했다. 핵심 요소는 주권을 존중하면서 주 정부 규제의 허점을 방지하기 위한 연방 규제 우선권 프레임워크이다. 이에 동의한다. 연방 수준에서 진전이 없었기 때문에, 많은 AI 반대 선전은 주 수준으로 이동했다. 50개 주 중 하나라도 AI를 비생산적으로 제한하는 법을 통과시키면, 모든 주와 전 세계에 걸쳐 AI 발전을 억제할 수 있다. 백악관 제안은 각 주가 자체 구역 규제, 소비자 보호를 위한 일반 법률 집행 방식, AI 사용 방식을 통제할 권리에 대한 존중을 표명한다. 그러나 어떤 주가 AI 발전을 제한하는 법을 통과시키면, 연방 규제가 주 법을 우선시할 것이다. 백악관 제안은 현재까지는 제안 상태이다. 그러나 미국 의회가 이를 시행하면, AI를 유익한 방식으로 지속적으로 개발하는 데 길을 열어줄 것이다. 앞으로 어떻게 해야 할까? 우리는 사람을 해치는 응용 프로그램 - AI를 사용하는 것과 사용하지 않는 것 모두 -을 제한하는 데 지원을 해야 한다. AI 반대 세력이 AI에 반대할 때, 그들의 주장의 타당성과 설득력, 또는 그들이 특정 시점에서 대중을 흔들기 위해 생각하는 우려를 홍보하는 것인지 고려해야 한다. 또한, AI의 혜택과 예상되는 해를 과학적으로 평가하는 접근법을 계속 사용해야 하며, 과장된 우려로 인해 AI가 제공할 수 있는 혜택이 제한되는 상황을 피해야 한다.",
+      "content_ko": "AI에 대한 반대 세력이 AI 발전을 저해하기 위한 인식 조사와 공격적 메시지 전파를 시도하고 있음. 영국 연구팀이 AI 인식 조사 결과를 발표하며, AI로 인한 인류 멸종 우려는 실패했으나 전쟁 가능성과 환경 문제는 더 큰 공감을 얻고 있음. 미국 정부가 AI 개발을 위한 국가적 규제 프레임워크를 제안하며, 각 주의 규제가 AI 발전을 저해할 수 있음을 경고함. 과도한 규제가 에너지 정책에 미친 부정적 영향을 예로 들어 AI 발전의 잠재적 이점을 강조함. https://t.co/kfZY7mo0Mi",
       "url": "https://x.com/AndrewYNg/status/2039051446084153834",
       "is_ai_trend": true,
-      "ai_confidence": 0.9,
-      "ai_title": "AI 규제 논란과 미국 정부의 AI 법안 제안",
+      "ai_confidence": 0.95,
+      "ai_title": "AI 정책 논의 및 규제 방향에 대한 경고",
       "ai_bullets": [
-        "AI 반대 세력이 AI 발전을 저지하기 위한 전략을 모색하고 있음",
-        "미국 백악관이 AI에 대한 국가적 규제 프레임워크를 제안하며 주권 존중을 강조",
-        "과장된 AI 관련 우려가 규제로 이어질 수 있다는 경고"
+        "미국 정부가 AI 개발을 위한 국가적 규제 프레임워크를 제안함",
+        "AI에 대한 과도한 우려가 규제로 이어져 부정적 영향을 미칠 수 있음",
+        "AI 전쟁 가능성과 환경 영향 등 구체적 위험 요소에 대한 대응 필요"
       ],
-      "ai_summary": "Andrew Ng는 AI 반대 세력의 규제 전략과 미국 정부의 AI 법안 제안을 언급하며, 과장된 우려가 AI 발전에 부정적 영향을 줄 수 있다고 경고했다.",
+      "ai_summary": "AI 규제 논의에서 과도한 우려가 실질적 규제로 이어질 수 있는 위험을 경고하며, 구체적 위험 요소에 대한 대응 필요성을 강조",
       "ai_themes": [
         "정책/규제",
         "윤리/안전"
       ],
       "published_at": "2026-04-01 03:45"
+    },
+    {
+      "post_id": "096dac0b19bfa477c3965528",
+      "platform": "rss",
+      "account_handle": "Google AI Blog",
+      "display_name": "Google AI",
+      "content": "Build with Veo 3.1 Lite",
+      "content_ko": "Build with Veo 3.1 Lite",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+      "is_ai_trend": false,
+      "ai_confidence": 0.3,
+      "ai_title": "Veo 3.1 Lite 출시 발표",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-04-01 01:00"
     }
   ]
 }

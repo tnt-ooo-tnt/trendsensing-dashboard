@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-06",
+  "total": 3,
+  "ai_true": 3,
+  "ai_false": 0,
+  "source_counts": {
+    "OpenAI Blog": 2,
+    "SKT Newsroom": 1
+  },
+  "avg_confidence": 0.9,
+  "top_themes": [
+    [
+      "윤리/안전",
+      2
+    ],
+    [
+      "정책/규제",
+      2
+    ],
+    [
+      "산업동향",
+      1
+    ],
+    [
+      "기술발전",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "047e7bac94f5b9df19e53e8b",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
+      "content_ko": "독립적인 안전 및 정렬 연구를 지원하고, 다음 세대의 AI 인재를 양성하기 위한 시범 프로그램을 진행합니다. 이 프로그램은 AI 기술의 안정적 발전과 사회적 책임을 강화하기 위한 목표를 가지고 있습니다. [https://openai.com/blog/safety-research-program/]",
+      "url": "https://openai.com/index/introducing-openai-safety-fellowship",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "오픈AI, 안전 및 정렬 연구 인재 양성 프로그램 운영",
+      "ai_bullets": [
+        "독립적 안전 및 정렬 연구 지원을 위한 시범 프로그램 진행",
+        "다음 세대 AI 인재 양성에 집중"
+      ],
+      "ai_summary": "오픈AI가 AI 안전성과 정렬 연구를 위한 인재 양성 프로그램을 시작한다.",
+      "ai_themes": [
+        "윤리/안전",
+        "정책/규제"
+      ],
+      "published_at": "2026-04-06 19:00"
+    },
+    {
+      "post_id": "4dbb4daa381a06bf988e871d",
+      "platform": "rss",
+      "account_handle": "OpenAI Blog",
+      "display_name": "OpenAI",
+      "content": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "content_ko": "AI 기술의 발전과 함께 인류 중심의 산업 정책을 추진하고, 기회 확대, 공동 번영, 강력한 기관 구축을 통해 기술 발전을 지원할 계획입니다. [https://openai.com/blog/ai-industrial-policy/]",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "오픈AI, AI 시대 인류 중심 산업 정책 제안",
+      "ai_bullets": [
+        "AI 기술 발전에 따른 기회 확대와 공동 번영 추구",
+        "강력한 기관 구축을 통한 기술 발전 지원"
+      ],
+      "ai_summary": "오픈AI가 AI 기술 발전에 따른 사회적 기회 확대와 기관 강화를 위한 정책 제안을 발표했다.",
+      "ai_themes": [
+        "정책/규제",
+        "산업동향"
+      ],
+      "published_at": "2026-04-06 11:30"
+    },
+    {
+      "post_id": "abff2a2f256f521a8e7c11d9",
+      "platform": "rss",
+      "account_handle": "SKT Newsroom",
+      "display_name": "SK텔레콤",
+      "content": "<p>지난해 경북 지역에서 발행한 대형 산불로 대규모의 산림이 훼손됐다. 광범위한 피해가 발생한 만큼, 숲의 기능을 회복하기 위한 체계적인 복원이 필요한 상황이다. SK텔레콤은 유한킴벌리, 산림생태계 복원 전문 NGO ‘평화의숲’과 함께 산불</p>\n<p>The post <a href=\"https://news.sktelecom.com/223490\">평화의숲 김재현 대표가 말하는 안동 산불피해지 복원 프로젝트</a> first appeared on <a href=\"https://news.sktelecom.com\">SK텔레콤 뉴스룸</a>.</p>",
+      "content_ko": "SK텔레콤은 유한킴벌리, 산림생태계 복원 전문 NGO ‘평화의숲’과 함께 산불 피해지의 산림 복원 프로젝트를 추진하고 있다. 지난해 9월 관련 협약을 맺고, 향후 5년간 총 1만 그루의 나무를 심는 것을 목표로 장기적인 복원 사업을 이어가고 있다. 그 첫 활동으로 지난 4일, SK텔레콤 구성원들은 안동시 풍천면 일대를 찾아 다양한 수종을 직접 심는 자원봉사 활동에 참여했다. SKT는 다양한 수종과 AI 기술을 활용해 생물다양성 회복과 효율적 숲 관리를 도모하고 있으며, 이 프로젝트는 AI 기술을 기반으로 한 ESG 협업 생태계 확장의 일환으로 진행되고 있다. [링크 내용]",
+      "url": "https://news.sktelecom.com/223490",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "SKT, AI 기술 기반 산림 복원 프로젝트 추진",
+      "ai_bullets": [
+        "AI 기술을 활용한 생물다양성 회복 및 숲 관리 효율화 전략",
+        "5년간 1만 그루 나무 심기 목표로 장기 복원 사업 진행",
+        "구성원 및 가족 참여한 산불 피해지 나무 심기 자원봉사 활동"
+      ],
+      "ai_summary": "SKT가 AI 기술을 활용해 산림 복원 프로젝트를 진행하며 ESG 협업 생태계를 확장하고 있다.",
+      "ai_themes": [
+        "기술발전",
+        "윤리/안전"
+      ],
+      "published_at": "2026-04-06 08:29"
+    }
+  ]
+}

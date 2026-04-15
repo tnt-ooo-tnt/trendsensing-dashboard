@@ -1,0 +1,45 @@
+{
+  "date": "2025-11-12",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "산업동향",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "1988313885045387593",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "New course announcement: Design, Develop, and Deploy Multi-Agent Systems with CrewAI, taught by  @joaomdmoura, @crewAIInc Co-founder and CEO.\n\nMulti-agent systems let you build AI teams that work together to automate complex workflows, similar to how human teams work.\n\nCrewAI makes it simple to build multi-agent systems that handle routine work for you—just define your agents, tasks, and crew, and it manages the complexity of coordinating multiple agents and their context automatically. (Disclosure: I made a small angel investment in CrewAI.) This course takes you from building your first agent to deploying production systems using the open-source CrewAI framework.\n\nSkills you'll gain:\n- Build reliable AI agents equipped with tools, memory, and guardrails\n- Develop teams of agents that can plan, reason, and coordinate\n- Deploy production-ready systems with tracing, evaluation, and monitoring\n\nWhether you’re exploring multi-agent systems for the first time or looking to take your projects further, this course will help you build a mental framework for designing multi-agent systems, and help you turn ideas into scalable, production-ready applications.\n\nSign up here: https://t.co/U94eHDuwp4",
+      "content_ko": "AI 에이전트 팀이 복잡한 워크플로우를 자동화할 수 있는 멀티 에이전트 시스템 개발 교육 프로그램을 발표했습니다. CrewAI 플랫폼을 활용해 에이전트 팀 구성, 작업 분배, 컨텍스트 관리 등을 학습할 수 있으며, 실제 애플리케이션 개발을 통한 실무 경험을 제공합니다. (https://t.co/U94eHDuwp4)",
+      "url": "https://x.com/AndrewYNg/status/1988313885045387593",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "CrewAI를 활용한 멀티 에이전트 시스템 개발 교육 프로그램 발표",
+      "ai_bullets": [
+        "CrewAI를 이용한 멀티 에이전트 시스템 설계·개발·배포 교육 프로그램 공개",
+        "AI 에이전트 팀이 복잡한 워크플로우 자동화를 가능하게 하는 기술 설명",
+        "오픈소스 CrewAI 프레임워크를 활용한 실무 프로젝트 개발 교육 제공"
+      ],
+      "ai_summary": "AI 에이전트 기반 복잡한 시스템 개발을 위한 교육 프로그램 발표 및 실무 적용 사례 공유",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2025-11-12 03:32"
+    }
+  ]
+}

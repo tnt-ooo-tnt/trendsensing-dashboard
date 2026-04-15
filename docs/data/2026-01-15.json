@@ -1,0 +1,45 @@
+{
+  "date": "2026-01-15",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "산업동향",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2011494188152733971",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "New course: Document AI: From OCR to Agentic Doc Extraction, built with @LandingAI, where I'm executive chairman, and taught by David Park and Andrea Kropp.\n\nMuch of the world's data is locked in PDFs, JPEGs, and other documents. This short course shows you how to build agentic workflows that process documents accurately: breaking them into parts, examining each piece carefully, and extracting information through multiple iterations.\n\nTraditional Optical Character Recognition (OCR) captures text but loses context from table headers, chart captions, or reading order of columns. After exploring OCR's limitations, you’ll use LandingAI's Agentic Document Extraction (ADE) framework to process documents. ADE treats pages as visually -- as images -- to parse information and extract fields.\n\nSkills you'll gain:\n- Build agents to convert unstructured files into structured Markdown/HTML and JSON\n- Use ADE to parse complex data like forms, handwriting, or equations\n- Map extracted information to named fields using a specified schema, with bounding boxes for grounding and validation\n- Deploy RAG applications with event-driven document processing\n\nCome learn about the best tools for processing documents like financial invoices, medical records, or academic papers intelligently: \nhttps://t.co/PYjgnoaD2K",
+      "content_ko": "새로운 강의: 문서 AI: OCR에서 에이전트 기반 문서 추출, @LandingAI에서 개발하고 @DavidPark 및 @AndreaKropp이 강의합니다. 세계의 대부분 데이터가 PDF, JPEG 등 문서 형식에 잠겨 있으며, 이 강의는 문서를 정확하게 처리하는 에이전트 기반 작업 흐름을 구축하는 방법을 보여줍니다. 전통적인 OCR은 텍스트를 추출하지만 테이블 헤더, 차트 제목, 열 순서 등 맥락을 잃습니다. OCR 한계를 탐구한 후 LandingAI의 Agentic Document Extraction(ADE) 프레임워크를 사용해 문서를 처리합니다. ADE는 페이지를 시각적으로 처리해 정보를 파싱하고 필드를 추출합니다. 스킬: 구조화되지 않은 파일을 구조화된 마크다운/HTML 및 JSON으로 변환하는 에이전트 구축, 복잡한 데이터(양식, 손글씨, 방정식 등)를 ADE로 처리, 사용자 정의 스키마로 추출 정보를 명명된 필드에 매핑하고 경계 상자로 기반화 및 검증, AWS에서 이벤트 기반 문서 처리로 서버리스 RAG 애플리케이션 배포. 문서 처리 최적화 기술을 학습하십시오: https://t.co/PYjgnoaD2K",
+      "url": "https://x.com/AndrewYNg/status/2011494188152733971",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "문서 처리 AI: OCR에서 에이전트 기반 문서 추출 기술 강의 개설",
+      "ai_bullets": [
+        "LandingAI와 협력한 문서 처리 AI 기술 강의 제공",
+        "ADE 프레임워크로 복잡한 문서 구조 분석 및 정보 추출 기술 학습",
+        "이벤트 기반 문서 처리를 통한 RAG 애플리케이션 배포 기술 교육"
+      ],
+      "ai_summary": "OCR 한계를 넘어 문서 정보를 시각적 요소 기반으로 추출하는 AI 기술 강의가 제공됩니다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-01-15 02:42"
+    }
+  ]
+}

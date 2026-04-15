@@ -1,0 +1,45 @@
+{
+  "date": "2026-01-24",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "산업동향",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2014799598863450134",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "How can businesses go beyond using AI for incremental efficiency gains to create transformative impact? I write from the World Economic Forum (WEF) in Davos, Switzerland, where I’ve been speaking with many CEOs about how to use AI for growth. A recurring theme is that running many experimental, bottom-up AI projects — letting a thousand flowers bloom — has failed to lead to significant payoffs. Instead, bigger gains require workflow redesign: taking a broader, perhaps top-down view of the multiple steps in a process and changing how they work together from end to end.\n\nConsider a bank issuing loans. The workflow consists of several discrete stages: \n\nMarketing -> Application -> Preliminary Approval -> Final Review -> Execution\n\nSuppose each step used to be manual. Preliminary Approval used to require an hour-long human review, but a new agentic system can do this automatically in 10 minutes. Swapping human review for AI review — but keeping everything else the same — gives a minor efficiency gain but isn’t transformative.\n\nHere’s what would be transformative: Instead of applicants waiting a week for a human to review their application, they can get a decision in 10 minutes. When that happens, the loan becomes a more compelling product, and that better customer experience allows lenders to attract more applications and ultimately issue more loans.\n\nHowever, making this change requires taking a broader business or product perspective, not just a technology perspective. Further, it changes the workflow of loan processing. Switching to offering a “10-minute loan” product would require changing how it is marketed. Applications would need to be digitized and routed more efficiently, and final review and execution would need to be redesigned to handle a larger volume.\n\nEven though AI is applied only to one step, Preliminary Approval, we end up implementing not just a point solution but a broader workflow redesign that transforms the product offering.\n\nAt AI Aspire (an advisory firm I co-lead), here’s what we see: Bottom-up innovation matters because the people closest to problems often see solutions first. But scaling such ideas to create transformative impact often requires seeing how AI can transform entire workflows end to end, not just individual steps, and this is where top-down strategic direction and innovation can help.\n\nThis year's WEF meeting, as in previous years, has been an energizing event. Among technologists, frequent topics of discussion include Agentic AI (when I coined this term, I was not expecting to see it plastered on billboards and buildings!), Sovereign AI (how nations can control their own access to AI), Talent (the challenging job market for recent graduates, and how to upskill nations), and data-center infrastructure (how to address bottlenecks in energy, talent, GPU chips, and memory). I will address some of these topics in future posts.\n\nAgainst the backdrop of geopolitical uncertainty, I hope all of us in AI will keep building bridges that connect nations, sharing through open source, and building to benefit all nations and all people.\n\n[Original text: https://t.co/Ck52mNGX4a ]",
+      "content_ko": "AI 기술을 단일 업무 단계에 적용해도 전체 프로세스의 혁신을 이끌 수 있으며, 예를 들어 대출 심사 프로세스 자동화는 고객 경험을 크게 개선한다. 그러나 이러한 변화는 기술적 접근을 넘어, 전체적인 업무 프로세스의 전략적 재설계가 필요하다. AI 아스파이어에서의 분석에 따르면, 하향식 혁신은 문제 해결에 효과적이지만, 상위 전략적 방향을 설정해 전체 워크플로우를 혁신해야 진정한 영향력을 발휘할 수 있다. 이는 기술 발전과 함께 산업 구조 변화를 이끌어내는 중요한 전략이다.",
+      "url": "https://x.com/AndrewYNg/status/2014799598863450134",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "AI 기술을 통한 업무 프로세스 전환의 중요성 강조",
+      "ai_bullets": [
+        "AI 기술을 단일 단계에 적용해도 전체 프로세스 개선 가능",
+        "예시: 대출 심사 프로세스 자동화로 고객 경험 개선",
+        "상위 전략적 접근이 전체 워크플로우 혁신 필요"
+      ],
+      "ai_summary": "AI 기술이 단일 업무 단계에서 시작해 전체 프로세스 개선을 이끌어내는 전략적 접근이 필요하다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2026-01-24 05:37"
+    }
+  ]
+}

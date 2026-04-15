@@ -1,0 +1,45 @@
+{
+  "date": "2025-12-04",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "산업동향",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "1996250415244235013",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "New course: Building Coding Agents with Tool Execution, taught by @tereza_tizkova and @FraZuppichini from @e2b.\n\nMost AI agents are limited to predefined function calls. This short course teaches you to build agents that write and execute code to accomplish tasks, accessing entire programming language ecosystems instead of being restricted to a fixed set of tools.\n\nYou'll learn to run agent-generated code safely in sandboxed cloud environments that protect your systems from harmful operations.\n\nSkills you'll gain:\n- Build agents that write and execute code, manage files, and handle errors autonomously through feedback loops\n- Run agent code safely in E2B cloud sandboxes and understand tradeoffs between local, containerized, and cloud execution\n- Create a data analyst agent that explores visualizes data with Pandas\n- Create a full-stack agent that builds complete Next.js web applications\n\nJoin and build agents that code their way through complex tasks: https://t.co/eqRiM84Wng",
+      "content_ko": "새로운 강의: 'Tool Execution을 통한 코딩 에이전트 개발'을 @tereza_tizkova와 @FraZuppichini(@e2b) 강사가 개설했습니다. 대부분의 AI 에이전트는 사전 정의된 함수 호출에 제한되지만, 이 강의는 에이전트가 코드를 작성하고 실행하여 작업을 수행하는 방법을 가르칩니다. 전체 프로그래밍 언어 생태계에 접근할 수 있도록 제한된 도구 집합에서 벗어납니다. 에이전트 생성 코드는 안전한 샌드박스 클라우드 환경에서 실행되어 시스템을 해로운 작업으로부터 보호합니다. 스킬로는 에이전트가 코드 작성 및 실행, 파일 관리, 피드백 루프를 통한 오류 처리를 자동화할 수 있는 능력을 배우게 됩니다. 에이전트 코드는 E2B 클라우드 샌드박스에서 안전하게 실행되며, 로컬, 컨테이너화, 클라우드 실행 환경 간의 거래 비용을 이해합니다. 데이터 분석가 에이전트를 통해 Pandas로 데이터를 탐색하고 시각화하며, 전체 스택 에이전트로 Next.js 웹 애플리케이션을 구축하는 방법을 배웁니다. 복잡한 작업을 처리하는 에이전트를 구축하려면 https://t.co/eqRiM84Wng에서 가입하십시오.",
+      "url": "https://x.com/AndrewYNg/status/1996250415244235013",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "AI 에이전트 개발 과정 공개, E2B와 협력",
+      "ai_bullets": [
+        "코딩 에이전트 개발 및 실행 기술을 가르치는 새로운 강의 개설",
+        "에이전트가 코드를 작성하고 실행하여 작업을 수행하는 방식을 학습",
+        "E2B 클라우드 샌드박스에서 안전하게 코드 실행 가능"
+      ],
+      "ai_summary": "AI 에이전트 개발 기술을 다루는 새로운 강의가 공개됐다.",
+      "ai_themes": [
+        "기술발전",
+        "산업동향"
+      ],
+      "published_at": "2025-12-04 01:09"
+    }
+  ]
+}

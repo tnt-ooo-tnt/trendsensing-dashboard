@@ -1,0 +1,76 @@
+{
+  "date": "2026-03-13",
+  "total": 3,
+  "ai_true": 1,
+  "ai_false": 2,
+  "source_counts": {
+    "demishassabis": 2,
+    "Google AI Blog": 1
+  },
+  "avg_confidence": 0.43,
+  "top_themes": [
+    [
+      "연구/논문",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2032267485735460867",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "Ramsey numbers are notoriously hard. Amazing to see AlphaEvolve improve bounds for 5 classical Ramsey numbers - some for the first time in 10+ years - by discovering search procedures itself. A big milestone in AI for maths - congrats to the team! https://t.co/gKBBss7Vul",
+      "content_ko": "@demishassabis가 Ramsey numbers에 대한 AlphaEvolve의 성과를 공유하며, 5개의 고전적 Ramsey numbers의 경계를 개선해 10년 이상 동안 최초로 발견된 검색 절차를 통해 AI 연구의 큰 돌파구를 마련했다고 전했다. 관련 링크: https://t.co/gKBBss7Vul",
+      "url": "https://x.com/demishassabis/status/2032267485735460867",
+      "is_ai_trend": true,
+      "ai_confidence": 0.9,
+      "ai_title": "알파에볼브, 수학 분야 라미스 수 제한 개선 성과 발표",
+      "ai_bullets": [
+        "알파에볼브가 5개의 고전적 라미스 수의 경계를 개선해 수학 분야에서 큰 성과 달성",
+        "10년 이상 동안 최초로 발견된 검색 절차 개발로 AI 연구의 새로운 돌파구 마련"
+      ],
+      "ai_summary": "AI 연구의 새로운 성과로 수학 분야에서 라미스 수의 경계를 개선한 알파에볼브의 성과가 주목받고 있다.",
+      "ai_themes": [
+        "연구/논문"
+      ],
+      "published_at": "2026-03-13 10:28"
+    },
+    {
+      "post_id": "2032165620813295658",
+      "platform": "twitter",
+      "account_handle": "demishassabis",
+      "display_name": "데미스 하사비스",
+      "content": "If you're interested in finding out more about AlphaGo and move 37, see here: https://t.co/sV5gHepsNX",
+      "content_ko": "@demishassabis가 AlphaGo와 관련된 추가 정보를 확인하려면 링크를 참고하라고 안내했습니다. 관련 링크: https://t.co/sV5gHepsNX",
+      "url": "https://x.com/demishassabis/status/2032165620813295658",
+      "is_ai_trend": false,
+      "ai_confidence": 0.3,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-13 03:43"
+    },
+    {
+      "post_id": "68b37726899a04ccb0a3cadd",
+      "platform": "rss",
+      "account_handle": "Google AI Blog",
+      "display_name": "Google AI",
+      "content": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background.",
+      "content_ko": "의사가 환자를 대화하며 태블릿과 펜을 든 모습, 배경에 의료 차트 렌더링 이미지",
+      "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
+      "is_ai_trend": false,
+      "ai_confidence": 0.1,
+      "ai_title": "",
+      "ai_bullets": [],
+      "ai_summary": "",
+      "ai_themes": [
+        "기타"
+      ],
+      "published_at": "2026-03-13 00:00"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "date": "2026-01-23",
+  "total": 1,
+  "ai_true": 1,
+  "ai_false": 0,
+  "source_counts": {
+    "AndrewYNg": 1
+  },
+  "avg_confidence": 0.95,
+  "top_themes": [
+    [
+      "기술발전",
+      1
+    ],
+    [
+      "오픈소스",
+      1
+    ]
+  ],
+  "posts": [
+    {
+      "post_id": "2014391843056975982",
+      "platform": "twitter",
+      "account_handle": "AndrewYNg",
+      "display_name": "앤드류 응",
+      "content": "New course: Gemini CLI: Code & Create with an Open-Source Agent, built with @googlecloudtech/@geminicli and taught by @JackWoth98.\n\nAgentic coding assistants like Gemini CLI are transforming how developers work. This short course teaches you to use Google's open-source agent to coordinate local tools and cloud services for coding and non-coding workflows.\n\nGemini CLI works from your terminal, so it works with your local files and development tools. You can also connect it to services through MCP. Then provide high-level instructions, and it autonomously plans and executes complex workflows.\n\nSkills you'll gain:\n- Build website features and automate code reviews with GitHub ActionsCreate data dashboards that combine local files with cloud data sources\n- Use MCP servers and extensions to orchestrate workflows across GitHub, Canva, and Google Workspace\n- Generate social media content from multimedia files like conference recordings\n\nI particularly appreciate that Gemini CLI is open-source. You can see exactly how it works, read the prompts it uses, and understand its architecture. The community has contributed thousands of pull requests. Since Gemini 3’s release I've found Gemini CLI highly capable - this is a tool worth having in your toolbox!\n\nWhether you're prototyping applications, automating workflows, or working with multimedia content, join to learn to delegate complex tasks and build faster: https://t.co/m3J7kwQpxC",
+      "content_ko": "새로운 강의: Gemini CLI: 코드 작성 및 생성을 위한 오픈소스 에이전트, @googlecloudtech/@geminicli에서 개발하고 @JackWoth98이 강의합니다. Gemini CLI와 같은 에이전트 기반 코드 보조 프로그램은 개발자 작업 방식을 혁신하고 있습니다. 이 짧은 강의에서는 Google의 오픈소스 에이전트를 사용하여 로컬 도구와 클라우드 서비스를 조율해 코드 작성 및 비코드 작업 흐름을 처리하는 방법을 배우게 됩니다. Gemini CLI는 터미널에서 작동하므로 로컬 파일과 개발 도구에 접근할 수 있으며, MCP를 통해 서비스에 연결할 수 있습니다. 고수준 지시를 제공하면 복잡한 작업 흐름을 자동으로 계획하고 실행할 수 있습니다. 스킬: 웹사이트 기능 구축 및 GitHub Actions로 코드 검토 자동화, 로컬 파일과 클라우드 데이터 소스 결합 데이터 대시보드 생성, GitHub, Canva, Google Workspace 간 작업 흐름 조율, 다중 미디어 파일에서 소셜 미디어 콘텐츠 생성 등. Gemini CLI가 오픈소스라는 점을 특히 좋아합니다. 코드 작동 방식을 정확히 확인하고 사용자 프롬프트와 아키텍처를 이해할 수 있습니다. 커뮤니티에서 수천 개의 풀리퀘스트가 기여했습니다. Gemini 3 출시 이후 Gemini CLI의 고도화된 기능을 경험해 왔으며, 이는 개발자 툴킷에 포함할 만한 도구입니다. 애플리케이션 프로토타이핑, 작업 흐름 자동화, 멀티미디어 콘텐츠 작업 등 복잡한 작업을 위임해 빠르게 개발할 수 있도록 학습하십시오: https://t.co/m3J7kwQpxC",
+      "url": "https://x.com/AndrewYNg/status/2014391843056975982",
+      "is_ai_trend": true,
+      "ai_confidence": 0.95,
+      "ai_title": "Gemini CLI: 오픈소스 에이전트로 코드 작성 및 생성 기술 강의 개설",
+      "ai_bullets": [
+        "Google의 오픈소스 에이전트 Gemini CLI를 활용한 실무 기술 강의 제공",
+        "MCP를 통해 로컬 파일과 클라우드 서비스 간 작업 흐름 자동화 기능 설명",
+        "GitHub Actions로 웹사이트 기능 개발 및 코드 검토 자동화 기술 학습"
+      ],
+      "ai_summary": "Gemini CLI 오픈소스 에이전트를 활용한 개발자 작업 혁신 기술 강의가 제공됩니다.",
+      "ai_themes": [
+        "기술발전",
+        "오픈소스"
+      ],
+      "published_at": "2026-01-23 02:36"
+    }
+  ]
+}
