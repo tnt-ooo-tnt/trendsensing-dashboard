@@ -680,6 +680,10 @@ body {
     display: none;
 }
 
+/* ── Mode-specific counts ── */
+.count-ai-only { display: none; }
+.no-ai-msg { display: none; }
+
 /* ── Production Mode ── */
 .production-mode .post-original,
 .production-mode .post-translation {
@@ -692,6 +696,18 @@ body {
 
 .production-mode .post-card.ai-false {
     display: none;
+}
+
+.production-mode .count-all {
+    display: none;
+}
+
+.production-mode .count-ai-only {
+    display: inline;
+}
+
+.production-mode .no-ai-msg {
+    display: block;
 }
 
 .production-mode .filter-tabs {

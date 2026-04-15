@@ -231,9 +231,11 @@ function renderDashboard(data) {
 
         html += '<div class="section priority-section"><div class="section-header priority-header">' +
             acct.icon + ' ' + escapeHtml(acct.label) +
-            '<span class="priority-count">' + posts.length + '건</span>' +
+            '<span class="priority-count count-all">' + posts.length + '건</span>' +
+            '<span class="priority-count count-ai-only">' + pAiTrue + '건</span>' +
             '</div>';
         if (posts.length > 0) {
+            var hasAi = pAiTrue > 0;
             html += '<div style="padding-top:16px"><div class="tab-filter filter-tabs">' +
                 '<button class="tab-btn active" onclick="filterPosts(\'all\', this, \'' + listId + '\')">전체 (' + posts.length + ')</button>' +
                 '<button class="tab-btn" onclick="filterPosts(\'ai\', this, \'' + listId + '\')">AI 관련 (' + pAiTrue + ')</button>' +
@@ -241,6 +243,10 @@ function renderDashboard(data) {
                 '</div><div class="section-body" id="' + listId + '">';
             posts.forEach(function(p) { html += renderPostCard(p); });
             html += '</div></div>';
+            // 배포모드에서 AI 관련 0건일 때 표시할 빈 메시지
+            if (!hasAi) {
+                html += '<div class="section-body no-ai-msg"><div class="no-data" style="padding:32px">해당 기간에 AI 관련 게시물이 없습니다.</div></div>';
+            }
         } else {
             html += '<div class="section-body"><div class="no-data" style="padding:32px">해당 기간에 수집된 게시물이 없습니다.</div></div>';
         }
@@ -251,7 +257,10 @@ function renderDashboard(data) {
     var generalAiTrue = generalPosts.filter(function(p) { return p.is_ai_trend; }).length;
     var generalAiFalse = generalPosts.length - generalAiTrue;
 
-    html += '<div class="section priority-section"><div class="section-header priority-header"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg> 국내외 AI 동향<span class="priority-count">' + generalPosts.length + '건</span></div>';
+    html += '<div class="section priority-section"><div class="section-header priority-header"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg> 국내외 AI 동향' +
+        '<span class="priority-count count-all">' + generalPosts.length + '건</span>' +
+        '<span class="priority-count count-ai-only">' + generalAiTrue + '건</span>' +
+        '</div>';
     if (generalPosts.length > 0) {
         html += '<div style="padding-top:16px">' +
             '<div class="tab-filter filter-tabs">' +
@@ -261,6 +270,9 @@ function renderDashboard(data) {
             '</div><div class="section-body" id="post-list">';
         generalPosts.forEach(function(p) { html += renderPostCard(p); });
         html += '</div></div>';
+        if (generalAiTrue === 0) {
+            html += '<div class="section-body no-ai-msg"><div class="no-data" style="padding:32px">해당 기간에 AI 관련 게시물이 없습니다.</div></div>';
+        }
     } else {
         html += '<div class="section-body"><div class="no-data" style="padding:32px">해당 기간에 수집된 게시물이 없습니다.</div></div>';
     }
