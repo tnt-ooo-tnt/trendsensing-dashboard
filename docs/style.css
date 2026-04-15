@@ -675,6 +675,11 @@ body {
     line-height: 1.7;
 }
 
+/* ── Stats row: 양쪽 모두 숨김 ── */
+.stats-row {
+    display: none;
+}
+
 /* ── Production Mode ── */
 .production-mode .post-original,
 .production-mode .post-translation {
@@ -687,17 +692,6 @@ body {
 
 .production-mode .post-card.ai-false {
     display: none;
-}
-
-.production-mode .stat-total,
-.production-mode .stat-non-ai,
-.production-mode .stat-confidence {
-    display: none;
-}
-
-.production-mode .stats-row {
-    grid-template-columns: 1fr;
-    max-width: 200px;
 }
 
 .production-mode .filter-tabs {
