@@ -251,8 +251,8 @@ function renderDashboard(data) {
     var generalAiTrue = generalPosts.filter(function(p) { return p.is_ai_trend; }).length;
     var generalAiFalse = generalPosts.length - generalAiTrue;
 
-    html += '<div class="section"><div class="section-header"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg> 국내외 AI 동향</div><div style="padding-top:16px">' +
-        '<div class="tab-filter">' +
+    html += '<div class="section priority-section"><div class="section-header priority-header"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg> 국내외 AI 동향<span class="priority-count">' + generalPosts.length + '건</span></div><div style="padding-top:16px">' +
+        '<div class="tab-filter filter-tabs">' +
         '<button class="tab-btn active" onclick="filterPosts(\'all\', this, \'post-list\')">전체 (' + generalPosts.length + ')</button>' +
         '<button class="tab-btn" onclick="filterPosts(\'ai\', this, \'post-list\')">AI 관련 (' + generalAiTrue + ')</button>' +
         '<button class="tab-btn" onclick="filterPosts(\'not-ai\', this, \'post-list\')">비관련 (' + generalAiFalse + ')</button>' +
@@ -280,6 +280,10 @@ function renderDashboard(data) {
     // }
 
     dashboard.innerHTML = html;
+}
+
+function formatPlatform(raw) {
+    return raw.replace(/_/g, ' ').replace(/\b\w/g, function(c) { return c.toUpperCase(); });
 }
 
 function renderPostCard(p) {
@@ -318,7 +322,7 @@ function renderPostCard(p) {
 
     return '<div class="post-card ' + aiClass + '" data-ai="' + p.is_ai_trend + '">' +
         '<div class="post-card-header"><div class="post-meta">' +
-        '<span class="post-platform">' + escapeHtml(p.platform) + '</span>' +
+        '<span class="post-platform">' + escapeHtml(formatPlatform(p.platform)) + '</span>' +
         '<span class="post-handle">@' + escapeHtml(p.account_handle) + (p.display_name ? ' (' + escapeHtml(p.display_name) + ')' : '') + '</span>' +
         '<span style="color:var(--text-tertiary);font-size:11px">' + escapeHtml(p.published_at) + '</span>' +
         '</div><div style="display:flex;align-items:center;gap:6px;flex-shrink:0">' +
