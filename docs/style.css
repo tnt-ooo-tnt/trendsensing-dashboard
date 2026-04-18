@@ -686,6 +686,7 @@ body {
 /* ── Production-only empty placeholder ── */
 .prod-only-empty { display: none; }
 .production-mode .prod-only-empty { display: block; }
+.production-mode .posts-wrapper-no-ai { display: none; }
 
 /* ── Production Mode ── */
 .production-mode .post-original,

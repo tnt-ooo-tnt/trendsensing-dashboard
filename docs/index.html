@@ -236,16 +236,17 @@ function renderDashboard(data) {
             '</div>';
         if (posts.length > 0) {
             var hasAi = pAiTrue > 0;
-            html += '<div style="padding-top:16px"><div class="tab-filter filter-tabs">' +
+            var wrapperClass = 'posts-wrapper' + (pAiTrue === 0 ? ' posts-wrapper-no-ai' : '');
+            html += '<div class="' + wrapperClass + '" style="padding-top:16px"><div class="tab-filter filter-tabs">' +
                 '<button class="tab-btn active" onclick="filterPosts(\'all\', this, \'' + listId + '\')">전체 (' + posts.length + ')</button>' +
                 '<button class="tab-btn" onclick="filterPosts(\'ai\', this, \'' + listId + '\')">AI 관련 (' + pAiTrue + ')</button>' +
                 '<button class="tab-btn" onclick="filterPosts(\'not-ai\', this, \'' + listId + '\')">비관련 (' + pAiFalse + ')</button>' +
                 '</div><div class="section-body" id="' + listId + '">';
             posts.forEach(function(p) { html += renderPostCard(p); });
-            if (pAiTrue === 0) {
-                html += '<div class="prod-only-empty no-data" style="padding:32px">해당 기간에 수집된 AI 관련 게시물이 없습니다.</div>';
-            }
             html += '</div></div>';
+            if (pAiTrue === 0) {
+                html += '<div class="prod-only-empty section-body"><div class="no-data" style="padding:32px">해당 기간에 수집된 게시물이 없습니다.</div></div>';
+            }
         } else {
             html += '<div class="section-body"><div class="no-data" style="padding:32px">해당 기간에 수집된 게시물이 없습니다.</div></div>';
         }
@@ -261,17 +262,18 @@ function renderDashboard(data) {
         '<span class="priority-count count-ai-only">' + generalAiTrue + '건</span>' +
         '</div>';
     if (generalPosts.length > 0) {
-        html += '<div style="padding-top:16px">' +
+        var generalWrapperClass = 'posts-wrapper' + (generalAiTrue === 0 ? ' posts-wrapper-no-ai' : '');
+        html += '<div class="' + generalWrapperClass + '" style="padding-top:16px">' +
             '<div class="tab-filter filter-tabs">' +
             '<button class="tab-btn active" onclick="filterPosts(\'all\', this, \'post-list\')">전체 (' + generalPosts.length + ')</button>' +
             '<button class="tab-btn" onclick="filterPosts(\'ai\', this, \'post-list\')">AI 관련 (' + generalAiTrue + ')</button>' +
             '<button class="tab-btn" onclick="filterPosts(\'not-ai\', this, \'post-list\')">비관련 (' + generalAiFalse + ')</button>' +
             '</div><div class="section-body" id="post-list">';
         generalPosts.forEach(function(p) { html += renderPostCard(p); });
-        if (generalAiTrue === 0) {
-            html += '<div class="prod-only-empty no-data" style="padding:32px">해당 기간에 수집된 AI 관련 게시물이 없습니다.</div>';
-        }
         html += '</div></div>';
+        if (generalAiTrue === 0) {
+            html += '<div class="prod-only-empty section-body"><div class="no-data" style="padding:32px">해당 기간에 수집된 게시물이 없습니다.</div></div>';
+        }
     } else {
         html += '<div class="section-body"><div class="no-data" style="padding:32px">해당 기간에 수집된 게시물이 없습니다.</div></div>';
     }
