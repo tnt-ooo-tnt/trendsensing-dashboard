@@ -683,6 +683,10 @@ body {
 /* ── Mode-specific counts ── */
 .count-ai-only { display: none; }
 
+/* ── Production-only empty placeholder ── */
+.prod-only-empty { display: none; }
+.production-mode .prod-only-empty { display: block; }
+
 /* ── Production Mode ── */
 .production-mode .post-original,
 .production-mode .post-translation {
